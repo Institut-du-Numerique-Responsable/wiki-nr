@@ -1,0 +1,20 @@
+'''Technical debt''' describes technical decisions that create additional work when a system must change. A temporary shortcut may help a team deliver a service, but later maintenance can require workarounds, extra testing or redesign. The [https://www.sei.cmu.edu/library/managing-technical-debt-in-complex-software-systems/ Software Engineering Institute at Carnegie Mellon University] recommends making this debt visible and including it in project planning.
+
+== Connection with sustainable IT ==
+Some forms of debt can increase resource use: duplicate processing, redundant data or components that nobody dares to remove. Other forms mainly affect maintainability. A team should measure the effects rather than assume that every refactoring reduces energy consumption.
+
+Poor knowledge of dependencies can also delay retirement of an unused service. Before switching it off, identify its users, scheduled jobs and downstream systems, then check data retention requirements.
+
+== Practical example ==
+A reporting application runs two nightly imports because an old interface remains in use. The team can identify consumers, migrate them, remove the duplicate job and compare execution time and transferred data before and after the change. These measurements support an operational decision; they do not, by themselves, establish a carbon reduction.
+
+Record each debt item, its consequences, the proposed remedy and an owner. Prioritise work according to service needs, risk and expected benefit.
+
+== See also ==
+* [[Ecodesign]]
+* [[Digital sobriety]]
+* [[Sustainable IT]]
+
+[[Category:Concepts]]
+[[fr:Dette technique]]
+[[es:Deuda técnica]]

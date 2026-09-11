@@ -1,0 +1,23 @@
+El '''coste total de propiedad''' ('''TCO''', del inglés ''total cost of ownership'') estima los gastos asociados a un equipo o servicio durante un período definido. En informática puede incluir adquisición, despliegue, explotación, mantenimiento, actualizaciones, formación, reutilización interna y retirada.
+
+== Comparar servicios equivalentes ==
+Definir el período, el número de usuarios y el nivel de servicio necesario antes de comparar opciones. Incluir los costes que asumen distintos equipos y documentar las hipótesis sobre soporte, reparaciones y valor residual. La [https://green-forum.ec.europa.eu/green-business/green-public-procurement/life-cycle-costing_en guía de la Comisión Europea sobre costes del ciclo de vida, en inglés,] explica cómo considerar gastos más allá del precio de compra. Algunos métodos incorporan también externalidades ambientales monetizadas; indicar si el cálculo las incluye.
+
+== Relación con las TI responsables ==
+Un equipo reparable y con soporte más prolongado puede costar menos durante su vida útil, aunque su precio inicial sea mayor. Conservar un portátil seis años en lugar de sustituirlo a los tres puede evitar una compra, pero el resultado depende del mantenimiento, el soporte de seguridad, las necesidades de rendimiento y el consumo energético.
+
+El TCO mide costes. No demuestra que las emisiones disminuyan en la misma proporción. Evaluar los efectos ambientales mediante un [[Análisis del Ciclo de Vida|análisis del ciclo de vida]] con funciones y períodos comparables.
+
+== Uso práctico ==
+Comparar la reparación y ampliación del equipo con su sustitución. Registrar costes, posibles interrupciones del servicio, fechas de soporte y destino de los equipos retirados. Comprobar cómo cambia el resultado si las reparaciones o el precio de la electricidad difieren de la estimación.
+
+El TCO se distingue de TCO Certified, una certificación de sostenibilidad para productos informáticos.
+
+== Véase también ==
+* [[Economía Circular]]
+* [[Fin de Vida]]
+* [[TI Responsable]]
+
+[[Category:Conceptos]]
+[[fr:Coût total de possession]]
+[[en:Total cost of ownership]]

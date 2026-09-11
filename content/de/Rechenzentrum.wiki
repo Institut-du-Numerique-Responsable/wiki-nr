@@ -1,34 +1,26 @@
-Ein '''Rechenzentrum''' ist eine physische Einrichtung, die das Gebäude, die IT-Ausstattung für Speicherung, Verarbeitung und Übertragung von Daten sowie die nicht-informatische Technik umfasst: Kühlung, Zutrittskontrolle, Stromversorgung mit Einspeisung, Notstrom und unterbrechungsfreier Versorgung.
+Ein '''Rechenzentrum''' umfasst IT-Ausstattung für Verarbeitung, Speicherung und Übertragung von Daten sowie die zugehörige Infrastruktur. Dazu gehören Stromversorgung, Kühlung, Zutrittskontrolle und gegebenenfalls Notstromanlagen. Eine Bewertung im Sinne der [[Verantwortungsvolle Digitalisierung|verantwortungsvollen Digitalisierung]] betrachtet sowohl den Betrieb als auch [[Herstellung]] und [[Lebensende]] der Ausstattung.
 
-== Kennzahlen ==
+== Kennzahlen richtig lesen ==
+Die [[Power Usage Effectiveness]] (PUE) ist das Verhältnis des gesamten Energieverbrauchs des Rechenzentrums zum Energieverbrauch seiner IT. Das [https://www.umweltbundesamt.de/themen/digitalisierung/gruene-informationstechnik-green-it/rechenzentren Umweltbundesamt erläutert die Kennzahl und ihre Grenzen].
 
-; PUE (''Power Usage Effectiveness'')
-: Verhältnis der gesamten verbrauchten Energie zu der von den IT-Geräten verbrauchten. Ein PUE von 1,2 bedeutet, dass 20 % der Energie auf alles entfällt, was nicht rechnet.
-; WUE (''Water Usage Effectiveness'')
-: verbrauchtes Wasser je Einheit IT-Energie. Sie deckt einen blinden Fleck des PUE auf, denn Verdunstungskühlung spart Strom, indem sie Wasser verbraucht.
-; CUE (''Carbon Usage Effectiveness'')
-: CO₂-Emissionen je Einheit IT-Energie. Sie hängt stark vom örtlichen Strommix ab.
+Bei einem PUE von 1,2 und einem IT-Verbrauch von 100 kWh beträgt der Gesamtverbrauch 120 kWh. Die übrige Infrastruktur benötigt 20 kWh: 20 Prozent des IT-Verbrauchs, aber rund 16,7 Prozent des Gesamtverbrauchs. Messzeitraum und Systemgrenze müssen übereinstimmen.
 
-Alle drei teilen eine Grenze: Sie erfassen nur die Nutzungsphase. Die [[Herstellung]] der Server, die im Lebenszyklus überwiegt, taucht in keiner von ihnen auf.
+Water Usage Effectiveness (WUE) setzt Wasserverbrauch zur IT-Energie ins Verhältnis; die Einheit und der betrachtete Wasserverbrauch müssen angegeben werden. Carbon Usage Effectiveness (CUE) bezieht die betrachteten Emissionen auf die IT-Energie. Unterschiedliche Bilanzgrenzen und Stromfaktoren können Vergleiche verzerren.
 
-== Was ein guter PUE nicht beweist ==
+Diese Betriebskennzahlen ersetzen keine [[Ökobilanz]]. Wie stark Herstellung, Betrieb oder andere Lebensphasen ins Gewicht fallen, hängt unter anderem von Hardware, Auslastung, Lebensdauer und Stromversorgung ab.
 
-Ein Rechenzentrum in kaltem Klima erreicht mechanisch einen guten PUE, ohne jede Anstrengung zur Suffizienz. Und ein hervorragender PUE kann auf hohem Wasserverbrauch in einer Region mit Wasserstress beruhen. Eine einzelne Kennzahl führt in die Irre.
+== Ein effizienter Betrieb braucht einen sinnvollen Dienst ==
+Ein niedriger PUE beschreibt die Infrastrukturverluste im Verhältnis zur IT. Er sagt nicht, ob die IT ausgelastet ist oder einen benötigten Dienst erbringt. Ein gut gekühlter, aber ungenutzter Server verbraucht weiterhin Ressourcen.
 
-== Betriebsmodelle ==
+Die IT-Abteilung sollte daher den absoluten Energiebedarf und die erbrachte Leistung betrachten. Temperatur, Kühlverfahren, lokale Wasserverfügbarkeit und Abwärmenutzung gehören ebenfalls in die Bewertung. Die [https://www.umweltbundesamt.de/publikationen/kpi4dce-im-feld-umweltbewertung-ausgewaehlter UBA-Untersuchung KPI4DCE im Feld] bietet Beispiele zur Umweltbewertung von Rechenzentren.
 
-; Eigenbetrieb
-: die Organisation besitzt und betreibt ihre Geräte.
-; Kolokation
-: sie mietet Fläche und Energie und behält ihre Server.
-; Cloud
-: sie bezieht einen Dienst, ohne unmittelbare Sicht auf die Hardware und deren Erneuerung.
+== Eigenbetrieb, Kolokation und Cloud ==
+Beim Eigenbetrieb verantwortet die Organisation ihre Infrastruktur. In der Kolokation betreibt sie eigene IT in gemieteten Flächen. Beim Cloud-Bezug kauft sie einen Dienst mit unterschiedlicher Transparenz über Hardware und Betrieb.
 
-Die Cloud beseitigt die Wirkung nicht, sie verschiebt sie aus dem Messbereich der Organisation heraus. Im Scope 3 ihres [[CO₂-Fußabdruck|CO₂-Fußabdrucks]] taucht sie weiterhin auf.
+Bei der Beschaffung sollte sie Daten zu Energie, Wasser, Auslastung und Lebensdauer anfragen und klären, wie der Anbieter Anteile gemeinsamen Betriebs zuordnet. Cloud-Dienste gehören in der Regel zu den eingekauften Leistungen der Scope-3-Bilanz des Kunden. Die genaue Zuordnung richtet sich nach Bilanzgrenze und Vertragsmodell; Auslagerung beseitigt den [[CO₂-Fußabdruck]] nicht.
 
-== Siehe auch ==
-
-* [[CO₂-Fußabdruck]] · [[Herstellung]] · [[Digitale Suffizienz]] · [[Digitale Souveränität]]
+== Praktischer Ansatz ==
+Vor einer Konsolidierung prüft das Team Lastprofile, Abhängigkeiten und Wiederherstellung. Nach der Änderung vergleicht es Verbrauch und Servicequalität bei ähnlicher Nutzung. Notwendige Reserven für [[Cybersicherheit]] und Kontinuität bleiben Teil der Planung. [[Digitale Suffizienz]] hilft zu klären, welche Dienste und Leistungsniveaus überhaupt gebraucht werden.
 
 [[fr:DataCenter]]
 [[en:Data_centre]]

@@ -1,6 +1,6 @@
 # Traductions EN et ES proposées le 11 septembre 2026
 
-Statut : brouillons, non publiés. Ces fichiers ne font pas partie de l’instantané `content/`.
+Statut : publié et vérifié le 11 septembre 2026. Les pages à jour figurent dans `content/` ; ce dossier conserve le lot et ses sources de départ.
 
 | Source française | English | Español |
 | --- | --- | --- |
@@ -19,7 +19,7 @@ Précisions éditoriales : la dette technique n’augmente pas systématiquement
 - [Dette technique](fr/Dette%20technique.wiki) : distinguer maintenabilité et consommation, ajouter une méthode de priorisation et un exemple NR.
 - [Coût total de possession](fr/Co%C3%BBt%20total%20de%20possession.wiki) : retirer la baisse automatique des coûts et émissions, expliciter le périmètre et les hypothèses.
 
-Ces propositions françaises ne sont pas publiées ; comparer leur source avec la dernière révision en ligne avant intégration.
+Les corrections françaises et les liens de langues sont publiés ; voir `published.json` pour les révisions vérifiées.
 
 ## Lot préparé pour publication
 
@@ -33,4 +33,4 @@ sudo python3 /home/ggallon/wiki-drafts/2026-09-11-en-es/publish.py
 
 La commande vérifie toutes les révisions avant de commencer. Chaque écriture utilise `PageUpdater::hasEditConflict` puis `saveRevision`, dont le mécanisme compare-and-swap refuse une modification concurrente. Chaque contenu enregistré est relu via l’API publique. Une erreur interrompt le lot ; les pages déjà publiées sont conservées et reconnues lors d’une relance. Le lot n’est pas une transaction globale.
 
-Validation avant publication : neuf prévisualisations, comparaison des sources FR et syntaxe PHP vérifiées ; revue de code effectuée. L’exécution réelle du nouvel outil d’écriture reste à vérifier lors de la publication avec sudo.
+Validation avant publication : neuf prévisualisations, comparaison des sources FR et syntaxe PHP vérifiées ; revue de code effectuée. Les neuf contenus enregistrés ont été relus après exécution réelle de la publication avec sudo.

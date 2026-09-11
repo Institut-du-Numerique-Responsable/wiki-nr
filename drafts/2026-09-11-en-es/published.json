@@ -1,0 +1,47 @@
+[
+  {
+    "language": "fr",
+    "title": "Dette technique",
+    "revision": 892
+  },
+  {
+    "language": "en",
+    "title": "Technical debt",
+    "revision": 164
+  },
+  {
+    "language": "es",
+    "title": "Deuda técnica",
+    "revision": 86
+  },
+  {
+    "language": "fr",
+    "title": "Coût total de possession",
+    "revision": 893
+  },
+  {
+    "language": "en",
+    "title": "Total cost of ownership",
+    "revision": 165
+  },
+  {
+    "language": "es",
+    "title": "Coste total de propiedad",
+    "revision": 87
+  },
+  {
+    "language": "fr",
+    "title": "Service numérique",
+    "revision": 894
+  },
+  {
+    "language": "en",
+    "title": "Digital service",
+    "revision": 166
+  },
+  {
+    "language": "es",
+    "title": "Servicio digital",
+    "revision": 88
+  }
+]

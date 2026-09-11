@@ -906,10 +906,10 @@
     "title": "Coût total de possession",
     "pageid": 258,
     "namespace": 0,
-    "revision": 694,
-    "timestamp": "2026-08-05T22:33:46Z",
+    "revision": 893,
+    "timestamp": "2026-09-11T12:33:39Z",
     "file": "fr/Coût total de possession.wiki",
-    "sha256": "41cf93aeadc6fe76aab01139408d22163de79aca90cad55c2cce5337579f663a",
+    "sha256": "88ef9fb9efebea1383ef76f4a0973cecf958ee83b30daf6b0c740d9937c3a0ad",
     "url": "https://fr.wiki.isit-europe.org/nr/Co%C3%BBt_total_de_possession"
   },
   {
@@ -1093,10 +1093,10 @@
     "title": "Dette technique",
     "pageid": 237,
     "namespace": 0,
-    "revision": 698,
-    "timestamp": "2026-08-05T22:33:48Z",
+    "revision": 892,
+    "timestamp": "2026-09-11T12:33:38Z",
     "file": "fr/Dette technique.wiki",
-    "sha256": "51f2cb199188f75194831fcc9f684636e97ddc40ca085cfabf3783d1f077672c",
+    "sha256": "e1404a78348cf98a7ad83064d6597d66d4b3f2cb03d24deb04838d7ae59b08d7",
     "url": "https://fr.wiki.isit-europe.org/nr/Dette_technique"
   },
   {
@@ -2875,10 +2875,10 @@
     "title": "Service numérique",
     "pageid": 101,
     "namespace": 0,
-    "revision": 204,
-    "timestamp": "2022-09-06T15:18:01Z",
+    "revision": 894,
+    "timestamp": "2026-09-11T12:33:40Z",
     "file": "fr/Service numérique.wiki",
-    "sha256": "e61b03726db6a59246f8dab218c622827974e0764b216ac8f6ff560a8ed7e065",
+    "sha256": "922fcdd63c905ff099df3b221b6910c260d1cd54a44a24a706143a09ee61cafa",
     "url": "https://fr.wiki.isit-europe.org/nr/Service_num%C3%A9rique"
   },
   {
@@ -3642,6 +3642,17 @@
   },
   {
     "language": "en",
+    "title": "Digital service",
+    "pageid": 81,
+    "namespace": 0,
+    "revision": 166,
+    "timestamp": "2026-09-11T12:33:40Z",
+    "file": "en/Digital service.wiki",
+    "sha256": "c9775d5655725f44ddd5c86d3d18913787a7eaa10ea4700e1b14f7fe3304dcae",
+    "url": "https://en.wiki.isit-europe.org/nr/Digital_service"
+  },
+  {
+    "language": "en",
     "title": "Digital sobriety",
     "pageid": 11,
     "namespace": 0,
@@ -4093,6 +4104,28 @@
   },
   {
     "language": "en",
+    "title": "Technical debt",
+    "pageid": 79,
+    "namespace": 0,
+    "revision": 164,
+    "timestamp": "2026-09-11T12:33:38Z",
+    "file": "en/Technical debt.wiki",
+    "sha256": "cf019833334ae75711139bd5b528b0226d1f884bc799153a73193a8f2e7abf21",
+    "url": "https://en.wiki.isit-europe.org/nr/Technical_debt"
+  },
+  {
+    "language": "en",
+    "title": "Total cost of ownership",
+    "pageid": 80,
+    "namespace": 0,
+    "revision": 165,
+    "timestamp": "2026-09-11T12:33:39Z",
+    "file": "en/Total cost of ownership.wiki",
+    "sha256": "624be740829586387fac63628c89837934a7fbbca02dc6b5a99e9b514393cc92",
+    "url": "https://en.wiki.isit-europe.org/nr/Total_cost_of_ownership"
+  },
+  {
+    "language": "en",
     "title": "Training data",
     "pageid": 69,
     "namespace": 0,
@@ -4346,6 +4379,17 @@
   },
   {
     "language": "es",
+    "title": "Coste total de propiedad",
+    "pageid": 52,
+    "namespace": 0,
+    "revision": 87,
+    "timestamp": "2026-09-11T12:33:40Z",
+    "file": "es/Coste total de propiedad.wiki",
+    "sha256": "fc8e423b01150f5bb41e67380cad7b402aae235ee262d9e405c8575f24d6ab1b",
+    "url": "https://es.wiki.isit-europe.org/nr/Coste_total_de_propiedad"
+  },
+  {
+    "language": "es",
     "title": "Códigos de conducta y de buenas prácticas de IA",
     "pageid": 50,
     "namespace": 0,
@@ -4376,6 +4420,17 @@
     "file": "es/Datos de entrenamiento.wiki",
     "sha256": "1d6183950f8884207d03350b82b15e7e9267355956d14ade4d254f3c081264e4",
     "url": "https://es.wiki.isit-europe.org/nr/Datos_de_entrenamiento"
+  },
+  {
+    "language": "es",
+    "title": "Deuda técnica",
+    "pageid": 51,
+    "namespace": 0,
+    "revision": 86,
+    "timestamp": "2026-09-11T12:33:39Z",
+    "file": "es/Deuda técnica.wiki",
+    "sha256": "f3d52555abd68f27cc81b6dd57736e80433dc605055ad30e48c54215d8e13964",
+    "url": "https://es.wiki.isit-europe.org/nr/Deuda_t%C3%A9cnica"
   },
   {
     "language": "es",
@@ -4621,6 +4676,17 @@
   },
   {
     "language": "es",
+    "title": "Servicio digital",
+    "pageid": 53,
+    "namespace": 0,
+    "revision": 88,
+    "timestamp": "2026-09-11T12:33:41Z",
+    "file": "es/Servicio digital.wiki",
+    "sha256": "c39b03c6c8122d4609167e9bf955697913d31d29ada5ac54dc60134217707c8a",
+    "url": "https://es.wiki.isit-europe.org/nr/Servicio_digital"
+  },
+  {
+    "language": "es",
     "title": "Soberanía Digital",
     "pageid": 18,
     "namespace": 0,
@@ -4822,10 +4888,10 @@
     "title": "Digitale Barrierefreiheit",
     "pageid": 16,
     "namespace": 0,
-    "revision": 63,
-    "timestamp": "2026-08-06T18:41:29Z",
+    "revision": 96,
+    "timestamp": "2026-09-11T12:32:53Z",
     "file": "de/Digitale Barrierefreiheit.wiki",
-    "sha256": "5c871081296d5826392f81da28e4b50373fe4b33ff1cb0785574560796843206",
+    "sha256": "fc004e27e534db7d302be2259ac4aaaaf40497d4a33173c90eb6bd1c4a4b68ed",
     "url": "https://de.wiki.isit-europe.org/nr/Digitale_Barrierefreiheit"
   },
   {
@@ -4855,10 +4921,10 @@
     "title": "Digitale Suffizienz",
     "pageid": 10,
     "namespace": 0,
-    "revision": 53,
-    "timestamp": "2026-08-06T18:40:37Z",
+    "revision": 99,
+    "timestamp": "2026-09-11T12:32:54Z",
     "file": "de/Digitale Suffizienz.wiki",
-    "sha256": "5350c6e5cc58749522fdcf19b8aa0b93e0e494034895da99d32d723af78be636",
+    "sha256": "e20a5b898eb5de6d1c6fdafc9af5ae02bd4dd6d4946b9bebc60e8df38857f7b8",
     "url": "https://de.wiki.isit-europe.org/nr/Digitale_Suffizienz"
   },
   {
@@ -4888,10 +4954,10 @@
     "title": "Green IT",
     "pageid": 32,
     "namespace": 0,
-    "revision": 74,
-    "timestamp": "2026-08-08T09:51:33Z",
+    "revision": 98,
+    "timestamp": "2026-09-11T12:32:54Z",
     "file": "de/Green IT.wiki",
-    "sha256": "3d6d46cad1ea6c9098e415e459cae68bbec1219267004fc3ed1439ba5dedcaba",
+    "sha256": "110da6d329442f9d89ac499f581cc2f93b2db703444962ea54e080c124840bfb",
     "url": "https://de.wiki.isit-europe.org/nr/Green_IT"
   },
   {
@@ -5064,10 +5130,10 @@
     "title": "Rechenzentrum",
     "pageid": 24,
     "namespace": 0,
-    "revision": 34,
-    "timestamp": "2026-08-06T18:27:14Z",
+    "revision": 97,
+    "timestamp": "2026-09-11T12:32:54Z",
     "file": "de/Rechenzentrum.wiki",
-    "sha256": "56160a59bd377354817f044de2cd051c20499efc53167e4deebfff6f5292dabe",
+    "sha256": "d013ce99cf67c42503aa3b5ab2a51f9755da8347104bf74d4605205bb513475d",
     "url": "https://de.wiki.isit-europe.org/nr/Rechenzentrum"
   },
   {

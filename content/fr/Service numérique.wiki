@@ -12,3 +12,6 @@ La conception de service numérique doit regrouper les différents aspects envir
 
 === Référence ===
 <references />
+
+[[en:Digital service]]
+[[es:Servicio digital]]
