@@ -36,3 +36,4 @@ Pour un éditeur de logiciel ou un service en ligne, la catégorie « utilisatio
 * [https://ghgprotocol.org/ Greenhouse Gas Protocol]
 
 [[Catégorie:Référentiels et méthodes]]
+[[en:GHG Protocol]]

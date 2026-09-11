@@ -15,3 +15,6 @@ Un modèle plus simple, même un peu moins performant, est parfois le bon choix 
 * [[Explicabilité]] · [[Apprentissage_profond|Apprentissage profond]] · [[Modèle_d'intelligence_artificielle|Modèle d'intelligence artificielle]] · [[AI_Act|AI Act]] · [[Acceptabilité]]
 
 [[Catégorie:Intelligence artificielle]]
+[[de:Blackbox]]
+[[en:Black box]]
+[[es:Caja negra]]

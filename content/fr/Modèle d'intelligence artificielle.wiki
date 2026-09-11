@@ -25,3 +25,6 @@ Le choix entre les deux est un arbitrage entre polyvalence et sobriété, rareme
 * [[IA_Responsable|IA Responsable]]
 
 [[Catégorie:Intelligence artificielle]]
+[[de:KI-Modell]]
+[[en:Artificial intelligence model]]
+[[es:Modelo de inteligencia artificial]]

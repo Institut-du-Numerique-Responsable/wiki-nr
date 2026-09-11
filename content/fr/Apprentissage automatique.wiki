@@ -25,3 +25,6 @@ Le comportement du système découle des [[Données_d'entraînement|données d�
 * [[Intelligence_Artificielle|Intelligence Artificielle]]
 
 [[Catégorie:Intelligence artificielle]]
+[[de:Maschinelles Lernen]]
+[[en:Machine learning]]
+[[es:Aprendizaje automático]]

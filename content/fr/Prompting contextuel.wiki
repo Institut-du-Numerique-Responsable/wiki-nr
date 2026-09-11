@@ -14,3 +14,6 @@ C’est l’alternative la moins coûteuse au [[Fine-tuning|fine-tuning]] : aucu
 * [[Prompt]] · [[Fine-tuning]] · [[RAG]] · [[LLM]] · [[Inférence]]
 
 [[Catégorie:Intelligence artificielle]]
+[[de:Kontextuelles Prompting]]
+[[en:Contextual prompting]]
+[[es:Prompting contextual]]

@@ -29,5 +29,6 @@ Los [[Códigos de conducta y de buenas prácticas de IA]] abarcan instrumentos d
 [[Category:Inteligencia artificial]]
 [[Category:Normativa]]
 [[de:AI Act]]
-[[fr:AI Act]]
 [[en:AI Act]]
+[[fr:AI Act]]
+[[nl:AI Act]]

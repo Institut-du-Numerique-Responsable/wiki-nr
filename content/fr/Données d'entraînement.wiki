@@ -25,3 +25,6 @@ Accroître le volume de données n’améliore pas indéfiniment un modèle, mai
 * [[Chaîne_de_valeur_de_l'IA|Chaîne de valeur de l'IA]]
 
 [[Catégorie:Intelligence artificielle]]
+[[de:Trainingsdaten]]
+[[en:Training data]]
+[[es:Datos de entrenamiento]]

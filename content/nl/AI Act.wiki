@@ -23,5 +23,7 @@ De AI-wet richt zich op grondrechten en veiligheid. Zij stelt geen grens aan het
 
 * [[Verantwoorde AI]] · [[Verantwoorde AI Charter]] · [[Duurzame IT]]
 
-[[fr:AI_Act]]
-[[en:AI_Act]]
+[[de:AI Act]]
+[[en:AI Act]]
+[[es:AI Act]]
+[[fr:AI Act]]

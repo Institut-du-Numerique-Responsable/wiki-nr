@@ -29,5 +29,7 @@ These activities organise implementation; they are not a complete compliance tes
 
 [[Category:Artificial intelligence]]
 [[Category:Regulation]]
-[[nl:AI Act]]
+[[de:AI Act]]
+[[es:AI Act]]
 [[fr:AI Act]]
+[[nl:AI Act]]

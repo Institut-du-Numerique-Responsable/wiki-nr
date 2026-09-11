@@ -16,3 +16,6 @@ C’est la traduction concrète de la notion d’'''IA frugale''' : choisir le p
 * [[LLM]] · [[Inférence]] · [[Fine-tuning]] · [[IA_Responsable|IA Responsable]] · [[Sobriété_Numérique|Sobriété Numérique]] · [[Infrastructure_d'IA|Infrastructure d'IA]]
 
 [[Catégorie:Intelligence artificielle]]
+[[de:SLM]]
+[[en:SLM]]
+[[es:SLM]]

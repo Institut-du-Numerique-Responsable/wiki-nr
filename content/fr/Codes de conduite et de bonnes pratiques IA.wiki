@@ -21,4 +21,6 @@ Conserver une fiche par engagement : document et version, systèmes couverts, pe
 * [[Numérique Responsable]]
 
 [[Catégorie:Réglementation]]
+[[de:Verhaltenskodizes und Praxisleitfäden für KI]]
 [[en:AI codes of conduct and practice]]
+[[es:Códigos de conducta y de buenas prácticas de IA]]

@@ -17,3 +17,6 @@ C’est ce qui distingue l’apprentissage profond des méthodes statistiques cl
 * [[Sobriété_Numérique|Sobriété Numérique]]
 
 [[Catégorie:Intelligence artificielle]]
+[[de:Deep Learning]]
+[[en:Deep learning]]
+[[es:Aprendizaje profundo]]

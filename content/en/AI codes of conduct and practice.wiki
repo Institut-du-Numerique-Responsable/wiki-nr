@@ -21,4 +21,6 @@ Maintain a record for each commitment: source document and version, covered syst
 * [[Sustainable IT]]
 
 [[Category:Regulation]]
+[[de:Verhaltenskodizes und Praxisleitfäden für KI]]
+[[es:Códigos de conducta y de buenas prácticas de IA]]
 [[fr:Codes de conduite et de bonnes pratiques IA]]

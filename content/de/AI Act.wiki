@@ -27,6 +27,7 @@ Diese Schritte strukturieren die Umsetzung. Für einen vollständigen Konformit�
 * [[Verantwortungsvolle Digitalisierung]]
 
 [[Category:Künstliche Intelligenz]]
+[[en:AI Act]]
 [[es:AI Act]]
 [[fr:AI Act]]
-[[en:AI Act]]
+[[nl:AI Act]]

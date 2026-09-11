@@ -97,3 +97,4 @@ This article refers to the revised Corporate Standard, the 2011 Scope 3 Standard
 
 
 [[Category:Frameworks and methods]]
+[[fr:GHG Protocol]]

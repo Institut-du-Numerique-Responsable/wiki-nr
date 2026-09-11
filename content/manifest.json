@@ -125,10 +125,10 @@
     "title": "AI Act",
     "pageid": 194,
     "namespace": 0,
-    "revision": 887,
-    "timestamp": "2026-09-11T08:08:34Z",
+    "revision": 898,
+    "timestamp": "2026-09-11T18:48:47Z",
     "file": "fr/AI Act.wiki",
-    "sha256": "cdb95aab1178bbc79ad88886b27c885691154a54bb69075793c695ffa959973c",
+    "sha256": "793ced126c027d610be372452e234cec34b398227677e2a6664767e075120441",
     "url": "https://fr.wiki.isit-europe.org/nr/AI_Act"
   },
   {
@@ -301,10 +301,10 @@
     "title": "Algorithme",
     "pageid": 228,
     "namespace": 0,
-    "revision": 672,
-    "timestamp": "2026-08-05T22:33:34Z",
+    "revision": 900,
+    "timestamp": "2026-09-11T18:48:48Z",
     "file": "fr/Algorithme.wiki",
-    "sha256": "c2a87e14246f12b4118719ebe226c40f6f27767089e6eeebee9a9565628893ea",
+    "sha256": "4155f38ac9e5e68f6bd553b873ae121d5fc8877aa92c3365fd4d0d43f307c59c",
     "url": "https://fr.wiki.isit-europe.org/nr/Algorithme"
   },
   {
@@ -378,10 +378,10 @@
     "title": "Apprentissage automatique",
     "pageid": 208,
     "namespace": 0,
-    "revision": 675,
-    "timestamp": "2026-08-05T22:33:36Z",
+    "revision": 906,
+    "timestamp": "2026-09-11T18:48:50Z",
     "file": "fr/Apprentissage automatique.wiki",
-    "sha256": "37482339b086bbf7f8cf19eeff2b48d42f6d2f79e911491592de7d92df9e3adf",
+    "sha256": "ec66bec636047a60b46b4b3dc90fbc28068b4229a4eac9d6ce063e1e20ab2408",
     "url": "https://fr.wiki.isit-europe.org/nr/Apprentissage_automatique"
   },
   {
@@ -389,10 +389,10 @@
     "title": "Apprentissage profond",
     "pageid": 209,
     "namespace": 0,
-    "revision": 676,
-    "timestamp": "2026-08-05T22:33:36Z",
+    "revision": 904,
+    "timestamp": "2026-09-11T18:48:49Z",
     "file": "fr/Apprentissage profond.wiki",
-    "sha256": "2200b3e932fb949cf9c6113e7eaa61510bf78046a6bdea44bcaedd0079d5c3d2",
+    "sha256": "ddc8f6dd07387b949dd985625884578598ed881c28f2334e30236d3ac753baf7",
     "url": "https://fr.wiki.isit-europe.org/nr/Apprentissage_profond"
   },
   {
@@ -576,10 +576,10 @@
     "title": "Boîte noire",
     "pageid": 231,
     "namespace": 0,
-    "revision": 683,
-    "timestamp": "2026-08-05T22:33:40Z",
+    "revision": 902,
+    "timestamp": "2026-09-11T18:48:49Z",
     "file": "fr/Boîte noire.wiki",
-    "sha256": "98c7355765ed0ed8fe70a0e30680ccf7d02a0ab4645159a1d433c7806ec841ae",
+    "sha256": "cebbeb10354fcb4df440ea4abdbc12242bc01c396adf9f03be55fb7b50abdbe9",
     "url": "https://fr.wiki.isit-europe.org/nr/Bo%C3%AEte_noire"
   },
   {
@@ -818,10 +818,10 @@
     "title": "Codes de conduite et de bonnes pratiques IA",
     "pageid": 318,
     "namespace": 0,
-    "revision": 888,
-    "timestamp": "2026-09-11T08:08:35Z",
+    "revision": 899,
+    "timestamp": "2026-09-11T18:48:48Z",
     "file": "fr/Codes de conduite et de bonnes pratiques IA.wiki",
-    "sha256": "6f9f82bed00e14069a2daedda03896b6be8527050680a2566d3e619e80196c98",
+    "sha256": "becffe1c3c8bcb09b69fcba73566b7603a862eb8720ce0788ffe1b4f290811ed",
     "url": "https://fr.wiki.isit-europe.org/nr/Codes_de_conduite_et_de_bonnes_pratiques_IA"
   },
   {
@@ -1126,10 +1126,10 @@
     "title": "Données d'entraînement",
     "pageid": 214,
     "namespace": 0,
-    "revision": 776,
-    "timestamp": "2026-08-06T06:08:22Z",
+    "revision": 909,
+    "timestamp": "2026-09-11T18:48:51Z",
     "file": "fr/Données d'entraînement.wiki",
-    "sha256": "02f49aa7dcc7f6b754d3060d945eb49b2c98a8ff6866052d206a6c57b4b27a6f",
+    "sha256": "f69016c56ac07a4c1e57ff4f8f38f5684c7d70eb83020cacfdfadd459aeda9e3",
     "url": "https://fr.wiki.isit-europe.org/nr/Donn%C3%A9es_d%27entra%C3%AEnement"
   },
   {
@@ -1643,10 +1643,10 @@
     "title": "Fine-tuning",
     "pageid": 241,
     "namespace": 0,
-    "revision": 708,
-    "timestamp": "2026-08-05T22:33:57Z",
+    "revision": 905,
+    "timestamp": "2026-09-11T18:48:50Z",
     "file": "fr/Fine-tuning.wiki",
-    "sha256": "30f8f4dffa3eaf5547c46623b65e9ccb067cdfdbc237bfa929b0cc5dae7283be",
+    "sha256": "961d901d1236ae7f88612237d455e3f0d9da19a6093810c3bd2d393869ec4843",
     "url": "https://fr.wiki.isit-europe.org/nr/Fine-tuning"
   },
   {
@@ -1775,10 +1775,10 @@
     "title": "GHG Protocol",
     "pageid": 198,
     "namespace": 0,
-    "revision": 710,
-    "timestamp": "2026-08-05T22:33:58Z",
+    "revision": 910,
+    "timestamp": "2026-09-11T18:48:51Z",
     "file": "fr/GHG Protocol.wiki",
-    "sha256": "e8b9f712941ece7e1fb3e5445eb608629bd378097d0702c1b304cb9b6cf030c3",
+    "sha256": "85820d962027f882ab5fbc0856ccf8429540da3330d79d3a5399bf4990df79fa",
     "url": "https://fr.wiki.isit-europe.org/nr/GHG_Protocol"
   },
   {
@@ -2292,10 +2292,10 @@
     "title": "Modèle d'intelligence artificielle",
     "pageid": 219,
     "namespace": 0,
-    "revision": 731,
-    "timestamp": "2026-08-05T22:34:09Z",
+    "revision": 901,
+    "timestamp": "2026-09-11T18:48:48Z",
     "file": "fr/Modèle d'intelligence artificielle.wiki",
-    "sha256": "35d551d3b442f7a31fa08a0aa7c0accd556a12288abc47271546e415015938ee",
+    "sha256": "7e6d17cc80ef02d1da7616114c9e68698dade0d2c164d9e66e2fd06a18bddabc",
     "url": "https://fr.wiki.isit-europe.org/nr/Mod%C3%A8le_d%27intelligence_artificielle"
   },
   {
@@ -2512,10 +2512,10 @@
     "title": "Prompting contextuel",
     "pageid": 252,
     "namespace": 0,
-    "revision": 736,
-    "timestamp": "2026-08-05T22:34:13Z",
+    "revision": 903,
+    "timestamp": "2026-09-11T18:48:49Z",
     "file": "fr/Prompting contextuel.wiki",
-    "sha256": "a1a6d3d07de39c0dee3319c7ea69718fa9746ae5a2b7e86139218ae648737add",
+    "sha256": "13d71c564e7c1e77ff7f133d8c222e3dc026721f2697e8b75cc990b44b7ea996",
     "url": "https://fr.wiki.isit-europe.org/nr/Prompting_contextuel"
   },
   {
@@ -2545,10 +2545,10 @@
     "title": "RAG",
     "pageid": 253,
     "namespace": 0,
-    "revision": 737,
-    "timestamp": "2026-08-05T22:34:13Z",
+    "revision": 907,
+    "timestamp": "2026-09-11T18:48:50Z",
     "file": "fr/RAG.wiki",
-    "sha256": "8fefe5ac9ca5d2f9e36cf51b00250365c639f0f11941d2baddad9c33444796b1",
+    "sha256": "928800d8a27b6297430d1f0ccfaa1c0065d1a56a362002b3afed74dfbc47ef23",
     "url": "https://fr.wiki.isit-europe.org/nr/RAG"
   },
   {
@@ -2842,10 +2842,10 @@
     "title": "SLM",
     "pageid": 256,
     "namespace": 0,
-    "revision": 746,
-    "timestamp": "2026-08-05T22:34:19Z",
+    "revision": 908,
+    "timestamp": "2026-09-11T18:48:50Z",
     "file": "fr/SLM.wiki",
-    "sha256": "0b533abfbd5c9294929a67854880ea859e39a3918155996069e4d96048e5b854",
+    "sha256": "ae58396ba3343926c8dc085dadb6e226b8c7c8ef8e94de8d9319cb69bd4511f3",
     "url": "https://fr.wiki.isit-europe.org/nr/SLM"
   },
   {
@@ -3403,10 +3403,10 @@
     "title": "AI Act",
     "pageid": 25,
     "namespace": 0,
-    "revision": 159,
-    "timestamp": "2026-09-11T08:08:35Z",
+    "revision": 170,
+    "timestamp": "2026-09-11T18:48:46Z",
     "file": "en/AI Act.wiki",
-    "sha256": "47649413bc0cb8f91646f32d7cd20932a11c941e85641195b69b4421be4052a5",
+    "sha256": "e5e85530838a9a886d485355617d56a9b5f946972a3a0213baf01c011ee76870",
     "url": "https://en.wiki.isit-europe.org/nr/AI_Act"
   },
   {
@@ -3414,10 +3414,10 @@
     "title": "AI codes of conduct and practice",
     "pageid": 75,
     "namespace": 0,
-    "revision": 160,
-    "timestamp": "2026-09-11T08:08:35Z",
+    "revision": 171,
+    "timestamp": "2026-09-11T18:48:48Z",
     "file": "en/AI codes of conduct and practice.wiki",
-    "sha256": "8490e7fac5a8a391890de5e4f5a564e8c9ba08e005f7fe3218b12bc5e0607de3",
+    "sha256": "48f59dccc3cc77b98d94b94852def448018b677be09c5bad5e3a8069e61d9c7e",
     "url": "https://en.wiki.isit-europe.org/nr/AI_codes_of_conduct_and_practice"
   },
   {
@@ -3711,10 +3711,10 @@
     "title": "GHG Protocol",
     "pageid": 27,
     "namespace": 0,
-    "revision": 153,
-    "timestamp": "2026-09-10T17:53:20Z",
+    "revision": 172,
+    "timestamp": "2026-09-11T18:48:51Z",
     "file": "en/GHG Protocol.wiki",
-    "sha256": "19bc2aa0c786828e5325a0f51bb75f8966ea47746617b4733c1b5220baa63e79",
+    "sha256": "05328dc75f711afaed79c2de6b45bb29519e8f7e65c60176c76ce4f3ee26ed47",
     "url": "https://en.wiki.isit-europe.org/nr/GHG_Protocol"
   },
   {
@@ -4228,10 +4228,10 @@
     "title": "AI Act",
     "pageid": 49,
     "namespace": 0,
-    "revision": 84,
-    "timestamp": "2026-09-11T08:08:47Z",
+    "revision": 92,
+    "timestamp": "2026-09-11T18:48:47Z",
     "file": "es/AI Act.wiki",
-    "sha256": "10591a6183262e44d865406f97b4b2e72873e4540431e054e787f8d394ad2ef8",
+    "sha256": "ff84b7b25088458e6f7a9f842738dadd3725c3bb776bf65b54c62fc03cccc43c",
     "url": "https://es.wiki.isit-europe.org/nr/AI_Act"
   },
   {
@@ -4811,10 +4811,10 @@
     "title": "AI Act",
     "pageid": 48,
     "namespace": 0,
-    "revision": 94,
-    "timestamp": "2026-09-11T08:08:48Z",
+    "revision": 103,
+    "timestamp": "2026-09-11T18:48:46Z",
     "file": "de/AI Act.wiki",
-    "sha256": "59f59a3ecb658f4a3d06b647f4f213524dd1b956397effafe697673e69420caf",
+    "sha256": "01b95ac20b15057e3cc4c62ef9fcec51b382fd7c8feffff6792928ec48313f4c",
     "url": "https://de.wiki.isit-europe.org/nr/AI_Act"
   },
   {
@@ -5262,10 +5262,10 @@
     "title": "AI Act",
     "pageid": 14,
     "namespace": 0,
-    "revision": 23,
-    "timestamp": "2026-08-06T18:19:40Z",
+    "revision": 38,
+    "timestamp": "2026-09-11T18:48:47Z",
     "file": "nl/AI Act.wiki",
-    "sha256": "810c3e480a5df551eca400db3e0b6e4b241f6c826a03b865ce25336e88b063f7",
+    "sha256": "3cc300e3fa083d6d318e64bb489e7c9e7a975e4e37e46ce579f7c73d1ae8154b",
     "url": "https://nl.wiki.isit-europe.org/nr/AI_Act"
   },
   {

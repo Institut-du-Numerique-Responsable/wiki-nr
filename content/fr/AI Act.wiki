@@ -29,5 +29,7 @@ Les [[Codes de conduite et de bonnes pratiques IA]] couvrent plusieurs démarche
 
 [[Catégorie:Intelligence artificielle]]
 [[Catégorie:Réglementation]]
-[[nl:AI Act]]
+[[de:AI Act]]
 [[en:AI Act]]
+[[es:AI Act]]
+[[nl:AI Act]]

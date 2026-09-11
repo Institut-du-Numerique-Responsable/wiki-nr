@@ -1,6 +1,6 @@
 # Liens multilingues — 11 septembre 2026
 
-Statut : 19 corrections préparées et prévisualisées, non publiées.
+Statut : 19 corrections publiées et vérifiées le 11 septembre 2026. Les révisions figurent dans `published.json` ; l’instantané GitHub et les sitemaps sont actualisés.
 
 L’audit des liens de langue explicites des articles du dernier export a identifié 17 pages avec des liens réciproques incomplets. Aucun lien déclaré ne pointait vers une cible absente, et aucun groupe relié n’avait plusieurs articles canoniques d’une même langue. Les redirections connues ont été suivies pour identifier les cibles.
 

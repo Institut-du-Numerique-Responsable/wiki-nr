@@ -16,3 +16,6 @@ Le fine-tuning se justifie lorsqu’il s’agit d’acquérir un '''style''' ou 
 * [[RAG]] · [[Prompting_contextuel|Prompting contextuel]] · [[Modèle_d'intelligence_artificielle|Modèle d'intelligence artificielle]] · [[SLM]] · [[Inférence]]
 
 [[Catégorie:Intelligence artificielle]]
+[[de:Fine-Tuning]]
+[[en:Fine-tuning]]
+[[es:Ajuste fino]]
