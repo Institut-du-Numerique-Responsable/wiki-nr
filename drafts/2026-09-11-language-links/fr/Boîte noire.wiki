@@ -1,0 +1,20 @@
+Une '''boîte noire''' désigne un système dont on observe les entrées et les sorties sans pouvoir expliquer le cheminement interne.
+
+La plupart des modèles d’[[Apprentissage_profond|apprentissage profond]] relèvent de cette catégorie : leurs paramètres, souvent des milliards, ne s’interprètent pas individuellement.
+
+== Pourquoi c’est un problème ==
+
+* '''Contestation''' : une personne ne peut discuter une décision dont les motifs ne sont pas exposés ;
+* '''Correction''' : un défaut inexpliqué est difficile à réparer autrement qu’en réentraînant ;
+* '''Conformité''' : le [[Règlement_Général_sur_la_Protection_des_Données|RGPD]] ouvre un droit à l’information sur la logique d’une décision automatisée, et l’[[AI_Act|AI Act]] impose l’[[Explicabilité|explicabilité]] pour les usages à risque élevé.
+
+Un modèle plus simple, même un peu moins performant, est parfois le bon choix : sa décision se défend.
+
+== Voir aussi ==
+
+* [[Explicabilité]] · [[Apprentissage_profond|Apprentissage profond]] · [[Modèle_d'intelligence_artificielle|Modèle d'intelligence artificielle]] · [[AI_Act|AI Act]] · [[Acceptabilité]]
+
+[[Catégorie:Intelligence artificielle]]
+[[de:Blackbox]]
+[[en:Black box]]
+[[es:Caja negra]]

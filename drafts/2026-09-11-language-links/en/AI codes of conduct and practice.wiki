@@ -1,0 +1,26 @@
+'''AI codes of conduct and practice''' are several distinct instruments associated with the [[AI Act]]. Their audiences and purposes differ. Before claiming adherence, an organisation should identify the document, version and commitments involved.
+
+== General-purpose AI models ==
+The [https://digital-strategy.ec.europa.eu/en/policies/ai-code-practice General-Purpose AI Code of Practice] helps model providers demonstrate compliance with specified obligations. It addresses transparency, copyright and, for models with systemic risk, safety and security. Signing the code is voluntary; the underlying regulatory duties are not.
+
+For an IT buyer, a provider's signature is evidence to consider alongside model documentation and contractual terms. It does not guarantee compliance of every downstream use or the quality of a system assembled by an integrator.
+
+== Article 95 codes of conduct ==
+[https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-95 Article 95] addresses voluntary commitments including environmental sustainability, AI literacy, inclusive design and protection of vulnerable people. The Service Desk warns that its displayed text needs to be read with the 2026 amendments; verify the legal version before expressing a requirement.
+
+A team can turn an environmental commitment into measurable criteria: energy per task, data retention periods or justification for additional training. Record the boundary, method and person responsible for follow-up. A target without measurement or an associated decision is difficult to assess.
+
+== Transparency of generated content ==
+The [https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content Code of Practice on Transparency of AI-generated Content] supports Article 50 marking and disclosure obligations. It is separate from the general-purpose model code. Editorial and technical teams need to establish which obligations apply to their role and content.
+
+== Implementation ==
+Maintain a record for each commitment: source document and version, covered systems, owner, evidence and review date. Involve procurement, legal, security, service owners and sustainable IT staff. An internal charter can complement this work without representing itself as European certification. Sources checked on 11 September 2026.
+
+== See also ==
+* [[Responsible AI]]
+* [[Sustainable IT]]
+
+[[Category:Regulation]]
+[[de:Verhaltenskodizes und Praxisleitfäden für KI]]
+[[es:Códigos de conducta y de buenas prácticas de IA]]
+[[fr:Codes de conduite et de bonnes pratiques IA]]

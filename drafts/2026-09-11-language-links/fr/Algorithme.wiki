@@ -1,0 +1,20 @@
+Un '''algorithme''' est une suite finie d’instructions permettant de résoudre un problème ou d’accomplir une tâche.
+
+La notion est antérieure à l’informatique : une recette de cuisine ou une méthode de division posée sont des algorithmes. En informatique, l’algorithme décrit le traitement, indépendamment du langage qui l’implémente.
+
+== Rapport à l’IA ==
+
+Un algorithme classique est écrit par un humain : ses règles sont lisibles et sa décision explicable. Un système d’[[Apprentissage_automatique|apprentissage automatique]] produit au contraire son comportement à partir de [[Données_d'entraînement|données]], sans règle explicite, d’où la difficulté d’[[Explicabilité|explication]] et le problème de la [[Boîte_noire|boîte noire]].
+
+== Enjeu de sobriété ==
+
+Le choix d’algorithme détermine la consommation de ressources bien plus que l’optimisation du code qui l’exprime. Un traitement mal conçu ne se rattrape pas par un serveur plus puissant : c’est l’un des principes de l’[[Ecoconception|écoconception]] logicielle.
+
+== Voir aussi ==
+
+* [[Apprentissage_automatique|Apprentissage automatique]] · [[Explicabilité]] · [[Boîte_noire|Boîte noire]] · [[Ecoconception]] · [[Biais_algorithmique|Biais algorithmique]]
+
+[[Catégorie:Concepts]]
+[[de:Algorithmus]]
+[[en:Algorithm]]
+[[es:Algoritmo]]

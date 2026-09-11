@@ -1,0 +1,22 @@
+L’'''apprentissage profond''' (''deep learning'') est une branche de l’[[Apprentissage_automatique|apprentissage automatique]] fondée sur des réseaux de neurones artificiels comportant de nombreuses couches.
+
+Il est à l’origine des performances obtenues en reconnaissance d’images, en traduction, en synthèse vocale et en génération de texte.
+
+== Coût ==
+
+La profondeur des réseaux et le volume des [[Données_d'entraînement|données d’entraînement]] expliquent la consommation de ressources : calcul intensif sur processeurs graphiques pendant l’entraînement, puis à chaque [[Inférence|inférence]].
+
+C’est ce qui distingue l’apprentissage profond des méthodes statistiques classiques, souvent suffisantes pour des besoins courants et incomparablement moins coûteuses. Le choix d’une architecture profonde devrait donc résulter d’une comparaison, pas d’un réflexe, c’est le sens de la notion d’'''IA frugale''' portée par le [[IA_Responsable|numérique responsable]].
+
+== Voir aussi ==
+
+* [[Apprentissage_automatique|Apprentissage automatique]]
+* [[Modèle_d'intelligence_artificielle|Modèle d'intelligence artificielle]]
+* [[Inférence]]
+* [[IA_Responsable|IA Responsable]]
+* [[Sobriété_Numérique|Sobriété Numérique]]
+
+[[Catégorie:Intelligence artificielle]]
+[[de:Deep Learning]]
+[[en:Deep learning]]
+[[es:Aprendizaje profundo]]

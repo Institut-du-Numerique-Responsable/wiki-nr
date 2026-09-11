@@ -1,28 +1,27 @@
-'''Ökodesign''' bezieht Umweltkriterien schon in den Entwurf eines Produkts oder Dienstes ein, gleichrangig mit Kosten, Qualität und Termin.
+'''Ökodesign''' berücksichtigt Umweltwirkungen bei der Gestaltung eines Produkts oder Dienstes. Der Ansatz betrachtet den Lebenszyklus und mehrere Wirkungskategorien. Eine Verbesserung beim Stromverbrauch kann mit zusätzlichem Materialbedarf verbunden sein; eine [[Ökobilanz]] hilft, solche Verschiebungen zu erkennen.
 
-Es stützt sich auf eine Gesamtsicht der Umweltwirkungen. Der Ansatz ist mehrstufig, weil er die Phasen des Lebenszyklus abdeckt, und mehrkriteriell: Material- und Energieverbrauch, Einträge in die Umwelt, Wirkungen auf Klima und Biodiversität.
+== Mit dem Bedarf beginnen ==
+Für einen digitalen Dienst sollte das Team zunächst Nutzergruppen, Aufgabe und erwartetes Ergebnis beschreiben. Eine Funktion kann selten genutzt und dennoch notwendig sein, etwa für einen barrierefreien Zugang oder einen Notfall. Über ihre Entfernung entscheidet daher eine Bedarfsprüfung mit den Betroffenen.
 
-== Angewandt auf digitale Dienste ==
+Die [[Digitale Suffizienz]] stellt Umfang und Art der Nutzung zur Diskussion. Das technische Design klärt anschließend, wie der benötigte Dienst mit angemessenen Ressourcen erbracht werden kann. Dazu gehören Endgeräte, Netze und [[Rechenzentrum|Rechenzentren]], auch wenn Teile von externen Anbietern betrieben werden.
 
-Digitales Ökodesign setzt vorrangig bei den Hauptursachen an:
+== Software und Endgeräte zusammen betrachten ==
+Hohe Anforderungen an Speicher, Prozessor oder Betriebssystem können die weitere Nutzung vorhandener Geräte erschweren. Ob daraus ein vorzeitiger Austausch entsteht, hängt auch von Support, Sicherheit und tatsächlichen Aufgaben ab. Das [https://www.umweltbundesamt.de/themen/digitalisierung/gruene-informationstechnik-green-it/software-umwelt Umweltbundesamt erläutert die Umweltwirkungen von Software] und die Kriterien für ressourcen- und energieeffiziente Softwareprodukte.
 
-* '''die Beanspruchung der Nutzergeräte''': eine schwere Seite zwingt zum früheren Austausch eines noch funktionierenden Geräts, und dieser Austausch wiegt schwerer als der verbrauchte Strom;
-* '''das Datenvolumen''', das ausgetauscht und gespeichert wird;
-* '''der tatsächliche Nutzen''' einer Funktion, geprüft bevor sie optimiert wird.
+Entwicklungsteams können typische Aufgaben auf älteren, weiterhin unterstützten Geräten testen. Übertragene Daten, Antwortzeiten und Ressourcenbedarf sollten bei vergleichbarer Funktion gemessen werden. Große Bilder, automatische Videos und unnötige Hintergrundabfragen sind mögliche Prüfstellen, keine pauschale Diagnose.
 
-Die praktische Folge überrascht oft: die beste Optimierung besteht darin, eine wenig genutzte Funktion zu streichen, nicht sie zu beschleunigen.
+== Referenzrahmen nutzen ==
+Der französische [https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/ RGESN 2024] enthält Kriterien für die Gestaltung digitaler Dienste, von Strategie und Spezifikation bis zu Architektur, Inhalten und Betrieb. Die deutsche Wiki-Fiche [[RGESN]] erläutert seine Einordnung. Anforderungen müssen auf den betrachteten Dienst bezogen und ihre Umsetzung dokumentiert werden.
 
-== Referenzrahmen ==
+Die Erfüllung eines Kriterienkatalogs zeigt, welche Maßnahmen umgesetzt wurden. Eine bestimmte Emissionsminderung lässt sich daraus nicht ohne zusätzliche Bewertung ableiten. Der [[CO₂-Fußabdruck]] ist dabei nur einer der möglichen Umweltindikatoren.
 
-Das [[RGESN]] ist ein öffentlicher Rahmen, auf Ökodesign begrenzt. Der GR491 des Instituts für verantwortungsvolle Digitalisierung ist breiter angelegt und deckt auch soziale und ethische Fragen ab. Der erste dient als Bewertungsraster, der zweite liefert die operative Ausgestaltung.
+== Beispiel: ein Dokumentenportal überarbeiten ==
+Ein Team prüft, ob Beschäftigte Dokumente finden und mit unterschiedlichen Geräten lesen können. Es reduziert redundante Übertragungen, legt Bildgrößen am Zweck aus und plant Aufbewahrungsfristen mit den Fachbereichen. Tastaturbedienung, lesbare Struktur und geeignete Dokumentformate bleiben Teil der Anforderungen.
 
-== Ein Indikator genügt nicht ==
+Nach der Änderung vergleicht es dieselben Aufgaben hinsichtlich Nutzbarkeit und Ressourcenbedarf. Steigende Nutzung kann den absoluten Verbrauch trotz effizienterer Einzelvorgänge erhöhen; der [[Rebound-Effekt]] gehört deshalb in die Nachbetrachtung.
 
-Eine Ökodesign-Note misst die Übereinstimmung mit guter Praxis, nicht die tatsächliche Wirkung des Dienstes. Eine sparsame Website, die niemand nutzt, spart nichts; ein stark genutzter Dienst bringt reale Gewinne selbst bei mittlerer Note.
-
-== Siehe auch ==
-
-* [[ISO/IEC TS 20125]] · [[RGESN]] · [[Digitale Suffizienz]] · [[Ökobilanz]] · [[Digitale Barrierefreiheit]] · [[Verantwortungsvolle Digitalisierung]]
+== Zusammenhang mit verantwortungsvoller Digitalisierung ==
+[[Digitale Barrierefreiheit]] und [[Cybersicherheit]] müssen gemeinsam mit Umweltzielen entwickelt werden. Notwendige Schutzmaßnahmen oder zugängliche Alternativen dürfen nicht allein zur Verkleinerung einer Kennzahl entfallen. Diese Abwägung verbindet Ökodesign mit [[Green IT]] und der [[Verantwortungsvolle Digitalisierung|verantwortungsvollen Digitalisierung]].
 
 [[fr:Ecoconception]]
 [[en:Ecodesign]]

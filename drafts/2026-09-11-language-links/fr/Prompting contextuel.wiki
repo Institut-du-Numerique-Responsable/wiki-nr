@@ -1,0 +1,19 @@
+Le '''prompting contextuel''' consiste à enrichir un [[Prompt|prompt]] d’éléments de cadrage, rôle attendu, contraintes, format de sortie, exemples, afin d’améliorer la pertinence de la réponse.
+
+C’est l’alternative la moins coûteuse au [[Fine-tuning|fine-tuning]] : aucun réentraînement, une modification immédiate, et un résultat souvent suffisant.
+
+== Ce qui fonctionne ==
+
+* '''préciser le format''' attendu plutôt que de le corriger après coup ;
+* '''fournir des exemples''' de ce qui est attendu, plus efficaces qu’une consigne abstraite ;
+* '''expliciter les contraintes''' : longueur, ton, éléments à ne pas produire ;
+* '''donner le contexte''' nécessaire, sans l’étendre inutilement : un contexte long augmente le coût de chaque [[Inférence|inférence]].
+
+== Voir aussi ==
+
+* [[Prompt]] · [[Fine-tuning]] · [[RAG]] · [[LLM]] · [[Inférence]]
+
+[[Catégorie:Intelligence artificielle]]
+[[de:Kontextuelles Prompting]]
+[[en:Contextual prompting]]
+[[es:Prompting contextual]]

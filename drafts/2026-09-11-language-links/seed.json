@@ -1,0 +1,116 @@
+[
+  {
+    "language": "de",
+    "title": "AI Act",
+    "file": "de/AI Act.wiki",
+    "base_revision": 94
+  },
+  {
+    "language": "en",
+    "title": "AI Act",
+    "file": "en/AI Act.wiki",
+    "base_revision": 159
+  },
+  {
+    "language": "es",
+    "title": "AI Act",
+    "file": "es/AI Act.wiki",
+    "base_revision": 84
+  },
+  {
+    "language": "fr",
+    "title": "AI Act",
+    "file": "fr/AI Act.wiki",
+    "base_revision": 887
+  },
+  {
+    "language": "nl",
+    "title": "AI Act",
+    "file": "nl/AI Act.wiki",
+    "base_revision": 23
+  },
+  {
+    "language": "en",
+    "title": "AI codes of conduct and practice",
+    "file": "en/AI codes of conduct and practice.wiki",
+    "base_revision": 160
+  },
+  {
+    "language": "fr",
+    "title": "Codes de conduite et de bonnes pratiques IA",
+    "file": "fr/Codes de conduite et de bonnes pratiques IA.wiki",
+    "base_revision": 888
+  },
+  {
+    "language": "fr",
+    "title": "Algorithme",
+    "file": "fr/Algorithme.wiki",
+    "base_revision": 672
+  },
+  {
+    "language": "fr",
+    "title": "Modèle d'intelligence artificielle",
+    "file": "fr/Modèle d'intelligence artificielle.wiki",
+    "base_revision": 731
+  },
+  {
+    "language": "fr",
+    "title": "Boîte noire",
+    "file": "fr/Boîte noire.wiki",
+    "base_revision": 683
+  },
+  {
+    "language": "fr",
+    "title": "Prompting contextuel",
+    "file": "fr/Prompting contextuel.wiki",
+    "base_revision": 736
+  },
+  {
+    "language": "fr",
+    "title": "Apprentissage profond",
+    "file": "fr/Apprentissage profond.wiki",
+    "base_revision": 676
+  },
+  {
+    "language": "fr",
+    "title": "Fine-tuning",
+    "file": "fr/Fine-tuning.wiki",
+    "base_revision": 708
+  },
+  {
+    "language": "fr",
+    "title": "Apprentissage automatique",
+    "file": "fr/Apprentissage automatique.wiki",
+    "base_revision": 675
+  },
+  {
+    "language": "fr",
+    "title": "RAG",
+    "file": "fr/RAG.wiki",
+    "base_revision": 737
+  },
+  {
+    "language": "fr",
+    "title": "SLM",
+    "file": "fr/SLM.wiki",
+    "base_revision": 746
+  },
+  {
+    "language": "fr",
+    "title": "Données d'entraînement",
+    "file": "fr/Données d'entraînement.wiki",
+    "base_revision": 776
+  },
+  {
+    "language": "fr",
+    "title": "GHG Protocol",
+    "file": "fr/GHG Protocol.wiki",
+    "base_revision": 710
+  },
+  {
+    "language": "en",
+    "title": "GHG Protocol",
+    "file": "en/GHG Protocol.wiki",
+    "base_revision": 153
+  }
+]

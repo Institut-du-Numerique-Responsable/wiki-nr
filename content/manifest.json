@@ -4811,10 +4811,10 @@
     "title": "CO₂-Fußabdruck",
     "pageid": 15,
     "namespace": 0,
-    "revision": 56,
-    "timestamp": "2026-08-06T18:40:38Z",
+    "revision": 100,
+    "timestamp": "2026-09-11T12:39:55Z",
     "file": "de/CO₂-Fußabdruck.wiki",
-    "sha256": "5822437b3187318bd24b6fe808defe01fbd4b988b033a3b0f1a3dab160bb8040",
+    "sha256": "3ccce9ba57d3969f1e614ec2c5e8d7f832f625444e56df78978432a4e48eb260",
     "url": "https://de.wiki.isit-europe.org/nr/CO%E2%82%82-Fu%C3%9Fabdruck"
   },
   {
@@ -5174,10 +5174,10 @@
     "title": "Verantwortungsvolle KI",
     "pageid": 5,
     "namespace": 0,
-    "revision": 40,
-    "timestamp": "2026-08-06T18:32:59Z",
+    "revision": 101,
+    "timestamp": "2026-09-11T12:39:55Z",
     "file": "de/Verantwortungsvolle KI.wiki",
-    "sha256": "9d92d30c5d905e80a342fac428cb3dd7dfdb54c6eac857d28dc4111ced78d053",
+    "sha256": "0c2c2856074e94560b7779a6d8a3179d3f260d60b29d7c0d6e94c36000094078",
     "url": "https://de.wiki.isit-europe.org/nr/Verantwortungsvolle_KI"
   },
   {
@@ -5218,10 +5218,10 @@
     "title": "Ökodesign",
     "pageid": 22,
     "namespace": 0,
-    "revision": 70,
-    "timestamp": "2026-08-08T09:37:19Z",
+    "revision": 102,
+    "timestamp": "2026-09-11T12:39:56Z",
     "file": "de/Ökodesign.wiki",
-    "sha256": "cf48caa435e79c3cf8f2aeca0df7665327c34f559ab8e2ed7028e1a79e44aefe",
+    "sha256": "17dc5b459f1bae8f8953adaf8a5d555f4c5a60847e949bb9b5a2b67319c4af2b",
     "url": "https://de.wiki.isit-europe.org/nr/%C3%96kodesign"
   },
   {

@@ -1,0 +1,216 @@
+{
+  "broken": [],
+  "ambiguous": [],
+  "safe": [
+    {
+      "source": [
+        "de",
+        "AI Act"
+      ],
+      "targets": {
+        "en": "AI Act",
+        "nl": "AI Act",
+        "fr": "AI Act",
+        "es": "AI Act"
+      }
+    },
+    {
+      "source": [
+        "en",
+        "AI Act"
+      ],
+      "targets": {
+        "de": "AI Act",
+        "nl": "AI Act",
+        "fr": "AI Act",
+        "es": "AI Act"
+      }
+    },
+    {
+      "source": [
+        "es",
+        "AI Act"
+      ],
+      "targets": {
+        "de": "AI Act",
+        "en": "AI Act",
+        "nl": "AI Act",
+        "fr": "AI Act"
+      }
+    },
+    {
+      "source": [
+        "fr",
+        "AI Act"
+      ],
+      "targets": {
+        "de": "AI Act",
+        "en": "AI Act",
+        "nl": "AI Act",
+        "es": "AI Act"
+      }
+    },
+    {
+      "source": [
+        "nl",
+        "AI Act"
+      ],
+      "targets": {
+        "de": "AI Act",
+        "en": "AI Act",
+        "fr": "AI Act",
+        "es": "AI Act"
+      }
+    },
+    {
+      "source": [
+        "en",
+        "AI codes of conduct and practice"
+      ],
+      "targets": {
+        "fr": "Codes de conduite et de bonnes pratiques IA",
+        "es": "Códigos de conducta y de buenas prácticas de IA",
+        "de": "Verhaltenskodizes und Praxisleitfäden für KI"
+      }
+    },
+    {
+      "source": [
+        "fr",
+        "Codes de conduite et de bonnes pratiques IA"
+      ],
+      "targets": {
+        "es": "Códigos de conducta y de buenas prácticas de IA",
+        "en": "AI codes of conduct and practice",
+        "de": "Verhaltenskodizes und Praxisleitfäden für KI"
+      }
+    },
+    {
+      "source": [
+        "fr",
+        "Algorithme"
+      ],
+      "targets": {
+        "en": "Algorithm",
+        "de": "Algorithmus",
+        "es": "Algoritmo"
+      }
+    },
+    {
+      "source": [
+        "fr",
+        "Modèle d'intelligence artificielle"
+      ],
+      "targets": {
+        "de": "KI-Modell",
+        "en": "Artificial intelligence model",
+        "es": "Modelo de inteligencia artificial"
+      }
+    },
+    {
+      "source": [
+        "fr",
+        "Boîte noire"
+      ],
+      "targets": {
+        "en": "Black box",
+        "de": "Blackbox",
+        "es": "Caja negra"
+      }
+    },
+    {
+      "source": [
+        "fr",
+        "Prompting contextuel"
+      ],
+      "targets": {
+        "es": "Prompting contextual",
+        "de": "Kontextuelles Prompting",
+        "en": "Contextual prompting"
+      }
+    },
+    {
+      "source": [
+        "fr",
+        "Apprentissage profond"
+      ],
+      "targets": {
+        "de": "Deep Learning",
+        "en": "Deep learning",
+        "es": "Aprendizaje profundo"
+      }
+    },
+    {
+      "source": [
+        "fr",
+        "Fine-tuning"
+      ],
+      "targets": {
+        "en": "Fine-tuning",
+        "de": "Fine-Tuning",
+        "es": "Ajuste fino"
+      }
+    },
+    {
+      "source": [
+        "fr",
+        "Apprentissage automatique"
+      ],
+      "targets": {
+        "de": "Maschinelles Lernen",
+        "es": "Aprendizaje automático",
+        "en": "Machine learning"
+      }
+    },
+    {
+      "source": [
+        "fr",
+        "RAG"
+      ],
+      "targets": {
+        "en": "RAG",
+        "de": "RAG",
+        "es": "RAG"
+      }
+    },
+    {
+      "source": [
+        "fr",
+        "SLM"
+      ],
+      "targets": {
+        "de": "SLM",
+        "es": "SLM",
+        "en": "SLM"
+      }
+    },
+    {
+      "source": [
+        "fr",
+        "Données d'entraînement"
+      ],
+      "targets": {
+        "es": "Datos de entrenamiento",
+        "de": "Trainingsdaten",
+        "en": "Training data"
+      }
+    },
+    {
+      "source": [
+        "fr",
+        "GHG Protocol"
+      ],
+      "targets": {
+        "en": "GHG Protocol"
+      }
+    },
+    {
+      "source": [
+        "en",
+        "GHG Protocol"
+      ],
+      "targets": {
+        "fr": "GHG Protocol"
+      }
+    }
+  ]
+}

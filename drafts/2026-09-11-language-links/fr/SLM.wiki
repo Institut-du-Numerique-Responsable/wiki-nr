@@ -1,0 +1,21 @@
+Un '''SLM''' (''small language model'', petit modèle de langage) est un modèle de langage de taille réduite, souvent spécialisé sur un domaine ou une tâche.
+
+== Intérêt ==
+
+* '''Coût d’[[Inférence|inférence]] réduit''' d’un ou deux ordres de grandeur par rapport à un [[LLM|grand modèle]] ;
+* '''Exécution locale''' possible, y compris sur un poste de travail : les données ne sortent pas du système d’information ;
+* '''Latence''' plus faible ;
+* '''Empreinte''' moindre à l’entraînement comme à l’usage.
+
+Sur une tâche délimitée, classer des demandes, extraire des champs, reformuler selon un gabarit, un SLM correctement ajusté atteint souvent le niveau d’un grand modèle généraliste.
+
+C’est la traduction concrète de la notion d’'''IA frugale''' : choisir le plus petit modèle qui satisfait le besoin.
+
+== Voir aussi ==
+
+* [[LLM]] · [[Inférence]] · [[Fine-tuning]] · [[IA_Responsable|IA Responsable]] · [[Sobriété_Numérique|Sobriété Numérique]] · [[Infrastructure_d'IA|Infrastructure d'IA]]
+
+[[Catégorie:Intelligence artificielle]]
+[[de:SLM]]
+[[en:SLM]]
+[[es:SLM]]

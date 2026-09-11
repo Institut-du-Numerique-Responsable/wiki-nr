@@ -1,0 +1,27 @@
+De '''AI-wet''' (''AI Act'', verordening (EU) 2024/1689) is de Europese verordening die het op de markt brengen en het gebruik van systemen voor kunstmatige intelligentie regelt.
+
+== Vier risiconiveaus ==
+
+; Onaanvaardbaar risico
+: verboden toepassingen, zoals sociale scoring door overheden of het ongericht verzamelen van gezichtsbeelden om databanken op te bouwen.
+; Hoog risico
+: toepassingen die meebeslissen over personen, bijvoorbeeld bij werving, toegang tot onderwijs, kredietverlening of rechtsbedeling. Zij vallen onder eisen inzake documentatie, datakwaliteit, menselijk toezicht en robuustheid.
+; Beperkt risico
+: transparantieplicht. Wie met een systeem communiceert, moet dat weten; gegenereerde inhoud moet als zodanig herkenbaar zijn.
+; Minimaal risico
+: geen bijzondere verplichting.
+
+== Modellen voor algemene doeleinden ==
+
+Voor grote taalmodellen gelden aparte verplichtingen: technische documentatie, een samenvatting van de gebruikte trainingsdata en naleving van het auteursrecht. Boven een bepaalde rekendrempel komen daar eisen rond systeemrisico bij.
+
+== Wat de verordening niet regelt ==
+
+De AI-wet richt zich op grondrechten en veiligheid. Zij stelt geen grens aan het energie- of waterverbruik van een model. De ecologische voetafdruk blijft daarmee een zaak van vrijwillige verbintenissen, zoals het [[Verantwoorde AI Charter]].
+
+== Zie ook ==
+
+* [[Verantwoorde AI]] · [[Verantwoorde AI Charter]] · [[Duurzame IT]]
+
+[[fr:AI_Act]]
+[[en:AI_Act]]

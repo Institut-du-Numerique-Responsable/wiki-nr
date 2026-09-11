@@ -1,29 +1,29 @@
-Der '''CO₂-Fußabdruck''' schätzt die Menge an Treibhausgasen, die ausgestoßen wird, um den Verbrauch einer Person, einer Bevölkerung, eines Gebiets oder einer Tätigkeit zu decken: Güter, Dienstleistungen und Nutzung von Infrastruktur. Die Berechnung bezieht die Emissionen aus Ein- und Ausfuhren ein, unabhängig vom Ort der Produktion.
+Der '''CO₂-Fußabdruck''' beschreibt die Treibhausgasemissionen innerhalb einer festgelegten Bilanzgrenze. Er kann sich auf eine Organisation, ein Produkt oder einen Dienst beziehen. Angegeben wird er in Kilogramm oder Tonnen CO₂-Äquivalenten; damit werden unterschiedliche Treibhausgase anhand ihrer Klimawirkung zusammengefasst. Eine nachvollziehbare Bilanz benennt Zeitraum, Methode und verwendete Faktoren.
 
-Er wird in '''Tonnen CO₂-Äquivalent''' angegeben, einer Einheit, die verschiedene Gase nach ihrer Treibhauswirkung zusammenfasst.
+== Unternehmensbilanz und Produktbilanz unterscheiden ==
+Der [https://ghgprotocol.org/corporate-standard Corporate Standard des GHG Protocol, auf Englisch,] behandelt die Bilanzierung von Organisationen. Dabei unterscheidet man direkte Emissionen aus eigenen oder kontrollierten Quellen (Scope 1), Emissionen aus eingekaufter Energie (Scope 2) und weitere indirekte Emissionen der Wertschöpfungskette (Scope 3).
 
-== Die drei Bereiche ==
+Für die IT können beispielsweise Notstromaggregate zu Scope 1, eingekaufter Strom zum Betrieb eigener Infrastruktur zu Scope 2 und Gerätebeschaffung sowie eingekaufte Cloud-Dienste zu Scope 3 gehören. Die konkrete Zuordnung richtet sich nach Organisationsgrenze und Vertragsmodell. Welche Position überwiegt, muss die Bilanz zeigen; eine allgemeine Rangfolge gilt nicht für jeden IT-Betrieb.
 
-; Scope 1
-: direkte Emissionen aus Quellen, die die Organisation besitzt oder kontrolliert.
-; Scope 2
-: indirekte Emissionen aus eingekaufter Energie, vor allem Strom.
-; Scope 3
-: alle übrigen indirekten Emissionen, vor- und nachgelagert: Einkäufe, Reisen, Nutzung der verkauften Produkte, [[Lebensende]].
+Die [https://ghgprotocol.org/sites/default/files/2023-03/GHGP-ICTSG%20-%20ALL%20Chapters.pdf ICT Sector Guidance des GHG Protocol, englisches PDF,] ergänzt dagegen den Product Standard für IT-Produkte und -Dienste über ihren Lebenszyklus. Sie hilft etwa, Geräte, Netze und [[Rechenzentrum|Rechenzentren]] innerhalb einer Dienstleistung abzugrenzen. Eine Produktbilanz und ein jährliches Unternehmensinventar beantworten unterschiedliche Fragen.
 
-In einer Organisation macht Scope 3 den größten Teil aus. Für die IT-Landschaft bildet die [[Herstellung]] der eingekauften Geräte in der Regel den dominierenden Posten. Eine Bilanz, die bei Scope 1 und 2 endet, verfehlt das Problem.
+== Daten für Entscheidungen erheben ==
+Ein IT-Team sollte Stückzahlen, Gerätemodelle, Beschaffungen, Betriebsenergie und bezogene Dienste erfassen. Zu jedem Emissionsfaktor gehören Quelle, Bezugsjahr, Einheit und geografischer Bezug. Angaben eines Herstellers sind auf ihre Bilanzgrenze zu prüfen: Ein bereits vollständiger Produktfußabdruck darf nicht ohne Prüfung mit denselben Lebensphasen erneut verrechnet werden.
 
-== Rahmenwerke ==
+Für einen Cloud-Dienst sind Zeitraum, genutzte Region und die Zuordnung geteilter Infrastruktur relevant. Ein fehlender Messwert sollte als Datenlücke erscheinen. Schätzungen brauchen dokumentierte Annahmen, statt den Eindruck einer genauen Messung zu erwecken.
 
-Das GHG Protocol setzt die internationale Referenzmethode. Die Norm ISO 14064 macht sie prüfbar. In Frankreich setzt der ''Bilan Carbone'' sie in ein Werkzeug um, und das BEGES macht sie für bestimmte Organisationen zur gesetzlichen Pflicht. Diese Rahmen widersprechen einander nicht, sie überlagern sich.
+== Beispiel: Geräte länger nutzen ==
+Vor einem Austausch vergleicht die Organisation die weitere Nutzung mit einem Ersatzgerät bei gleicher Aufgabe und gleichem Zeitraum. Reparaturen, verbleibender Support, Energie und [[Herstellung]] gehören in die Bewertung. Eine vermiedene Anschaffung ist eine Szenarioentscheidung; daraus folgt nicht automatisch eine prozentgleiche Senkung des gesamten Unternehmensinventars.
 
-== Was der CO₂-Fußabdruck nicht zeigt ==
+Die [[Digitale Suffizienz]] unterstützt die Bedarfsprüfung. Ergebnisse sollten zusammen mit Unsicherheiten und Verantwortlichkeiten in die Beschaffungs- und Betriebsplanung eingehen.
 
-Wer die Umweltbetrachtung auf CO₂ verengt, blendet Rohstoffverbrauch, Wasserverbrauch und Toxizität aus. Eine mehrkriterielle [[Ökobilanz]] vermeidet diese Verzerrung.
+== Umweltwirkungen vollständig betrachten ==
+Ein Klimafußabdruck bildet Wasserbedarf, Ressourcenverbrauch und weitere Umweltwirkungen nicht vollständig ab. Eine mehrkriterielle [[Ökobilanz]] ergänzt die Betrachtung. Für die [[Verantwortungsvolle Digitalisierung|verantwortungsvolle Digitalisierung]] gehören außerdem Zugänglichkeit, Sicherheit und Nutzbarkeit zu einer tragfähigen Entscheidung.
 
 == Siehe auch ==
-
-* [[Ökobilanz]] · [[Rechenzentrum]] · [[Herstellung]] · [[Verantwortungsvolle Digitalisierung]] · [[WeNR]]
+* [[Green IT]]
+* [[Kreislaufwirtschaft]]
+* [[WeNR]]
 
 [[fr:Empreinte_Carbone]]
 [[en:Carbon_footprint]]

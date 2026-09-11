@@ -1,0 +1,26 @@
+Les '''codes de conduite et de bonnes pratiques sur l’IA''' désignent plusieurs instruments associés à l’[[AI Act]]. Ils n’ont pas tous les mêmes destinataires ni le même objet. Une organisation doit identifier le document, sa version et les engagements concernés avant de déclarer qu’elle y adhère.
+
+== Modèles d’IA à usage général ==
+Le [https://digital-strategy.ec.europa.eu/en/policies/ai-code-practice Code de bonnes pratiques pour les modèles à usage général] aide leurs fournisseurs à démontrer le respect de certaines obligations. Il traite de transparence, de droit d’auteur et, pour les modèles présentant un risque systémique, de sûreté et de sécurité. L’adhésion au code est volontaire ; les obligations du règlement auxquelles il se rapporte ne le deviennent pas.
+
+Pour une DSI acheteuse, la signature du fournisseur constitue une information à examiner avec la documentation du modèle et les conditions d’utilisation. Elle ne garantit ni la conformité de tous les usages en aval ni la qualité du système assemblé par l’intégrateur.
+
+== Codes de conduite de l’article 95 ==
+L’[https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-95 article 95] traite d’engagements volontaires concernant notamment l’environnement, la maîtrise de l’IA, la conception inclusive et la protection des personnes vulnérables. La page du Service Desk signale que son texte doit être lu avec les modifications de 2026 ; il faut vérifier la version juridique avant de formuler une obligation.
+
+Une équipe peut traduire un engagement environnemental en critères mesurables : consommation par tâche, durée de conservation des données ou justification d’un entraînement supplémentaire. Elle précise alors le périmètre, la méthode et le responsable du suivi. Un objectif sans mesure ni décision associée reste difficile à évaluer.
+
+== Transparence des contenus générés ==
+Le [https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content Code de bonnes pratiques sur la transparence des contenus générés par l’IA] accompagne les obligations de marquage et d’information de l’article 50. Il est distinct du code relatif aux modèles à usage général. Les équipes éditoriales et techniques doivent déterminer les obligations applicables à leur rôle et au contenu concerné.
+
+== Mise en œuvre ==
+Conserver une fiche par engagement : document et version, systèmes couverts, personne responsable, éléments de preuve et date de réexamen. Associer achats, juridique, sécurité, métiers et responsable du numérique durable. Les chartes internes peuvent compléter cette démarche, sans se présenter comme une certification européenne. Sources vérifiées le 11 septembre 2026.
+
+== Voir aussi ==
+* [[IA Responsable]]
+* [[Numérique Responsable]]
+
+[[Catégorie:Réglementation]]
+[[de:Verhaltenskodizes und Praxisleitfäden für KI]]
+[[en:AI codes of conduct and practice]]
+[[es:Códigos de conducta y de buenas prácticas de IA]]

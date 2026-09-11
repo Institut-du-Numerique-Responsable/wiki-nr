@@ -1,6 +1,6 @@
 # Deuxième enrichissement allemand — 11 septembre 2026
 
-Statut : préparé et prévisualisé, non publié. L’instantané `content/` reste la version publiée.
+Statut : publié et vérifié le 11 septembre 2026, révisions 100 à 102. L’instantané `content/` est synchronisé ; voir `published.json`.
 
 - [CO₂-Fußabdruck](de/CO%E2%82%82-Fu%C3%9Fabdruck.wiki) : distinction entreprise/produit, scopes appliqués à l’IT, GHG Protocol ICT Sector Guidance, données et incertitudes.
 - [Ökodesign](de/%C3%96kodesign.wiki) : besoin, compatibilité avec les équipements, RGESN, exemple de portail et mesure des résultats.

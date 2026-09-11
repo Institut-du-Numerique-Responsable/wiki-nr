@@ -4,7 +4,7 @@
 
 Die rasche Verbreitung generativer KI hat diese Systeme in den Arbeitsalltag von Organisationen gebracht. Verantwortungsvolle KI setzt deshalb Anforderungen entlang des gesamten Lebenszyklus eines Systems: Wahl des Anwendungsfalls, Trainingsdaten, Transparenz, menschliche Aufsicht und ökologischer Fußabdruck.
 
-Das Institut du Numérique Responsable hat diesen Ansatz in seiner '''KI-Charta''' festgehalten. Sie ergänzt die Charta für verantwortungsvolle Digitalisierung und steht im Einklang mit der europäischen KI-Verordnung (''AI Act'').
+Das Institut du Numérique Responsable hat diesen Ansatz in seiner [[KI-Charta]] festgehalten. Sie ergänzt die [[Charta für verantwortungsvolle Digitalisierung]]. Die gesetzlichen Pflichten des [[AI Act]] müssen daneben für den jeweiligen Einsatz geprüft werden; die Unterzeichnung einer Charta ist kein Konformitätsnachweis.
 
 == Die vier Prinzipien der KI-Charta ==
 
@@ -35,7 +35,25 @@ Das Institut du Numérique Responsable hat diesen Ansatz in seiner '''KI-Charta'
 * Den tatsächlichen Nutzen des Anwendungsfalls vor jeder Einführung prüfen
 * Ressourcenschonende, '''sparsame KI-Modelle''' bevorzugen
 * Den ökologischen Fußabdruck über den gesamten Lebenszyklus bewerten und minimieren
-* Umweltbewusste Praktiken bei Training und Bereitstellung anwenden, etwa nach AFNOR SPEC 2314 INR RIA31
+* Umweltbewusste Praktiken bei Training und Bereitstellung anwenden, mit dokumentierten Systemgrenzen und Messmethoden
+
+== Einen Anwendungsfall verantwortlich betreiben ==
+
+Vor der Auswahl eines [[KI-Modell|KI-Modells]] sollte das Team die Aufgabe und eine Vergleichslösung festlegen. Für eine interne Dokumentensuche kommen beispielsweise auch eine Suchmaschine oder eine strukturierte Wissenssammlung infrage. Ein [[RAG]]-System kann Quellen einbeziehen, garantiert aber weder zutreffende Antworten noch korrekte Zugriffsrechte.
+
+Für die Erprobung braucht es typische und schwierige Fälle, klare Qualitätskriterien und einen Weg zur menschlichen Prüfung. Die Bewertung sollte Fehler nach ihrer möglichen Wirkung unterscheiden. Eine plausible Formulierung darf fehlende Belege nicht verdecken. Fachbereich, Datenschutz und [[Cybersicherheit]] sollten Zuständigkeiten und Grenzen der Nutzung gemeinsam festhalten.
+
+== Umweltwirkung der KI messen ==
+
+Der Energiebedarf pro Anfrage hängt unter anderem von Modell, Hardware, Eingabe- und Ausgabelänge sowie Auslastung ab. Für Vergleiche sollten Teams dieselbe Aufgabe bei vergleichbarer Qualität und Antwortzeit untersuchen. Ein kleineres Modell ist eine Option, wenn es die Anforderungen erfüllt; seine Größe allein belegt noch keinen geringeren Gesamtfußabdruck.
+
+Zum Lebenszyklus gehören [[Trainingsdaten|Datenaufbereitung]], Training, Betrieb und die anteilige [[Herstellung]] der Infrastruktur. Neben dem [[CO₂-Fußabdruck]] sind Wasser und Ressourcen zu berücksichtigen. Die UBA-Studie [https://www.umweltbundesamt.de/publikationen/kuenstliche-intelligenz-im-umweltbereich Künstliche Intelligenz im Umweltbereich] untersucht Chancen und Risiken; ihr Stand von 2019 eignet sich nicht als Quelle aktueller Verbrauchswerte generativer Modelle.
+
+Ein Umweltzweck garantiert keinen positiven Nettoeffekt. Zusätzliche Nutzung und [[Rebound-Effekt|Rebound-Effekte]] gehören in die Bewertung. Die [[Digitale Suffizienz]] hilft, den Bedarf vor weiterer Automatisierung zu prüfen.
+
+== Regeln und freiwillige Zusagen unterscheiden ==
+
+[[Verhaltenskodizes und Praxisleitfäden für KI]] betreffen unterschiedliche Rollen und Verpflichtungen. Eine Organisation sollte benennen, welchen Kodex sie anwendet und welche Nachweise sie führt. [[Digitale Barrierefreiheit]], Rückmeldemöglichkeiten und geschulte Beschäftigte machen die Grundsätze im Betrieb überprüfbar.
 
 == Unterzeichnung ==
 

@@ -1,0 +1,135 @@
+[
+  {
+    "language": "de",
+    "title": "AI Act",
+    "file": "de/AI Act.wiki",
+    "base_revision": 94,
+    "sha256": "febf30b3ac74c6b001839d00db108a3192ddc310a61457a7687c9dca208a1383"
+  },
+  {
+    "language": "en",
+    "title": "AI Act",
+    "file": "en/AI Act.wiki",
+    "base_revision": 159,
+    "sha256": "f04069214d50cad20e6904c3797ebbfb05ed96d1d9cdc8a9302f8c1c6703d6dd"
+  },
+  {
+    "language": "es",
+    "title": "AI Act",
+    "file": "es/AI Act.wiki",
+    "base_revision": 84,
+    "sha256": "aad8d7b10025697140683bc5e6d765331680cd8e440b7ceb114c93e95249f56b"
+  },
+  {
+    "language": "fr",
+    "title": "AI Act",
+    "file": "fr/AI Act.wiki",
+    "base_revision": 887,
+    "sha256": "c6e89830915e09c73b291227d3d6cbd01d2c3e8b32b9cac394b5d9abe027be7a"
+  },
+  {
+    "language": "nl",
+    "title": "AI Act",
+    "file": "nl/AI Act.wiki",
+    "base_revision": 23,
+    "sha256": "00d8cacf37e5f7b553186e16c3f0616c5d28aea86e50d0cf4c497b5e51743165"
+  },
+  {
+    "language": "en",
+    "title": "AI codes of conduct and practice",
+    "file": "en/AI codes of conduct and practice.wiki",
+    "base_revision": 160,
+    "sha256": "4edf3a4317720438155941c43d38b25551737b093ec24a1ee68edc840caeedaa"
+  },
+  {
+    "language": "fr",
+    "title": "Codes de conduite et de bonnes pratiques IA",
+    "file": "fr/Codes de conduite et de bonnes pratiques IA.wiki",
+    "base_revision": 888,
+    "sha256": "ac2177bc56bc4536c18cb7a3e957080bf5cff57e8523de20e838a41de07d79e6"
+  },
+  {
+    "language": "fr",
+    "title": "Algorithme",
+    "file": "fr/Algorithme.wiki",
+    "base_revision": 672,
+    "sha256": "061f52ac8443435ce28cd67a22ad21ac200c819f4d860c49f2c303959da91656"
+  },
+  {
+    "language": "fr",
+    "title": "Modèle d'intelligence artificielle",
+    "file": "fr/Modèle d'intelligence artificielle.wiki",
+    "base_revision": 731,
+    "sha256": "4f3dffc2719c4d8a6d70a3f0b77ad0da651e13061d92e37b275e01229dee3d55"
+  },
+  {
+    "language": "fr",
+    "title": "Boîte noire",
+    "file": "fr/Boîte noire.wiki",
+    "base_revision": 683,
+    "sha256": "60800e12519d79d180cf19c0fa287dc0c204a89cb037e04ae09d7b178007cb10"
+  },
+  {
+    "language": "fr",
+    "title": "Prompting contextuel",
+    "file": "fr/Prompting contextuel.wiki",
+    "base_revision": 736,
+    "sha256": "be811d580b7e70f608f79742b7a9a85386db6d34d0241c08ed43a85271851423"
+  },
+  {
+    "language": "fr",
+    "title": "Apprentissage profond",
+    "file": "fr/Apprentissage profond.wiki",
+    "base_revision": 676,
+    "sha256": "2df7102df0ae63467b5a69a9ff7169f8b66fcbb546fc4432cd3f1cfdb7d5674e"
+  },
+  {
+    "language": "fr",
+    "title": "Fine-tuning",
+    "file": "fr/Fine-tuning.wiki",
+    "base_revision": 708,
+    "sha256": "4288aed95584a510045e421fa88e77a2c2e6eba1afce2295dfe7263c3e84714e"
+  },
+  {
+    "language": "fr",
+    "title": "Apprentissage automatique",
+    "file": "fr/Apprentissage automatique.wiki",
+    "base_revision": 675,
+    "sha256": "fb2e61bbcfa7cf70b75fc02a01a517331d1adb0db3a9236fec1371c3daf270cb"
+  },
+  {
+    "language": "fr",
+    "title": "RAG",
+    "file": "fr/RAG.wiki",
+    "base_revision": 737,
+    "sha256": "53c4eab578789bd4c2f7b2361007d6d3615aafb7ab772768fbef663859b61aea"
+  },
+  {
+    "language": "fr",
+    "title": "SLM",
+    "file": "fr/SLM.wiki",
+    "base_revision": 746,
+    "sha256": "b3d661faf951f3c56ea1f060a99e2c187eab17f7fbe648efa727cc96e0f2b799"
+  },
+  {
+    "language": "fr",
+    "title": "Données d'entraînement",
+    "file": "fr/Données d'entraînement.wiki",
+    "base_revision": 776,
+    "sha256": "adb7afd43744988c18f6f3dd004507087e4d8f3e71c128378128c00d4996d38b"
+  },
+  {
+    "language": "fr",
+    "title": "GHG Protocol",
+    "file": "fr/GHG Protocol.wiki",
+    "base_revision": 710,
+    "sha256": "592c65dcb5e21ab35955d92bdce19c2e45ad8a532b7f2f307564fd53c85163d0"
+  },
+  {
+    "language": "en",
+    "title": "GHG Protocol",
+    "file": "en/GHG Protocol.wiki",
+    "base_revision": 153,
+    "sha256": "9446d26ec54bc904d76d35cedd91572f49cfe99a13d9921238353d2002d54c06"
+  }
+]
