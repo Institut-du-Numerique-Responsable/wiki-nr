@@ -1,0 +1,21 @@
+Le '''coût total de possession''' ('''TCO''', ''total cost of ownership'') est une estimation de l’ensemble des dépenses associées à un équipement ou à un service sur toute sa durée de détention.
+
+Il recense le prix d’achat, mais aussi le déploiement, l’exploitation, la maintenance, les mises à jour, la formation, le reconditionnement pour une seconde vie interne et le retrait.
+
+== Intérêt pour le numérique responsable ==
+
+Le TCO est l’un des rares indicateurs financiers qui converge avec l’argumentaire environnemental. Raisonner en coût total plutôt qu’en prix d’achat favorise :
+
+* les équipements '''réparables''' et durables, dont le coût annualisé baisse avec la durée d’usage ;
+* l’'''allongement de la durée de vie''', qui répartit l’investissement initial ;
+* le '''[[Réemploi|réemploi]] interne''' plutôt que le remplacement systématique.
+
+Un poste conservé six ans coûte moins cher qu’un poste renouvelé tous les trois ans, et émet environ deux fois moins. Le raisonnement en TCO permet de le démontrer avec les chiffres de la comptabilité.
+
+À ne pas confondre avec le label [[TCO_Certified|TCO Certified]], qui porte sur la certification environnementale et sociale des équipements.
+
+== Voir aussi ==
+
+* [[Guide_des_Achats_Numériques_Responsables|Guide des Achats Numériques Responsables]] · [[Fin_de_Vie|Fin de Vie]] · [[Réemploi]] · [[Indice_de_réparabilité|Indice de réparabilité]] · [[Comptabilité_environnementale|Comptabilité environnementale]] · [[TCO_Certified|TCO Certified]]
+
+[[Catégorie:Concepts]]

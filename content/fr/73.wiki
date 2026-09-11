@@ -1,0 +1,13 @@
+== Définition ==
+On parle d'infobésité pour désigner toute situation de "surcharge informationnelle". Ce néologisme nous vient de la Belle Province (le Québec). Nous dirons qu'une personne est en surcharge informationnelle quand elle est destinataire d'une telle quantité d'informations qu'elle ne se trouve plus en position de les traiter toutes.
+
+== Infobésité et Numérique Responsable ==
+Transposée au [[Numérique Responsable|numérique responsable]], l’infobésité décrit un système d’information en surcharge. Le [[Digital Cleanup Day]] ([https://digital-cleanup-day.fr/ site officiel]) y oppose des règles élémentaires : durée de conservation de la donnée, maîtrise de son volume, nombre de copies, nombre de destinataires.
+
+Est-il par exemple nécessaire qu'une entreprise, qui stocke ses données sur le cloud, ajoute à la sauvegarde quotidienne que l'hébergeur lui garantit contractuellement une autre sauvegarde sur ses propres serveurs, eux même répliqués ? La donnée, en ce cas, se trouve recopiée en trois [[DataCenter|datacenters]] distincts. Il revient au propriétaire de la donnée de se poser la question.
+
+== Voir aussi ==
+
+=== Liens externes ===
+
+* Bonnes feuilles : « Apocalypse cognitive » : https://theconversation.com/bonnes-feuilles-apocalypse-cognitive-155247?utm_term=Autofeed&utm_medium=Social&utm_source=LinkedIn#Echobox=1613973985

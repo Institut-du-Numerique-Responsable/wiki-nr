@@ -1,0 +1,37 @@
+L’'''Académie NR''' est la plateforme de formation en libre accès de l’[[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]]. Elle propose des MOOC destinés à comprendre les enjeux environnementaux, sociaux et éthiques du numérique.
+
+== Définition ==
+
+L’Académie NR met à disposition des parcours de formation gratuits, ouverts à tous, sans prérequis. Les contenus sont diffusés sous licence '''CC BY-NC-ND 4.0''' et disponibles en français, anglais et néerlandais.
+
+== Les MOOC proposés ==
+
+{| class="wikitable"
+! Intitulé !! Durée !! Contenu !! Validation
+|-
+| Sensibilisation au Numérique Responsable || 30 min || Enjeux environnementaux, sociaux et éthiques du numérique || Aucune
+|-
+| Numérique Responsable, formation complète || 4 h 30 || Impacts environnementaux, sociaux, économiques et géopolitiques ; solutions concrètes || Certificat
+|-
+| Conception responsable d’un service numérique || ~1 h 30 || Démarche d’[[Ecoconception|écoconception]], outils et mise en pratique professionnelle || Aucune
+|-
+| [[IA_Responsable|IA Responsable]] || ~1 h || Enjeux éthiques, environnementaux et de gouvernance de l’intelligence artificielle || Attestation de suivi
+|}
+
+== Déploiement en interne ==
+
+Les organisations membres de l’INR peuvent obtenir les fichiers '''SCORM''' des parcours afin de les intégrer à leur propre plateforme de formation.
+
+== Voir aussi ==
+
+* [[Numérique_Responsable|Numérique Responsable]]
+* [[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]]
+* [[Ecoconception]]
+* [[IA_Responsable|IA Responsable]]
+* [[Charte_Numérique_Responsable|Charte Numérique Responsable]]
+
+=== Références externes ===
+
+* [https://www.academie-nr.org/ Académie NR]
+
+[[Catégorie:Formation et sensibilisation]]

@@ -1,0 +1,16 @@
+== Définition ==
+[[GDPR]] (EN) / RGPD (FR) désigne le Règlement Général sur la Protection des Données
+
+[[GDPR]] (EN) - Global Data Protection Regulation
+
+== Voir aussi ==
+
+=== Liens externes ===
+
+* CNIL - 2018 - Le r[https://www.cnil.fr/fr/reglement-europeen-protection-donnees èglement général sur la protection des données - RGPD] 
+* Directive Européenne [https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016L0680&from=FR 2016/680] 
+* RGPD: [https://edpb.europa.eu/our-work-tools/general-guidance/gdpr-guidelines-recommendations-best-practices_fr Lignes directrices, recommandations, bonnes pratiques]
+
+=== Articles Connexes ===
+
+* [[Commission Nationale de l'Informatique et des Libertés|CNIL (Commission Nationale de l'Informatique et des Libertés)]]

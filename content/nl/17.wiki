@@ -1,0 +1,64 @@
+Het '''einde van de levensduur''' is de fase waarin een apparaat niet langer door zijn eigenaar wordt gebruikt. In de IT bepaalt zij of de voor de [[Fabricage|fabricage]] gewonnen materialen worden teruggewonnen of definitief verloren gaan.
+
+== Niet het einde van de bruikbaarheid ==
+
+Afgedankte apparatuur werkt vaak nog. Wat eindigt is het gebruik door één bepaalde eigenaar, niet het vermogen om dienst te doen.
+
+Dat onderscheid staat centraal in de [[Duurzame IT|duurzame IT]]. De gebruiksduur verlengen is de krachtigste hefboom die er is, ver vóór het optimaliseren van het stroomverbruik, want de fabricage is al betaald.
+
+== Rangorde van verwerkingswijzen ==
+
+De routes zijn niet gelijkwaardig. Zij lopen van meest naar minst zinvol:
+
+# '''Hergebruik en refurbishment''': het apparaat blijft dienstdoen, ongewijzigd of hersteld. De enige route die een nieuwe fabricage werkelijk vermijdt.
+# '''Reparatie''': het vervangen van een onderdeel verlengt de gebruiksduur.
+# '''Terugwinning van onderdelen''': reserveonderdelen om andere apparaten te repareren.
+# '''Materiaalrecycling''': terugwinning van materialen, met aanzienlijke verliezen.
+# '''Energieterugwinning''': verbranding met warmtebenutting.
+# '''Storten''': het materiaal is verloren.
+
+De volgorde doet ertoe. Een nog werkend apparaat recyclen vernietigt de waarde van zijn fabricage, de duurste fase van de levenscyclus.
+
+== De concrete stappen ==
+
+* inzameling;
+* sortering en diagnose;
+* veilig wissen van gegevens;
+* refurbishment of demontage;
+* ontdoen van schadelijke stoffen: verwijderen van accu's, schermen en gevaarlijke componenten;
+* recycling of energieterugwinning.
+
+Het '''wissen van gegevens''' is de stap die eigen is aan de IT, en tegelijk de stap die het vaakst ontbreekt. Zij bepaalt of hergebruik überhaupt mogelijk is. Zonder betrouwbare procedure vernietigen organisaties uit voorzorg apparatuur die perfect werkt. De beveiligingsfunctie werkt daarmee rechtstreeks door op de ecologische voetafdruk, wat zelden zo wordt gezien bij het nemen van het besluit.
+
+== Het AEEA-kader ==
+
+Digitale apparatuur valt onder de regels voor afgedankte elektrische en elektronische apparatuur, die aparte inzamel- en verwerkingskanalen voorschrijven, gefinancierd door een bijdrage bij aankoop in het kader van de uitgebreide producentenverantwoordelijkheid.
+
+De inzamelpercentages blijven ruim onder de doelstellingen. Een groot deel van de apparatuur ligt in laden, verdwijnt in het huisvuil of wordt buiten gecontroleerde kanalen uitgevoerd.
+
+== De slapende apparaten ==
+
+Een aanzienlijk deel van elk apparatenpark is noch in gebruik, noch aan het einde van zijn levensduur: het wacht in een kast. Deze apparaten worden niet hergebruikt en hun fabricage is allang betaald. Ze inventariseren levert vaak de snelste winst op en kost niets dan aandacht.
+
+== Een materialenvraagstuk ==
+
+Een digitaal apparaat verenigt tientallen metalen, waaronder zeldzame aardmetalen en kritieke metalen. Terugwinning is technisch lastig: legeringen en verlijmde samenstellingen bemoeilijken het scheiden, en de werkelijke recyclingpercentages van verscheidene van deze metalen blijven zeer laag.
+
+Elk niet-hergebruikt apparaat zet daarmee een nieuwe winningsronde in gang.
+
+== Wat een organisatie kan doen ==
+
+* de gebruiksduur verlengen voordat het einde van de levensduur überhaupt aan de orde is;
+* de voorwaarden voor hergebruik al bij de aankoop vastleggen: repareerbaarheid, beschikbaarheid van onderdelen, een wisprocedure;
+* apparatuur via refurbishmentkanalen leiden in plaats van haar te vernietigen;
+* schenking of verkoop aan sociale werkvoorzieningen verkiezen;
+* nagaan waar het park werkelijk terechtkomt, in plaats van te stoppen bij de afhaalbon.
+
+== Zie ook ==
+
+* [[Fabricage]] · [[Duurzame IT]] · [[Digitale soberheid]] · [[RGESN]]
+
+[[fr:Fin_de_Vie]]
+[[en:End_of_life]]
+[[de:Lebensende]]
+[[es:Fin_de_Vida]]

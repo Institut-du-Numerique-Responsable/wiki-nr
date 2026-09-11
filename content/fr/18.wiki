@@ -1,0 +1,39 @@
+== Définition ==
+BEGES est l'acronyme pour Bilan des Emissions des Gaz à Effet de Serre. Ces bilans sont rendus obligatoires par la loi du 12 juillet 2010 pour les entreprises :
+* de plus de 500 salariés en métropole, 
+* les entreprises de plus de 250 salariés en outre-mer, 
+* les établissements publics de plus de 250 personnes, 
+* les collectivités territoriales de plus de 50 000 habitants et l’Etat
+
+== Contenu et périmètre ==
+
+Le BEGES porte sur les trois scopes définis par le [[GHG_Protocol|GHG Protocol]] :
+
+* '''scope 1''' : émissions directes ;
+* '''scope 2''' : émissions indirectes liées à l’énergie consommée ;
+* '''scope 3''' : autres émissions indirectes significatives.
+
+L’inclusion du scope 3 constitue l’évolution majeure du dispositif : longtemps facultatif, il est désormais attendu, alors qu’il représente très souvent l’essentiel des émissions, particulièrement pour les activités numériques, où la [[Fabrication]] des équipements domine.
+
+Le bilan doit être accompagné d’un '''plan de transition''' présentant les actions de réduction envisagées et leurs effets attendus.
+
+== Périodicité et publication ==
+
+Les bilans sont publiés sur la plateforme de l’[[Agence_de_la_Transition_Écologique|ADEME]] et sont accessibles publiquement. La périodicité est de quatre ans pour les entreprises privées et de trois ans pour l’État, les collectivités et les établissements publics.
+
+== Méthodes utilisables ==
+
+Le BEGES fixe une obligation de résultat, pas de méthode. Les organisations s’appuient en pratique sur le [[Bilan_Carbone|Bilan Carbone]]®, sur le [[GHG_Protocol|GHG Protocol]] ou sur la norme [[ISO_14064|ISO 14064]], qui conduisent à des résultats comparables.
+
+== Liens connexes ==
+
+
+[https://www.ecologie.gouv.fr/sites/default/files/Méthode%20pour%20la%20réalisation%20des%20BEGES%20-%20Art.%20L229-25%20-%20Version%204.pdf Méthode pour la réalisation des bilans d’émissions de gaz à effet de serre conformément à l’article L. 229-25 du code de l’environnement]
+
+* [[Bilan_Carbone|Bilan Carbone]]
+* [[GHG_Protocol|GHG Protocol]]
+* [[ISO_14064|ISO 14064]]
+* [[CSRD]]
+* [[Empreinte_Carbone|Empreinte Carbone]]
+
+[[Catégorie:Réglementation]]

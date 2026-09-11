@@ -1,0 +1,17 @@
+'''On-premise''' désigne l’hébergement des systèmes et des données sur les infrastructures propres de l’organisation, par opposition au [[Cloud_computing|cloud]].
+
+== Ce que cela apporte ==
+
+Maîtrise de la localisation des données et du droit applicable, indépendance vis-à-vis d’un fournisseur, contrôle de la durée d’usage du matériel, donc du principal levier de réduction d’impact.
+
+== Ce que cela coûte ==
+
+Une salle serveur d’entreprise atteint rarement le taux d’utilisation et le [[Power_Usage_Effectiveness|PUE]] d’un [[DataCenter|centre de données]] professionnel. Le surdimensionnement y est fréquent, dicté par la crainte de la panne plutôt que par la mesure de la charge.
+
+Le choix se juge donc sur les usages réels, pas sur le principe. La [[Colocation|colocation]] constitue souvent le compromis : matériel maîtrisé, infrastructure mutualisée.
+
+== Voir aussi ==
+
+* [[Cloud_computing|Cloud computing]] · [[Colocation]] · [[Cloud_hybride|Cloud hybride]] · [[Autonomie_stratégique|Autonomie stratégique]] · [[Power_Usage_Effectiveness|Power Usage Effectiveness]]
+
+[[Catégorie:Concepts]]

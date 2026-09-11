@@ -1,0 +1,21 @@
+'''AI for Good''' désigne l’ensemble des initiatives visant à mettre l’[[Intelligence_Artificielle|intelligence artificielle]] au service du bien commun : santé, éducation, climat, inclusion, solidarité.
+
+== Portée ==
+
+Le terme recouvre des réalités très inégales, du projet de recherche appliquée à l’opération de communication. Trois questions permettent de distinguer :
+
+* le problème traité était-il '''identifié par les personnes concernées''', ou choisi parce qu’il se prêtait à une démonstration technique ;
+* une solution '''plus simple''' aurait-elle produit le même résultat ;
+* le projet a-t-il été '''mesuré''' après déploiement, ou seulement annoncé.
+
+Sans ces vérifications, l’étiquette relève du [[Green_Washing|blanchiment d’image]] appliqué au champ social.
+
+== Voir aussi ==
+
+* [[AI_for_Green|AI for Green]]
+* [[IA_Responsable|IA Responsable]]
+* [[Objectif_du_Développement_Durable|Objectif du Développement Durable]]
+* [[Inclusion]]
+* [[Green_Washing|Green Washing]]
+
+[[Catégorie:Intelligence artificielle]]

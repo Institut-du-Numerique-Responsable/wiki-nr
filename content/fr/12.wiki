@@ -1,0 +1,9 @@
+== Définition ==
+ASHRAE est l'acronyme pour American Society of Heating, Refrigerating and Air-Conditioning Engineers. C'est une organisation internationale spécialisée dans le génie thermique et climatique.
+
+Les directives thermiques d'ASHRAE s'appliquent à tout type de bâtiment thermique et dans notre contexte [[Numérique Responsable|NR]] plus particulièrement à celui des [[DataCenter|datacenter]].
+
+== Liens connexes ==
+* https://www.ashrae.org/
+*[https://tc0909.ashraetcs.org/documents/ASHRAE_TC0909_Power_White_Paper_22_June_2016_REVISED.pdf Data Center Power Equipment Thermal Guidelines and Best Practices]
+[[Catégorie:Labels et certifications]]

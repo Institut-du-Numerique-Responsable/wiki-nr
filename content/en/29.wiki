@@ -1,0 +1,17 @@
+'''Bilan Carbone®''' is a French carbon accounting method allowing an organisation to assess its greenhouse gas emissions and build a reduction pathway.
+
+Created in 2004 by ADEME, it is now maintained by the Association pour la transition Bas Carbone. Version 9 has been in force since 1 January 2025.
+
+== Scope ==
+
+The method covers the three scopes defined by the [[GHG Protocol]]. For organisations in the digital sector, scope 3 is almost always dominant: [[Manufacturing|manufacturing]] equipment weighs more than the electricity it consumes in use.
+
+== Version 9 ==
+
+Version 9 structures the approach in seven steps and introduces several changes: measurement of all three scopes becomes mandatory, a transition plan is required rather than recommended, stakeholder involvement is formalised, and the method is offered at three maturity levels.
+
+== See also ==
+
+* [[GHG Protocol]] · [[ISO 14064]] · [[Carbon footprint]] · [[Life cycle assessment]]
+
+[[Category:Frameworks and methods]]

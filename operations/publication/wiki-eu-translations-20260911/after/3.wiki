@@ -1,0 +1,26 @@
+'''Verhaltenskodizes und Praxisleitfäden für KI''' bezeichnen unterschiedliche Instrumente im Zusammenhang mit dem [[AI Act]]. Sie richten sich an verschiedene Akteure und verfolgen unterschiedliche Zwecke. Bevor eine Organisation ihre Teilnahme erklärt, sollte sie das Dokument, die Fassung und die übernommenen Verpflichtungen benennen.
+
+== KI-Modelle mit allgemeinem Verwendungszweck ==
+Der [https://digital-strategy.ec.europa.eu/en/policies/ai-code-practice General-Purpose AI Code of Practice, auf Englisch vorgestellt,] unterstützt Modellanbieter beim Nachweis bestimmter gesetzlicher Anforderungen. Er behandelt Transparenz, Urheberrecht sowie Sicherheit bei Modellen mit systemischem Risiko. Die Unterzeichnung ist freiwillig; die zugrunde liegenden gesetzlichen Pflichten bleiben verbindlich.
+
+Für eine einkaufende IT-Abteilung ist die Unterzeichnung durch den Anbieter eine Information, die zusammen mit Modelldokumentation und Vertragsbedingungen zu bewerten ist. Sie garantiert weder die Rechtskonformität sämtlicher nachgelagerter Anwendungen noch die Qualität eines vom Integrator aufgebauten Systems.
+
+== Verhaltenskodizes nach Artikel 95 ==
+[https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-95 Artikel 95, auf Englisch,] behandelt freiwillige Zusagen unter anderem zu ökologischer Nachhaltigkeit, KI-Kompetenz, inklusiver Gestaltung und dem Schutz schutzbedürftiger Personen. Der Service Desk weist darauf hin, dass sein angezeigter Text zusammen mit den Änderungen von 2026 gelesen werden muss. Vor der Formulierung einer Anforderung ist die geltende Rechtsfassung zu prüfen.
+
+Ein Team kann eine Umweltzusage in messbare Kriterien übersetzen: Energie je Aufgabe, Aufbewahrungsfristen für Daten oder die Begründung eines zusätzlichen Trainings. Es sollte Systemgrenzen, Messmethode und Zuständigkeit für die Nachverfolgung festhalten. Ein Ziel lässt sich nur schwer bewerten, wenn Messung und daraus folgende Entscheidungen fehlen.
+
+== Transparenz bei erzeugten Inhalten ==
+Der [https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content Praxisleitfaden zur Transparenz KI-generierter Inhalte, auf Englisch vorgestellt,] unterstützt die Kennzeichnungs- und Offenlegungspflichten nach Artikel 50. Er ist ein eigenes Instrument neben dem Kodex für Modelle mit allgemeinem Verwendungszweck. Redaktion und Technik müssen prüfen, welche Pflichten für ihre Rolle und die jeweiligen Inhalte gelten.
+
+== Umsetzung in der Organisation ==
+Für jede Zusage sollten Dokument und Fassung, erfasste Systeme, Zuständigkeit, Nachweise und Überprüfungstermin festgehalten werden. Einkauf, Rechtsabteilung, Sicherheit, Serviceverantwortliche und das Team für nachhaltige IT gehören in diese Abstimmung. Eine interne Charta kann die Arbeit ergänzen, ist aber keine europäische Zertifizierung. Quellenstand: 11. September 2026.
+
+== Siehe auch ==
+* [[Verantwortungsvolle KI]]
+* [[Verantwortungsvolle Digitalisierung]]
+
+[[Category:Künstliche Intelligenz]]
+[[es:Códigos de conducta y de buenas prácticas de IA]]
+[[fr:Codes de conduite et de bonnes pratiques IA]]
+[[en:AI codes of conduct and practice]]

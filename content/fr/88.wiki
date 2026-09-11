@@ -1,0 +1,19 @@
+== Définition ==
+Ce concept désigne toute démarche de l’employeur visant à favoriser le sentiment de bien-être du salarié dans l’exercice de ses tâches et missions.
+
+Les principes qui sous-tendent la QVT reposent sur l’observation faite qu’un collaborateur sera d’autant plus productif et impliqué dans son travail, qu’il s’y sentira bien.  Plusieurs notions sont ici déterminantes : la confiance, la reconnaissance des compétences et du savoir-faire, la satisfaction sur les conditions de travail (bureau, horaires, ambiance, relations hiérarchiques, salaire). S’y ajoute l’équilibre entre vie professionnelle et vie privée, que le télétravail a mis en lumière depuis la crise sanitaire de la Covid.  
+
+La QVT sont trois lettres que l’on entend de plus en plus en entreprise.
+
+Pour l’employeur, elles sont une garantie d’attirer à lui et fidéliser des collaborateurs talentueux, qui deviendront des ambassadeurs et défenseurs de l’entreprise, en interne (entre collègues de travail) et en externe (lors de salons professionnels, de déplacements…).
+
+Pour le salarié, elles sont une sorte de promesse de l’entreprise de lui offrir un cadre de travail apaisant, accueillant, bienveillant, adapté, respectueux : un milieu où il sera écouté et pourra s’épanouir, donner le meilleur de lui-même.
+
+Tous les ans (depuis 2003), l’agence nationale pour l’amélioration des conditions de travail (ANACT) organise une « [https://www.anact.fr/semaine-pour-la-qualite-de-vie-au-travail Semaine de la QVT] », pour motiver les employeurs à promouvoir cette démarche auprès de leurs équipes.
+
+== Dans le cadre du numérique responsable ==
+La relation entre les notions de QVT et de [[Numérique Responsable|NR]] n’apparaît pas immédiatement au lecteur. Malgré tout elle est existe dans le fait que l’organisation génère de la QVT quand :
+
+* elle confie à son collaborateur, un équipement électronique performant et conforme à ses  besoins,
+* elle présente ce choix de matériel comme élément de sa politique RSE (prise en compte des impacts environnementaux, carbone, sociaux lors de l'achat de cet équipement),
+* elle le responsabilise en tant qu’éco-acteur de l’entreprise.

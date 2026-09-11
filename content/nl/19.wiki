@@ -1,0 +1,26 @@
+'''Green IT''' is de aanpak om de ecologische voetafdruk van het informatiesysteem zelf te verkleinen: apparatuur, datacenters, netwerken en software.
+
+Het vormt een van de vier pijlers van [[Duurzame IT|duurzame IT]], en is de oudst herkende.
+
+== Reikwijdte ==
+
+* verlenging van de gebruiksduur van apparatuur, de eerste hefboom gezien het gewicht van de [[Fabricage|fabricage]];
+* ecodesign van digitale diensten;
+* efficiëntie van de infrastructuur ([[Power Usage Effectiveness|PUE]], waterefficiëntie, warmteterugwinning);
+* inkoopbeleid en [[Einde levensduur|einde levensduur]] van de hardware;
+* vermindering van het volume aan bewaarde gegevens.
+
+== Wat het niet dekt ==
+
+Green IT behandelt de impact '''van''' digitale technologie. Het zegt niets over het gebruik van digitale technologie ten dienste van het milieu (IT for Green), noch over de sociale dimensies — toegankelijkheid, inclusie, arbeidsomstandigheden.
+
+Duurzame IT terugbrengen tot alleen Green IT is de meest voorkomende verwarring.
+
+== Zie ook ==
+
+* [[Duurzame IT]] · [[Digitale soberheid]] · [[Fabricage]] · [[Einde levensduur]] · [[Power Usage Effectiveness]]
+
+[[de:Green IT]]
+[[en:Green IT]]
+[[es:Green IT]]
+[[fr:Green IT]]

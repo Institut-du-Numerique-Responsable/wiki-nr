@@ -1,0 +1,5 @@
+== Définition ==
+Une '''CMDB''' ou '''C'''onfiguration '''M'''anagement '''D'''ata'''B'''ase est un référentiel permettant de lister l’ensemble des installations IT d’une entreprise ou organisation. Ce référentiel a vocation à contenir l’ensemble des actifs, leur description ainsi que les relations qui peuvent les lier les uns aux autres. 
+
+== Dans le cadre du Numérique Responsable ==
+La CMDB fournit une vision organisée des données du SI. La CMDB est devenue un outil au cœur des politiques [[Numérique Responsable|NR]] des entreprises car elle permet d’inventorier l’ensemble des composants de leurs infrastructures en vue soit d’une estimation de l'[[Empreinte Carbone|empreinte carbone]] du parc ou du bon usage des licences ou des matériels par exemple.

@@ -1,0 +1,27 @@
+== Dans le cadre du numérique responsable ==
+Les 5R adaptés au numérique responsable permettent de donner des pistes d'investigation afin d'équilibrer au mieux la balance environnement vs numérique: 
+
+* '''R'''efuser : La compréhension et l'analyse détaillée du besoin (matériel et/ou logiciel) permettent d'établir la réelle nécessité d'investir dans de nouveaux équipements et/ou une nouvelle solution logicielle.  Cette analyse doit également inclure un état des lieux de l'existant afin d'identifier de possible solutions déjà en place (matérielles et/ou logicielles).
+* '''R'''éduire : L'adéquation entre investissements et bénéfices doit conduire à établir la réelle utilité de la démarche et donc à limiter les options et/ou les installations d'applicatifs, notamment si leur utilisation est occasionnelle.
+* '''R'''éparer : Lors de l'achat de tout nouvel équipement, la réparabilité, les possibilités d'évolution et la durabilité de celui ci doivent être prises en considération.  Il est également essentiel avant tout nouvel investissement d'évaluer la possibilité de réparer, faire évoluer un équipement existant.
+* '''R'''éutiliser : Le prêt, la location et le matériel reconditionné sont des solutions à envisager avant tout investissement matériel et/ou solution.  Lorsqu'un équipement ne sert plus, le don est une solution afin d'alimenter l'[[Economie Circulaire|économie circulaire]] notamment par le biais des entreprises de l'[[Economie Sociale et Solidaire|ESS]] engagées dans le numérique.
+* '''R'''ecycler : Le matériel informatique hors d’usage doit alimenter la filière de recyclage des [[Déchets d’Équipements Électriques et Électroniques|DEEE]]. 
+
+== Voir aussi ==
+
+=== Références ===
+<references />
+
+=== Articles connexes ===
+
+* [[Ecolabel|Écolabel]]
+* [[BLUE ANGEL|Blue angel]]
+* [[Recyclage des déchets]]
+* [[Reconditionnement]]
+
+=== Liens externes ===
+
+* INRIA - [https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie2/FichesConcept/FC2.4.1-Les5R.html Les 5R du numérique]
+* Wikipédia - [https://fr.wikipedia.org/wiki/R%C3%A8gle_des_5_R Règle des 5 R]
+*[https://institutnr.org/votre-prochain-pc-sera-assurement-un-pc-reconditionne Votre prochain PC sera assurément un PC reconditionné] - 06/2020 - S. LE BRUSQ, OM Conseil
+*[https://institutnr.org/vos-vieux-mobiles-ont-encore-des-ressources Donner c’est aider ! Vos vieux mobiles ont encore tellement de ressources] - 03/2021- L.HURAUL

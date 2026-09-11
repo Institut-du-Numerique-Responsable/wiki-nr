@@ -1,0 +1,31 @@
+== Définition ==
+Ce qu’on désigne communément par « 5G » est la nouvelle génération des réseaux mobiles introduite par l’industrie des télécoms. Elle répond à l’initiative de l’Union Internationale des Télécommunications (IMT- 2020), qui définit les grandes catégories de performance que ces nouvelles technologies permettront d’atteindre. La 5G s’appuie sur de nouvelles fréquences (bandes 3,4 à 3,8 GHz et 26 GHz) qui vont apporter davantage de capacité aux réseaux actuels, presque saturés en 2020 dans les zones les plus densément habitées. 
+
+== Utilité ==
+La 5G est reconnue apte à garantir simultanément : 
+
+* une plus grande vitesse de transmission des données pour répondre au besoin croissant de services numériques (un débit jusqu’à dix fois supérieur à la 4G : de 10 Gb/s en liaison montante et 20 Gb/s en liaison descendante),
+* une plus faible latence (de l’ordre d’1 milliseconde) nécessaire à une interactivité en temps réel exigée notamment par la commande à distance d’objets de précision (conduite de véhicules autonomes, guidage de drones, télémédecine…),
+* une moindre consommation électrique des [[terminaux]] (jusqu’à 90%), indispensable à l’expansion de l’internet des objets (éco-domotique, RFID, technologies de localisation…),
+* une disponibilité de 99,99%,
+* une couverture de 100%.
+
+La 5G permettra l’existence d’une densité d’[[objets connectés]] supérieure à celle d’aujourd’hui. Leur faculté à émettre uniquement à l’endroit et au moment où cela est nécessaire (en modulant la puissance d’émission selon la demande) entraînera une moindre consommation individuelle d’énergie et un allongement de la durée de vie des batteries. 
+
+== Les questions environnementales, sanitaires et sociales ==
+Certains des élus locaux voient dans la 5G « le déploiement d’une technologie inutile, symbole d’une société technicienne de contrôle social (via les objets connectés) et consumériste, inféodée aux grandes firmes »<ref>https://www.lemonde.fr/politique/article/2020/08/17/protection-de-la-sante-lutte-contre-le-consumerisme-les-raisons-de-l-opposition-d-une-partie-de-la-gauche-a-la-5g_6049140_823448.html</ref>. D’autres, plus nombreux, s’inquiètent des conséquences des ondes électromagnétiques des antennes relais sur l’environnement et la santé.
+
+Saisi en mars 2020 par le Président du Sénat, le [https://www.hautconseilclimat.fr/ Haut Conseil pour le Climat (HCC)] publie le 19 décembre 2020 son rapport sur l’impact environnemental du déploiement de la cinquième génération de réseaux mobiles. Sa présidente, la climatologue [https://fr.wikipedia.org/wiki/Corinne_Le_Qu%C3%A9r%C3%A9 Corinne Le Quéré] déclare :<blockquote>« La 5G est susceptible d’augmenter substantiellement l’impact carbone du numérique en France notamment à travers l’empreinte carbone importée de l’étranger par le renouvellement des terminaux et de l’infrastructure réseau »</blockquote>Cette crainte est donc directement liée au [[paradoxe de Jevons]] ou [[Effet Rebond|effet rebond]].
+
+ Le HCC évalue cette augmentation à 45% des émissions de gaz à effet de serre d’ici 2030.
+
+==Voir aussi==
+
+=== Liens externes ===
+
+* Arcep - Toutes les questions sur la 5G : https://www.arcep.fr/nos-sujets/parlons-5g-toutes-vos-questions-sur-la-5g.html
+* 5G, rapport, technologie, controverse : https://gauthierroussilhe.com/pdf/5G-Juillet2020.pdf
+* Haut conseil pour le climat - 2020 - Maitrise Carbone de la 5G : https://www.hautconseilclimat.fr/wp-content/uploads/2020/12/rapport-5g_haut-conseil-pour-le-climat.pdf
+* Pages Wikipédia sur la technologie 5G : https://fr.wikipedia.org/wiki/5G  
+
+=== Bibliographie ===

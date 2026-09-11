@@ -1,0 +1,65 @@
+'''End of life''' is the stage at which a piece of equipment is no longer used by its owner. In digital technology it decides whether the materials extracted for [[Manufacturing|manufacturing]] are recovered or lost for good.
+
+== It is not the end of usability ==
+
+Discarded equipment is very often still working. What ends is its use by one particular owner, not its capacity to serve.
+
+The distinction sits at the centre of [[Sustainable IT|sustainable IT]]. Extending the working life of a device is the most effective lever available, far ahead of optimising its electricity consumption, because [[Manufacturing|manufacturing]] has already been paid for.
+
+== Hierarchy of treatments ==
+
+The options are not equivalent. They rank from most to least worthwhile:
+
+# '''Reuse and refurbishment''': the device keeps working, as is or restored. The only route that genuinely avoids manufacturing a new one.
+# '''Repair''': replacing a component extends the working life.
+# '''Component recovery''': harvesting parts to repair other equipment.
+# '''Material recycling''': recovery of materials, with substantial losses.
+# '''Energy recovery''': incineration with heat capture.
+# '''Landfill''': the material is lost.
+
+The order matters. Recycling a device that still worked destroys the value of its manufacturing, the most costly stage of the [[Life cycle assessment|life cycle]].
+
+== The concrete steps ==
+
+* collection;
+* sorting and diagnosis;
+* secure data erasure;
+* refurbishment or dismantling;
+* depollution: removal of batteries, screens and hazardous components;
+* recycling or energy recovery.
+
+'''Data erasure''' is the step specific to digital equipment, and the one most often missing. It determines whether reuse is possible at all. Without a reliable procedure, organisations destroy equipment in perfect working order as a precaution. The security function therefore acts directly on the environmental footprint, which is rarely how the decision is framed.
+
+== The WEEE framework ==
+
+Digital equipment falls under the rules on waste electrical and electronic equipment (WEEE), which impose dedicated collection and treatment channels funded by a contribution levied at purchase, under extended producer responsibility.
+
+Collection rates remain well below target. A large share of equipment sits in drawers, leaves through household waste, or is exported outside controlled channels.
+
+== The equipment that sleeps ==
+
+A significant part of any fleet is neither in use nor at end of life: it waits in a cupboard. These devices are not reused, and their manufacturing is long since paid for. Taking an inventory of them is often the fastest available gain, and it costs nothing but attention.
+
+== A materials question ==
+
+A digital device concentrates dozens of metals, including rare earths and critical metals. Recovering them is technically hard: alloys and bonded assemblies make sorting difficult, and effective recycling rates for several of these metals stay very low.
+
+Every device not reused therefore triggers a fresh round of mining. That is what ties end of life to the wider question of material footprint.
+
+== What an organisation can do ==
+
+* extend the working life before considering end of life at all;
+* set the conditions for reuse at purchase: repairability, availability of spare parts, an erasure procedure;
+* route equipment through refurbishment channels rather than destruction;
+* prefer donation or resale to social economy operators;
+* track where the fleet actually ends up, rather than stopping at the collection docket.
+
+== See also ==
+
+* [[Manufacturing]] · [[Circular economy]] · [[Life cycle assessment]] · [[Digital sobriety]] · [[Green IT]] · [[Carbon footprint]]
+
+[[Category:Concepts]]
+[[de:Lebensende]]
+[[es:Fin de Vida]]
+[[fr:Fin de Vie]]
+[[nl:Einde levensduur]]

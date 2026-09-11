@@ -1,0 +1,17 @@
+== Définition ==
+Capacité d’un écosystème à résister et à survivre à des altérations ou à des perturbations affectant sa structure ou son fonctionnement, et à trouver, à terme, un nouvel équilibre.
+
+Cette définition implique que des vulnérabilités ont été créées. Le terme de résilience peut être utilisé afin de divertir le débat de la pauvreté et des implications socio-politiques qui sont à l'origine de ces vulnérabilités.
+
+== Résilience numérique et dépendances IT ==
+Pour une organisation, la résilience numérique concerne la continuité des activités essentielles lorsque ses systèmes, fournisseurs ou infrastructures subissent une perturbation. L’équipe IT doit identifier les dépendances, préparer la reprise et tester les solutions de repli avec les métiers.
+
+Le dépôt [https://gitlab.com/digitalresilienceinitiative/adri-irn aDRI – Indice de Résilience Numérique (IRN)] présente un référentiel d’analyse des dépendances numériques. Il couvre huit piliers, dont la continuité opérationnelle, les fournisseurs, la cybersécurité et la dimension environnementale. Le dépôt propose une grille en français et un questionnaire ; son README annonce la version 0.4. Il s’agit d’une démarche d’évaluation portée par l’aDRI, pas d’une obligation réglementaire. Les conditions de réutilisation figurent dans le dépôt.
+
+Le rapport [https://institutnr.org/low-tech-et-resilience-numerique Cigref–INR sur la low-tech et la résilience numérique] complète cette approche par des pistes de maintenance, de simplification et de continuité. Voir aussi [[Low Tech]] et [[Cybersécurité]].
+
+== Voir aussi ==
+
+=== Lien externe ===
+
+* Wikipédia - [https://fr.wikipedia.org/wiki/R%C3%A9silience_(%C3%A9cologie) Résilience]

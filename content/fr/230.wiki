@@ -1,0 +1,18 @@
+L’'''autonomie stratégique''' désigne la capacité d’une organisation à maîtriser ses choix technologiques sans dépendance excessive à un fournisseur, une technologie ou une juridiction.
+
+== Ce qui la met en cause ==
+
+* le '''[[Vendor_lock-in|verrouillage fournisseur]]''', qui rend le changement coûteux au point d’être théorique ;
+* la '''perte de compétences internes''', qui empêche de reprendre la main même quand le contrat le permet ;
+* la '''dépendance juridique''', lorsque les données relèvent d’un droit étranger ;
+* la '''concentration''' du marché sur quelques acteurs, en particulier pour l’hébergement et les modèles d’IA.
+
+== Leviers ==
+
+Formats ouverts, [[Réversibilité|réversibilité]] contractuelle et technique vérifiée par des essais réels, compétences maintenues en interne, architectures permettant le changement de composant. La démarche [[Low_Tech|low tech]] rejoint cette préoccupation : un système simple se maîtrise, se répare et se remplace.
+
+== Voir aussi ==
+
+* [[Réversibilité]] · [[Vendor_lock-in|Vendor lock-in]] · [[On-premise]] · [[Cloud_computing|Cloud computing]] · [[Low_Tech|Low Tech]] · [[Résilience]]
+
+[[Catégorie:Concepts]]

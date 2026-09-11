@@ -1,0 +1,27 @@
+Un '''biais algorithmique''' est une distorsion produite par un système d’[[Intelligence_Artificielle|intelligence artificielle]] lorsqu’il reproduit ou amplifie les biais présents dans ses [[Données_d'entraînement|données d’entraînement]].
+
+Ces biais peuvent être culturels, sociaux, genrés, raciaux, géographiques ou générationnels.
+
+== Origines ==
+
+* '''Données non représentatives''' : une population sous-représentée dans l’entraînement est moins bien traitée par le modèle ;
+* '''Reproduction de discriminations passées''' : un modèle entraîné sur des décisions historiques en apprend les préjugés ;
+* '''Choix de conception''' : la variable optimisée, les seuils retenus, la définition même de la réussite encodent des valeurs ;
+* '''Amplification''' : un modèle a tendance à accentuer les régularités qu’il détecte, y compris les plus contestables.
+
+== Traitement ==
+
+Le biais ne se corrige pas seulement au niveau du modèle. Il suppose d’examiner la constitution des jeux de données, de tester les résultats par sous-populations, de documenter les écarts constatés et d’organiser une voie de recours pour les personnes concernées.
+
+La Charte IA de l’[[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]] et l’[[AI_Act|AI Act]] imposent l’un et l’autre ce travail pour les usages touchant à des décisions individuelles.
+
+== Voir aussi ==
+
+* [[Données_d'entraînement|Données d'entraînement]]
+* [[IA_Responsable|IA Responsable]]
+* [[AI_Act|AI Act]]
+* [[Acceptabilité]]
+* [[Inclusion]]
+* [[Accessibilité_Numérique|Accessibilité Numérique]]
+
+[[Catégorie:Intelligence artificielle]]

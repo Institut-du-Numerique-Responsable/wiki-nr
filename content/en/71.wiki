@@ -1,0 +1,30 @@
+'''Fine-tuning''' adapts an existing model by training it further on selected examples. The training changes some or all of its parameters. Teams use it to improve performance on a defined task, teach a response format or adapt a model to a specialist domain.
+
+== Full training or a smaller update ==
+
+Full fine-tuning updates all model parameters. Parameter-efficient methods train a smaller set of additional or selected parameters. LoRA, for example, learns low-rank updates while keeping the original weights frozen.<ref>Hu et al., [https://arxiv.org/abs/2106.09685 LoRA: Low-Rank Adaptation of Large Language Models].</ref>
+
+This can reduce training memory and the amount of model-specific data that must be stored. It does not automatically produce a smaller base model or a fixed reduction in inference energy. Hugging Face's PEFT documentation describes several such methods and their implementation constraints.<ref>Hugging Face, [https://huggingface.co/docs/peft/en/index Parameter-Efficient Fine-Tuning documentation].</ref>
+
+== Example: extracting fields from requests ==
+
+Suppose a team needs a model to return a product identifier, date and fault category in a fixed format. First, test clear instructions and a few examples through [[Contextual prompting|contextual prompting]]. If recurring errors remain, collect representative examples with checked target outputs and reserve separate cases for evaluation.
+
+A fine-tuned candidate should beat the original workflow on those reserved cases. Check missing fields, invalid formats and fabricated values, not just whether the output looks plausible. Test whether the update has also weakened capabilities that the service still needs.
+
+== Choosing between fine-tuning and retrieval ==
+
+[[RAG]] supplies documents during a request; fine-tuning changes model behaviour through training. They can be combined. Retrieval is often useful when documents change frequently and answers need traceable sources. Fine-tuning may help a model follow a domain's terminology or output conventions, but it does not guarantee factual accuracy.
+
+Version the training dataset, configuration and resulting model. Keep the previous working version available and define the conditions for rolling back. Include dataset preparation and evaluation in the cost comparison: a short training run can still require considerable staff time.
+
+== See also ==
+* [[Training data]] · [[Contextual prompting]] · [[RAG]] · [[SLM]]
+
+== References ==
+<references />
+
+[[Category:Artificial intelligence]]
+[[fr:Fine-tuning]]
+[[es:Ajuste fino]]
+[[de:Fine-Tuning]]

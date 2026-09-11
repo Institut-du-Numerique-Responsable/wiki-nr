@@ -1,0 +1,19 @@
+== Définition ==
+La "comptabilité environnementale" est un concept très lié et ami à celui de "numérique responsable". Elle désigne une forme de comptabilité des entreprises qui vise à rendre compte de leurs décisions dans le domaine de l'environnement et du développement durable. La recommandation 2003-R02 du Conseil national de la comptabilité (CNC)<ref>https://m.20-bal.com/buhgalteriya/4985/index.html</ref> définit cette comptabilité comme l'ensemble des dépenses ''« effectuées en vue de prévenir, réduire ou réparer les dommages que l’entreprise a occasionnés ou pourrait occasionner par ses activités, à l’environnement »''. Ces dépenses ont pour effet :
+
+* d'éliminer des déchets / de favoriser les efforts entrepris pour en limiter la quantité,
+* de lutter contre la pollution des sols, des eaux (de surface et/ou souterraines),
+* de préserver la qualité de l’air et du climat,
+* de réduire les nuisances sonores,
+* de protéger (ou le cas échéant renaturer / restaurer)  la biodiversité et le paysage.
+
+== Voir aussi ==
+
+=== Références ===
+<small>Documents utilisés comme source pour cet article</small>
+
+* Wikipédia [https://fr.wikipedia.org/wiki/Comptabilit%C3%A9_sociale_et_environnementale Comptabilité sociale et environnementale]
+
+=== Articles connexes ===
+
+* [[Economie Circulaire|Economie circulaire]]

@@ -1,0 +1,22 @@
+L’'''explicabilité''' est la capacité à rendre compréhensible la manière dont un système d’[[Intelligence_Artificielle|intelligence artificielle]] produit ses résultats.
+
+Elle se distingue de la '''transparence''', qui porte sur l’information communiquée, données utilisées, finalité, limites, alors que l’explicabilité porte sur le raisonnement conduisant à un résultat précis.
+
+== Niveaux ==
+
+* '''Globale''' : quels facteurs pèsent le plus dans les décisions du modèle en général ;
+* '''Locale''' : pourquoi ce dossier-ci a reçu cette réponse-là.
+
+C’est la seconde que réclame une personne qui conteste une décision, et c’est la plus difficile à produire pour les modèles complexes (voir [[Boîte_noire|Boîte noire]]).
+
+== Obligations ==
+
+L’[[AI_Act|AI Act]] impose l’explicabilité pour les systèmes à risque élevé. Le [[Règlement_Général_sur_la_Protection_des_Données|RGPD]] ouvre un droit à l’information sur la logique sous-jacente d’une décision automatisée.
+
+Un modèle simple et explicable est souvent préférable à un modèle marginalement plus performant mais indéfendable.
+
+== Voir aussi ==
+
+* [[Boîte_noire|Boîte noire]] · [[Transparence]] · [[AI_Act|AI Act]] · [[Acceptabilité]] · [[Gouvernance_de_l'IA|Gouvernance de l'IA]] · [[Biais_algorithmique|Biais algorithmique]]
+
+[[Catégorie:Intelligence artificielle]]

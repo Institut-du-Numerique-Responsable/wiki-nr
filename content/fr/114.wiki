@@ -1,0 +1,8 @@
+== Définition ==
+Unité permettant d’exprimer l’impact de tous les [[Gaz à Effets de Serre|gaz à effet de serre]] dans une unité de mesure commune. Cette unité s’appuie sur le potentiel de réchauffement global d’une masse d’un gaz à effet de serre (CH4, N2O ou gaz fluorés) calculé relativement à une même masse de CO2.
+
+== Voir aussi ==
+
+=== Liens externes ===
+
+* Wikipédia - [https://fr.wikipedia.org/wiki/%C3%89quivalent_CO2 Equivalent CO2]

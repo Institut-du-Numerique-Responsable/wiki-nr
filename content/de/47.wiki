@@ -1,0 +1,43 @@
+'''Cybersicherheit''' schützt Informationssysteme sowie die Vertraulichkeit, Integrität und Verfügbarkeit ihrer Daten und Dienste. Bei einer [[Verantwortungsvolle Digitalisierung|verantwortungsvollen Digitalisierung]] betrachten IT-Teams auch, wie Sicherheitsentscheidungen die Nutzungsdauer der Geräte, den Ressourcenverbrauch und die Menschen beeinflussen, die einen Dienst nutzen.
+
+== Ökodesign, Sicherheit und Datenschutz ==
+Die französische Mission MiNumEco veröffentlichte 2022 die Ergebnisse eines Workshops zu den Zusammenhängen zwischen diesen drei Bereichen. Beteiligt waren unter anderem DINUM, ANSSI, CNIL, die Universität Rennes, Campus Cyber und das Institut du Numérique Responsable (INR). Der Bericht beschreibt gemeinsame Ansätze und Zielkonflikte für die Projektarbeit.<ref name="minumeco">MiNumEco, [https://ecoresponsable.numerique.gouv.fr/publications/ecoconception-securite/ Écoconception, cybersécurité et protection des données, quelles synergies ?], 2022, auf Französisch.</ref>
+
+Verantwortliche für den Dienst, Informationssicherheit, Datenschutz und Ökodesign sollten bereits bei der Bedarfsanalyse zusammenarbeiten. Sie benötigen eine gemeinsame Beschreibung des Dienstes, seiner Nutzer, der schützenswerten Informationen und der erforderlichen Ressourcen. Der Workshopbericht ist keine Zertifizierung und kein einheitlicher Standard, der die Anforderungen der einzelnen Fachgebiete ersetzt.
+
+== Entscheidungen mit gemeinsamem Nutzen ==
+* '''Daten und Funktionen begrenzen.''' Nur benötigte Informationen erheben, ungenutzte Funktionen entfernen und überflüssige Aufrufe externer Dienste vermeiden. Dadurch können Datenverkehr und die Zahl exponierter Komponenten sinken. Zugriffsrechte müssen zu den jeweiligen Aufgaben passen.
+* '''Ein Inventar pflegen.''' Geräte, Anwendungen, Abhängigkeiten, Datenspeicher und Zuständigkeiten erfassen. So können Teams Software ohne Support, ungenutzte Systeme und vergessene Datenkopien erkennen.
+* '''Langfristige Wartung vorsehen.''' Bei der Beschaffung Sicherheitsupdates und Reparaturmöglichkeiten berücksichtigen. Eine längere Hardware-Nutzung braucht gepflegte Software; einen verwundbaren Browser ohne Updates weiterzubetreiben ist keine Ökodesign-Strategie.
+* '''Dienste vollständig stilllegen.''' Abhängigkeiten und Aufbewahrungsanforderungen prüfen, Zugriffe entziehen und die zugehörigen Ressourcen abschalten. Ein vergessener Server kann auch nach Aufgabe seiner Anwendung erreichbar bleiben und Ressourcen verbrauchen.
+
+Diese Ansätze greifen die Workshopanalyse zu Minimierung, Systemkenntnis, Wartung und Stilllegung auf.<ref>MiNumEco, [https://ecoresponsable.numerique.gouv.fr/publications/ecoconception-securite/synergies-et-divergences/ Synergies et divergences], 2022, auf Französisch.</ref> Ihr Umweltnutzen hängt davon ab, welche Ressourcen tatsächlich frei werden und welche Neuanschaffungen sich verschieben lassen.
+
+== Schutzmaßnahmen angemessen dimensionieren ==
+Verschlüsselung, Sicherheitsüberwachung, Backups und redundante Infrastruktur benötigen Ressourcen. Teams sollten ihren Umfang anhand dokumentierter Risiken und Anforderungen an die Betriebsfortführung festlegen. Weniger Speicher- oder Energieverbrauch rechtfertigt allein keine Schwächung eines notwendigen Schutzes. Der Sicherheitsleitfaden der CNIL behandelt betriebliche Maßnahmen einschließlich Cloud-Diensten, APIs und KI.<ref>CNIL, [https://www.cnil.fr/fr/node/165213 Practice guide for the security of personal data: 2024 edition], englischer Leitfaden verfügbar.</ref>
+
+Bei einem Dienst zur Terminbuchung können die fachlich Verantwortlichen Wiederherstellungsziele mit Betrieb und Sicherheit abstimmen. Das Team testet die Wiederherstellung und prüft unnötige Duplikate, behält aber die erforderlichen unabhängigen Sicherungskopien bei. Für Protokolle legt es benötigte Ereignisse, Zugriffsberechtigte und Aufbewahrungsfristen fest. Geheimnisse gehören nicht in Protokolle; eine unbegrenzte Speicherung sämtlicher Ereignisse braucht es dafür nicht.
+
+Auch die Zusammenlegung von Infrastruktur verlangt eine Risikoanalyse. Geteilte Ressourcen können ungenutzte Kapazitäten verringern, eine starke Konzentration kann jedoch die Folgen eines Vorfalls vergrößern. Vergleichbare Entwürfe müssen dieselben Sicherheits- und Verfügbarkeitsanforderungen erfüllen.
+
+== Wiederverwendung und Außerbetriebnahme ==
+Vor einer Weitergabe oder Spende sind Daten mit einem zum Datenträger und zur Schutzbedürftigkeit passenden Verfahren zu entfernen; das Ergebnis ist zu prüfen. NIST SP 800-88 Revision 2 beschreibt, wie Organisationen die sichere Bereinigung von Datenträgern organisieren können.<ref>NIST, [https://csrc.nist.gov/pubs/sp/800/88/r2/final Guidelines for Media Sanitization, SP 800-88 Rev. 2], 2025, auf Englisch.</ref> Ein dokumentiertes Verfahren hilft bei der Entscheidung über die Wiederverwendung. Gewöhnliches Löschen von Dateien reicht als Nachweis nicht aus.
+
+== Ergebnisse im IT-Team verfolgen ==
+In einer gemeinsamen Überprüfung können Teams Geräte mit laufendem Support, stillgelegte Dienste, Ergebnisse von Wiederherstellungstests sowie Umfang und Zweck gespeicherter Daten betrachten. Ressourcenmessungen ergänzen diese Übersicht bei Bedarf. Weniger Gigabyte belegen für sich allein noch keine gemessene CO2-Einsparung.
+
+Der Workshop von 2022 sollte zusammen mit neueren Quellen gelesen werden. Der [[RGESN]] von 2024 unterstützt das Ökodesign digitaler Dienste und ersetzt kein Management von Sicherheitsrisiken.<ref>Arcep, [https://en.arcep.fr/news/press-releases/view/n/environment-rgesn-170524.html General policy framework for the ecodesign of digital services], 2024, auf Englisch.</ref>
+
+== Siehe auch ==
+* [[Ökodesign]]
+* [[Digitale Suffizienz]]
+* [[Lebensende]]
+
+== Quellen ==
+<references />
+
+[[Kategorie:Definitionen]]
+[[fr:Cybersécurité]]
+[[en:Cybersecurity]]
+[[es:Ciberseguridad]]
+[[nl:Cyberbeveiliging]]

@@ -1,0 +1,11 @@
+== Définition ==
+Le terme low-code signifie une technologie qui nécessite « Peu de programmation ». Cela signifie que cette approche ne nécessite pas de connaître la programmation ( classique ) pour mettre en œuvre un service numérique. La réalisation d'une application logicielle de type low-code nécessite l'utilisation d'une plateforme de développement low-code. La plateforme, ainsi mise à disposition, simplifie grandement le travail d'écriture des composants logiciels. Le développeur n'est pas contraint de parler un langage machine et se contente d'assembler et de séquencer les fonctionnalités à partir de briques logicielles mises à sa disposition, un peu comme si c'était un LEGO. Quand 100% du logiciel est assemblé sans aucune ligne de code nous parlons alors de no-code , entre 80 et 90% nous parlerons plutôt de low-code.
+
+== Dans le cadre du numérique responsable ==
+La facilité de développement des applications associée à leur faible coût peut entraîner leur prolifération dans les organisations. Nous sommes alors confrontés à un premier effet rebond de cette proposition technologique. Il existe également un risque lié à la non urbanisation des solutions applicatives à l'échelle du SI, pouvant entraîner des doublons logiciels ainsi que des doublons de données entraînant alors des coûts d'infrastructure et de maintenance multipliés par autant de versions mises en œuvres. 
+
+== Voir aussi ==
+
+=== Références ===
+
+* Le Mag IT – [https://www.lemagit.fr/definition/Plateforme-de-developpement-low-code-no-code-plateforme-LCNC Plateforme de développement low-code/no-code (plateforme LCNC)]

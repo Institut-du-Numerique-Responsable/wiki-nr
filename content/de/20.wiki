@@ -1,0 +1,64 @@
+Das '''Lebensende''' bezeichnet die Phase, ab der ein Gerät von seinem Besitzer nicht mehr genutzt wird. In der IT entscheidet sie darüber, ob die für die [[Herstellung]] geförderten Materialien zurückgewonnen werden oder endgültig verloren gehen.
+
+== Es ist nicht das Ende der Nutzbarkeit ==
+
+Ausgemustertes Gerät funktioniert sehr oft noch. Zu Ende geht die Nutzung durch einen bestimmten Besitzer, nicht die Fähigkeit zu dienen.
+
+Diese Unterscheidung steht im Zentrum der [[Verantwortungsvolle Digitalisierung|verantwortungsvollen Digitalisierung]]. Die Nutzungsdauer zu verlängern ist der wirksamste verfügbare Hebel, weit vor der Optimierung des Stromverbrauchs, denn die Herstellung ist bereits bezahlt.
+
+== Rangfolge der Behandlungen ==
+
+Die Wege sind nicht gleichwertig. Sie ordnen sich vom sinnvollsten zum schlechtesten:
+
+# '''Weiterverwendung und Wiederaufbereitung''': das Gerät dient weiter, unverändert oder instand gesetzt. Der einzige Weg, der eine Neuherstellung tatsächlich vermeidet.
+# '''Reparatur''': der Austausch eines Bauteils verlängert die Nutzungsdauer.
+# '''Bauteilgewinnung''': Ersatzteile für die Reparatur anderer Geräte.
+# '''Werkstoffliches Recycling''': Rückgewinnung der Materialien, mit erheblichen Verlusten.
+# '''Energetische Verwertung''': Verbrennung mit Wärmenutzung.
+# '''Deponierung''': das Material ist verloren.
+
+Die Reihenfolge ist entscheidend. Ein noch funktionierendes Gerät zu recyceln vernichtet den Wert seiner Herstellung, der teuersten Phase des Lebenszyklus.
+
+== Die konkreten Schritte ==
+
+* Sammlung;
+* Sortierung und Diagnose;
+* sichere Datenlöschung;
+* Wiederaufbereitung oder Demontage;
+* Schadstoffentfrachtung: Entnahme von Akkus, Bildschirmen und gefährlichen Bauteilen;
+* Recycling oder energetische Verwertung.
+
+Die '''Datenlöschung''' ist der IT-spezifische Schritt und zugleich der am häufigsten fehlende. Sie entscheidet, ob Weiterverwendung überhaupt möglich ist. Ohne belastbares Verfahren zerstören Organisationen einwandfrei funktionierende Geräte aus Vorsicht. Die IT-Sicherheitsverantwortung wirkt damit unmittelbar auf den ökologischen Fußabdruck, was in der Entscheidung selten so gesehen wird.
+
+== Der Rahmen für Elektroaltgeräte ==
+
+IT-Geräte fallen unter die Vorschriften für Elektro- und Elektronikaltgeräte, die eigene Sammel- und Behandlungswege vorschreiben, finanziert über einen beim Kauf erhobenen Beitrag im Rahmen der erweiterten Herstellerverantwortung.
+
+Die Sammelquoten bleiben deutlich unter den Zielwerten. Ein großer Teil der Geräte liegt in Schubladen, verschwindet im Hausmüll oder wird außerhalb kontrollierter Wege ausgeführt.
+
+== Die schlafenden Geräte ==
+
+Ein erheblicher Teil des Bestands ist weder in Nutzung noch am Lebensende: er wartet im Schrank. Diese Geräte werden nicht weiterverwendet, ihre Herstellung ist längst bezahlt. Sie zu inventarisieren bringt oft den schnellsten Gewinn und kostet nichts außer Aufmerksamkeit.
+
+== Eine Materialfrage ==
+
+Ein digitales Gerät vereint Dutzende Metalle, darunter Seltene Erden und kritische Metalle. Ihre Rückgewinnung ist technisch schwierig: Legierungen und verklebte Baugruppen erschweren die Trennung, und die tatsächlichen Recyclingquoten mehrerer dieser Metalle bleiben sehr niedrig.
+
+Jedes nicht weiterverwendete Gerät löst damit eine neue Förderrunde aus.
+
+== Was eine Organisation tun kann ==
+
+* die Nutzungsdauer verlängern, bevor das Lebensende überhaupt betrachtet wird;
+* die Bedingungen der Weiterverwendung schon beim Kauf festlegen: Reparierbarkeit, Ersatzteile, Löschverfahren;
+* Geräte über Wiederaufbereitungswege leiten statt sie zu zerstören;
+* Spende oder Verkauf an gemeinwohlorientierte Träger bevorzugen;
+* nachverfolgen, wo der Bestand tatsächlich landet, statt beim Abholschein aufzuhören.
+
+== Siehe auch ==
+
+* [[Herstellung]] · [[Kreislaufwirtschaft]] · [[Geplante Obsoleszenz]] · [[Ökobilanz]] · [[CO₂-Fußabdruck]] · [[Digitale Suffizienz]]
+
+[[fr:Fin_de_Vie]]
+[[en:End_of_life]]
+[[es:Fin_de_Vida]]
+[[nl:Einde_levensduur]]

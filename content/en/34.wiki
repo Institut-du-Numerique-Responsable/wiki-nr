@@ -1,0 +1,48 @@
+'''Power Usage Effectiveness''' (PUE) is an energy efficiency indicator for [[Data centre|data centres]], and the best known of them. It is the ratio between the total electricity consumed by the facility and the electricity consumed by the IT equipment it hosts.
+
+ PUE = total electricity consumption / electricity consumption of the IT equipment
+
+The '''total''' covers cooling, air handling, lighting, power distribution and uninterruptible power supplies. The '''IT''' side covers servers, network equipment, storage and backup.
+
+The closer the value is to 1, the smaller the share spent on anything other than computing. Recent facilities announce figures between 1,1 and 1,3; older ones often exceed 2. The theoretical floor is 1.
+
+One point is regularly misunderstood: the PUE counts consumption, not its origin. Buying renewable electricity changes nothing in the ratio, because the indicator says nothing about where the energy comes from.
+
+== Standardised definition ==
+
+The indicator is defined by '''ISO/IEC 30134-2:2016''' and by the European standard '''EN 50600-4-2'''.
+
+The French référentiel [[RGESN]] states it as follows: an energy efficiency indicator consisting of a ratio between the total energy consumed by the whole operating centre, including cooling, air handling and uninterruptible power supplies, and the part effectively consumed by the computing systems that the centre operates, meaning servers, storage and network. A PUE close to 1 indicates excellent energy performance.
+
+== Scope and limits ==
+
+The PUE is useful and regularly over-interpreted. Three limits deserve to be known.
+
+'''It does not measure computing efficiency.''' The ratio compares total energy to IT energy. Replacing servers with others that draw twice as much but sit equally idle '''improves''' the PUE. A facility whose servers run at 5 % load can post an excellent figure while wasting most of the energy it draws.
+
+'''It ignores manufacturing.''' The indicator covers the use phase alone, whereas [[Manufacturing|manufacturing]] the equipment represents a major share of impact across the full [[Life cycle assessment|life cycle]].
+
+'''It depends heavily on climate and can shift the problem to water.''' A facility in a cold climate, or one using evaporative cooling, obtains a better PUE mechanically, sometimes at the cost of high water consumption that the PUE does not see.
+
+A fourth effect follows from the formula itself: a lightly loaded facility shows a degraded PUE, because fixed consumption is spread over less computing.
+
+The PUE therefore has to be read alongside the carbon and water indicators, alongside the origin of the energy, and above all alongside the '''actual utilisation rate''' of the servers.
+
+== In a sustainable IT approach ==
+
+The most virtuous indicator is the one no ratio captures: the equipment that is never installed. Before optimising a PUE, [[Digital sobriety|digital sobriety]] questions the need itself, the retention period of the data and the effective usage rate of the resources.
+
+== See also ==
+
+* [[Data centre]] · [[Manufacturing]] · [[Carbon footprint]] · [[Life cycle assessment]] · [[Digital sobriety]] · [[Green IT]]
+
+== Reference standards ==
+
+* ISO/IEC 30134-2:2016, ''Information technology — Data centres — Key performance indicators — Part 2: Power usage effectiveness (PUE)'' : https://www.iso.org/standard/63451.html
+* EN 50600-4-2, ''Information technology — Data centre facilities and infrastructures — Part 4-2: Power Usage Effectiveness''
+
+[[Category:Frameworks and methods]]
+[[es:Power Usage Effectiveness]]
+[[fr:Power Usage Effectiveness]]
+[[de:Power Usage Effectiveness]]
+[[nl:Power Usage Effectiveness]]

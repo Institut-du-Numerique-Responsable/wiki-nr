@@ -1,0 +1,57 @@
+== Définition ==
+Confrontés à la crise climatique, la sécheresse, l’épuisement des ressources… nous vivons dans un monde en plein bouleversement. Autant de problématiques multifactorielles pour lesquelles il est nécessaire de trouver un cadre de réponse. Pour y faire face, le développement durable s’impose comme une réponse globale et impérative. <blockquote>« Le Développement Durable est un développement qui répond aux besoins du présent sans compromettre la capacité des générations futures à répondre à leurs propres besoins. » Rapport Brundtland, 1987 </blockquote>Cette notion s’articule autour de trois piliers fondamentaux : '''social, économique et environnemental.'''
+
+Au sein des organisations, le développement durable se décline sous la notion de « Triple Bottom Line » ou les « 3P ». Longtemps les 3P ont été traduits par « People, Planet, Profit » (Peuple, planète, profit). L’idée initiale était d’encourager les entreprises à suivre et à gérer la valeur économique (pas seulement financière), sociale et environnementale ajoutée ou détruite. Cependant l’interprétation du terme « profit », souvent attribué à la notion de profit financier réalisé par une organisation, est erronée. Afin de refléter au mieux la vision globale et soutenable les trois axes de durabilité, la notion de profit est peu a peu remplacée par le terme « prosperity » (prospérité). Ce dernier englobe davantage l’idée que les organisations doivent prendre en compte les besoins de leurs parties prenantes (internes et externes) et créer de la valeur économique, sociale et environnementale.
+
+L’ONU définit par ailleurs le pilier « prospérité » par « […] veiller à ce que tous les êtres humains puissent jouir d’une vie prospère et épanouie et que le progrès économique, social et technologique s’effectue en harmonie avec la nature ».
+
+C’est donc la prise en compte conjointe de ces 3 piliers (People, planet, prosperity) qui assure la pérennité des organisations, et ainsi, des sociétés.
+
+== Piliers du Développement Durable ==
+Les trois piliers de la mesure de la performance sont les suivants : 
+* '''P'''eople (social) : la mesure du capital social produit ou détruit par l'entreprise, tels que le capital humain ou le capital intellectuel. L'objectif social du Triple Bilan est de minimiser l'impact négatif de l'activité de l'entreprise sur l'ensemble des groupes sociaux présents ou futurs, même s'ils n'ont pas d'intérêt direct pour l'entreprise. Les entreprises doivent intégrer ces acteurs dans leur réflexion stratégique.
+* '''P'''lanet (environnemental) : la mesure du capital naturel détruit ou pouvant être détruit par l'entreprise (ressources naturelles consommées par l'entreprise, services écosystémiques utilisés, dommages collatéraux dus à l'interdépendance des écosystèmes). 
+* '''P'''rofit (économique) : la mesure du capital économique produit par l'entreprise avec le calcul du coût complet, et de la soutenabilité de sa performance économique.  
+
+=== Le choix de la "Prosperity" ===
+Depuis 2019 le termes de profit souvent mal traduit dans nos pays latins laisse la place au terme de "prosperity" 
+
+* '''P'''rospérité: Faire en sorte que tous les êtres humains puissent vivre une vie prospère et épanouissante et que le progrès économique, social et technologique se fasse en harmonie avec la nature.
+
+=== Triple bottom line ou concept de Triple Performance ===
+Triple Performance, Triple résultat ou de Triple Bilan (en anglais, triple bottom line) l'expression a été proposée par John Elkington, cofondateur du premier cabinet de conseil en stratégie de développement durable britannique Sustainability en 1994. 
+
+La triple performance correspond à la "conception selon laquelle les performances globales d'une entreprise doivent être mesurées en fonction de sa contribution combinée à la prospérité économique, à la qualité de l'environnement et au capital social”. Le triple bilan est défini comme une cible à atteindre. 
+
+== Du Green IT au Numérique Responsable ==
+Le GreenIT regroupe des bonnes pratiques qui visent à réduire les impacts sur l’environnement du numérique. Cependant, ce terme ne reflète pas les dimensions sociale, sociétale et économique de la démarche.  La démarche du numérique responsable, davantage en accord avec les 3 P du développement durable, s’intéresse aussi à la performance sociale et économique. Elle vise à :
+
+* '''Créer de la valeur''' économique, sociale et environnementale '''grâce au numérique.'''
+* '''Réduire l’empreinte''' économique, sociale et environnementale '''du numérique.'''
+* '''Réduire grâce au numérique l’empreinte''' économique, sociale et environnementale d’autres processus.
+
+== La triple bottom line du Numérique Responsable ==
+Le numérique responsable permet de réunir les aspects du développement durable dans le cadre des activités numériques d’une organisation. Il permet de faire converger les transitions écologiques, sociale, sociétale et numérique. L’action de l’INR est toujours guidée par les 3P : People, Planet, Prosperity :
+
+* '''People''' : Réduire la fracture sociale et améliorer les conditions de vie grâce au numérique
+* '''Planet''' : Réduire l’empreinte environnementale du numérique
+* '''Prosperity''' : '''Créer de la valeur''' économique, sociale et environnementale '''grâce au numérique'''. Le numérique en tant que levier de développement, doit être une opportunité pour toutes et tous (création d’emplois, revenus…)
+
+Un numérique responsable est, à nos yeux, un numérique capable de proposer des solutions/innovations soutenables pour la planète, éthiques et inclusives, c’est-à-dire qui respecte et inclut le plus grand nombre.
+
+== Voir aussi ==
+
+=== Références ===
+<small>Documents utilisés comme sources pour cet article</small>
+
+* Ministère de la culture - France Terme - [http://www.culture.fr/franceterme/result?francetermeSearchTerme=triple+performance triple performance]
+* John Elkington - ''25 years ago I coined the phrase "Triple Bottom Line".  Here is why it is time to rethink it''.  Harvard Business Review.  25 juin 2018. ([https://hbr.org/2018/06/25-years-ago-i-coined-the-phrase-triple-bottom-line-heres-why-im-giving-up-on-it Lire en ligne])
+
+=== Articles connexes ===
+
+* [[Responsabilité Sociétale des Entreprises|RSE]]
+
+=== Liens externes ===
+* Wikipédia [https://fr.wikipedia.org/wiki/Triple_bottom_line Triple Bottom Line]
+* https://ec.europa.eu/environment/archives/wssd/documents/wssd_brochure.pdf
+* https://unfoundation.org/blog/post/the-sustainable-development-goals-in-2019-people-planet-prosperity-in-focus/

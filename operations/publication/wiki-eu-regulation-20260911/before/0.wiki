@@ -1,0 +1,57 @@
+L’'''AI Act''' (règlement sur l’intelligence artificielle) est le règlement '''(UE) 2024/1689''' encadrant la mise sur le marché et l’usage des systèmes d’[[Intelligence_Artificielle|intelligence artificielle]] dans l’Union européenne. Il s’agit du premier cadre juridique complet consacré à l’IA au monde.
+
+== Définition ==
+
+Le règlement est entré en vigueur le '''1er août 2024''' et s’applique depuis le '''2 août 2026'''. Il ne régule pas la technologie en elle-même, mais les '''usages''' qui en sont faits, en proportionnant les obligations au niveau de risque.
+
+== Une approche par les risques ==
+
+; Risque inacceptable
+: pratiques interdites, telles que la notation sociale ou l’exploitation des vulnérabilités des personnes
+; Risque élevé
+: systèmes soumis à des obligations strictes : gestion des risques, qualité des données, documentation technique, supervision humaine, robustesse
+; Risque de transparence
+: obligation d’informer les personnes qu’elles interagissent avec une IA ou que le contenu a été généré artificiellement
+; Risque minimal
+: aucune obligation spécifique ; la très grande majorité des systèmes relève de cette catégorie
+
+== Calendrier d’application ==
+
+{| class="wikitable"
+! Échéance !! Ce qui s’applique
+|-
+| 2 février 2025 || interdiction des pratiques à risque inacceptable
+|-
+| 2 août 2025 || règles de gouvernance et obligations des modèles d’IA à usage général
+|-
+| 2 août 2026 || application générale du règlement
+|-
+| 2 décembre 2027 || systèmes à haut risque dans les domaines sensibles
+|-
+| 2 août 2028 || systèmes à haut risque intégrés à des produits réglementés
+|}
+
+== Modèles d’IA à usage général ==
+
+Les fournisseurs de modèles à usage général doivent respecter des obligations de transparence et de droit d’auteur, notamment la documentation des données d’entraînement. Ceux dont les modèles présentent un '''risque systémique''' doivent en outre évaluer et atténuer ces risques.
+
+== Lien avec le numérique responsable ==
+
+L’AI Act constitue le socle réglementaire sur lequel s’appuient les démarches volontaires telles que la Charte IA de l’[[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]] (voir [[IA_Responsable|IA Responsable]]). Le règlement fixe les obligations ; la démarche volontaire va au-delà, en particulier sur le volet environnemental, que l’AI Act n’aborde que marginalement.
+
+== Voir aussi ==
+
+* [[Intelligence_Artificielle|Intelligence Artificielle]]
+* [[IA_Responsable|IA Responsable]]
+* [[Règlement_Général_sur_la_Protection_des_Données|Règlement Général sur la Protection des Données]]
+* [[Donnée_personnelle|Donnée personnelle]]
+* [[Numérique_Responsable|Numérique Responsable]]
+
+=== Références externes ===
+
+* [https://digital-strategy.ec.europa.eu/fr/policies/regulatory-framework-ai Cadre réglementaire de l’IA : Commission européenne]
+
+[[Catégorie:Intelligence artificielle]]
+[[Catégorie:Réglementation]]
+[[en:AI Act]]
+[[nl:AI Act]]

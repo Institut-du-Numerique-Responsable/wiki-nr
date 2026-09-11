@@ -1,0 +1,21 @@
+Le '''cycle de vie de l’IA''' désigne l’enchaînement des étapes d’un système d’[[Intelligence_Artificielle|intelligence artificielle]], du cadrage initial jusqu’au retrait.
+
+# '''Cadrage''' : le besoin justifie-t-il un système d’IA
+# '''Données''' : collecte, tri, annotation, documentation
+# '''Entraînement''' et évaluation
+# '''Déploiement''' : mise en production, intégration
+# '''Exploitation''' : [[Inférence|inférences]], supervision, mesure des écarts
+# '''Maintenance''' : réentraînements, [[Fine-tuning|ajustements]]
+# '''Retrait''' : arrêt du service, sort des données et des modèles
+
+== Différence avec un logiciel classique ==
+
+Un logiciel se dégrade quand son environnement change. Un modèle se dégrade aussi quand '''le monde change''' : les données réelles s’éloignent de celles de l’entraînement, et la performance baisse sans qu’aucune ligne de code n’ait bougé. La surveillance de cette dérive fait partie de l’exploitation.
+
+L’étape de retrait est la plus négligée : modèles conservés « au cas où », jeux de données jamais supprimés, services maintenus sans usage (voir [[Dark_Data|Dark Data]]).
+
+== Voir aussi ==
+
+* [[Chaîne_de_valeur_de_l'IA|Chaîne de valeur de l'IA]] · [[Gouvernance_de_l'IA|Gouvernance de l'IA]] · [[Analyse_du_Cycle_de_Vie|Analyse du Cycle de Vie]] · [[Dette_technique|Dette technique]] · [[IA_Responsable|IA Responsable]]
+
+[[Catégorie:Intelligence artificielle]]

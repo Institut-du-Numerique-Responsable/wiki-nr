@@ -1,0 +1,14 @@
+== Définition ==
+'''CYOD''' est un acronyme qui signifie '''C'''hoose '''Y'''our '''O'''wn '''D'''evice. Cette pratique permet à une entreprise de laisser le choix aux employés de sélectionner leurs équipements (smartphone, ordinateur etc) non pas pour un usage personnel mais pour s'assurer que ces derniers prennent soin du matériel qu'ils ont sélectionné eux-mêmes. Il s'agit d'une approche complémentaire au [[BYOD]] et au [[COPE]] .  
+
+== Dans le cadre du Numérique Responsable ==
+Cette pratique contribue à garantir :  
+
+* la durée de vie des équipements électroniques
+* la sécurité des données de l'entreprise
+* d'éviter les disparités numériques (mais pas leur diversité)
+
+== Voir aussi ==
+
+=== Articles connexes ===
+[[BYOD]], [[COPE]]

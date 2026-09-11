@@ -1,0 +1,22 @@
+El '''aprendizaje profundo''' (''deep learning'') es una rama del [[Aprendizaje automático|aprendizaje automático]] basada en redes neuronales artificiales con numerosas capas.
+
+Está en el origen de los resultados obtenidos en reconocimiento de imágenes, traducción, síntesis de voz y generación de texto.
+
+== Coste ==
+
+La profundidad de las redes y el volumen de [[Datos de entrenamiento|datos de entrenamiento]] explican su consumo de recursos: cálculo intensivo en procesadores gráficos durante el entrenamiento y, después, en cada [[:fr:Inférence|inferencia (FR)]].
+
+Esto distingue el aprendizaje profundo de los métodos estadísticos tradicionales, a menudo suficientes para necesidades habituales y mucho menos costosos. La elección de una arquitectura profunda debería, por tanto, surgir de una comparación, no de un reflejo. Este es el sentido de la '''IA frugal''' dentro del enfoque de [[IA Responsable|IA responsable]].
+
+== Véase también ==
+
+* [[Aprendizaje automático|Aprendizaje automático]]
+* [[Modelo de inteligencia artificial|Modelo de inteligencia artificial]]
+* [[:fr:Inférence|Inferencia (FR)]]
+* [[IA Responsable|IA Responsable]]
+* [[Sobriedad Digital|Sobriedad Digital]]
+
+[[Categoría:Inteligencia artificial]]
+[[fr:Apprentissage profond]]
+[[en:Deep learning]]
+[[de:Deep Learning]]

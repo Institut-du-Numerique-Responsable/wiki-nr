@@ -1,0 +1,20 @@
+Una '''caja negra''' es un sistema cuyas entradas y salidas pueden observarse sin que sea posible explicar su funcionamiento interno.
+
+La mayoría de los modelos de [[Aprendizaje profundo|aprendizaje profundo]] pertenecen a esta categoría: sus parámetros, a menudo miles de millones, no se pueden interpretar individualmente.
+
+== Por qué supone un problema ==
+
+* '''Impugnación''': una persona no puede cuestionar una decisión cuyos motivos no se exponen;
+* '''Corrección''': resulta difícil corregir un defecto no explicado sin recurrir al reentrenamiento;
+* '''Cumplimiento normativo''': el [[:fr:Règlement Général sur la Protection des Données|RGPD (FR)]] reconoce un derecho a la información sobre la lógica de una decisión automatizada, y el [[:fr:AI Act|Reglamento de Inteligencia Artificial (FR)]] exige [[:fr:Explicabilité|explicabilidad (FR)]] para los usos de alto riesgo.
+
+Un modelo más sencillo, incluso con un rendimiento algo inferior, puede ser la elección adecuada: su decisión se puede justificar.
+
+== Véase también ==
+
+* [[:fr:Explicabilité|Explicabilidad (FR)]] · [[Aprendizaje profundo|Aprendizaje profundo]] · [[Modelo de inteligencia artificial|Modelo de inteligencia artificial]] · [[:fr:AI Act|Reglamento de Inteligencia Artificial (FR)]] · [[:fr:Acceptabilité|Aceptabilidad (FR)]]
+
+[[Categoría:Inteligencia artificial]]
+[[fr:Boîte noire]]
+[[en:Black box]]
+[[de:Blackbox]]

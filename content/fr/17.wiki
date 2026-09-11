@@ -1,0 +1,1 @@
+BDAT est l'acronyme pour Base de Données d'Analyse des Terres. Ce sont des bases de données compilant les analyses de terres réalisées chaque année en France.

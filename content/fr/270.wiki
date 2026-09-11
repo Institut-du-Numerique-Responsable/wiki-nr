@@ -1,0 +1,15 @@
+Les '''TIC''' (technologies de l’information et de la communication) désignent l’ensemble des techniques permettant de traiter et de transmettre l’information : informatique, télécommunications, audiovisuel, internet.
+
+Le terme, courant dans les textes institutionnels, tend à être remplacé par « numérique » dans l’usage courant.
+
+== Portée ==
+
+La notion de TIC recouvre les trois niveaux dont l’empreinte se mesure séparément : les '''terminaux''' des utilisateurs, les '''réseaux''' de transport et les '''[[DataCenter|centres de données]]'''.
+
+La répartition entre ces trois postes est constante dans les études d’impact : les terminaux dominent, du fait de leur [[Fabrication|fabrication]] et de leur nombre.
+
+== Voir aussi ==
+
+* [[Numérique_Responsable|Numérique Responsable]] · [[Système_d'information|Système d'information]] · [[DataCenter]] · [[Fracture_Numérique|Fracture Numérique]] · [[Empreinte_Carbone|Empreinte Carbone]]
+
+[[Catégorie:Concepts]]

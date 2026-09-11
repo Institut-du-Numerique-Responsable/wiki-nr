@@ -1,0 +1,36 @@
+El '''RGESN''' (''Référentiel général d'écoconception de services numériques'') es el referencial francés de [[Ecodiseño|ecodiseño]] de servicios digitales.
+
+Adopta la forma de una lista de criterios formulados como preguntas, a las que responde el equipo responsable de un servicio para evaluar su enfoque. El referencial no tiene valor vinculante. Ofrece un marco común, utilizable tanto para concebir un servicio nuevo como para mejorar uno existente.
+
+== Origen ==
+
+El RGESN deriva de la ley francesa de 15 de noviembre de 2021 destinada a reducir la huella ambiental de lo digital, conocida como '''ley REEN'''. Una segunda versión, publicada por la Arcep, reorganizó y precisó los criterios.
+
+== Su lógica ==
+
+El referencial actúa en prioridad sobre las causas principales de impacto, en este orden:
+
+# la '''fabricación de los terminales''', que domina el [[Análisis del Ciclo de Vida|ciclo de vida]];
+# la '''solicitación de los equipos de usuario''', porque un servicio pesado acelera la renovación de un terminal que todavía funciona;
+# el '''volumen de datos''' intercambiados y almacenados.
+
+Este orden explica una recomendación que sorprende a quien espera consejos de rendimiento: hacer que un servicio funcione en material antiguo pesa más que reducir su consumo eléctrico.
+
+== Diferencia con el GR491 ==
+
+El RGESN es un referencial público, ceñido al ecodiseño. El [[GR491]] es una guía asociativa, más amplia, que cubre un perímetro que desborda lo ambiental para abarcar el conjunto de los retos de la TI responsable. El primero sirve de rejilla de evaluación; el segundo aporta el detalle operativo.
+
+== Límite ==
+
+Un referencial mide la conformidad con buenas prácticas, no el impacto real del servicio. Responder afirmativamente a la mayoría de los criterios no prueba una reducción de huella; lo prueba una medición.
+
+== Véase también ==
+
+* [[ISO/IEC TS 20125]] · [[Ecodiseño]] · [[GR491]] · [[TI Responsable]] · [[Análisis del Ciclo de Vida]]
+
+[[Categoría:Referenciales]]
+
+[[fr:RGESN]]
+[[en:RGESN]]
+[[de:RGESN]]
+[[nl:RGESN]]

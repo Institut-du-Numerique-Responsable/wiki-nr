@@ -1,0 +1,44 @@
+== Définition ==
+L’économie circulaire a pour objectif de s’inspirer des éco-systèmes naturels afin de créer de la valeur économique, sociale et [[Empreinte Écologique|environnementale]] autour de l’utilisation efficiente des ressources. Il s’agit par exemple de rallonger les flux de matières ([[réemploi]], [[Recyclage des déchets|recyclage]]) et de produits ([[Eco Conception|écoconception]] sans toxique ni [[Obsolescence Programmée|obsolescence programmée]], réparation, réutilisation puis recyclage) tout [[Analyse du Cycle de Vie|au long de la vie du produit]] ou service. Ce modèle repose sur la création de boucles de valeur positives à chaque utilisation ou réutilisation de la matière ou du produit avant destruction finale.
+
+La loi sur l'économie circulaire du 10 février 2020<ref name=":0">https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041553759/</ref> intervient dans un contexte de prise de conscience collective. Le modèle linéaire de production et de consommation repose sur le principe obsolète de l’abondance des ressources naturelles ; il s’agit d’en changer pour un modèle adapté aux défis d’aujourd’hui. En effet, nos prélèvements sur les ressources naturelles dépassent largement la bio-capacité de la Terre, c’est-à-dire sa capacité à régénérer les ressources renouvelables, à fournir des ressources non renouvelables et à absorber les déchets<ref name=":1">https://institut-economie-circulaire.fr/focus-inec-numerique-et-loi-economie-circulaire/</ref>'.
+
+== Dans le cadre du numérique responsable ==
+La production d'équipements numériques nécessite l'utilisation de matières premières critiques telles les [[Terres Rares|terres rares]], ce qui de facto, pose des questions sur l'approvisionnement alors même que ces ressources sous-tendent non seulement la révolution numérique mais aussi écologique.
+
+A ce titre, l'Institut National de l'Économie Circulaire définit l'économie circulaire dans le cadre du numérique responsable comme 'une solution aux défis de raréfaction des ressources pour le numérique, visant un '''découplage entre la création de valeur sociétale de son impact sur l'environnement'''. Ce modèle implique la mise en place de nouveaux modes de conception, de production, d’usage et de consommation plus sobres et efficaces ([[Eco Conception|éco-conception]], écologie industrielle et territoriale, économie de fonctionnalité, etc.) et à considérer les déchets comme des ressources'<ref name=":2">https://institut-economie-circulaire.fr/wp-content/uploads/2020/03/focusnumeriqueetloi-1.pdf</ref>
+
+Les mesures de la loi économie circulaire <ref name=":0" /> qui visent le numérique :<ref name=":2" />
+
+# Information environnementale avec un [[indice de réparabilité]] puis de durabilité des produits ainsi qu'une équivalence en émission de GES de la consommation de data qui devra être communiquée par les fournisseurs d'internet
+# Reconnaissance de l'obsolescence logicielle avec l'instauration d'un cadre légal
+# Actions sur la réparation des équipements avec la disponibilité des pièces détachées, l'allongement de la durée légale de garantie ainsi que l'interdiction de destruction des invendus
+# Elargissement de la responsabilité du producteur aux entreprises d'équipements électriques et électroniques ainsi qu'aux plateformes e-commerce avec bonus-malus pour l'écocontribution
+# Engagement des commandes publiques pour privilégier les biens issus du réemploi ou intégrant des matières recyclées et une ouverture au don
+# Réduction du plastique utilisé dans les produits et les emballages 
+
+== Voir aussi ==
+
+=== Références ===
+*Institut National de l'Économie Circulaire (INEC) - [https://institut-economie-circulaire.fr/publications/ Espace publications]
+*Institut National de l'Économie Circulaire (INEC) - [https://institut-economie-circulaire.fr/economie-circulaire/pilliers-economie-circulaire/ Piliers de l'Économie Circulaire]
+*<ref name=":0" /> Légifrance - [https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041553759/ loi n° 2020-105 du 10 février 2020 relative à la lutte contre le gaspillage et à l'économie circulaire]
+*<ref name=":1" /> Institut National de l'Économie Circulaire (INEC) - [https://institut-economie-circulaire.fr/focus-inec-numerique-et-loi-economie-circulaire/ Focus INEC "Numérique et loi économie circulaire']
+*<ref name=":2" /> Institut National de l'Économie Circulaire (INEC) - Focus Numérique - [https://institut-economie-circulaire.fr/wp-content/uploads/2020/03/focusnumeriqueetloi-1.pdf Quels changements pour les secteur suite à l'adoption de la loi] - mars 2020
+
+=== Articles connexes ===
+
+* [[5R]]
+* [[Déchets d’Équipements Électriques et Électroniques|DEEE (Déchets d'Equipement Electriques et Electroniques)]]
+* [[Analyse du Cycle de Vie]]
+* [[Comptabilité environnementale]]
+
+=== Liens externes ===
+
+* Wikipedia - [https://fr.wikipedia.org/wiki/%C3%89conomie_circulaire Economie circulaire]
+* INR et Ecologic - Lhurault - [https://institutnr.org/vos-vieux-mobiles-ont-encore-des-ressources Donner c’est aider ! Vos vieux mobiles ont encore tellement de ressources]  - 25 mars 2021
+* Parlement Européen - [https://www.europarl.europa.eu/news/fr/headlines/society/20210128STO96607/comment-parvenir-a-une-economie-circulaire-d-ici-2050 Comment parvenir à une économie circulaire d'ici 2050?]  - 10 février 2021
+*
+[[de:Kreislaufwirtschaft]]
+[[en:Circular economy]]
+[[es:Economía Circular]]

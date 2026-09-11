@@ -1,0 +1,65 @@
+== Définition ==
+L’'''ISO/IEC TS 20125''' est une spécification technique internationale consacrée à l’[[Ecoconception|écoconception]] des services numériques. Son titre complet est ''Information technology — Digital services ecodesign'', et sa première partie s’intitule ''Part 1: Ecopractices for life cycle stages'' (« Écopratiques pour les étapes du cycle de vie »).
+
+Publiée en '''février 2026''' par le sous-comité '''ISO/IEC JTC 1/SC 39''' « Sustainability, IT and data centres », cette première édition compte 62 pages. Elle établit des exigences et des recommandations applicables à l’expression des besoins, à la conception, à la réalisation, à l’exploitation, à la maintenance et à la fin de vie d’un [[Service numérique|service numérique]], afin d’en minimiser les impacts environnementaux à chaque étape.
+
+Au-delà des pratiques elles-mêmes, le document vise à établir un langage et une compréhension communs de l’écoconception des services numériques à l’échelle internationale.
+
+== Origine ==
+L’ISO/IEC TS 20125-1 est l’aboutissement international de travaux engagés en France. Elle reprend et prolonge l’[[AFNOR SPEC 2201]], publiée en avril 2022 par l’[[Agence Française de NORmalisation|AFNOR]] sous le titre ''Écoconception des services numériques'', élaborée de manière collaborative par une trentaine d’organisations.
+
+Après environ trois années de travaux au sein de l’ISO/IEC JTC 1/SC 39, cette spécification française est devenue une spécification technique internationale sous la référence ISO/IEC TS 20125-1:2026.
+
+== Contenu ==
+=== Structure par étapes du cycle de vie ===
+Le document est organisé selon les six étapes du cycle de vie d’un service numérique :
+
+# Expression, définition et hiérarchisation des besoins
+# Conception
+# Réalisation
+# Utilisation et exploitation
+# Maintenance
+# Décommissionnement
+
+À chaque étape correspondent des écopratiques (''ecopractices''). La première édition comporte '''73 exigences''' et '''177 recommandations'''.
+
+=== Dimensions couvertes ===
+La spécification traite les dimensions '''technique''', '''organisationnelle''' et '''fonctionnelle''' qui déterminent l’impact environnemental d’un service numérique : stratégie, contenus, spécifications, expérience et interface utilisateur, architecture, ''frontend'' (côté client), ''backend'' (côté serveur) et hébergement.
+
+Elle porte sur la dimension environnementale des impacts du numérique. L’écoconception du matériel n’est pas son objet direct, mais la réduction de l’[[Obsolescence Programmée|obsolescence]] induite sur les équipements et la consommation raisonnée des ressources informatiques font partie des pratiques visées.
+
+== Portée et statut ==
+Une spécification technique (''Technical Specification'', TS) est un document normatif publié lorsque le sujet est encore en évolution ou qu’un consensus complet sur une norme internationale n’est pas encore atteint. Elle constitue une étape possible vers une norme ISO/IEC à part entière et fait l’objet d’un réexamen périodique.
+
+Le document s’adresse aux organisations publiques comme privées : équipes projet, directions des systèmes d’information, concepteurs, développeurs, hébergeurs, acheteurs et prestataires de services numériques.
+
+== Articulation avec les autres référentiels ==
+* Le [[RGESN]] (Référentiel général d’écoconception de services numériques) est le cadre réglementaire français ; l’ISO/IEC TS 20125 en constitue le pendant international volontaire.
+* Le [[GR491]] fournit un niveau de détail opérationnel complémentaire, sous forme de critères de conception responsable.
+* Les normes d’évaluation d’impact — [[Analyse du Cycle de Vie|ISO 14040 et ISO 14044]] — restent les références méthodologiques pour quantifier les impacts, là où l’ISO/IEC TS 20125 décrit les pratiques de conception.
+* L’écoconception générique relève de l’IEC 62430 et de l’ISO 14006.
+
+== Enjeux ==
+Le numérique représente aujourd’hui une part significative des émissions mondiales de [[Gaz à Effet de Serre|gaz à effet de serre]]. La conception des services conditionne largement les volumes de données échangées, la charge des infrastructures et la pression exercée sur les terminaux — donc leur durée d’usage. En donnant un cadre structuré et international à l’écoconception, l’ISO/IEC TS 20125 permet aux organisations d’inscrire la [[Sobriété Numérique|sobriété numérique]] dans leurs processus projet et dans leurs exigences contractuelles.
+
+== Voir aussi ==
+=== Articles connexes ===
+* [[AFNOR SPEC 2201]]
+* [[Ecoconception]]
+* [[RGESN]]
+* [[GR491]]
+* [[Service numérique]]
+* [[Sobriété Numérique]]
+* [[Analyse du Cycle de Vie]]
+* [[Numérique Responsable]]
+
+=== Références externes ===
+* [https://www.iso.org/standard/86105.html ISO/IEC TS 20125-1:2026, catalogue ISO]
+* [https://www.afnor.org/actualites/climat-et-decarbonation/guide-reference-ecoconcevoir-services-numeriques/ Un guide de référence pour écoconcevoir des services numériques, AFNOR]
+* [https://www.eco-conception.fr/articles/h/l-iso-normalise-l-eco-conception-des-services-numeriques.html L’ISO normalise l’écoconception des services numériques, Pôle Éco-conception]
+
+[[Catégorie:Référentiels et méthodes]]
+
+[[de:ISO/IEC TS 20125]]
+[[en:ISO/IEC TS 20125]]
+[[es:ISO/IEC TS 20125]]

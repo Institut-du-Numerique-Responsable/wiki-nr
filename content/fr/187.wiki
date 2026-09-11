@@ -1,0 +1,54 @@
+'''WeNR''' est un outil d’auto-évaluation et de mesure développé par l’[[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]] et ses organisations affiliées, permettant à une organisation d’évaluer la maturité de ses pratiques de [[Numérique_Responsable|numérique responsable]].
+
+== Définition ==
+
+WeNR permet à une organisation de situer ses pratiques, de mesurer l’empreinte de son système d’information et de se comparer à des structures similaires. L’outil est porté conjointement par l’INR (France), ISIT-BE (Belgique) et ISIT-CH (Suisse).
+
+Les partenaires académiques sont La Rochelle Université et l’UCLouvain. La démarche bénéficie du soutien de l’[[Agence_de_la_Transition_Écologique|ADEME]] et de la DINUM.
+
+== Méthodologie ==
+
+La méthode s’appuie sur les travaux de thèse de Guillaume Bourgeois (Université de La Rochelle) et a fait l’objet d’une revue critique indépendante.
+
+L’auto-déclaration fait la force et la limite de l’exercice : elle rend la participation peu coûteuse et la comparaison possible, mais elle ne vérifie pas les chiffres.
+
+L’évaluation repose sur un questionnaire renseigné par l’organisation, portant à la fois sur des éléments qualitatifs (gouvernance, politiques internes, sensibilisation) et quantitatifs (parc d’équipements, durées d’usage, hébergement).
+
+== Les trois niveaux ==
+
+; MyImpact
+: Calculateur d’auto-évaluation rapide, accessible toute l’année et disponible en plusieurs langues.
+
+; WeNR Standard
+: Évaluation qualitative et quantitative complète, permettant la comparaison entre organisations.
+
+; WeNR Enseignement supérieur
+: Déclinaison adaptée aux établissements d’enseignement supérieur, en cours de développement.
+
+== Campagnes et résultats ==
+
+Pendant la période de campagne, l’organisation télécharge un fichier tableur, le renseigne et le dépose sur le portail ; chaque dépôt est horodaté et renommé au nom de l’organisation. Un rapport public agrégeant les résultats a été publié pour l’édition 2021.
+
+La campagne 2026 s’ouvre en juin et introduit de nouveaux indicateurs consacrés à l’[[IA_Responsable|intelligence artificielle]] et sera accompagnée d’un rapport comparatif.
+
+La participation est ouverte à toute organisation.
+
+== Voir aussi ==
+
+* [[Numérique_Responsable|Numérique Responsable]]
+* [[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]]
+* [[Charte_Numérique_Responsable|Charte Numérique Responsable]]
+* [[Empreinte_Carbone|Empreinte Carbone]]
+* [[Analyse_du_Cycle_de_Vie|Analyse du Cycle de Vie]]
+* [[Label_NR|Label NR]]
+
+=== Références externes ===
+
+* [https://wenr.isit-europe.org/ WeNR : Institut du Numérique Responsable]
+
+[[Catégorie:Référentiels et méthodes]]
+
+[[en:WeNR]]
+[[de:WeNR]]
+[[nl:WeNR]]
+[[es:WeNR]]

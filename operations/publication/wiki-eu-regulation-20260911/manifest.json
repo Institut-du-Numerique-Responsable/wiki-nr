@@ -1,0 +1,72 @@
+[
+  {
+    "lang": "fr",
+    "title": "AI Act",
+    "stem": "0",
+    "base_revid": 827,
+    "sha256": "40d0f59aa0f436cf6541f73ed73b5eee6fdbfb3e1b50e1c343be44d26c959471"
+  },
+  {
+    "lang": "en",
+    "title": "AI Act",
+    "stem": "1",
+    "base_revid": 79,
+    "sha256": "57e6864569c74e8b2aa8d060c5f59b1291c05061c612ef8ad61ff79135e08a83"
+  },
+  {
+    "lang": "fr",
+    "title": "Codes de conduite et de bonnes pratiques IA",
+    "stem": "2",
+    "base_revid": 0,
+    "sha256": "aa0fbdde301ac21f0993541fd0cc39dd9ec577e749fd545834ac9a758f48dfa6"
+  },
+  {
+    "lang": "en",
+    "title": "AI codes of conduct and practice",
+    "stem": "3",
+    "base_revid": 0,
+    "sha256": "db6a1ff443d66c53de68c9e5702e632a221f69f9e3f192a3b2c6e58d49449dfe"
+  },
+  {
+    "lang": "fr",
+    "title": "Cyber Resilience Act",
+    "stem": "4",
+    "base_revid": 0,
+    "sha256": "683cb8913bf3266007ed3e9411315f0284f5bcfc68194995cc3ed69730f218d7"
+  },
+  {
+    "lang": "en",
+    "title": "Cyber Resilience Act",
+    "stem": "5",
+    "base_revid": 0,
+    "sha256": "4210f3e00b363e67ff8f1ee044161bf7ffcf7764680cba77ee933115edb062f0"
+  },
+  {
+    "lang": "fr",
+    "title": "NIS2",
+    "stem": "6",
+    "base_revid": 0,
+    "sha256": "1c2980562a81bed7186344c7a174746eabbafad3288b7c9d84a214225bf40c28"
+  },
+  {
+    "lang": "en",
+    "title": "NIS2",
+    "stem": "7",
+    "base_revid": 0,
+    "sha256": "019f66b4f9102c2229d5dede904d957c9534d51c71c439a6796ba00721b58f99"
+  },
+  {
+    "lang": "fr",
+    "title": "Data Act",
+    "stem": "8",
+    "base_revid": 0,
+    "sha256": "b29d714191ad8b7e82c3e45146b6d05ac9b40a3a62796b86ebb26650d5a388bc"
+  },
+  {
+    "lang": "en",
+    "title": "Data Act",
+    "stem": "9",
+    "base_revid": 0,
+    "sha256": "256c5af0d8cc86dc8d2dd96c1912a6313b932109e580997615b5df9ea3dee6ef"
+  }
+]

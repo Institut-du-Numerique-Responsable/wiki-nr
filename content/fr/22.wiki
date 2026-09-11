@@ -1,0 +1,13 @@
+== Définition ==
+'''COPE''' est un acronyme qui signifie '''C'''orporate '''O'''wned, '''P'''ersonally '''E'''nabled. Il correspond à un usage des outils (ordinateur, téléphone portable etc. ) que l'entreprise choisit d'acquérir pour fournir les outils de ses collaborateurs un peu à l'inverse du [[BYOD]]. 
+
+== Dans le cadre du Numérique Responsable ==
+Cette pratique : 
+* est garante d'une sécurisation que l'entreprise souhaite maximale des informations et traitements
+* lutte contre les disparités numériques des employés 
+* ne garantit pas la non multiplication des terminaux et [[DEEE]] associés
+
+== Voir aussi ==
+
+=== Articles connexes ===
+[[BYOD]], [[CYOD]]

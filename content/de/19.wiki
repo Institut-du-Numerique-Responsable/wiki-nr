@@ -1,0 +1,32 @@
+Die '''Kreislaufwirtschaft''' ersetzt das lineare Modell aus Entnehmen, Produzieren, Verbrauchen und Wegwerfen durch ein Modell, in dem Ressourcen möglichst lange in Gebrauch bleiben.
+
+Das lineare Modell beruht auf der heute überholten Annahme, natürliche Ressourcen seien im Überfluss vorhanden.
+
+== Angewandt auf die IT ==
+
+Die IT vereint zwei Merkmale, die sie ins Zentrum des Themas rücken: eine sehr materialintensive [[Herstellung]] und hohe Austauschraten.
+
+Die Hebel, nach abnehmender Wirksamkeit:
+
+# '''Die Nutzungsdauer verlängern''', was eine vollständige Herstellung vermeidet.
+# '''Weiterverwenden und wiederaufbereiten''', was eine bereits erfolgte Herstellung ausschöpft.
+# '''Reparieren''', was Ersatzteile und Dokumentation voraussetzt.
+# '''Recyceln''', was nur einen Teil der Materialien zurückgewinnt.
+
+Die Reihenfolge zählt: Recycling steht am Ende, weil seine Ausbeute bei kritischen Metallen gering ist, die in winzigen Mengen und in Legierungen vorliegen.
+
+== Die Regel der 5R ==
+
+Verweigern, verringern, wiederverwenden, recyceln, der Erde zurückgeben. Die beiden ersten Schritte sind die wirksamsten und zugleich die unsichtbarsten: Sie erzeugen keine messbare wirtschaftliche Aktivität.
+
+== Ein Einwand ==
+
+Kreislauf heißt nicht nachhaltig. Ein umfangreicher Kreislauf verbraucht in jedem Durchgang Energie für Sammlung, Transport und Verarbeitung. Zirkularität senkt die Entnahme; sie erspart nicht, die Mengen zu verringern.
+
+== Siehe auch ==
+
+* [[Lebensende]] · [[Geplante Obsoleszenz]] · [[Herstellung]] · [[Digitale Suffizienz]] · [[Rebound-Effekt]]
+
+[[fr:Economie_Circulaire]]
+[[en:Circular_economy]]
+[[es:Economía_Circular]]

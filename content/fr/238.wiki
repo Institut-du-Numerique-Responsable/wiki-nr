@@ -1,0 +1,20 @@
+Les '''données sensibles''' sont celles dont la divulgation, l’altération ou la perte entraînerait un préjudice sérieux.
+
+Deux acceptions coexistent :
+
+; Au sens du [[Règlement_Général_sur_la_Protection_des_Données|RGPD]]
+: catégorie juridique précise : origine raciale ou ethnique, opinions politiques, convictions religieuses, appartenance syndicale, données de santé, vie sexuelle, données génétiques et biométriques. Leur traitement est interdit par principe, sauf exceptions limitativement énumérées.
+; Au sens de la sécurité
+: acception plus large incluant les secrets industriels, données financières, éléments contractuels et informations stratégiques.
+
+== Conséquence pratique ==
+
+La qualification détermine le régime applicable : analyse d’impact ([[Etude_d'Impact|AIPD]]), mesures de protection renforcées, durées de conservation strictes.
+
+Ces exigences rejoignent la sobriété : ce qui n’est pas collecté n’a pas à être protégé, et ce qui est supprimé à l’échéance ne coûte plus rien à stocker.
+
+== Voir aussi ==
+
+* [[Donnée_personnelle|Donnée personnelle]] · [[Règlement_Général_sur_la_Protection_des_Données|Règlement Général sur la Protection des Données]] · [[Cybersécurité]] · [[Délégué_à_la_Protection_des_Données|Délégué à la Protection des Données]] · [[Dark_Data|Dark Data]]
+
+[[Catégorie:Sécurité]]

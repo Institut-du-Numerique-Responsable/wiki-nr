@@ -1,0 +1,7 @@
+== Définition ==
+« Donnée personnelle » désigne toute information relative à une personne physique identifiée ou identifiable (« Personne concernée par les données »). Une personne identifiable est une personne pouvant être identifiée, directement ou indirectement, notamment par référence à un numéro d’identification ou à un ou plusieurs facteurs spécifiques à son identité physique, physiologique, mentale, économique, culturelle ou sociale. Les données personnelles sont également considérées comme des informations personnellement identifiables.
+
+== Voir aussi ==
+
+=== Liens externes ===
+Le site de la [[CNIL]] : https://www.cnil.fr/

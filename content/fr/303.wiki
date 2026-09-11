@@ -1,0 +1,13 @@
+Un '''réseau''' assure le transport des données entre les [[Terminal|terminaux]] et les [[DataCenter|centres de données]] : réseaux fixes, mobiles, dorsales, équipements d’accès.
+
+== Place dans l’empreinte du numérique ==
+
+Les réseaux constituent le troisième poste d’impact, derrière les terminaux et les centres de données. Leur consommation dépend surtout des '''infrastructures déployées''', et assez peu du volume de données transporté : un réseau allumé consomme, qu’il achemine beaucoup ou peu.
+
+Cette caractéristique nuance un raccourci courant. Réduire le poids d’une page ne diminue pas proportionnellement la consommation du réseau ; le gain porte d’abord sur la sollicitation des terminaux et sur le report du renouvellement des infrastructures.
+
+== Voir aussi ==
+
+* [[Terminal]] · [[DataCenter]] · [[5G]] · [[Edge_Computing]] · [[Empreinte_Carbone|Empreinte carbone]] · [[Fracture_Numérique|Fracture numérique]]
+
+[[Catégorie:Concepts]]

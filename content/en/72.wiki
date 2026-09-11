@@ -1,0 +1,36 @@
+'''Contextual prompting''' means supplying information that helps a language model complete a particular request: the task, relevant material, constraints and, where useful, examples of the expected answer. It changes the input to a request rather than the model's weights.
+
+== Writing a usable request ==
+
+State the task and describe the result you need. For extraction, name the fields and explain how to represent missing information. For summarisation, specify the intended reader and the questions the summary should answer. Add examples when the instructions alone leave room for conflicting interpretations. Google's prompt-design documentation illustrates instructions, examples and output formats.<ref>Google, [https://ai.google.dev/gemini-api/docs/prompting-strategies Prompt design strategies].</ref>
+
+Avoid adding a role, a long background story or repeated instructions unless they improve results on actual examples. A longer prompt costs more tokens to process and may introduce contradictions.
+
+== Example: summarising a maintenance report ==
+
+A useful request might read:
+
+<blockquote>Summarise the attached maintenance report for the workshop supervisor. Give the observed fault, work completed and unresolved issue. Use only information in the report. If a field is missing, write “not stated”. Keep the summary under 100 words.</blockquote>
+
+Test it on an ordinary report, an incomplete report and one containing conflicting observations. Compare the result with the source. An instruction to avoid invention helps define the task but does not guarantee compliance.
+
+== Context and security ==
+
+Treat retrieved pages, attachments and user-supplied text as potentially untrusted material. They can contain instructions intended to redirect the model. OWASP describes this as indirect prompt injection. Separating instructions from source material is useful, but a prompt alone is not an access-control mechanism.<ref>OWASP, [https://genai.owasp.org/llmrisk/llm01-prompt-injection/ LLM01:2025 Prompt Injection].</ref>
+
+Apply permissions in the surrounding application and review actions with consequences before execution. Send only the material required for the task, under the organisation's data-handling rules.
+
+== Improving the prompt ==
+
+Keep a small set of representative requests and expected outcomes. Change one instruction at a time and compare errors, response length and processing cost. If the missing ingredient is a changing body of documents, consider [[RAG]]. If a stable behaviour remains hard to obtain, assess [[Fine-tuning|fine-tuning]].
+
+== See also ==
+* [[RAG]] · [[Fine-tuning]] · [[Prompt injection]] · [[LLM]]
+
+== References ==
+<references />
+
+[[Category:Artificial intelligence]]
+[[fr:Prompting contextuel]]
+[[es:Prompting contextual]]
+[[de:Kontextuelles Prompting]]

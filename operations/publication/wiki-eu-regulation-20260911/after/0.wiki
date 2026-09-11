@@ -1,0 +1,33 @@
+L’'''AI Act''' est le règlement européen (UE) 2024/1689 sur l’intelligence artificielle. Il distingue les obligations selon le rôle de l’organisation, la nature du modèle ou du système et son usage. Une DSI qui utilise une API, intègre un modèle dans un produit ou fournit son propre système doit donc commencer par qualifier son rôle.
+
+== Classer les usages ==
+Certaines pratiques sont interdites ; certains usages, notamment dans le recrutement, peuvent relever du haut risque. D’autres systèmes ont des obligations de transparence. La qualification dépend des conditions et exceptions du règlement : l’étiquette commerciale « assistant IA » ne suffit pas. La Commission fournit une [https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai présentation du cadre et de son calendrier].
+
+Pour un outil de présélection de candidatures, les responsables IT et RH doivent documenter la finalité, les personnes concernées, les données, le rôle du fournisseur et la supervision prévue. Pour un assistant documentaire interne, ils examinent un autre usage, sans supposer pour autant que la protection des données ou la sécurité cessent de s’appliquer.
+
+== Calendrier à vérifier ==
+Le règlement est entré en vigueur le 1er août 2024. Les premières interdictions et dispositions sur la maîtrise de l’IA s’appliquent depuis février 2025 ; les obligations relatives aux modèles à usage général depuis août 2025, sous réserve des transitions prévues. L’application générale date du 2 août 2026.
+
+La Commission indique, après les modifications de 2026, des échéances au 2 décembre 2027 pour les usages à haut risque de l’annexe III et au 2 août 2028 pour les systèmes concernés intégrés à des produits réglementés. Consulter le [https://eur-lex.europa.eu/eli/reg/2024/1689/oj texte européen et ses versions consolidées] avant de fixer une échéance de conformité. État documentaire : 11 septembre 2026.
+
+== Travail de la DSI ==
+* Tenir un inventaire des usages, modèles, versions, fournisseurs et responsables.
+* Conserver les documents nécessaires à la qualification et à l’exploitation du système.
+* Prévoir des tests adaptés au contexte, une supervision effective et une procédure d’incident.
+* Former les personnes selon leurs tâches et les risques rencontrés.
+
+Ces actions organisent la démarche ; elles ne constituent pas à elles seules une preuve de conformité. Un contrat fournisseur ne dispense pas de vérifier les responsabilités de l’organisation.
+
+== Lien avec le numérique responsable ==
+Les [[Codes de conduite et de bonnes pratiques IA]] couvrent plusieurs démarches distinctes. L’article 95 comporte notamment un volet volontaire sur l’environnement et la conception inclusive. Pour une équipe IT, cela peut se traduire par une mesure du coût énergétique, une comparaison avec une solution plus simple et des tests d’accessibilité. Distinguer ces choix des obligations applicables au cas étudié.
+
+== Voir aussi ==
+* [[IA Responsable]]
+* [[Cybersécurité]]
+* [[Data Act]]
+* [[Numérique Responsable]]
+
+[[Catégorie:Intelligence artificielle]]
+[[Catégorie:Réglementation]]
+[[nl:AI Act]]
+[[en:AI Act]]

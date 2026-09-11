@@ -1,0 +1,38 @@
+'''Digitale Souveränität''' bezeichnet die Fähigkeit einer Organisation oder eines Staates, über die eigenen Infrastrukturen, Daten und Technologien selbst zu entscheiden, ohne durch Abhängigkeiten gebunden zu sein, die sie nicht kontrollieren.
+
+== Was der Begriff umfasst ==
+
+; Daten
+: wo sie liegen, welches Recht für sie gilt, wer auf sie zugreifen darf.
+; Infrastrukturen
+: wem Netze, Rechenzentren und Betriebssysteme gehören und wer sie betreibt.
+; Kompetenzen
+: die Fähigkeit, ein System ohne einen einzigen Anbieter zu warten und weiterzuentwickeln.
+
+Souveränität verlangt nicht, alles im eigenen Land herzustellen. Sie verlangt, den Anbieter wechseln zu können, das Laufende prüfen zu können und das Verschwinden eines Partners zu überstehen.
+
+== Verbindung zur Robustheit ==
+
+Im Weißbuch ''Voyage vers la robustesse'' (Infogreen Factory, 2025) stellt Vincent Courboulay, Vorstandsmitglied des Instituts für verantwortungsvolle Digitalisierung, fest, dass Robustheit den Souveränitätsbegriff in Richtung '''strategischer Autonomie''' erweitert: nicht blind von undurchsichtigen oder entwurzelten Systemen abzuhängen.
+
+Die Verschiebung ist bedeutsam. Souveränität wird meist über Standort und Eigentum verhandelt. Robustheit stellt die Frage nach der Fähigkeit weiterzuarbeiten, wenn etwas ausfällt: Gibt es eine Alternative? Ist sie erprobt? Wie lange dauert die Migration?
+
+== Konkrete Hebel ==
+
+* '''Reversibilität''': Ausstiegsbedingungen und Rückgabeformat der Daten vertraglich festlegen.
+* '''Offene Formate und Normen''', die technische Bindung verhindern.
+* '''Anbieterabhängigkeit''' als Risiko bewerten, nicht als Bequemlichkeit.
+* '''Offene Software''', sofern die eigene Kompetenz zur Pflege reicht.
+
+== Ein realer Streitpunkt ==
+
+Souveränität wird vorgeworfen, als protektionistisches Argument zu dienen und Lösungen zu verteuern. Der Einwand trägt, solange der Begriff auf die Herkunft des Anbieters verkürzt wird. Er verliert an Gewicht, sobald es um Reversibilität und Fortführung des Dienstes geht, denn diese lassen sich prüfen, und keine geografische Herkunft garantiert sie.
+
+== Siehe auch ==
+
+* [[Verantwortungsvolle Digitalisierung]] · [[Digitale Suffizienz]] · [[Verantwortungsvolle KI]]
+
+[[fr:Souveraineté_numérique]]
+[[en:Digital_sovereignty]]
+[[es:Soberanía_Digital]]
+[[nl:Digitale soevereiniteit]]

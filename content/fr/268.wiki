@@ -1,0 +1,25 @@
+L’'''Arcep''' (Autorité de régulation des communications électroniques, des postes et de la distribution de la presse) est l’autorité administrative indépendante qui régule les télécommunications en France.
+
+== Rôle en matière de numérique responsable ==
+
+La loi REEN de 2021 a confié à l’Arcep une compétence environnementale, qui s’exerce sur trois plans.
+
+'''Collecte de données.''' L’Arcep recueille auprès des opérateurs, des fabricants de terminaux et des centres de données des indicateurs environnementaux, publiés dans son enquête annuelle « Pour un numérique soutenable ».
+
+'''Référentiels.''' Elle a publié avec l’Arcom et en coordination avec l’[[Agence_de_la_Transition_Écologique|ADEME]] le [[RGESN|référentiel général d’écoconception de services numériques]].
+
+'''Régulation.''' Elle veille aux conditions de déploiement des réseaux, dont l’empreinte constitue une part de celle du numérique.
+
+== À ne pas confondre ==
+
+L’Arcep régule les communications électroniques. La protection des données personnelles relève de la [[Commission_Nationale_de_l'Informatique_et_des_Libertés|CNIL]], et la régulation des contenus de l’Arcom.
+
+== Voir aussi ==
+
+* [[RGESN]] · [[Commission_Nationale_de_l'Informatique_et_des_Libertés|Commission Nationale de l'Informatique et des Libertés]] · [[Agence_de_la_Transition_Écologique|Agence de la Transition Écologique]] · [[Numérique_Responsable|Numérique Responsable]] · [[5G]]
+
+=== Lien externe ===
+
+* [https://www.arcep.fr/ Arcep]
+
+[[Catégorie:Acteurs]]

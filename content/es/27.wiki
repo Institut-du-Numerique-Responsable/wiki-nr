@@ -1,0 +1,32 @@
+La '''reutilización''' consiste en dar un nuevo uso a un equipo que sigue funcionando, sin transformarlo. Se distingue del [[Reacondicionamiento|reacondicionamiento]], que supone reparación y puesta a punto, y del reciclaje, que destruye el objeto para recuperar materiales.
+
+== Por qué encabeza la jerarquía ==
+
+La [[Fabricación|fabricación]] concentra la mayor parte del impacto ambiental de un equipo informático. Reutilizar amortiza ese coste ya pagado sobre una duración mayor, sin generar ninguna fabricación nueva. Ninguna otra vía de [[Fin de Vida|fin de vida]] ofrece el mismo rendimiento.
+
+Reciclar un equipo que todavía funcionaba destruye el valor de su fabricación.
+
+== Los obstáculos reales ==
+
+; El borrado de los datos
+: sin procedimiento verificado, la organización destruye por precaución. Es el motivo principal por el que un parque acaba triturado en lugar de reutilizado.
+; La contabilidad
+: un equipo amortizado se da de baja con más facilidad que se cede.
+; El soporte lógico
+: un aparato privado de actualizaciones de seguridad se vuelve difícil de reutilizar, aunque el hardware esté intacto. Esta es la forma de [[Obsolescencia Programada|obsolescencia]] más determinante en lo digital.
+
+== Las vías ==
+
+* Reasignación interna a otro puesto o a otro uso, menos exigente.
+* Donación a asociaciones, centros educativos o estructuras de inserción.
+* Reventa a operadores de reacondicionamiento.
+
+En todos los casos, el borrado certificado condiciona la salida.
+
+== Véase también ==
+
+* [[Reacondicionamiento]] · [[Fin de Vida]] · [[Economía Circular]] · [[Fabricación]] · [[Obsolescencia Programada]]
+
+[[Categoría:Conceptos]]
+
+[[fr:Réemploi]]

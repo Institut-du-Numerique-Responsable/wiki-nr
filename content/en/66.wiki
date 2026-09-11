@@ -1,0 +1,33 @@
+'''Machine learning''' is the use of data to fit a model that can make predictions or identify patterns. A developer specifies a task and a way to assess errors, then a training procedure adjusts the model. The useful test is how it performs on cases it did not see during training.
+
+== Common approaches ==
+
+In '''supervised learning''', examples include a target: a message and its category, or a building's characteristics and its measured energy consumption. Classification predicts a category; regression predicts a numerical value. In '''unsupervised learning''', practitioners look for structure without supplying a target for each example, for instance by grouping similar records.<ref>scikit-learn, [https://scikit-learn.org/stable/user_guide.html User guide], supervised and unsupervised learning.</ref>
+
+'''Reinforcement learning''' concerns an agent that chooses actions and learns from rewards through interaction. It differs from assigning labels to a fixed collection of records. Self-supervised learning, common in language models, derives training targets from the data themselves, such as predicting a hidden or subsequent part of a sequence.
+
+== Example: routing support requests ==
+
+A support team could train a classifier on past requests labelled by destination team. Start with a baseline, such as keyword rules, and compare it with a small statistical model. Reserve recent requests for testing so that the evaluation resembles deployment. Review mistakes by category: sending an urgent security report to the wrong queue matters more than misrouting a routine question.
+
+Keep evaluation data separate from training and tuning. If preprocessing learns from the complete dataset before the split, information can leak into the model and inflate the reported result.<ref>scikit-learn, [https://scikit-learn.org/stable/common_pitfalls.html Common pitfalls and recommended practices], section on data leakage.</ref>
+
+== After deployment ==
+
+Languages, products and working practices change. Monitor errors and retain a route for staff to correct a classification. Retrain when evidence justifies it.
+
+For [[Sustainable IT]], compare solutions at the quality level the service needs. Include training, routine predictions and human correction in the assessment. A complex model that wins a benchmark by a small margin may offer little benefit in the actual workflow.
+
+== See also ==
+* [[Training data]] · [[Deep learning]] · [[Algorithmic bias]] · [[Artificial intelligence model]]
+
+== References ==
+<references />
+
+== Further reading ==
+* scikit-learn, [https://scikit-learn.org/stable/model_selection.html Model selection and evaluation]: choosing metrics and evaluating models.
+
+[[Category:Artificial intelligence]]
+[[fr:Apprentissage automatique]]
+[[es:Aprendizaje automático]]
+[[de:Maschinelles Lernen]]

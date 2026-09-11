@@ -1,0 +1,31 @@
+La '''huella de carbono''' es un indicador que estima la cantidad de [[Gases de Efecto Invernadero|gases de efecto invernadero]] emitida para satisfacer el consumo de un individuo, una población, un territorio o una actividad: bienes, servicios y uso de infraestructuras. El cálculo integra las emisiones vinculadas a las importaciones y exportaciones, sea cual sea el lugar de producción.
+
+Se expresa en '''toneladas equivalentes de CO₂''' (tCO₂e), unidad que agrega los distintos gases según su poder de calentamiento.
+
+== Los tres alcances ==
+
+; Alcance 1
+: emisiones directas, procedentes de fuentes que la organización posee o controla.
+; Alcance 2
+: emisiones indirectas ligadas a la energía comprada, principalmente la electricidad.
+; Alcance 3
+: todas las demás emisiones indirectas, aguas arriba y aguas abajo: compras, desplazamientos, uso de los productos vendidos, [[Fin de Vida|fin de vida]].
+
+En una organización, el alcance 3 representa lo esencial del total. Para el sistema de información, la [[Fabricación|fabricación]] de los equipos comprados constituye habitualmente la partida dominante. Un balance limitado a los alcances 1 y 2 pasa al lado del problema.
+
+== Marcos de cálculo ==
+
+El [[GHG Protocol]] establece el método de referencia internacional. La norma '''ISO 14064''' lo hace verificable. En Francia, el [[Balance de Carbono]] lo instrumenta y el BEGES lo convierte en obligación legal para ciertas organizaciones. Estos marcos no se oponen: se superponen.
+
+== Lo que la huella de carbono no dice ==
+
+Reducir el análisis ambiental al carbono deja fuera el agotamiento de recursos, el consumo de agua y la toxicidad. Un [[Análisis del Ciclo de Vida|ACV]] multicriterio evita ese sesgo.
+
+== Véase también ==
+
+* [[Análisis del Ciclo de Vida]] · [[Balance de Carbono]] · [[GHG Protocol]] · [[Huella de Agua]] · [[Gases de Efecto Invernadero]]
+
+[[Categoría:Medición]]
+[[de:CO₂-Fußabdruck]]
+[[en:Carbon footprint]]
+[[fr:Empreinte Carbone]]

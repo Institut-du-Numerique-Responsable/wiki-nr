@@ -1,0 +1,81 @@
+== Définition ==
+L’obsolescence programmée désigne l’ensemble des techniques par lesquelles un metteur sur le marché réduit délibérément la durée de vie d’un produit pour en augmenter le taux de remplacement. C’est un délit puni par la loi en France depuis 2015 (Art. L. 213-4-1.-l.). L’obsolescence peut être technique, logicielle ou esthétique. Pour mettre les cas d’obsolescence en évidence, l'association [https://www.halteobsolescence.org/ HOP]( '''H'''alte à l''''O'''bsolescence '''P'''rogrammée) mène des enquêtes et récolte des preuves, par exemple, à propos de l’obsolescence des imprimantes, des collants ou des lave-linge. L’association a sorti un rapport le 10 juin 2021 sur l’obsolescence de téléviseurs (« Petit écran, grand gaspillage ») afin d’alerter sur les pratiques et de proposer des solutions durables pour les fabricants comme pour les consommateurs avec l’aide des pouvoirs publics. Enfin, [https://www.halteobsolescence.org/ HOP] peut porter plainte contre des entreprises qui ne respectent pas la loi, comme Apple. 
+
+L'obsolescence programmée peut se définir comme l'ensemble des techniques par lesquelles on vise à réduire délibérément la durée de vie d’un produit pour en augmenter le taux de remplacement.  
+
+=== Obsolescence matérielle/technique ===
+L’obsolescence technique (ou parfois décrite désignée comme matérielle) est certainement la plus connue, et se décrit par une durée de vie réduite de l’équipement consécutivement à la panne, ou la détérioration prématurée d’une pièce jugée comme essentielle. Elle se traduit par une volonté de limiter la durée de vie d’un bien ou équipement après une durée limitée. Celle-ci constitue un délit depuis 2015 de deux ans d'emprisonnement et 300 000 euros d'amende. 
+
+=== Obsolescence logicielle ===
+L'obsolescence logicielle peut revêtir plusieurs types :  
+
+* soit elle ralentit le fonctionnement d’un terminal pour le rendre progressivement inutilisable,
+* soit elle nécessite des composants et/ou performances matérielles qui ne peuvent pas être satisfaites,
+* soit elle impose des incompatibilités logicielles qui empêche alors le fonctionnement de l’équipement.
+
+=== Obsolescence esthétique ===
+L'obsolescence esthétique (on parle parfois d’obsolescence culturelle) vise à rendre démodé un équipement dont une partie de l’usage tient plus de la représentation sociale qu’il procure que d’un usage logiciel ou matériel. Le renouvellement pour le dernier smartphone à la mode en est l’incarnation parfaite … L’objet numérique répond ici à une loi marketing en rendant désuets des équipements en parfait état de fonctionnement. 
+
+== Pourquoi l'obsolescence est-elle un problème ? ==
+L’obsolescence dans le monde numérique a été longtemps considérée comme une conséquence naturelle du progrès technologique. Toutefois avec l’essor de la consommation des biens et des équipements numériques, cette obsolescence qui faisait la part belle aux renouvellements des matériels et logiciels pose désormais problème. En effet la consommation du numérique est telle que l’impact de la production des équipements électroniques épuisent les gisements des matériaux nécessaires à leur construction, et le renouvellement est tel que des quantités inconsidérées de déchets toxiques viennent polluer les sols.
+
+On estime qu’un Français moyen produit jusqu’à 21 kg de déchets électroniques par an.
+
+Selon une étude menée par le constructeur fujitsu à propos d’un ordinateur de bureau standard<ref>https://www.greenit.fr/2011/02/10/quelle-est-l-empreinte-carbone-d-un-ordinateur/</ref>, l'empreinte carbone est de 339 kg eq. CO2. Elle se décompose de la façon suivante :
+
+* Fabrication des composants : 302 kg eq. CO2
+* Transport : 34 kg eq. CO2
+* Assemblage des composants : 3 kg eq.CO2
+
+L’Ademe estime que la production d’un écran plat émet 676 kg eq. CO2
+
+Les chiffres concernant les impacts des smartphones ne sont guère mieux : il ne faut pas moins de 70 matériaux pour construire un smartphone<ref>https://presse.ademe.fr/wp-content/uploads/2017/09/guide-pratique-impacts-smartphone.pdf</ref>, 
+
+== Obsolescence ce que dit la loi ==
+
+=== Pour une protection du consommateur et de l'environnement contre une obsolescence programmée ===
+L'obsolescence programmée se définit par "l'ensemble des techniques par lesquelles un metteur sur le marché vise à réduire délibérément la durée de vie d'un produit pour en augmenter le taux de remplacement". Le législateur a en effet souhaité protéger les consommateurs des industriels. Une protection inscrite dans la loi. Elle doit être distinguée du vice caché. 
+
+* L'article L 441-2 du code de la Consommation donne la définition de l'obsolescence programmée et en interdit la pratique.
+* L'article L 454-6 du code de la Consommation énumère les sanctions applicables.
+
+=== Sanction en cas d'obsolescence programmée ===
+L'obsolescence programmée est une tromperie punie d'une peine pouvant aller jusqu'à deux ans d'emprisonnement et 300 000 € d'amende.
+
+Cette amende peut être augmentée de manière proportionnelle aux avantages tirés du délit, jusqu'à 5% du chiffre d'affaires annuel calculé sur les trois dernières années. Les personnes physiques encourent des peines complémentaires prévues au code pénal :
+
+* Interdiction d'exercer une fonction publique, une fonction professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
+* Interdiction d'exercer une profession commerciale ou industrielle, d'administrer ou de gérer une entreprise commerciale ou industrielle.
+
+Les deux interdictions peuvent être cumulées.
+
+== Regardons également les mesures juridiques pour une économie circulaire ==
+Les mesures de la loi AGEC (anti-gaspillage économie circulaire) prévoient la mise en place en France d’un indice de durabilité en 2024 et de fonds réparation et réemploi en 2022, tandis qu’un indice de réparabilité est déjà en place depuis janvier 2021. Pour l’indice de durabilité, HOP propose qu’il soit appliqué en fonction de critères de fiabilité, de réparabilité et d’amélioration propres à chaque produit. 
+
+Une loi visant à réduire l’empreinte environnementale du numérique a enfin été adoptée en première lecture par l’Assemblée nationale en juin 2021. Elle crée un « observatoire des impacts environnementaux du numérique » et simplifie la définition de l’obsolescence programmée. Elle interdit les techniques, notamment logicielles, qui restreignent la réparation d’un appareil ou empêchent d’installer le système d’exploitation de son choix passé la garantie. Elle promeut enfin le réemploi des appareils informatiques publics. Des mesures dont HOP se félicite, cependant des articles phares ont été supprimés ou amoindris par rapport à la proposition initiale du Sénat, comme la séparation des mises à jour, le sujet de la redevance copie privée, un référentiel pour l’éco-conception des sites Internet et l’obsolescence culturelle des terminaux.
+
+Au niveau européen, depuis mars 2021, est entrée en vigueur l’obligation d’éco-conception de certains produits. Un plan de la Commission européenne prévoit de mettre en place un indice de réparabilité européen, un droit à la réparation et l’interdiction de la destruction des invendus.
+
+== Comment lutter contre l'obsolescence ==
+
+=== Indice de réparabilité ===
+<ref>https://www.ecologie.gouv.fr/indice-reparabilite</ref>Depuis le 1er janvier 2021, l'indice de réparabilité est déployé sur 5 catégories de produits pilotes qui incluent les smartphones et les ordinateurs portables. Cet outil permettra au consommateur de savoir si son produit est réparable, et le niveau de difficulté pour le faire réparer. Il disposera ainsi d'un outil simple, accessible à tous et visuel. L'objectif d'ici 5 ans est d'atteindre 60 % de taux de réparation des produits électriques et électroniques. 
+
+=== Favoriser la réparation et l’utilisation des pièces détachées ===
+Afin de faciliter la réparation et favoriser l’utilisation de pièces détachées issues de l’économie circulaire, le consommateur bénéficiera, lors de l’achat de son produit, d’une information sur la disponibilité et l’indisponibilité (nouveauté) des pièces détachées.
+
+== Voir aussi ==
+
+=== Liens ===
+
+* Site de l'association HOP : [https://www.halteobsolescence.org Halte à l'Obsolescence programmée]
+* SENAT : Pour une transition numérique écologique : http://www.senat.fr/rap/r19-555/r19-5555.html
+* INR : [https://institutnr.org/obsolescence-programmee-logicielle-et-cadre-reglementaire Obsolescence programmée logicielle et cadre réglementaire] 
+* [https://librairie.ademe.fr/dechets-economie-circulaire/1204-comment-faire-durer-ses-objets-.html Comment faire durer ses objets] aux presses de l'ADEME
+* Le projet Negaoctet a lui aussi publié une fiche pratique "[https://negawatt.org/IMG/pdf/181112_faire-durer-son-ordinateur.pdf Comment faire durer son ordinateur ?]"
+* Le club de la durabilité : https://www.clubdeladurabilite.fr/
+* Produits durables  : https://www.produitsdurables.fr/
+
+=== Références ===
+[[de:Geplante Obsoleszenz]]
+[[es:Obsolescencia Programada]]

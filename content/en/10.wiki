@@ -1,0 +1,55 @@
+'''Sustainable IT''' is an approach to designing, purchasing and using digital technology that considers its environmental impacts and its effects on people. It covers equipment and services throughout their lifecycle, including production, operation, maintenance and end of life.
+
+== Scope ==
+
+[[Green IT]] concerns the footprint of digital equipment and services themselves. [[IT for Green]] considers applications intended to improve environmental outcomes elsewhere, such as energy management. Those applications still need an assessment of their own footprint and evidence of the benefits they deliver.
+
+The social dimension includes [[Digital accessibility|accessibility]], inclusion, working conditions and the ability to use a service without unnecessary barriers. W3C describes web accessibility in terms of whether people with disabilities can perceive, understand, navigate and interact with the Web.<ref>W3C Web Accessibility Initiative, [https://www.w3.org/WAI/fundamentals/accessibility-intro/ Introduction to Web Accessibility].</ref> The [[Human for IT]] and [[IT for Human]] pages discuss these complementary perspectives.
+
+== Reading environmental figures ==
+
+A footprint figure needs a boundary, a year and a method. Check whether it includes manufacturing, imported equipment, networks and data centres outside the country that serve domestic users. Carbon emissions, resource use and water-related impacts also answer different questions.
+
+ADEME's January 2025 update illustrates why these details matter: including data centres abroad changed the assessment of digital use in France and increased the weight attributed to data centres. It would therefore be misleading to claim that user devices dominate every study or that manufacturing is always the largest impact.<ref>ADEME (9 January 2025), [https://www.ademe.fr/presse/communique-national/numerique-environnement-entre-opportunites-et-necessaire-sobriete/ Numérique & environnement : entre opportunités et nécessaire sobriété] (French).</ref>
+
+== Example: reviewing a laptop fleet ==
+
+Before replacing a fleet, record device age, faults, repair options and the software requirements that drive replacement. Extending useful life can avoid new manufacturing, but the decision also needs to account for support, security, accessibility and the work people must perform.
+
+Track what happens after the decision. Equipment transferred into storage has not necessarily gained useful life. If devices leave the organisation, document reuse or treatment routes and arrange appropriate data erasure.
+
+== Organising the work ==
+
+Choose a scope the team can manage, identify the main impacts and assign responsibility for a few measurable changes. Procurement staff can address durability and repair; service owners can remove unnecessary requirements; designers can improve access and compatibility.
+
+[[RGESN]] provides criteria for digital-service ecodesign, while [[Life cycle assessment|life cycle assessment]] supports environmental comparisons. Arcep and Arcom's framework covers decisions from service strategy through architecture, content and hosting.<ref>Arcep and Arcom (2024), [https://en.arcep.fr/news/press-releases/view/n/environment-rgesn-170524.html General policy framework for the ecodesign of digital services].</ref>
+
+== International standardisation ==
+
+ISO lists '''ISO/IEC JTC 1/SC 39/WG 4''', ''Digital Services and Software Sustainability'', as a working group within SC 39, ''Sustainability, IT and data centres''.<ref>ISO, [https://www.iso.org/committee/654019.html ISO/IEC JTC 1/SC 39], working-group listing.</ref>
+
+The published reference is '''[[ISO/IEC TS 20125|ISO/IEC TS 20125-1:2026]]''', a Technical Specification on digital-service ecodesign. It covers environmental practices throughout the service lifecycle. Its scope does not cover all social or inclusion aspects of sustainable IT.<ref>ISO, [https://www.iso.org/standard/86105.html ISO/IEC TS 20125-1:2026], catalogue entry and scope.</ref>
+
+== Institutes and the Sustainable IT Charter ==
+
+The [https://isit-be.org/ Belgian Institute for Sustainable IT (ISIT-BE)] supports organisations in Belgium with guides, tools, training and exchanges between practitioners. Its work covers environmental impacts, accessibility, ethics and digital resilience.<ref>ISIT-BE, [https://isit-be.org/ Belgian Institute for Sustainable IT].</ref>
+
+The [https://charter.isit-europe.org/?lang=en_GB Sustainable IT Charter] gives organisations a framework for making public commitments and reviewing their progress. ISIT-BE provides an [https://isit-be.org/the-sustainable-it-charter English introduction and access to the charter].<ref>ISIT-BE, [https://isit-be.org/the-sustainable-it-charter The Sustainable IT Charter].</ref> The charter is a voluntary commitment; signing it does not certify the organisation's performance. The organisation must still put its commitments into practice and assess the results.
+
+== Further reading in English ==
+* Cigref (2025), [https://www.cigref.fr/sustainable-digital-strategies-of-large-organisations-how-to-scale-up Sustainable digital strategies of large organisations: How to scale up?]: organisational experience with governance, staff involvement and extending responsible digital practices across departments and suppliers.
+
+== See also ==
+* [[Sustainable IT Charter]] · [[Digital sobriety]] · [[Ecodesign]] · [[Carbon footprint]] · [[Digital accessibility]] · [[Responsible AI]] · [[WeNR]]
+
+== Cybersecurity and service lifetime ==
+[[Cybersecurity]] affects maintenance, data retention, backups and equipment reuse. An IT team can remove unused functions and retire abandoned systems while maintaining necessary safeguards. The [https://ecoresponsable.numerique.gouv.fr/publications/ecoconception-securite/ MiNumEco report on ecodesign, cybersecurity and data protection] (2022, in French), prepared with INR's participation, examines these relationships. The dedicated article explains the practical decisions, with a service recovery example and operational references.
+
+== References ==
+<references />
+
+[[Category:Concepts]]
+[[de:Verantwortungsvolle Digitalisierung]]
+[[es:TI Responsable]]
+[[fr:Numérique Responsable]]
+[[nl:Duurzame IT]]

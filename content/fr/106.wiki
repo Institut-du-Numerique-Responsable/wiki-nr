@@ -1,0 +1,18 @@
+== Définition ==
+TCO est un [[ecolabel|écolabel]] indépendant créé en 1992 par TCO Development, une filiale de l'association suédoise Swedish Confederation of Professional Employees. Au départ, leur certification visait la consommation énergétique des écrans d'ordinateur, ces derniers devaient inclure un mode veille.
+
+Aujourd'hui, le champ d'application est élargi : ordinateurs, écrans, projecteurs, tablettes, casques, téléphones mobiles, serveurs... Les éléments d'ergonomie, les émissions électromagnétiques, la consommation énergétique, l'existence de la certification ISO 14001, le faible bruit, le respect des normes [[Restriction of Hazardous Substances|RoHS]] et la recyclabilité du matériel sont des exemples de critères à atteindre pour obtenir cette certification.
+
+== Dans le cadre du numérique responsable ==
+Cette certification a pour but de rendre plus durable les produits informatiques utilisés dans les bureaux et les [[Centre de données|centres de données]] ([[DataCenter|data centers]]).
+
+Aujourd'hui, plus de 3500 produits de 27 marques sont certifiés<ref>https://tcocertified.com/product-finder/</ref>.
+
+== Voir aussi ==
+
+=== Références ===
+<references />
+
+=== Liens externes ===
+* https://fr.wikipedia.org/wiki/Certification_TCO
+* https://tcocertified.com

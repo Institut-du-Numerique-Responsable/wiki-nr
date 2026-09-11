@@ -1,0 +1,26 @@
+L’'''inférence''' est la phase d’utilisation d’un [[Modèle_d'intelligence_artificielle|modèle d’intelligence artificielle]] déjà entraîné : le moment où il applique ce qu’il a appris à une nouvelle requête.
+
+== Pourquoi elle compte ==
+
+L’entraînement est coûteux mais ponctuel. L’inférence est unitairement bien moins coûteuse, mais répétée à chaque usage. Pour un service en production sollicité par de nombreux utilisateurs, l’inférence finit par représenter l’essentiel de la consommation liée au modèle.
+
+Ce coût dépend de trois facteurs :
+
+* la '''taille du modèle''' sollicité : un grand modèle généraliste consomme davantage qu’un modèle spécialisé plus petit, à résultat parfois équivalent ;
+* la '''longueur''' de la requête et de la réponse ;
+* le '''nombre d’appels''', démultiplié dans les usages [[IA_agentique|agentiques]].
+
+== Levier de sobriété ==
+
+Choisir le plus petit modèle qui répond au besoin est le levier le plus direct de l’'''IA frugale''' : il agit sur chaque requête, sans modifier l’usage.
+
+== Voir aussi ==
+
+* [[Modèle_d'intelligence_artificielle|Modèle d'intelligence artificielle]]
+* [[Apprentissage_profond|Apprentissage profond]]
+* [[IA_agentique|IA agentique]]
+* [[Chaîne_de_valeur_de_l'IA|Chaîne de valeur de l'IA]]
+* [[Sobriété_Numérique|Sobriété Numérique]]
+* [[IA_Responsable|IA Responsable]]
+
+[[Catégorie:Intelligence artificielle]]

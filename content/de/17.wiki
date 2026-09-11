@@ -1,0 +1,29 @@
+'''Geplante Obsoleszenz''' bezeichnet die Gesamtheit der Techniken, mit denen ein Inverkehrbringer die Lebensdauer eines Produkts absichtlich verkürzt, um dessen Austauschrate zu erhöhen. In Frankreich ist sie seit 2015 eine strafbare Handlung.
+
+== Ihre Formen ==
+
+; Technisch
+: geschwächtes Bauteil, fest verbaute Batterie, nicht verfügbares Ersatzteil.
+; Software
+: ein Update, das die Leistung eines älteren Geräts verschlechtert, oder ein Supportende, das es Sicherheitslücken aussetzt.
+; Kulturell
+: Austausch aus modischen Gründen, ohne Defekt und ohne funktionale Lücke.
+
+In der IT wiegt die Software-Form am schwersten. Ein einwandfrei funktionierendes Telefon wird unbrauchbar, sobald es keine Sicherheitsaktualisierungen mehr erhält.
+
+== Regulatorische Antworten ==
+
+Der französische Reparierbarkeitsindex, seit Januar 2021 in Kraft, bewertet die Leichtigkeit der Reparatur. Ihm folgt ein Langlebigkeitsindex, der Zuverlässigkeit und Dauer des Software-Supports einbezieht.
+
+Das französische Kreislaufwirtschaftsgesetz verbietet außerdem Techniken, insbesondere softwareseitige, die die Reparatur eines Geräts einschränken oder die Installation eines selbst gewählten Betriebssystems nach Ablauf der Garantie verhindern.
+
+== Eine offene Debatte ==
+
+Die absichtliche Herbeiführung nachzuweisen ist schwierig, was die geringe Zahl der Verurteilungen erklärt. Mehrere Verbände halten dem entgegen, das eigentliche Problem liege weniger in einem industriellen Komplott als in einem Wirtschaftsmodell, das die Reparatur teurer macht als den Ersatz. An den relativen Preisen anzusetzen hätte dann mehr Wirkung als die Verfolgung der Absicht.
+
+== Siehe auch ==
+
+* [[Kreislaufwirtschaft]] · [[Lebensende]] · [[Herstellung]] · [[Verantwortungsvolle Digitalisierung]]
+
+[[fr:Obsolescence_Programmée]]
+[[es:Obsolescencia_Programada]]

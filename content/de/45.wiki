@@ -1,0 +1,23 @@
+'''RAG''' (''Retrieval-Augmented Generation'', abrufgestützte Generierung) verbindet die Suche in Dokumenten mit einem generativen Modell: Das System ruft zunächst relevante Passagen aus einer Dokumentensammlung ab und bittet anschließend das [[:fr:LLM|Modell (FR)]], auf dieser Grundlage eine Antwort zu formulieren.
+
+== Vorteile ==
+
+* '''Aktualität''': Das Wissen liegt in der Dokumentensammlung, die ohne erneutes Training aktualisiert werden kann.
+* '''Nachvollziehbarkeit''': Die Antwort kann ihre Quellen nennen und wird dadurch überprüfbar.
+* '''Weniger [[:fr:Hallucination|Halluzinationen (FR)]]''': Das Modell stützt sich auf Dokumente statt allein auf seine Parameter.
+* '''Kontrolle über die Systemgrenzen''': Interne Dokumente bleiben im Informationssystem.
+
+Gegenüber [[Fine-Tuning|Fine-Tuning]] ist RAG vorzuziehen, sobald sich das Wissen verändert.
+
+== Grenzen ==
+
+Die Qualität hängt vollständig von der Qualität der Suche ab: Eine nicht gefundene Passage wird nicht verwendet, eine fehlerhafte Passage wird übernommen. RAG verlagert das Qualitätsproblem auf die Dokumentenindexierung, beseitigt es aber nicht.
+
+== Siehe auch ==
+
+* [[:fr:LLM|LLM (FR)]] · [[:fr:Hallucination|Halluzination (FR)]] · [[Fine-Tuning|Fine-Tuning]] · [[:fr:IA générative|Generative KI (FR)]] · [[:fr:Explicabilité|Erklärbarkeit (FR)]]
+
+[[Kategorie:Künstliche Intelligenz]]
+[[fr:RAG]]
+[[en:RAG]]
+[[es:RAG]]

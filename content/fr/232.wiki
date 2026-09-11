@@ -1,0 +1,20 @@
+Le '''cloud computing''' désigne l’utilisation de ressources informatiques, calcul, stockage, services, mises à disposition à distance par un fournisseur, facturées à l’usage.
+
+== Effet sur l’empreinte ==
+
+Le cloud ne supprime pas les serveurs, il les déplace. Le gain environnemental n’est ni automatique ni acquis :
+
+* '''favorable''' : mutualisation, taux d’utilisation supérieur à celui d’une salle serveur d’entreprise, [[Power_Usage_Effectiveness|PUE]] généralement meilleur ;
+* '''défavorable''' : l’élasticité supprime la contrainte qui incitait à optimiser, ce qui alimente un [[Effet_Rebond|effet rebond]] : on provisionne parce que c’est immédiat.
+
+L’impact réel dépend du mix électrique de la région d’hébergement, du taux d’utilisation effectif et de la discipline de dimensionnement.
+
+== Autres enjeux ==
+
+[[Vendor_lock-in|Verrouillage fournisseur]], [[Réversibilité|réversibilité]], localisation des données et droit applicable, [[Autonomie_stratégique|autonomie stratégique]].
+
+== Voir aussi ==
+
+* [[DataCenter]] · [[On-premise]] · [[Cloud_hybride|Cloud hybride]] · [[Colocation]] · [[Réversibilité]] · [[Effet_Rebond|Effet Rebond]]
+
+[[Catégorie:Concepts]]

@@ -1,0 +1,14 @@
+== Définition ==
+L’'''AIPD''', ou Analyse d’Impact relative à la Protection des Données, responsabilise les organismes dans le cadre du [[RGPD]]. Elle sert à construire des traitements de données respectueux de la vie privée et à démontrer leur conformité au règlement. 
+
+Elle est obligatoire pour les traitements susceptibles d’engendrer des risques élevés.
+
+== Les 3 parties de l'analyse d'impact relative à la protection des données ==
+L'AIPD se décompose en trois parties :
+
+* Une description détaillée du traitement mis en œuvre, comprenant aspects techniques et opérationnels
+* L’évaluation, de nature plus juridique, de la nécessité et de la proportionnalité concernant les principes et droits fondamentaux (finalité, données et durées de conservation, information et droits des personnes, etc.) non négociables, qui sont fixés par la loi et doivent être respectés, quels que soient les risques ;
+* L’étude, de nature plus technique, des risques sur la sécurité des données (confidentialité, intégrité et disponibilité) ainsi que leurs impacts potentiels sur la vie privée, qui permet de déterminer les mesures techniques et organisationnelles nécessaires pour protéger les données.
+
+== Bibliographie ==
+[https://www.cnil.fr/fr/ce-quil-faut-savoir-sur-lanalyse-dimpact-relative-la-protection-des-donnees-aipd AIPD - Sources CNIL]

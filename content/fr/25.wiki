@@ -1,0 +1,57 @@
+{{DISPLAYTITLE:CNIL (Commission Nationale de l'Informatique et des Libertés)}}
+
+== Définition ==
+La CNIL est une autorité administrative indépendante créée en 1978 par la loi Informatique et Libertés.  Elle est composée d’un Collège de 18 membres provenant de diverses institutions gouvernementales et juridiques et d’une équipe d’agents contractuels de l’État (225 en 2021).
+
+Le Collège se réunit en session plénière une fois par semaine afin : 
+
+* d'analyser les conséquences des nouveautés technologiques sur la vie privée
+* d'émettre un avis sur les projets de texte (lois, décrets...) à la demande du Gouvernement ou du parlement
+
+Une formation restreinte peut également être appelée à statuer sur les sanctions à mettre en place en cas de non respect de la loi.  Elle s'appuie pour cela sur le [[Règlement_Général_sur_la_Protection_des_Données|RGPD]].
+
+== Dans le cadre du Numérique Responsable ==
+La CNIL est le régulateur des données personnelles. D'une part, elle s'assure de la mise en conformité des professionnels ; d'autre part, elle aide les particuliers à rester maître de leurs données personnelles. Les différentes missions de la CNIL sont les suivantes. 
+
+=== Informer, Protéger les droits ===
+Par le biais de ses actions de communication, de la mise à disposition d'outils pédagogiques et autres activités, elle informe le grand public.  Elle peut également intervenir afin de former et sensibiliser au [[RGPD|RGPD (Règlement Général sur la Protection des Données)]].
+
+Elle gère les plaintes qui lui sont adressées par les citoyens en relation avec leurs données.
+
+=== Accompagner la conformité, conseiller ===
+Il s'agit de l'objectif prioritaire de la CNIL.
+
+Elle aide les organismes privés et publics à respecter le RGPD tout en conseillant les autorités sur les textes.
+
+=== Anticiper, innover ===
+La CNIL prend une part active dans les débats sur les enjeux éthiques des données dans le numérique (droits et libertés numériques au travail, Civic tech, [[Intelligence Artificielle|Intelligence Artificielle]]) et participe à l'élaboration de solutions protectrices de la vie privée.
+
+=== Contrôler, sanctionner ===
+Elle peut opérer des contrôles à postériori pour vérifier la mise en œuvre concrète de la loi.  Elle a la capacité de sanctionner tout manquement par le biais d'avertissement, de mises en demeure et enfin avec une procédure de sanction.
+
+== Pouvoir de sanction ==
+
+Depuis l’entrée en application du [[Règlement_Général_sur_la_Protection_des_Données|RGPD]], la formation restreinte peut prononcer des amendes administratives allant jusqu’à '''20 millions d’euros ou 4 % du chiffre d’affaires mondial annuel''', le montant le plus élevé étant retenu.
+
+Elle dispose également de mesures correctrices non financières : mise en demeure, injonction sous astreinte, limitation temporaire ou définitive d’un traitement, suspension de flux de données.
+
+== Ce que la CNIL apporte au numérique responsable ==
+
+La protection des données rejoint la [[Sobriété_Numérique|sobriété numérique]] sur un point précis : le principe de '''minimisation''' du RGPD impose de ne collecter que les données strictement nécessaires, et sa '''limitation de conservation''' impose de les supprimer une fois la finalité atteinte.
+
+Appliqués sérieusement, ces deux principes réduisent les volumes stockés, donc l’infrastructure nécessaire, et limitent les [[Dark_Data|données dormantes]]. La conformité et la sobriété convergent ici, ce qui est rarement le cas entre deux réglementations.
+
+La CNIL publie par ailleurs des travaux sur l’empreinte environnementale des traitements et sur l’encadrement de l’[[Intelligence_Artificielle|intelligence artificielle]], en articulation avec l’[[AI_Act|AI Act]].
+
+== Voir Aussi ==
+
+=== Références ===
+
+* CNIL - [https://www.cnil.fr/fr/statut-et-organisation-de-la-cnil Statut et Organisation]
+* CNIL - [https://www.cnil.fr/fr/les-missions-de-la-cnil Les Missions]
+
+=== Liens externes ===
+
+* Wikipédia [https://fr.wikipedia.org/wiki/Commission_nationale_de_l%27informatique_et_des_libert%C3%A9s_(France) Commission Nationale de l'Informatique et des Libertés (CNIL)]
+
+[[Catégorie:Acteurs]]

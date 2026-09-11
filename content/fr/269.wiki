@@ -1,0 +1,21 @@
+Un '''système d’information''' désigne l’ensemble organisé des ressources, matériels, logiciels, données, procédures et personnes, permettant de collecter, stocker, traiter et diffuser l’information d’une organisation.
+
+== Périmètre ==
+
+Le système d’information ne se réduit pas à l’infrastructure technique. Il comprend les applications métier, les données, les usages et les personnes qui les font fonctionner.
+
+Cette distinction compte pour la mesure d’impact : un inventaire limité aux serveurs manque les terminaux des utilisateurs, qui représentent le plus souvent la part dominante de l’empreinte.
+
+== Leviers de sobriété ==
+
+* '''décommissionner''' les applications sans usage réel, plutôt que les maintenir par précaution ;
+* '''allonger la durée d’usage''' des terminaux, premier poste d’impact ;
+* '''supprimer''' les données devenues inutiles (voir [[Dark_Data|Dark Data]]) ;
+* '''dimensionner''' selon la charge constatée et non selon le pic théorique (voir [[Évolutivité]]) ;
+* '''réduire la [[Dette_technique|dette technique]]''', qui rend toute optimisation risquée.
+
+== Voir aussi ==
+
+* [[Numérique_Responsable|Numérique Responsable]] · [[Sobriété_Numérique|Sobriété Numérique]] · [[DataCenter]] · [[Dette_technique|Dette technique]] · [[Dark_Data|Dark Data]] · [[Coût_total_de_possession|Coût total de possession]]
+
+[[Catégorie:Concepts]]

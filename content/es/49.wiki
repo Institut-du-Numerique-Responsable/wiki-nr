@@ -1,0 +1,33 @@
+El '''Reglamento de Inteligencia Artificial''' de la UE, conocido como '''AI Act''', es el Reglamento (UE) 2024/1689. Las obligaciones dependen del papel de la organización, del modelo o sistema y de su uso previsto. Un departamento de TI que contrata una API, integra un modelo en un producto o proporciona su propio sistema debe determinar primero qué responsabilidades le corresponden.
+
+== Evaluar el uso ==
+El reglamento prohíbe determinadas prácticas y considera de alto riesgo algunos usos, como ciertas aplicaciones de selección de personal. Otros sistemas tienen obligaciones de transparencia. La clasificación depende de las condiciones y excepciones del texto: la etiqueta comercial «asistente de IA» no basta. La Comisión ofrece una [https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai presentación del marco y su calendario, en inglés].
+
+Para una herramienta de preselección de candidaturas, los equipos de TI y recursos humanos deben documentar la finalidad, las personas afectadas, los datos, las responsabilidades del proveedor y la supervisión humana prevista. Un asistente documental interno requiere otro análisis; la protección de datos y la seguridad también deben examinarse.
+
+== Fechas de aplicación ==
+El reglamento entró en vigor el 1 de agosto de 2024. Las primeras prohibiciones y las disposiciones sobre alfabetización en IA se aplican desde febrero de 2025; las obligaciones para los modelos de uso general, desde agosto de 2025, con los períodos transitorios previstos. La fecha de aplicación general fue el 2 de agosto de 2026.
+
+Tras las modificaciones de 2026, la Comisión señala el 2 de diciembre de 2027 para los usos de alto riesgo del anexo III y el 2 de agosto de 2028 para los sistemas afectados integrados en productos regulados. Antes de fijar un plazo de cumplimiento, consultar el [https://eur-lex.europa.eu/eli/reg/2024/1689/oj texto europeo y sus versiones consolidadas]. Referencias consultadas el 11 de septiembre de 2026.
+
+== Trabajo del departamento de TI ==
+* Inventariar los usos, modelos, versiones, proveedores y responsables.
+* Conservar la documentación que justifica la clasificación y las decisiones de explotación.
+* Preparar pruebas adaptadas al contexto, supervisión humana efectiva y gestión de incidentes.
+* Formar a las personas según sus tareas y los riesgos a los que están expuestas.
+
+Estas actividades ayudan a organizar el trabajo, pero no constituyen por sí solas una prueba de cumplimiento. Al revisar el contrato del proveedor, la organización debe comprobar también sus propias responsabilidades.
+
+== Relación con las TI responsables ==
+Los [[Códigos de conducta y de buenas prácticas de IA]] abarcan instrumentos distintos. El artículo 95 incluye objetivos voluntarios de sostenibilidad ambiental y diseño inclusivo. Un equipo puede medir el consumo energético por tarea, comparar una solución más sencilla y comprobar la accesibilidad. Debe distinguir estos compromisos de las obligaciones legales que se aplican al sistema.
+
+== Véase también ==
+* [[IA Responsable]]
+* [[Ciberseguridad]]
+* [[TI Responsable]]
+
+[[Category:Inteligencia artificial]]
+[[Category:Normativa]]
+[[de:AI Act]]
+[[fr:AI Act]]
+[[en:AI Act]]

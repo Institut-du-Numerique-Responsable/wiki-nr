@@ -1,0 +1,15 @@
+Une '''interface''' est le point d’interaction entre une personne et un système : formulaire, [[Agent_conversationnel|agent conversationnel]], tableau de bord, interface de programmation.
+
+== Rôle dans un système d’IA ==
+
+L’interface détermine ce que l’utilisateur comprend du système : sait-il qu’il s’adresse à une [[Intelligence_Artificielle|IA]], perçoit-il le degré de fiabilité de la réponse, peut-il contester, corriger ou passer à un humain.
+
+Une interface qui présente une production incertaine avec les codes visuels de la certitude induit en erreur, indépendamment de la qualité du modèle.
+
+L’[[Accessibilité_Numérique|accessibilité]], la transparence exigée par l’[[AI_Act|AI Act]] et le refus des [[Dark_pattern|interfaces trompeuses]] convergent ici.
+
+== Voir aussi ==
+
+* [[Accessibilité_Numérique|Accessibilité Numérique]] · [[Dark_pattern|Dark pattern]] · [[Agent_conversationnel|Agent conversationnel]] · [[Transparence]] · [[Acceptabilité]] · [[Ecoconception]]
+
+[[Catégorie:Concepts]]

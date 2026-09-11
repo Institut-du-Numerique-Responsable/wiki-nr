@@ -1,0 +1,25 @@
+L’'''acceptabilité''' désigne le degré d’adhésion et de confiance des utilisateurs envers une technologie.
+
+Une [[Intelligence_Artificielle|intelligence artificielle]] acceptée est comprise, expliquée, encadrée et perçue comme légitime par ceux qui l’utilisent ou la subissent.
+
+== Ce dont elle dépend ==
+
+L’acceptabilité ne se décrète pas et ne se réduit pas à la communication. Elle repose sur des conditions vérifiables :
+
+* la '''compréhension''' du fonctionnement et des limites du système ;
+* la '''légitimité''' du cas d’usage : le besoin auquel il répond est-il reconnu par les personnes concernées ;
+* le '''contrôle''' laissé à l’utilisateur, notamment la possibilité de contester une décision ou de solliciter un examen humain ;
+* la '''transparence''' sur les données utilisées et sur les critères de décision ;
+* l’'''association des équipes''' à la conception, plutôt que leur mise devant le fait accompli.
+
+Un système techniquement performant mais imposé sans explication produit du contournement, du désengagement ou du [[Shadow_AI|Shadow AI]].
+
+== Voir aussi ==
+
+* [[IA_Responsable|IA Responsable]]
+* [[Gouvernance_de_l'IA|Gouvernance de l'IA]]
+* [[Effet_de_substitution|Effet de substitution]]
+* [[Qualité_de_Vie_au_Travail|Qualité de Vie au Travail]]
+* [[Biais_algorithmique|Biais algorithmique]]
+
+[[Catégorie:Intelligence artificielle]]

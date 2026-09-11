@@ -1,0 +1,23 @@
+La '''RAG''' (''retrieval-augmented generation'', generación aumentada por recuperación) combina la búsqueda documental con un modelo generativo: el sistema recupera primero los pasajes pertinentes de una base documental y después pide al [[:fr:LLM|modelo (FR)]] que formule una respuesta a partir de ellos.
+
+== Ventajas ==
+
+* '''Actualización''': el conocimiento reside en la base documental, que se actualiza sin reentrenamiento;
+* '''Trazabilidad''': la respuesta puede citar sus fuentes, lo que permite verificarla;
+* '''Reducción de las [[:fr:Hallucination|alucinaciones (FR)]]''': el modelo se apoya en documentos y no solo en sus parámetros;
+* '''Control del perímetro''': los documentos internos permanecen en el sistema de información.
+
+Frente al [[Ajuste fino|ajuste fino]], la RAG es preferible cuando el conocimiento cambia.
+
+== Limitaciones ==
+
+La calidad depende por completo de la calidad de la búsqueda: un pasaje no recuperado no se utilizará y uno erróneo se reproducirá. La RAG desplaza el problema de calidad hacia la indexación documental, pero no lo elimina.
+
+== Véase también ==
+
+* [[:fr:LLM|LLM (FR)]] · [[:fr:Hallucination|Alucinación (FR)]] · [[Ajuste fino|Ajuste fino]] · [[:fr:IA générative|IA generativa (FR)]] · [[:fr:Explicabilité|Explicabilidad (FR)]]
+
+[[Categoría:Inteligencia artificial]]
+[[fr:RAG]]
+[[en:RAG]]
+[[de:RAG]]

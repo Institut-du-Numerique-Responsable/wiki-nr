@@ -1,0 +1,25 @@
+== Définition ==
+Indicateur normalisé par l’ISO/CEI 30134-3, il mesure la quantité d’énergie renouvelable consommée par un datacenter.
+
+Il s’agit du rapport entre l’énergie d’origine renouvelable consommée, divisée par la consommation totale du datacenter. Toute énergie d’origine renouvelable possédée par le [[DataCenter|data center]] est considérée, quelque soit son origine : produite sur site, ou acquise, y compris au travers de Certificats Energies Renouvelables.
+
+== Portée et limites ==
+
+Le REF mesure une '''part d’énergie renouvelable revendiquée''', pas nécessairement l’électricité physiquement consommée. L’indicateur accepte en effet les certificats d’origine renouvelable, achetés indépendamment de la production réelle au moment et au lieu de la consommation.
+
+Un centre de données peut ainsi afficher un REF de 100 % tout en étant alimenté par le réseau local, quel que soit son mix.
+
+Deux critères rendent le chiffre plus honnête :
+
+* la '''corrélation temporelle''' : consommer l’électricité renouvelable au moment où elle est produite, et non compensée sur une moyenne annuelle ;
+* la '''corrélation géographique''' : la produire sur le même réseau que celui où elle est consommée.
+
+Enfin, une électricité renouvelable reste une électricité : elle ne dispense pas de réduire la consommation, et n’efface pas l’impact de la [[Fabrication|fabrication]] des équipements. Voir [[Sobriété_Numérique|Sobriété Numérique]].
+
+== Voir aussi ==
+
+* [[Power_Usage_Effectiveness|Power Usage Effectiveness]]
+* [[Carbon_Usage_Effectiveness|Carbon Usage Effectiveness]]
+* [[DataCenter]]
+* [[Efficacité_énergétique|Efficacité énergétique]]
+* [[Sobriété_Numérique|Sobriété Numérique]]

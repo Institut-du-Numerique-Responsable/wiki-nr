@@ -1,0 +1,21 @@
+La '''transparence''' désigne l’accès aux informations décrivant un système : son fonctionnement, les données qu’il utilise, ses finalités et ses limites.
+
+Elle se distingue de l’'''[[Explicabilité|explicabilité]]''', qui porte sur le raisonnement conduisant à un résultat donné. Un système peut être transparent, sa documentation est publique, sans être explicable, et l’inverse est également possible.
+
+== Contenu attendu pour un système d’IA ==
+
+* le fait qu’une IA est en jeu, et à quel moment ;
+* l’origine et la nature des [[Données_d'entraînement|données]] utilisées ;
+* les limites connues et les cas où le système est peu fiable ;
+* les modalités de supervision humaine ;
+* la voie de recours pour contester un résultat.
+
+L’[[AI_Act|AI Act]] fait de la transparence une obligation, graduée selon le niveau de risque. La Charte IA de l’[[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]] en fait l’un de ses quatre principes.
+
+Transparence et [[Acceptabilité|acceptabilité]] sont liées : un système dont on ignore le fonctionnement suscite la méfiance, y compris lorsqu’il fonctionne bien.
+
+== Voir aussi ==
+
+* [[Explicabilité]] · [[Acceptabilité]] · [[AI_Act|AI Act]] · [[IA_Responsable|IA Responsable]] · [[Gouvernance_de_l'IA|Gouvernance de l'IA]] · [[Open_Data|Open Data]]
+
+[[Catégorie:Intelligence artificielle]]

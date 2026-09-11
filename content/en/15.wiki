@@ -1,0 +1,27 @@
+The '''RGESN''' (''Référentiel général d'écoconception de services numériques'') is the French public reference framework listing [[Ecodesign|ecodesign]] good practices applicable to a digital service.
+
+== Origin ==
+
+It derives from the French REEN Act of 15 November 2021 on reducing the environmental footprint of digital technology. A first version was published in 2022. The version in force, '''2024''', was published in May 2024 by Arcep and Arcom, in coordination with ADEME.
+
+== Structure ==
+
+The 2024 version contains '''78 criteria''' across '''9 themes''': strategy, specifications, architecture, UX/UI, content, frontend, backend, hosting and algorithms.
+
+Each criterion carries three attributes: implementation difficulty, priority, and applicability, since a criterion may not apply to a given service. Each comes with a practical sheet describing how to implement and verify it.
+
+== Difference from the GR491 ==
+
+The RGESN is a public framework, deliberately compact to remain usable, and stems from a legal obligation. The [[GR491]], published by the Institute for Sustainable IT, is broader and aims for completeness.
+
+They are complementary: the RGESN serves as an assessment baseline, the GR491 as an implementation library.
+
+== See also ==
+
+* [[ISO/IEC TS 20125]] · [[GR491]] · [[Ecodesign]] · [[Sustainable IT]] · [[Digital sobriety]]
+
+[[Category:Frameworks and methods]]
+[[de:RGESN]]
+[[es:RGESN]]
+[[fr:RGESN]]
+[[nl:RGESN]]

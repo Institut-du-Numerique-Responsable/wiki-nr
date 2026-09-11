@@ -1,0 +1,27 @@
+The '''AI Act''' is Regulation (EU) 2024/1689 governing the placing on the market and use of [[Responsible AI|artificial intelligence]] systems in the European Union. It is the first comprehensive legal framework for AI worldwide.
+
+It entered into force on 1 August 2024 and became applicable on 2 August 2026. It does not regulate the technology itself but its '''uses''', with obligations proportionate to risk.
+
+== Risk-based approach ==
+
+; Unacceptable risk
+: prohibited practices, such as social scoring or exploiting people's vulnerabilities
+; High risk
+: strict obligations covering risk management, data quality, technical documentation, human oversight and robustness
+; Transparency risk
+: obligation to inform people that they are interacting with an AI or that content was generated
+; Minimal risk
+: no specific obligation; the vast majority of systems fall here
+
+== Timetable ==
+
+Prohibited practices applied from 2 February 2025; general-purpose AI governance from 2 August 2025; general application from 2 August 2026; high-risk systems in sensitive areas from 2 December 2027; high-risk systems embedded in regulated products from 2 August 2028.
+
+== See also ==
+
+* [[Responsible AI]] · [[Sustainable IT]] · [[Shadow AI]]
+
+[[Category:Artificial intelligence]]
+[[Category:Regulation]]
+[[fr:AI Act]]
+[[nl:AI Act]]

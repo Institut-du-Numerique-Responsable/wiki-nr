@@ -1,0 +1,22 @@
+== Définition ==
+L’énergie fatale ou énergie de récupération<ref name=":0">https://fr.wikipedia.org/wiki/%C3%89nergie_de_r%C3%A9cup%C3%A9ration</ref> désigne soit l’énergie présente dans certains produits ou l’énergie résultant de certains processus. Cette énergie peut être captée et réutilisée, valorisée immédiatement.  C’est le cas par exemple des chaudières à condensation (utilisation des calories perdues dans les gaz émis par un échangeur) ou de la méthanisation<ref name=":1">https://www.ademe.fr/expertises/dechets/passer-a-laction/valorisation-organique/methanisation#:~:text=La%20m%C3%A9thanisation%20est%20une%20technologie,qui%20est%20une%20r%C3%A9action%20a%C3%A9robie.</ref> (dégradation de la matière organique produisant un biogaz).
+
+== Dans le cadre du numérique responsable ==
+Diverses initiatives se mettent en place afin de valoriser la chaleur émise par le matériel électronique, informatique.  On peut citer l’exemple de Quarnot Computing<ref name=":2">https://qarnot.com/</ref> qui utilise la chaleur générée par le traitement de calcul des données pour chauffer des bâtiments.  
+
+L’assemblée nationale a également pris des dispositions dans un amendement du 6 novembre 2020<ref name=":3">https://www.assemblee-nationale.fr/dyn/15/amendements/3360C/AN/3241.pdf</ref> pour inciter les centres de données à valoriser la chaleur fatale.
+
+== Voir aussi ==
+
+=== Références ===
+
+* <ref name=":0" />Wikipédia - [https://fr.wikipedia.org/wiki/%C3%89nergie_de_r%C3%A9cup%C3%A9ration Energie de récupération]
+* <ref name=":1" />ADEME - [https://www.ademe.fr/expertises/dechets/passer-a-laction/valorisation-organique/methanisation#:~:text=La%20m%C3%A9thanisation%20est%20une%20technologie,qui%20est%20une%20r%C3%A9action%20a%C3%A9robie. La méthanisation]
+*<ref name=":2" />[https://qarnot.com/ Carnot Computing]
+*<ref name=":3" />Assemblée nationale - [https://www.assemblee-nationale.fr/dyn/15/amendements/3360C/AN/3241.pdf amendement du 6 novembre 2020]
+* Richard Ana - INR - [https://institutnr.org/numerique-responsable-que-dit-la-loi Numérique plus responsable: que dit la loi? Nouvelles propositions] - 19 janvier 2021 
+* Journal du net - [https://www.journaldunet.com/economie/energie/1136543-les-10-technologies-de-demain-pour-recuperer-l-energie-perdue.amphtml/ les 10 technologies de demain pour récupérer l'énergie perdue]
+
+=== Articles connexes ===
+
+* [[Energie finale]]

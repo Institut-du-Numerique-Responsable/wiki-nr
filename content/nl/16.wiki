@@ -1,0 +1,51 @@
+De '''fabricage''' van digitale apparatuur omvat de winning van grondstoffen, het raffineren van metalen, de productie van componenten en de assemblage. Bij de meeste apparaten bepaalt zij de milieubalans.
+
+== Aandeel in de levenscyclus ==
+
+Volgens het werk van Frédéric Bordage (GreenIT, 2019) neemt de fabricage over de hele levenscyclus de volledige impact op abiotische grondstoffen voor haar rekening, 79 % van de impact op zoetwatervoorraden, 44 % van de broeikasgasuitstoot en 35 % van het primaire energieverbruik.
+
+Het aandeel verschilt per apparaat. Voor een smartphone schat het Franse milieuagentschap ADEME de fabricage op ongeveer driekwart van de CO₂-voetafdruk over de levensduur. Voor een laptop ligt het aandeel lager, maar het blijft overheersend. Voor een server die jarenlang zwaar belast wordt, komt het gebruiksstroomverbruik dichterbij, zonder de fabricage in te halen voordat de machine wordt vervangen.
+
+Deze cijfers komen uit studies met verschillende afbakening. Zij zijn ordes van grootte, geen constanten.
+
+== De koolstofschuld wordt vooraf betaald ==
+
+De uitstoot van de fabricage vindt plaats voordat het apparaat voor het eerst wordt aangezet. Elk extra gebruiksjaar deelt die schuld daarna door een groter getal.
+
+De levensduur van een laptop verdubbelen halveert zijn jaarlijkse voetafdruk ongeveer. Geen enkele efficiëntiewinst tijdens het gebruik levert een vergelijkbaar resultaat. Daarom weegt '''hoe lang een apparaat in dienst blijft''' zwaarder dan het energielabel.
+
+== Waaruit een smartphone bestaat ==
+
+Een smartphone van ongeveer 150 gram zet zo'n 70 kilogram grondstoffen in beweging, grotendeels gesteente dat bij de mijnbouw wordt verplaatst en weer afgevoerd.
+
+Het apparaat verenigt tussen de 50 en 60 verschillende metalen, afkomstig uit een groot deel van het periodiek systeem:
+
+* '''behuizing en frame''': aluminium, magnesium, titaan;
+* '''elektronica''': koper, goud, zilver, palladium, tantaal in de condensatoren;
+* '''accu''': lithium, kobalt, nikkel, grafiet, mangaan;
+* '''scherm''': indium voor de transparante geleidende laag, en verscheidene zeldzame aardmetalen voor de kleurweergave;
+* '''magneten, trilmotor en luidsprekers''': neodymium, praseodymium, dysprosium.
+
+Veel daarvan zijn aanwezig in fracties van een gram. Juist dat maakt terugwinning moeilijk.
+
+== Schaarste en afhankelijkheid ==
+
+De schaarste is hier zelden geologisch. Zij is economisch, technisch en geopolitiek:
+
+; Concentratie van de aanvoer
+: de Europese Unie telt 34 kritieke grondstoffen, waarvan er 17 als strategisch gelden. Voor verschillende daarvan levert één land het grootste deel van de wereldproductie, en de raffinage is nog sterker geconcentreerd dan de winning.
+; Winningsomstandigheden
+: kobalt uit de Democratische Republiek Congo en tantaal uit coltan dragen gedocumenteerde sociale en ecologische kosten, van ambachtelijke mijnbouw tot de financiering van gewapende conflicten.
+; Terugwinning die uitblijft
+: het Milieuprogramma van de Verenigde Naties stelde vast dat van 60 onderzochte metalen er 34 een recyclingpercentage aan het einde van de levensduur onder 1 % hebben. Een metaal dat in milligrammen aanwezig is en met andere gelegeerd, is technisch terug te winnen maar economisch niet.
+
+Het praktische gevolg: recycling zal het aanvoerprobleem van deze metalen niet oplossen. Alleen langer gebruik en hergebruik stellen de volgende winning uit.
+
+== Zie ook ==
+
+* [[Duurzame IT]] · [[Digitale soberheid]] · [[AI Act]]
+
+[[fr:Fabrication]]
+[[en:Manufacturing]]
+[[es:Fabricación]]
+[[de:Herstellung]]

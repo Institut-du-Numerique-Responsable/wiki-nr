@@ -1,0 +1,53 @@
+== Définition ==
+PUE est l'acronyme pour '''P'''ower '''U'''sage '''E'''ffectiveness qui est un indicateur de performance énergétique.  Le PUE est certainement l'indicateur d'efficacité énergétique le plus connu et le plus utilisé.
+
+Cet indicateur de performance énergétique réalise le ratio entre la consommation électrique total d'un [[DataCenter]] et la consommation électrique uniquement des éléments d'un [[Systèmes d'Information|Système d'Information]].
+ PUE = Total de Consommation Electrique /  Consommation électrique des équipements du SI
+La consommation électrique globale correspond à la consommation électrique de la climatisation, du traitement de l'air, de l'éclairage .
+
+La consommation des équipements du SI correspond, elle, à la consommation électriques des serveurs, des équipements réseaux, du stockage et de la sauvegarde.
+
+Plus la valeur du PUE '''est proche de 1''' plus votre indicateur de performance énergétique est bon.
+
+Il est à noter, que c'est la consommation globale électrique qui est à prendre en compte. L'origine source de l'électricité , ne peut être un indicateur de réduction, aussi une source électrique 'vert' ne permettra pas de réduire cette consommation.
+
+== Définition du RGESN ==
+
+Le [[RGESN]] retient la définition suivante :
+
+<blockquote>« Le PUE est un indicateur d’efficacité énergétique qui consiste en un ratio entre l’énergie totale consommée par l’ensemble du centre d’exploitation (avec entre autres, le refroidissement, le traitement d’air, les onduleurs...) et la partie qui est effectivement consommée par les systèmes informatiques que ce centre exploite (serveurs, stockage, réseau). Un PUE proche de 1 indique une excellente performance énergétique du centre de données. »</blockquote>
+
+== Portée et limites ==
+
+Le PUE est utile mais souvent surinterprété. Trois limites méritent d’être connues.
+
+'''Il ne mesure pas l’efficacité informatique.''' Le PUE rapporte l’énergie totale à celle des équipements informatiques. Remplacer des serveurs par d’autres, deux fois plus consommateurs mais tout aussi peu utilisés, '''améliore''' le PUE. Un centre dont les serveurs tournent à 5 % de charge peut afficher un excellent PUE tout en gaspillant l’essentiel de l’énergie qu’il consomme.
+
+'''Il ignore l’impact de la fabrication.''' L’indicateur ne porte que sur l’usage. Or la [[Fabrication|fabrication]] des équipements représente une part majeure de leur impact sur le cycle de vie complet.
+
+'''Il dépend fortement du climat et peut se déplacer vers l’eau.''' Un centre situé en climat froid, ou recourant au refroidissement évaporatif, obtient mécaniquement un meilleur PUE, parfois au prix d’une consommation d’eau élevée, que le PUE ne voit pas. Voir [[Water_Usage_Effectiveness|WUE]] et [[Empreinte_Eau|Empreinte Eau]].
+
+Le PUE doit donc être lu avec les indicateurs complémentaires : [[Carbon_Usage_Effectiveness|CUE]] pour le carbone, [[Water_Usage_Effectiveness|WUE]] pour l’eau, [[Renewable_Energy_Factor|REF]] pour l’origine de l’énergie, et surtout les indicateurs de '''taux d’utilisation réel''' des serveurs.
+
+== Dans le cadre du Numérique Responsable ==
+
+L’indicateur le plus vertueux reste celui qu’aucun ratio ne capture : l’équipement que l’on n’installe pas. Avant d’optimiser un PUE, la démarche de [[Sobriété_Numérique|sobriété numérique]] interroge le besoin, la durée de conservation des données (voir [[Dark_Data|Dark Data]]) et le taux d’usage effectif des ressources.
+
+== Voir aussi ==
+
+* [[DataCenter]]
+* [[Carbon_Usage_Effectiveness|Carbon Usage Effectiveness]]
+* [[Water_Usage_Effectiveness|Water Usage Effectiveness]]
+* [[Renewable_Energy_Factor|Renewable Energy Factor]]
+* [[Efficacité_énergétique|Efficacité énergétique]]
+* [[Empreinte_Eau|Empreinte Eau]]
+* [[Sobriété_Numérique|Sobriété Numérique]]
+
+== Articles de référence ==
+
+* CSN EN 50600-4-2 Information technology - Data centre facilities and infrastructures - Part 4-2: Power Usage Effectiveness : https://www.en-standard.eu/csn-en-50600-4-2-information-technology-data-centre-facilities-and-infrastructures-part-4-2-power-usage-effectiveness/
+* ISO/IEC 30134-2:2016 Information technology : Data centres, Key performance indicators, Part 2: Power usage effectiveness (PUE) : https://www.iso.org/standard/63451.html
+[[en:Power Usage Effectiveness]]
+[[es:Power Usage Effectiveness]]
+[[de:Power Usage Effectiveness]]
+[[nl:Power Usage Effectiveness]]

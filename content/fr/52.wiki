@@ -1,0 +1,12 @@
+== Définition ==
+EPEAT (Electronic Product Environmental Assessment Tool) est un [[Ecolabel|écolabel]] indépendant portant sur l’ensemble des impacts environnementaux tout au long du [[cycle de vie]] des ordinateurs, écrans, tablettes, matériel d'imagerie, téléphones mobiles, imprimantes et serveurs. 
+
+Ce label environnemental a été créé en 2006 par le GEC (Green Electronics Council), une association américaine du Green IT.
+
+Ce label est obtenu par une auto-évaluation du constructeur sur plusieurs critères et le GEC contrôle a posteriori.
+
+== Voir aussi ==
+
+=== Liens externes ===
+
+* https://fr.wikipedia.org/wiki/EPEAT

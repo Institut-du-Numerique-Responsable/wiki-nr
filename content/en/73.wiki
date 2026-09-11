@@ -1,0 +1,34 @@
+'''Retrieval-augmented generation''' ('''RAG''') combines information retrieval with text generation. A system finds material relevant to a request and supplies it to a language model as context for an answer. Lewis and colleagues demonstrated this combination for knowledge-intensive language tasks in 2020.<ref>Lewis et al. (2020), [https://arxiv.org/abs/2005.11401 Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks].</ref>
+
+== From documents to an answer ==
+
+A team prepares a searchable collection, often splitting documents into passages and recording their sources. At request time, the system searches this collection, selects useful passages and sends them with the question to the generator. Search may use keywords, embeddings or a combination. Some systems rerank results before generation.
+
+The document collection can be updated without retraining the generator. This makes RAG useful for information such as procedures and product documentation, where both version and source matter.
+
+== Example: finding a repair procedure ==
+
+A workshop assistant might retrieve the manufacturer's instructions for a particular device. A useful answer would identify the model and document version, cite the relevant passage and flag missing information. Retrieving instructions for a similar-looking device could produce a fluent but unsafe answer.
+
+Evaluate retrieval and generation separately. Did the search find the right procedure? Did the answer follow it? Also test questions that the collection cannot answer. The service needs a way to say that it lacks sufficient evidence.
+
+== Limits and confidentiality ==
+
+RAG can reduce unsupported answers, but it does not eliminate [[Hallucination|hallucinations]]. A source may be outdated, incomplete or wrong, and a generator may misread a correct passage. A citation is useful only if it supports the associated claim.
+
+Confidentiality depends on the deployment. Sending retrieved passages to an external model also sends their contents outside the local system. Apply the user's document permissions before retrieval and check the data handling of each service involved. Retrieved documents can carry malicious instructions, an indirect [[Prompt injection|prompt-injection]] risk described by OWASP.<ref>OWASP, [https://genai.owasp.org/llmrisk/llm01-prompt-injection/ LLM01:2025 Prompt Injection].</ref>
+
+== Operating cost ==
+
+Include indexing, embedding generation, storage, retrieval and generation in the assessment. Long passages and repeated searches add work. Rebuild only what has changed where the architecture allows it, and compare the result with a conventional search interface when users mainly need to locate a document.
+
+== See also ==
+* [[Contextual prompting]] · [[Fine-tuning]] · [[LLM]] · [[Hallucination]]
+
+== References ==
+<references />
+
+[[Category:Artificial intelligence]]
+[[fr:RAG]]
+[[es:RAG]]
+[[de:RAG]]

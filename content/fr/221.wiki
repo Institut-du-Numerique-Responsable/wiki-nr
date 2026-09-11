@@ -1,0 +1,25 @@
+Le '''RSSI''' (responsable de la sécurité des systèmes d’information) définit et pilote la politique de [[Cybersécurité|sécurité]] d’une organisation.
+
+== Rôle ==
+
+* définir la politique de sécurité et les règles applicables ;
+* analyser les risques et arbitrer les mesures de protection ;
+* piloter la détection et la réponse aux incidents ;
+* sensibiliser et former les équipes ;
+* assurer la conformité aux exigences réglementaires.
+
+Le RSSI travaille avec le [[Délégué_à_la_Protection_des_Données|DPO]], dont le rôle porte sur la protection des [[Donnée_personnelle|données personnelles]] : les périmètres se recoupent sans se confondre. Le DPO veille au respect des droits des personnes, le RSSI à la protection du système.
+
+== Lien avec le numérique responsable ==
+
+Le sujet touche le RSSI par plusieurs entrées. La '''politique de conservation''' des données détermine autant le risque que le volume stocké. Les '''procédures d’effacement''' conditionnent le [[Réemploi|réemploi]] du matériel en [[Fin_de_Vie|fin de vie]]. S’y ajoute le recensement des usages non encadrés, notamment le [[Shadow_AI|Shadow AI]].
+
+== Voir aussi ==
+
+* [[Cybersécurité]]
+* [[Délégué_à_la_Protection_des_Données|Délégué à la Protection des Données]]
+* [[Règlement_Général_sur_la_Protection_des_Données|Règlement Général sur la Protection des Données]]
+* [[Shadow_AI|Shadow AI]]
+* [[Dark_Data|Dark Data]]
+
+[[Catégorie:Sécurité]]

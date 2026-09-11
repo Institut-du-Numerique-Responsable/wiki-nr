@@ -1,0 +1,28 @@
+Le '''Green IT''' désigne la démarche de réduction de l’empreinte environnementale du système d’information lui-même : équipements, [[DataCenter|centres de données]], réseaux, logiciels.
+
+Il constitue l’un des quatre volets du [[Numérique_Responsable|numérique responsable]], et le plus anciennement identifié.
+
+== Périmètre ==
+
+* allongement de la durée d’usage des équipements, premier levier compte tenu du poids de la [[Fabrication|fabrication]] ;
+* [[Ecoconception|écoconception]] des services numériques ;
+* efficacité des infrastructures ([[Power_Usage_Effectiveness|PUE]], [[Water_Usage_Effectiveness|WUE]], récupération de chaleur) ;
+* politique d’achat et [[Fin_de_Vie|fin de vie]] du matériel ;
+* réduction du volume de données conservées (voir [[Dark_Data|Dark Data]]).
+
+== Ce qu’il ne couvre pas ==
+
+Le Green IT traite l’impact '''du''' numérique. Il ne dit rien de l’usage du numérique au service de l’environnement ([[IT_for_Green|IT for Green]]), ni des dimensions sociales, accessibilité, inclusion, conditions de travail, qui relèvent de [[Human_for_IT|Human for IT]] et [[IT_for_Human|IT for Human]].
+
+Réduire le numérique responsable au seul Green IT est la confusion la plus fréquente.
+
+== Voir aussi ==
+
+* [[Numérique_Responsable|Numérique Responsable]] · [[IT_for_Green|IT for Green]] · [[Ecoconception]] · [[Sobriété_Numérique|Sobriété Numérique]] · [[Empreinte_Carbone|Empreinte Carbone]] · [[Label_NR|Label NR]]
+
+[[Catégorie:Concepts]]
+
+[[de:Green IT]]
+[[en:Green IT]]
+[[es:Green IT]]
+[[nl:Green IT]]

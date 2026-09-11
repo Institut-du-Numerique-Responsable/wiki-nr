@@ -1,0 +1,16 @@
+== Définition ==
+RoHS (Restriction of Hazardous Substances in electrical and electronic equipment) est une [https://eur-lex.europa.eu/legal-content/FR/ALL/?uri=CELEX:32002L0095 directive européenne (2002/95/CE)] qui vise à limiter l'utilisation de substances dangereuses dans la construction des équipements électroniques. 
+
+Les substances concernées sont :
+* le plomb
+* le mercure
+* le cadmium
+* le chrome hexavalent
+* les polybromobiphényles (PBB)
+* les polybromodiphényléthers (PBDE).
+
+== Voir aussi ==
+
+=== Liens externes ===
+
+* https://fr.wikipedia.org/wiki/Directive_RoHS

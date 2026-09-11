@@ -1,0 +1,79 @@
+== Definition ==
+Ein '''Dark Pattern''' — zunehmend '''Deceptive Design''' (täuschendes Design) genannt — ist eine bewusste Gestaltungsentscheidung, die Nutzerinnen und Nutzer zu einer Handlung bewegt, die dem Interesse des Anbieters dient, nicht unbedingt ihrem eigenen. Die Absicht zu täuschen, zu verbergen oder zu verkomplizieren steht im Kern der Definition: Es handelt sich nicht um ergonomisches Ungeschick, sondern um bewusst entworfene Manipulation.
+
+Die Ziele sind vielfältig: mehr Ausgaben veranlassen, die Verweildauer verlängern oder die Zustimmung zu Bedingungen und Tracking erlangen, die bei klarer Darstellung abgelehnt worden wären.
+
+Der Begriff wurde 2010 vom britischen UX-Fachmann Harry Brignull geprägt, der die erste Klassifikation vorlegte. Regulierungsbehörden und neuere Fachliteratur bevorzugen zunehmend „Deceptive Design“ als deutlichere Bezeichnung.
+
+== Typologie ==
+Die Klassifikationen unterscheiden sich, ein stabiler Kern von Familien kehrt jedoch wieder.
+
+=== Verschleierung ===
+* '''Versteckte Kosten''': Bearbeitungs- oder Versandgebühren, die erst im letzten Zahlungsschritt erscheinen.
+* '''Drip Pricing''': Der genannte Preis wird erst nach mehreren Bildschirmen vollständig.
+* '''Heimliches Hinzufügen in den Warenkorb''': voreingestellte Option, Versicherung oder Abonnement, die aktiv entfernt werden müssen.
+
+=== Künstliche Dringlichkeit und Knappheit ===
+* Countdowns, die neu starten, Hinweise wie „nur noch 2 verfügbar“ oder „14 Personen sehen sich diese Seite an“, die nicht überprüfbar sind.
+* Ausnutzung des Knappheitsbias und der Angst, etwas zu verpassen (FOMO).
+
+=== Ablenkung und Beschämung ===
+* '''Misdirection''': visuelle Hierarchie, die die für den Anbieter günstige Option hervorhebt und die andere verschwinden lässt — farbige Schaltfläche gegen winzigen grauen Link.
+* '''Confirmshaming''': Ablehnung schuldbeladen formuliert („Nein danke, ich zahle lieber den vollen Preis“).
+* '''Fangfragen''': doppelte Verneinungen, Kontrollkästchen, deren Bedeutung von Zeile zu Zeile kippt.
+
+=== Behinderung ===
+* '''Roach Motel''': Abschluss in zwei Klicks, Kündigung in acht Schritten, einem Telefonat und einem Brief. Dieses Muster steht am deutlichsten im Fokus der Aufsicht.
+* '''Nagging''': wiederholte Aufforderungen — Benachrichtigungen, modale Fenster — bis zur Zustimmung.
+
+=== Zwang und Privatsphäre ===
+* '''Erzwungene Handlung''': Kontopflicht für eine belanglose Aktion, Berechtigungen ohne Bezug zur Funktion.
+* '''''Privacy Zuckering''''': Gestaltung, die zur Preisgabe von mehr personenbezogenen Daten führt als beabsichtigt, mit vergrabenen und standardmäßig deaktivierten Schutzeinstellungen.
+* '''Vorauswahl''': vorangekreuzte Kästchen als Ersatz für Einwilligung.
+* '''Getarnte Werbung''': kommerzielle Inhalte, die als redaktionelles Material oder als Bedienelement erscheinen.
+
+== Ausgenutzte Mechanismen ==
+Dark Patterns erzeugen kein neues Verhalten; sie nutzen gut dokumentierte kognitive Verzerrungen.
+
+* '''Knappheitsbias und Verlustaversion''': Die Furcht vor dem Verlust einer Gelegenheit wiegt schwerer als die Aussicht auf einen gleichwertigen Gewinn.
+* '''Ankereffekt''': Ein zuerst gezeigter hoher Preis lässt den folgenden angemessen wirken.
+* '''Aufwandskosten''': Nach wenigen Schritten geben Nutzende auf — genau darauf zielt die Behinderung.
+* '''Standardeffekt''': Die voreingestellte Option bleibt in der überwiegenden Mehrheit der Fälle bestehen, unabhängig von ihrem Inhalt.
+* '''Aufmerksamkeitslast''': Eine dichte, drängende Oberfläche verschlechtert die Entscheidungsqualität — das Feld der Aufmerksamkeitsökonomie.
+
+== Der Fall der Einwilligungsbanner ==
+Cookie-Banner sind das häufigste Beobachtungsfeld: prominente Schaltfläche „Alle akzeptieren“ gegenüber einer in ein Untermenü verbannten Ablehnung, tendenziöse Formulierungen, erneutes Erscheinen bei jedem Besuch. Seit ihren Entscheidungen von 2022 verlangt die französische Datenschutzbehörde CNIL schlicht: '''Ablehnen muss so einfach sein wie Akzeptieren''', mit sichtbarer Ablehnen-Schaltfläche auf der ersten Ebene.
+
+== Rechtsrahmen ==
+* '''DSGVO''': Die Einwilligung muss freiwillig, für den bestimmten Fall, in informierter Weise und unmissverständlich erfolgen. Ein vorangekreuztes Kästchen, ein aufwendiger Ablehnungsweg oder eine aus Ermüdung erteilte Zustimmung genügen dem nicht.
+* '''Gesetz über digitale Dienste (DSA)''', Artikel 25: Oberflächen, die Nutzende täuschen, manipulieren oder ihre Entscheidungsautonomie beeinträchtigen, sind untersagt. Im Dezember 2025 verhängte die Europäische Kommission ihre erste DSA-Geldbuße — 120 Millionen Euro gegen die Plattform X, unter anderem wegen der täuschenden Gestaltung ihres Verifizierungsabzeichens.
+* '''Gesetz über digitale Märkte (DMA)''': regelt die Oberflächen der Torwächter, insbesondere Auswahlbildschirme und dienstübergreifende Einwilligungen.
+* '''Verbraucherrecht''': Je nach Fall gelten Dark Patterns als irreführende oder aggressive Geschäftspraktiken.
+
+== Bedeutung für verantwortungsvolle Digitalisierung ==
+Das Thema wird meist allein der Ethik zugeordnet; es betrifft ebenso unmittelbar die Suffizienz.
+
+* '''Ressourcenverbrauch.''' Künstlich verlängerte Abläufe, wiederholte Aufforderungen und Bindungsfunktionen vervielfachen Anfragen, schwere Bildschirme und Nutzungszeit — und damit die Energie von Endgeräten, Netzen und Servern.
+* '''Aufgezwungene Nutzungsdauer.''' Engagement-Mechaniken verlängern die Nutzung, ohne Nutzen zu schaffen: das Gegenteil des Grundsatzes nützlich / benutzbar / genutzt, der dem [[Ökodesign|Ökodesign]] digitaler Dienste zugrunde liegt.
+* '''Nähe zur Barrierefreiheit.''' Eine täuschende Oberfläche ist zuallererst eine unlesbare. Menschen mit Behinderung, mit Schwierigkeiten im Umgang mit digitalen Werkzeugen oder mit der Sprache trifft es zuerst — womit das Thema an [[Digitale Barrierefreiheit|digitale Barrierefreiheit]] und Inklusion anschließt.
+* '''Referenzrahmen.''' Die [[ISO/IEC TS 20125]] und ihre französische Vorläuferin AFNOR SPEC 2201 verlangen ausdrücklich, Funktionen zur Aufmerksamkeitsbindung und Gestaltungsverzerrungen auszuschließen, die Nutzende täuschen oder ihre Nutzungsdauer künstlich verlängern.
+
+== Gestalten ohne Dark Patterns ==
+* '''Symmetrie der Wahl.''' Annehmen und Ablehnen sollten gleich viele Schritte erfordern und gleich gestaltet sein.
+* '''Schützende Voreinstellungen.''' Die Standardoption ist die, die Nutzende schützt: keine vorangekreuzten Kästchen, keine Datenweitergabe per Voreinstellung.
+* '''Wünschenswerte Reibung.''' Nicht jede Reibung ist schlecht: Eine unumkehrbare oder kostspielige Handlung bewusst zu verlangsamen, schützt. Manipulative Reibung behindert das Gewollte; wünschenswerte Reibung unterstützt die Entscheidung.
+* '''Klare Sprache.''' Keine doppelten Verneinungen, keine tendenziösen Formulierungen, vollständiger Preis so früh wie möglich.
+* '''Symmetrie von Eintritt und Austritt.''' Kündigen, Konto löschen oder Daten exportieren muss so zugänglich sein wie die Anmeldung.
+* '''Ethische Prüfung und Nutzertests.''' Abläufe von projektfremden Personen prüfen lassen, mit einer einfachen Frage: Hätte eine informierte Person dieselbe Wahl getroffen?
+
+== Siehe auch ==
+* [[Ökodesign]] · [[Digitale Suffizienz]] · [[Digitale Barrierefreiheit]] · [[Verantwortungsvolle Digitalisierung]] · [[ISO/IEC TS 20125]] · [[RGESN]]
+
+=== Externe Referenzen ===
+* [https://www.deceptive.design/ Deceptive Design, Harry Brignull]
+* [https://designersethiques.org/fr/thematiques/design-persuasif/concevoir-sans-dark-patterns Concevoir sans dark patterns, Designers Éthiques]
+* [https://design.cnil.fr/ Données & Design, LINC — CNIL]
+
+[[en:Dark pattern]]
+[[es:Dark pattern]]
+[[fr:Dark pattern]]

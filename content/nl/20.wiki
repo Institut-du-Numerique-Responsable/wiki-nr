@@ -1,0 +1,42 @@
+'''Cyberbeveiliging''' beschermt informatiesystemen en de vertrouwelijkheid, integriteit en beschikbaarheid van hun gegevens en diensten. Binnen [[Duurzame IT|duurzame IT]] onderzoeken teams ook hoe beveiligingskeuzes de levensduur van apparatuur, het grondstoffengebruik en de mensen die een dienst gebruiken beïnvloeden.
+
+== Ecodesign, beveiliging en privacy ==
+De Franse missie MiNumEco publiceerde in 2022 de resultaten van een workshop over de samenhang tussen deze drie onderwerpen. Onder meer DINUM, ANSSI, CNIL, de Universiteit van Rennes, Campus Cyber en het Institut du Numérique Responsable (INR) namen deel. Het verslag beschrijft gezamenlijke werkwijzen en afwegingen voor projecten.<ref name="minumeco">MiNumEco, [https://ecoresponsable.numerique.gouv.fr/publications/ecoconception-securite/ Écoconception, cybersécurité et protection des données, quelles synergies ?], 2022, in het Frans.</ref>
+
+De eigenaar van de dienst, beveiligingsmedewerkers, de functionaris voor gegevensbescherming en de mensen die aan ecodesign werken, horen al bij het vaststellen van de behoefte samen te werken. Zij hebben een gedeeld beeld nodig van de dienst, de gebruikers, de te beschermen informatie en de benodigde middelen. Het verslag is geen certificering of overkoepelende norm die de eisen van de afzonderlijke vakgebieden vervangt.
+
+== Keuzes die de drie doelen kunnen ondersteunen ==
+* '''Beperk gegevens en functies.''' Verzamel benodigde informatie, verwijder ongebruikte functies en vermijd overbodige aanroepen naar externe diensten. Dit kan gegevensstromen en het aantal blootgestelde componenten verminderen. Laat toegangsrechten aansluiten bij ieders taken.
+* '''Houd een inventaris bij.''' Leg apparatuur, toepassingen, afhankelijkheden, gegevensopslag en verantwoordelijken vast. Zo kunnen teams software zonder ondersteuning, ongebruikte systemen en vergeten kopieën herkennen.
+* '''Voorzie langdurig onderhoud.''' Neem beveiligingsupdates en reparatiemogelijkheden mee bij de inkoop. Langer gebruik van hardware vereist onderhouden software; een kwetsbare browser zonder updates behouden is geen ecodesignstrategie.
+* '''Beëindig diensten volledig.''' Controleer afhankelijkheden en bewaareisen, trek toegang in en schakel bijbehorende middelen uit. Een vergeten server kan bereikbaar blijven en middelen verbruiken nadat de toepassing buiten gebruik is geraakt.
+
+Deze werkwijzen sluiten aan op de workshopanalyse over minimalisering, systeemkennis, onderhoud en buitengebruikstelling.<ref>MiNumEco, [https://ecoresponsable.numerique.gouv.fr/publications/ecoconception-securite/synergies-et-divergences/ Synergies et divergences], 2022, in het Frans.</ref> Het milieuvoordeel hangt af van de middelen die echt vrijkomen en de aankopen die daardoor kunnen worden uitgesteld.
+
+== Beveiliging passend inrichten ==
+Versleuteling, beveiligingsmonitoring, back-ups en redundante infrastructuur vergen middelen. Teams moeten de omvang afstemmen op vastgelegde risico's en continuïteitseisen. Minder opslag of energieverbruik rechtvaardigt op zichzelf geen verzwakking van noodzakelijke bescherming. De beveiligingsgids van CNIL behandelt operationele maatregelen, waaronder cloud, API's en AI.<ref>CNIL, [https://www.cnil.fr/fr/node/165213 Practice guide for the security of personal data: 2024 edition], Engelse gids beschikbaar.</ref>
+
+De eigenaar van een online afsprakendienst kan bijvoorbeeld hersteldoelen afspreken met beheer en beveiliging. Het team test het herstel en onderzoekt onnodige duplicatie, met behoud van de onafhankelijke back-ups die nodig zijn. Voor logbestanden legt het team vast welke gebeurtenissen nodig zijn voor detectie, wie ze mag lezen en hoelang ze worden bewaard. Geheimen horen niet in logs en onbeperkt alles bewaren is geen uitgangspunt.
+
+Ook het samenvoegen van infrastructuur vereist een risicoanalyse. Gedeelde middelen kunnen ongebruikte capaciteit verminderen, maar sterke concentratie kan de gevolgen van een incident vergroten. Vergelijk ontwerpen die aan dezelfde eisen voor beveiliging en beschikbaarheid voldoen.
+
+== Hergebruik en veilige afvoer ==
+Verwijder voor overdracht of donatie de gegevens met een methode die past bij het opslagmedium en de gevoeligheid van de informatie, en controleer het resultaat. NIST SP 800-88 Revision 2 beschrijft hoe organisaties dit proces voor gegevensdragers kunnen inrichten.<ref>NIST, [https://csrc.nist.gov/pubs/sp/800/88/r2/final Guidelines for Media Sanitization, SP 800-88 Rev. 2], 2025, in het Engels.</ref> Een gedocumenteerd proces helpt bepalen of hergebruik mogelijk is. Gewoon bestanden verwijderen levert onvoldoende bewijs.
+
+== Resultaten volgen ==
+Een gezamenlijke evaluatie kan kijken naar apparatuur met actieve ondersteuning, beëindigde diensten, hersteltests en de hoeveelheid en het doel van bewaarde gegevens. Metingen van het middelengebruik kunnen dit aanvullen. Een daling in gigabytes is op zichzelf geen gemeten CO2-reductie.
+
+Lees de workshop uit 2022 samen met recentere bronnen. De [[RGESN]] uit 2024 ondersteunt ecodesign van digitale diensten en vervangt het beheer van beveiligingsrisico's niet.<ref>Arcep, [https://en.arcep.fr/news/press-releases/view/n/environment-rgesn-170524.html General policy framework for the ecodesign of digital services], 2024, in het Engels.</ref>
+
+== Zie ook ==
+* [[Digitale soberheid]]
+* [[Einde levensduur]]
+
+== Bronnen ==
+<references />
+
+
+[[fr:Cybersécurité]]
+[[en:Cybersecurity]]
+[[es:Ciberseguridad]]
+[[de:Cybersicherheit]]

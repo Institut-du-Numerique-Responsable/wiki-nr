@@ -1,0 +1,20 @@
+Un '''algoritmo''' es una secuencia finita de instrucciones que permite resolver un problema o realizar una tarea.
+
+El concepto es anterior a la informática: una receta de cocina o un método de división escrita son algoritmos. En informática, el algoritmo describe el procesamiento con independencia del lenguaje que lo implementa.
+
+== Relación con la IA ==
+
+Un algoritmo convencional lo escribe una persona: sus reglas se pueden leer y sus decisiones se pueden explicar. En cambio, un sistema de [[Aprendizaje automático|aprendizaje automático]] obtiene su comportamiento a partir de [[Datos de entrenamiento|datos]], sin reglas explícitas. De ahí surgen la dificultad de la [[:fr:Explicabilité|explicabilidad (FR)]] y el problema de la [[Caja negra|caja negra]].
+
+== Sobriedad en el uso de recursos ==
+
+La elección del algoritmo determina el consumo de recursos mucho más que la optimización del código que lo implementa. Un servidor más potente no compensa un proceso mal diseñado: este es uno de los principios del [[Ecodiseño|ecodiseño]] de software.
+
+== Véase también ==
+
+* [[Aprendizaje automático|Aprendizaje automático]] · [[:fr:Explicabilité|Explicabilidad (FR)]] · [[Caja negra|Caja negra]] · [[Ecodiseño|Ecodiseño]] · [[:fr:Biais algorithmique|Sesgo algorítmico (FR)]]
+
+[[Categoría:Conceptos]]
+[[fr:Algorithme]]
+[[en:Algorithm]]
+[[de:Algorithmus]]

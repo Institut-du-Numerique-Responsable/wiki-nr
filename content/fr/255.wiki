@@ -1,0 +1,21 @@
+La '''réversibilité''' est la capacité à changer de fournisseur, de solution ou d’hébergement sans coût ni difficulté prohibitifs.
+
+Elle ne se décrète pas dans un contrat : elle se vérifie.
+
+== Conditions ==
+
+* '''Formats ouverts''' et documentés pour les données comme pour les configurations ;
+* '''Export complet''' : données, métadonnées, historiques, droits, et pas seulement les données principales ;
+* '''Absence d’adhérence''' aux services propriétaires du fournisseur dans le code applicatif ;
+* '''Essai réel''' : une clause de réversibilité jamais testée ne vaut pas grand-chose ;
+* '''Compétences internes''' suffisantes pour reprendre la main.
+
+== Portée ==
+
+La réversibilité conditionne l’[[Autonomie_stratégique|autonomie stratégique]] et constitue la parade au [[Vendor_lock-in|verrouillage fournisseur]]. Elle relève aussi de la [[Résilience|résilience]] : un fournisseur peut disparaître, augmenter ses tarifs ou modifier ses conditions.
+
+== Voir aussi ==
+
+* [[Vendor_lock-in|Vendor lock-in]] · [[Autonomie_stratégique|Autonomie stratégique]] · [[Cloud_computing|Cloud computing]] · [[Open_Data|Open Data]] · [[Résilience]]
+
+[[Catégorie:Concepts]]

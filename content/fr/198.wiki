@@ -1,0 +1,38 @@
+Le '''GHG Protocol''' (''Greenhouse Gas Protocol'') est le cadre international de référence pour la comptabilisation des émissions de [[Gaz_à_Effet_de_Serre|gaz à effet de serre]] des organisations.
+
+== Définition ==
+
+Élaboré conjointement par le '''World Resources Institute''' (WRI) et le '''World Business Council for Sustainable Development''' (WBCSD), le GHG Protocol est le standard le plus utilisé au monde. La plupart des autres cadres, [[Bilan_Carbone|Bilan Carbone]], [[ISO_14064|ISO 14064]], reporting [[CSRD]], s’y réfèrent ou s’y articulent.
+
+C’est lui qui a introduit la découpe en '''scopes''', aujourd’hui universelle.
+
+== Les standards ==
+
+; Corporate Standard
+: le socle, publié en 2001 et révisé en 2004 ; définit la comptabilisation des scopes 1 et 2 à l’échelle d’une organisation
+; Corporate Value Chain (Scope 3) Standard
+: publié en 2011 ; détaille les quinze catégories du scope 3, réparties entre activités amont et aval
+; Product Life Cycle Standard
+: empreinte d’un produit sur l’ensemble de son cycle de vie
+; Project Protocol
+: quantification des réductions issues de projets spécifiques
+
+== Les quinze catégories du scope 3 ==
+
+Le scope 3 se décompose en huit catégories amont (achats, immobilisations, transport amont, déchets, déplacements professionnels, trajets domicile-travail, actifs loués…) et sept catégories aval (transport aval, transformation, '''utilisation des produits vendus''', [[Fin_de_Vie|fin de vie]], franchises, investissements…).
+
+Pour un éditeur de logiciel ou un service en ligne, la catégorie « utilisation des produits vendus » est souvent la plus lourde : elle englobe l’énergie consommée par les terminaux des utilisateurs.
+
+== Voir aussi ==
+
+* [[Bilan_Carbone|Bilan Carbone]]
+* [[ISO_14064|ISO 14064]]
+* [[Bilan_des_Émissions_des_Gaz_à_Effet_de_Serre|Bilan des Émissions des Gaz à Effet de Serre]]
+* [[Empreinte_Carbone|Empreinte Carbone]]
+* [[CSRD]]
+
+=== Références externes ===
+
+* [https://ghgprotocol.org/ Greenhouse Gas Protocol]
+
+[[Catégorie:Référentiels et méthodes]]

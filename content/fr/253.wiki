@@ -1,0 +1,20 @@
+Le '''RAG''' (''retrieval-augmented generation'', génération augmentée par la recherche) combine une recherche documentaire et un modèle génératif : le système retrouve d’abord les passages pertinents dans une base, puis demande au [[LLM|modèle]] de formuler une réponse à partir de ces éléments.
+
+== Intérêt ==
+
+* '''Actualité''' : la connaissance réside dans la base, mise à jour sans réentraînement ;
+* '''Traçabilité''' : la réponse peut citer ses sources, ce qui la rend vérifiable ;
+* '''Réduction des [[Hallucination|hallucinations]]''' : le modèle s’appuie sur des documents plutôt que sur ses seuls paramètres ;
+* '''Maîtrise du périmètre''' : les documents internes restent dans le système d’information.
+
+Comparé au [[Fine-tuning|fine-tuning]], le RAG est préférable dès que la connaissance évolue.
+
+== Limites ==
+
+La qualité dépend entièrement de celle de la recherche : un passage non retrouvé ne sera pas utilisé, et un passage erroné sera repris. Le RAG déplace le problème de qualité vers l’indexation documentaire, il ne le supprime pas.
+
+== Voir aussi ==
+
+* [[LLM]] · [[Hallucination]] · [[Fine-tuning]] · [[IA_générative|IA générative]] · [[Explicabilité]]
+
+[[Catégorie:Intelligence artificielle]]

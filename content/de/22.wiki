@@ -1,0 +1,29 @@
+'''Ökodesign''' bezieht Umweltkriterien schon in den Entwurf eines Produkts oder Dienstes ein, gleichrangig mit Kosten, Qualität und Termin.
+
+Es stützt sich auf eine Gesamtsicht der Umweltwirkungen. Der Ansatz ist mehrstufig, weil er die Phasen des Lebenszyklus abdeckt, und mehrkriteriell: Material- und Energieverbrauch, Einträge in die Umwelt, Wirkungen auf Klima und Biodiversität.
+
+== Angewandt auf digitale Dienste ==
+
+Digitales Ökodesign setzt vorrangig bei den Hauptursachen an:
+
+* '''die Beanspruchung der Nutzergeräte''': eine schwere Seite zwingt zum früheren Austausch eines noch funktionierenden Geräts, und dieser Austausch wiegt schwerer als der verbrauchte Strom;
+* '''das Datenvolumen''', das ausgetauscht und gespeichert wird;
+* '''der tatsächliche Nutzen''' einer Funktion, geprüft bevor sie optimiert wird.
+
+Die praktische Folge überrascht oft: die beste Optimierung besteht darin, eine wenig genutzte Funktion zu streichen, nicht sie zu beschleunigen.
+
+== Referenzrahmen ==
+
+Das [[RGESN]] ist ein öffentlicher Rahmen, auf Ökodesign begrenzt. Der GR491 des Instituts für verantwortungsvolle Digitalisierung ist breiter angelegt und deckt auch soziale und ethische Fragen ab. Der erste dient als Bewertungsraster, der zweite liefert die operative Ausgestaltung.
+
+== Ein Indikator genügt nicht ==
+
+Eine Ökodesign-Note misst die Übereinstimmung mit guter Praxis, nicht die tatsächliche Wirkung des Dienstes. Eine sparsame Website, die niemand nutzt, spart nichts; ein stark genutzter Dienst bringt reale Gewinne selbst bei mittlerer Note.
+
+== Siehe auch ==
+
+* [[ISO/IEC TS 20125]] · [[RGESN]] · [[Digitale Suffizienz]] · [[Ökobilanz]] · [[Digitale Barrierefreiheit]] · [[Verantwortungsvolle Digitalisierung]]
+
+[[fr:Ecoconception]]
+[[en:Ecodesign]]
+[[es:Ecodiseño]]

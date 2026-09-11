@@ -1,0 +1,27 @@
+'''A11Y''' est l’abréviation conventionnelle du mot anglais ''accessibility'', et par extension de l’[[Accessibilité_Numérique|accessibilité numérique]].
+
+== Définition ==
+
+Il s’agit d’un '''numéronyme''' : on conserve la première et la dernière lettre du mot, et l’on remplace les onze lettres intermédiaires par leur nombre. ''A'' + 11 + ''Y'' donne ''a11y''.
+
+La forme est très répandue dans les milieux techniques : noms de canaux de discussion, mots-clés, dépôts de code, conférences. On la prononce généralement « A-eleven-Y » ou simplement « accessibility ».
+
+D’autres numéronymes suivent la même logique :
+
+* '''i18n''' pour ''internationalization''
+* '''l10n''' pour ''localization''
+* '''NR''' n’en est pas un, mais relève du même besoin d’abréviation dans les échanges professionnels
+
+== Portée ==
+
+Employer ''a11y'' plutôt qu’''accessibilité'' n’est pas neutre. Le sigle désigne le plus souvent l’angle technique : conformité, tests automatisés, attributs ARIA. L’accessibilité couvre un domaine plus large, qui inclut la qualité rédactionnelle, la conception des parcours et la diversité des situations de handicap.
+
+== Voir aussi ==
+
+* [[Accessibilité_Numérique|Accessibilité Numérique]]
+* [[RGAA]]
+* [[WCAG]]
+* [[Inclusion]]
+* [[Fracture_Numérique|Fracture Numérique]]
+
+[[Catégorie:Accessibilité]]

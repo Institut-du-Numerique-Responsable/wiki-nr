@@ -1,0 +1,90 @@
+La '''gouvernance de l’IA''' désigne l’ensemble des règles, rôles, procédures et instances qui encadrent le développement et l’usage de l’[[Intelligence_Artificielle|intelligence artificielle]] dans une organisation.
+
+Elle répond à une question simple : qui décide quoi, sur quels critères, et qui répond des conséquences.
+
+== Pourquoi elle devient nécessaire ==
+
+L’IA générative a changé le mode d’adoption. Un logiciel d’entreprise passait par un achat, donc par une validation. Un service d’IA s’utilise depuis un navigateur, sans installation ni budget, l’adoption précède la décision.
+
+Sans cadre, deux dérives apparaissent : le [[Shadow_AI|Shadow AI]], qui échappe à toute maîtrise, et l’inverse, une interdiction générale qui pousse les usages vers les terminaux personnels, où ils deviennent invisibles.
+
+== Ce qu’une gouvernance doit trancher ==
+
+; Décider
+: qui autorise un cas d’usage, sur quels critères d’utilité, et dans quel délai : une procédure plus lente que le besoin sera contournée
+; Responsabilité
+: qui répond d’une production erronée, d’une décision contestée, d’une fuite de données
+; Périmètre
+: quels usages sont interdits, lesquels exigent une validation, lesquels sont libres
+; Inventaire
+: quels systèmes sont en service : sans recensement, ni l’[[AI_Act|AI Act]] ni le [[Règlement_Général_sur_la_Protection_des_Données|RGPD]] ne peuvent être appliqués
+; Données
+: ce qui peut être soumis à un service tiers, et ce qui ne le doit jamais
+; Empreinte
+: comment est mesurée la consommation des usages (voir [[Chaîne_de_valeur_de_l'IA|Chaîne de valeur de l'IA]])
+; Recours
+: comment une personne conteste une décision qui la concerne
+
+== Rôles ==
+
+La gouvernance de l’IA se situe au croisement de fonctions existantes, ce qui explique qu’elle reste souvent orpheline :
+
+* la '''DSI''' pour l’intégration technique et la sécurité ;
+* le '''[[Délégué_à_la_Protection_des_Données|DPO]]''' pour les [[Donnée_personnelle|données personnelles]] et les analyses d’impact ;
+* le '''[[RSSI]]''' pour la [[Surface_d'attaque|surface d’attaque]] et les usages non déclarés ;
+* la '''direction métier''' pour l’utilité réelle et l’acceptation par les équipes ;
+* la '''RSE''' pour l’empreinte environnementale et sociale ;
+* le '''juridique''' pour la conformité à l’[[AI_Act|AI Act]] et les questions de droits.
+
+Un comité restreint associant ces fonctions, avec un arbitre désigné, vaut mieux qu’une charte que personne n’applique.
+
+== Ce que la réglementation impose ==
+
+L’[[AI_Act|AI Act]] structure les obligations selon le niveau de risque. Trois conséquences pratiques pour la gouvernance :
+
+# '''classer''' chaque système : impossible sans inventaire ;
+# '''documenter''' les systèmes à risque élevé : gestion des risques, qualité des [[Données_d'entraînement|données]], [[Explicabilité|explicabilité]], supervision humaine ;
+# '''informer''' les utilisateurs qu’ils interagissent avec une IA ou qu’un contenu a été généré.
+
+Le [[Règlement_Général_sur_la_Protection_des_Données|RGPD]] s’applique en parallèle dès que des données personnelles sont en jeu, avec ses propres exigences de base légale, de minimisation et de droit à l’information sur les décisions automatisées.
+
+== Ce qui relève du choix de l’organisation ==
+
+La conformité fixe un plancher. Au-delà, la Charte IA de l’[[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]] (voir [[IA_Responsable|IA Responsable]]) propose quatre engagements que la réglementation n’impose pas :
+
+* préserver l’'''autonomie au travail''' et associer les équipes à la conception ;
+* garantir l’'''[[Accessibilité_Numérique|accessibilité]]''' des services recourant à l’IA ;
+* vérifier l’'''utilité''' du cas d’usage avant tout déploiement ;
+* mesurer et réduire l’'''empreinte environnementale''', point que l’[[AI_Act|AI Act]] n’aborde qu’à la marge.
+
+== Mise en œuvre ==
+
+# '''Recenser''' l’existant avant d’édicter des règles : la mesure des usages réels précède le cadre ;
+# '''Classer''' les usages par niveau de risque et de sensibilité des données ;
+# '''Proposer''' des outils validés couvrant les besoins constatés, avec un niveau de service comparable ;
+# '''Écrire''' une politique courte et lisible : ce qui est permis, interdit, soumis à validation ;
+# '''Former''' aux limites des modèles, à la [[Hallucination|génération d’erreurs plausibles]] et à la confidentialité ;
+# '''Suivre''' quelques indicateurs dans la durée : usages recensés, incidents, coût, empreinte.
+
+== Écueils ==
+
+* une '''charte sans application''' produit exactement le même résultat que l’absence de charte ;
+* une '''validation trop lente''' est contournée, et le contournement échappe à la mesure ;
+* un '''cadre purement défensif''' fait porter tout le sujet par la conformité, sans jamais poser la question de l’utilité ;
+* l’'''absence de mesure''' rend la gouvernance déclarative : sans indicateurs, rien ne distingue un dispositif appliqué d’un dispositif oublié.
+
+== Voir aussi ==
+
+* [[IA_Responsable|IA Responsable]]
+* [[AI_Act|AI Act]]
+* [[Shadow_AI|Shadow AI]]
+* [[Acceptabilité]]
+* [[Transparence]]
+* [[Explicabilité]]
+* [[Biais_algorithmique|Biais algorithmique]]
+* [[Cycle_de_vie_de_l'IA|Cycle de vie de l'IA]]
+* [[Chaîne_de_valeur_de_l'IA|Chaîne de valeur de l'IA]]
+* [[Délégué_à_la_Protection_des_Données|Délégué à la Protection des Données]]
+* [[RSSI]]
+
+[[Catégorie:Intelligence artificielle]]

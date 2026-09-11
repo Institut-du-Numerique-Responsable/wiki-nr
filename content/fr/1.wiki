@@ -1,0 +1,114 @@
+<div class="nr-hero">
+<div class="nr-hero-logo">[[Fichier:Wiki-inr.png|alt=Institut du Numérique Responsable|lien=]]</div>
+<div class="nr-hero-texte">
+<div class="nr-hero-eyebrow">Institut du Numérique Responsable</div>
+<div class="nr-hero-title">Le vocabulaire du numérique responsable</div>
+<div class="nr-hero-lede">
+Définitions, référentiels et méthodes de l’[[Ecoconception|écoconception]], de la [[Sobriété_Numérique|sobriété numérique]], de l’[[Accessibilité_Numérique|accessibilité]] et de l’[[IA_Responsable|IA responsable]]. Accès libre, sans compte.
+</div>
+</div>
+</div>
+
+== Commencer ==
+
+<div class="nr-start">
+<div class="nr-start-item">'''[[Numérique_Responsable|Numérique Responsable]]'''<br />La démarche d’ensemble</div>
+<div class="nr-start-item">'''[[Sobriété_Numérique|Sobriété Numérique]]'''<br />Le principe directeur</div>
+<div class="nr-start-item">'''[[Empreinte_Carbone|Empreinte Carbone]]'''<br />Mesurer l’impact</div>
+<div class="nr-start-item">'''[[Ecoconception]]'''<br />Concevoir autrement</div>
+</div>
+
+== Parcourir par thème ==
+
+<div class="nr-grid">
+
+<div class="nr-card">
+<div class="nr-card-head">Mesurer et évaluer</div>
+<div class="nr-card-body">
+[[Analyse_du_Cycle_de_Vie|Analyse du cycle de vie]] · [[Bilan_Carbone|Bilan Carbone]] · [[Bilan_des_Émissions_des_Gaz_à_Effet_de_Serre|BEGES]] · [[GHG_Protocol|GHG Protocol]] · [[ISO_14064|ISO 14064]] · [[WeNR]] · [[Empreinte_Carbone|Empreinte carbone]] · [[Empreinte_Eau|Empreinte eau]] · [[Empreinte_Matière|Empreinte matière]] · [[Power_Usage_Effectiveness|PUE]] · [[Carbon_Usage_Effectiveness|CUE]] · [[Water_Usage_Effectiveness|WUE]] · [[Renewable_Energy_Factor|REF]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Référentiels et démarches</div>
+<div class="nr-card-body">
+[[RGESN]] · [[GR491]] · [[Label_NR|Label NR]] · [[Charte_Numérique_Responsable|Charte Numérique Responsable]] · [[Ecoconception|Écoconception]] · [[Système_de_Management_Environnemental|SME]] · [[Responsabilité_Sociétale_des_Entreprises|RSE]] · [[Guide_des_Achats_Numériques_Responsables|Achats responsables]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Cadre réglementaire</div>
+<div class="nr-card-body">
+[[CSRD]] · [[VSME]] · [[AI_Act|AI Act]] · [[Règlement_Général_sur_la_Protection_des_Données|RGPD]] · [[RGAA]] · [[Déchets_d’Équipements_Électriques_et_Électroniques|DEEE]] · [[Indice_de_réparabilité|Indice de réparabilité]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Intelligence artificielle</div>
+<div class="nr-card-body">
+[[IA_Responsable|IA responsable]] · [[IA_générative|IA générative]] · [[IA_agentique|IA agentique]] · [[Modèle_d'intelligence_artificielle|Modèle]] · [[Apprentissage_automatique|Apprentissage automatique]] · [[Apprentissage_profond|Apprentissage profond]] · [[Inférence]] · [[Données_d'entraînement|Données d’entraînement]] · [[Biais_algorithmique|Biais algorithmique]] · [[Gouvernance_de_l'IA|Gouvernance]] · [[Shadow_AI|Shadow AI]] · [[Chaîne_de_valeur_de_l'IA|Chaîne de valeur]] · [[AI_for_Green|AI for Green]] · [[AI_for_Good|AI for Good]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Accessibilité et inclusion</div>
+<div class="nr-card-body">
+[[Accessibilité_Numérique|Accessibilité numérique]] · [[RGAA]] · [[WCAG]] · [[A11Y]] · [[Inclusion]] · [[Fracture_Numérique|Fracture numérique]] · [[Illectronisme]] · [[Fragilité_Numérique|Fragilité numérique]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Équipements et cycle de vie</div>
+<div class="nr-card-body">
+[[Fabrication]] · [[Fin_de_Vie|Fin de vie]] · [[Réemploi]] · [[Reconditionnement]] · [[Recyclage_des_déchets|Recyclage]] · [[Obsolescence_Programmée|Obsolescence programmée]] · [[Terres_Rares|Terres rares]] · [[Bring_Your_Own_Device|BYOD]] · [[Choose_Your_Own_Device|CYOD]] · [[Corporate_Owned,_Personally_Enabled|COPE]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Infrastructures</div>
+<div class="nr-card-body">
+[[DataCenter|Centre de données]] · [[Edge_Computing|Edge Computing]] · [[Free_Cooling|Free Cooling]] · [[Smart_grid|Smart grid]] · [[Efficacité_énergétique|Efficacité énergétique]] · [[Energie_Primaire|Énergie primaire]] · [[Energie_fatale|Énergie fatale]] · [[Dark_Data|Dark Data]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Sécurité et données</div>
+<div class="nr-card-body">
+[[Cybersécurité]] · [[RSSI]] · [[Délégué_à_la_Protection_des_Données|DPO]] · [[Donnée_personnelle|Donnée personnelle]] · [[Prompt_injection|Prompt injection]] · [[Deepfake_interne|Deepfake interne]] · [[Open_Data|Open Data]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Notions et effets</div>
+<div class="nr-card-body">
+[[Effet_Rebond|Effet rebond]] · [[Paradoxe_de_Jevons|Paradoxe de Jevons]] · [[Effet_de_substitution|Effet de substitution]] · [[Low_Tech|Low Tech]] · [[5R]] · [[Economie_Circulaire|Économie circulaire]] · [[Economie_de_l'attention|Économie de l’attention]] · [[Dark_pattern|Dark pattern]] · [[Fear_Of_Missing_Out|FOMO]] · [[Infobésité]] · [[Obésiciel]] · [[Green_Washing|Green Washing]] · [[Acceptabilité]] · [[Résilience]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Se former</div>
+<div class="nr-card-body">
+[[Académie_NR|Académie NR]] · [[Fresque_du_numérique|Fresque du numérique]] · [[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]] · [[Digital Cleanup Day]]
+</div>
+</div>
+
+</div>
+
+== Index alphabétique ==
+
+<div class="nr-alpha">
+[[Spécial:Prefixindex/a|A]] [[Spécial:Prefixindex/b|B]] [[Spécial:Prefixindex/c|C]] [[Spécial:Prefixindex/d|D]] [[Spécial:Prefixindex/e|E]] [[Spécial:Prefixindex/é|É]] [[Spécial:Prefixindex/f|F]] [[Spécial:Prefixindex/g|G]] [[Spécial:Prefixindex/h|H]] [[Spécial:Prefixindex/i|I]] [[Spécial:Prefixindex/j|J]] [[Spécial:Prefixindex/k|K]] [[Spécial:Prefixindex/l|L]] [[Spécial:Prefixindex/m|M]] [[Spécial:Prefixindex/n|N]] [[Spécial:Prefixindex/o|O]] [[Spécial:Prefixindex/p|P]] [[Spécial:Prefixindex/q|Q]] [[Spécial:Prefixindex/r|R]] [[Spécial:Prefixindex/s|S]] [[Spécial:Prefixindex/t|T]] [[Spécial:Prefixindex/u|U]] [[Spécial:Prefixindex/v|V]] [[Spécial:Prefixindex/w|W]] [[Spécial:Prefixindex/x|X]] [[Spécial:Prefixindex/y|Y]] [[Spécial:Prefixindex/z|Z]] [[Spécial:Prefixindex/5|5]]
+</div>
+
+== Contribuer ==
+<div class="nr-maj">Dernière mise à jour du wiki : '''6 août 2026''', 199 articles.</div>
+
+
+Ce wiki est alimenté par la communauté de l’[[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]]. Pour proposer un article ou signaler une erreur : [mailto:wiki@institutnr.org wiki@institutnr.org].
+
+Les contenus sont réutilisables sous licence Creative Commons Zero.
+
+[[en:Main_Page]]
+[[de:Hauptseite]]
+[[nl:Hoofdpagina]]
+[[es:Portada]]

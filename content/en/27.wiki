@@ -1,0 +1,99 @@
+The '''GHG Protocol''' is a family of greenhouse gas accounting standards developed by the World Resources Institute (WRI) and the World Business Council for Sustainable Development (WBCSD). An organisation uses the Corporate Standard to prepare an emissions inventory; the Scope 2 Guidance and Scope 3 Standard address purchased energy and the wider value chain.<ref name="corporate">GHG Protocol, [https://ghgprotocol.org/corporate-standard Corporate Standard].</ref>
+
+For an IT department, this means connecting equipment purchases, energy bills, hosting contracts and service usage to the organisation's inventory. The result helps identify emissions sources and track changes. It covers climate impacts; assessing water, resource depletion or other environmental effects requires additional methods such as [[Life cycle assessment|life cycle assessment]].
+
+== ICT Sector Guidance: assessing an IT service ==
+The '''ICT Sector Guidance''', published in July 2017, builds on the GHG Protocol Product Life Cycle Accounting and Reporting Standard. It addresses telecommunications networks, managed desktop services, cloud and data centre services, hardware and software.<ref name="ict">[https://ghgprotocol.org/sites/default/files/2023-03/GHGP-ICTSG%20-%20ALL%20Chapters.pdf ICT Sector Guidance built on the GHG Protocol Product Life Cycle Accounting and Reporting Standard], July 2017, chapters 1 and 4.</ref>
+
+An IT team can use it to define a service's functional unit and boundaries, identify its components, allocate shared resources and document data quality and uncertainty. For example, assessing a hosted application requires stating the service provided and its usage, then accounting for the relevant infrastructure and life-cycle stages. The guidance's cloud chapter supplies methods and examples for this work.
+
+This product-level assessment can inform supplier data used in a corporate inventory, but the two assessments have different purposes and time boundaries. The guidance also requires additional product rules for comparisons; two providers' footprint figures are not comparable simply because both cite it.<ref name="ict" />
+
+== Set the organisational boundary first ==
+The reporting organisation chooses an equity-share or control approach. Under a control approach, it specifies financial or operational control and applies the choice consistently. This decision affects the treatment of subsidiaries, joint ventures and leased facilities.<ref name="standard">WRI and WBCSD, [https://ghgprotocol.org/sites/default/files/standards/ghg-protocol-revised.pdf The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard], revised edition, chapters 1, 3–5 and 9.</ref>
+
+An IT team should agree this boundary with the organisation's carbon accounting team before classifying hosting arrangements. Paying a supplier's invoice does not by itself establish operational control of the supplier's data centre.
+
+== The three scopes in IT ==
+{| class="wikitable"
+! Scope !! Meaning !! IT example
+|-
+| 1 || Direct emissions from owned or controlled sources || Fuel burned in a controlled data centre's backup generator; leakage of greenhouse gas refrigerants from its cooling equipment.
+|-
+| 2 || Emissions from generating purchased or acquired electricity, steam, heat and cooling consumed by the organisation || Purchased electricity for offices, devices and a data centre within the organisational boundary.
+|-
+| 3 || Other indirect emissions in the value chain || Production of purchased computers, purchased cloud services, business travel and relevant use of products sold to customers.
+|}
+The classification follows the reporting organisation's boundary. A provider's scope 1 or 2 emissions can contribute to its customer's scope 3. This overlap between separate companies' inventories is expected; it does not justify counting the same activity twice within one inventory.<ref name="scope3">GHG Protocol, [https://ghgprotocol.org/corporate-value-chain-scope-3-standard Corporate Value Chain (Scope 3) Standard], 2011.</ref>
+
+== Scope 2: electricity and hosting ==
+The '''location-based''' method uses average emission factors for the electricity grids where consumption occurs. The '''market-based''' method reflects qualifying contractual instruments and supplier information, following a defined hierarchy. Where the Scope 2 Guidance requires dual reporting, organisations publish both totals; they do not add them together.<ref name="scope2pdf">GHG Protocol, [https://ghgprotocol.org/sites/default/files/GHG%20Protocol%20Scope%202%20Guidance.pdf Scope 2 Guidance], 2015, chapters 4–7.</ref>
+
+The dual-reporting requirement applies when an organisation operates in markets with product- or supplier-specific data. Contractual instruments must meet the guidance's quality criteria.<ref>GHG Protocol, [https://ghgptechassistance.zendesk.com/hc/en-us/articles/27680147886612-What-if-I-don-t-make-specified-renewable-energy-purchases-do-I-still-have-to-do-dual-reporting What if I don't make specified renewable energy purchases: do I still have to do dual reporting?].</ref> A renewable electricity claim therefore needs supporting accounting evidence. A low market-based result also leaves hardware production and other value-chain emissions to account for.
+
+For an outsourced cloud service outside the customer's organisational boundary, the associated emissions generally enter the customer's scope 3 as a purchased service. A colocation or leased-asset arrangement needs closer examination of control, the lease and the energy contract. The IT team should document that decision rather than classify every hosting invoice in the same way.
+
+== Scope 3 categories relevant to digital activities ==
+The Scope 3 Standard defines 15 categories. An IT inventory contributes to several of them; it is only part of the organisation's full value-chain inventory.
+
+{| class="wikitable"
+! Category !! Examples to examine with the carbon accounting team
+|-
+| 1. Purchased goods and services || Cloud, SaaS, support and equipment treated as purchased goods.
+|-
+| 2. Capital goods || Servers, computers and infrastructure treated as fixed assets.
+|-
+| 3. Fuel- and energy-related activities || Upstream energy emissions and relevant transmission and distribution losses outside scopes 1 and 2.
+|-
+| 4–8. Other upstream categories || Equipment transport, operational waste, business travel, commuting and upstream leased assets, as applicable.
+|-
+| 9–15. Downstream categories || Distribution, processing, use and end of life of sold products, downstream leased assets, franchises and investments, as applicable.
+|}
+Review every category and explain exclusions against the standard's boundaries. The largest source depends on the organisation's business model, assets and services; an office IT department and a cloud provider cannot assume the same distribution.<ref name="scope3standard">WRI and WBCSD, [https://ghgprotocol.org/sites/default/files/standards/Corporate-Value-Chain-Accounting-Reporing-Standard_041613_2.pdf Corporate Value Chain (Scope 3) Accounting and Reporting Standard], chapters 5 and 11.</ref>
+
+=== Equipment purchases and replacement ===
+Follow the organisation's financial accounting procedures to distinguish category 1 purchases from category 2 capital goods. For capital goods, account for the full cradle-to-gate emissions in the acquisition year. Do not amortise these emissions over the equipment's useful life in the corporate scope 3 inventory.<ref name="calculation">GHG Protocol and Carbon Trust, [https://ghgprotocol.org/sites/default/files/standards/Scope3_Calculation_Guidance_0.pdf Technical Guidance for Calculating Scope 3 Emissions], 2013, categories 1, 2 and 11.</ref>
+
+This differs from allocating equipment impacts over a period of service in a product LCA. Keeping a laptop longer can postpone a new purchase, but a department should explain acquisition peaks when comparing annual inventories.
+
+=== Cloud and software data ===
+Ask a supplier which services, regions, periods and emissions sources its customer report covers, and how it allocates shared infrastructure. Check whether hardware production is included and which electricity accounting method underlies the estimate. Keep these assumptions with the inventory so that a later change in the supplier's model remains visible.
+
+For products sold to customers, category 11 addresses expected use-phase emissions over their lifetime. The calculation guidance includes web-based software among its examples. Estimate relevant user energy from documented usage assumptions; do not attribute a device's entire electricity consumption to one application.<ref name="calculation" />
+
+== Calculation examples ==
+The following figures are hypothetical and illustrate the arithmetic, not emission factors recommended for use.
+
+* '''Electricity:''' 100,000 kWh multiplied by a suitable generation factor of 0.20 kg CO2e/kWh gives 20,000 kg CO2e, or 20 tonnes, for the corresponding scope 2 calculation. A full life-cycle electricity factor may include components that belong in scope 3, so check its boundary.
+* '''Equipment:''' 100 capitalised laptops with a cradle-to-gate footprint of 250 kg CO2e each give 25 tonnes in category 2 in the acquisition year. Electricity during operation is accounted for separately.
+
+CO2e expresses different greenhouse gases using global warming potentials. Record the factor source, year, geography, units and GWP basis with each calculation. The Corporate Standard covers seven greenhouse gases following its amendments.<ref name="corporate" />
+
+Where supplier product data are unavailable, the scope 3 calculation guidance also provides average-data, hybrid and spend-based methods.<ref name="calculation" /> For IT procurement, a spend estimate can help screen a large purchasing ledger. It is less useful for demonstrating the effect of a repair programme if changes in prices obscure changes in equipment quantities.
+
+== Make year-to-year changes interpretable ==
+Retain an audit trail from the published totals to invoices, meter readings, asset records and calculation assumptions. Apply the accounting principles of relevance, completeness, consistency, transparency and accuracy. Establish a base year and a recalculation policy for significant structural changes, methodological changes and errors.<ref name="standard" />
+
+For an IT service moving to the cloud, examine the combined inventory: some emissions may move from scopes 1 and 2 to scope 3. That reclassification alone demonstrates no reduction. Report absolute emissions alongside useful activity measures, such as the number of supported employees or transactions, and explain changes in service volume.
+
+== Emissions avoided, offsets and environmental claims ==
+Keep claims about emissions avoided through [[IT for Green|IT for Green]] separate from scope 1–3 totals. They require a baseline describing what would have happened without the solution. Purchased offsets also need separate reporting; they do not remove the underlying emissions from the inventory.<ref name="scope3standard" /><ref name="standard" />
+
+An inventory is an accounting result, not proof that a service is environmentally preferable. Compare service quality and life-cycle boundaries before drawing that conclusion. Cigref and INR's English report on measuring the digital environmental footprint provides complementary organisational guidance.<ref>Cigref and INR, [https://www.cigref.fr/digital-sobriety-managing-the-digital-environmental-footprint-through-measurement Digital sobriety: managing the digital environmental footprint through measurement].</ref>
+
+== Editions and ongoing revisions ==
+This article refers to the revised Corporate Standard, the 2011 Scope 3 Standard and the 2015 Scope 2 Guidance, together with their published amendments and corrections. As checked on 10 September 2026, the GHG Protocol Scope 2 page reports a revision consultation held from October 2025 to January 2026. Consultation proposals should not be presented as requirements of the published guidance.<ref>GHG Protocol, [https://ghgprotocol.org/scope-2-guidance Scope 2 Guidance and revision information].</ref>
+
+== See also ==
+* [[Carbon footprint]]
+* [[ISO 14064]]
+* [[Bilan Carbone]]
+* [[Life cycle assessment]]
+* [[Green IT]]
+* [[Data centre]]
+
+== References ==
+<references />
+
+
+[[Category:Frameworks and methods]]

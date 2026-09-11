@@ -1,0 +1,49 @@
+El '''PUE''' (''Power Usage Effectiveness'') es el indicador de eficiencia energética más conocido de los [[Centro de Datos|centros de datos]]. Relaciona la energía total consumida por la instalación con la consumida por los equipos informáticos que alberga.
+
+ PUE = consumo eléctrico total / consumo eléctrico de los equipos informáticos
+
+El '''total''' incluye la refrigeración, el tratamiento del aire, la iluminación, la distribución eléctrica y los sistemas de alimentación ininterrumpida. El lado '''informático''' incluye servidores, equipos de red, almacenamiento y copias de seguridad.
+
+Un PUE de 1,5 significa que por cada kilovatio-hora que llega a los servidores, medio kilovatio-hora se destina a todo lo demás. El valor mínimo teórico es 1. Los centros recientes anuncian entre 1,1 y 1,3; los antiguos superan a menudo 2.
+
+Un punto se malinterpreta con regularidad: el PUE contabiliza el consumo, no su origen. Comprar electricidad renovable no modifica la relación, porque el indicador no dice nada sobre la procedencia de la energía.
+
+== Definición normalizada ==
+
+El indicador está definido por la norma '''ISO/IEC 30134-2:2016''' y por la norma europea '''EN 50600-4-2'''.
+
+El referencial francés [[RGESN]] lo formula como la relación entre la energía total consumida por el conjunto del centro de explotación, incluidos refrigeración, tratamiento del aire y alimentación ininterrumpida, y la parte efectivamente consumida por los sistemas informáticos que el centro opera.
+
+== Alcance y límites ==
+
+El PUE resulta útil y se sobreinterpreta con frecuencia. Tres límites merecen conocerse.
+
+'''No mide la eficiencia informática.''' Sustituir servidores por otros que consumen el doble y están igual de infrautilizados '''mejora''' el PUE. Un centro cuyos servidores funcionan al 5 % de carga puede exhibir un PUE excelente mientras desperdicia la mayor parte de la energía que consume.
+
+'''Ignora la fabricación.''' El indicador cubre únicamente la fase de uso, mientras que la [[Fabricación|fabricación]] de los equipos representa una parte mayoritaria del impacto sobre el [[Análisis del Ciclo de Vida|ciclo de vida]] completo.
+
+'''Depende mucho del clima y puede desplazar el problema hacia el agua.''' Un centro situado en clima frío, o que recurre a la refrigeración evaporativa, obtiene mecánicamente un mejor PUE, a veces a costa de un consumo de agua elevado que el PUE no ve. El [[Water Usage Effectiveness|WUE]] revela ese traslado.
+
+Un cuarto efecto se deduce de la propia fórmula: un centro poco cargado presenta un PUE degradado, porque los consumos fijos se reparten entre menos cálculo.
+
+El PUE debe leerse, por tanto, junto a los indicadores de carbono y de agua, junto al origen de la energía, y sobre todo junto a la '''tasa de utilización real''' de los servidores.
+
+== En el marco de la TI responsable ==
+
+El indicador más virtuoso es el que ninguna relación capta: el equipo que no se instala. Antes de optimizar un PUE, la [[Sobriedad Digital|sobriedad digital]] cuestiona la necesidad misma, la duración de conservación de los datos y la tasa de uso efectiva de los recursos.
+
+== Véase también ==
+
+* [[Centro de Datos]] · [[Water Usage Effectiveness]] · [[Carbon Usage Effectiveness]] · [[Fabricación]] · [[Huella de Agua]] · [[Sobriedad Digital]]
+
+== Normas de referencia ==
+
+* ISO/IEC 30134-2:2016, ''Information technology — Data centres — Key performance indicators — Part 2: Power usage effectiveness (PUE)''
+* EN 50600-4-2, ''Information technology — Data centre facilities and infrastructures — Part 4-2: Power Usage Effectiveness''
+
+[[Categoría:Medición]]
+
+[[fr:Power_Usage_Effectiveness]]
+[[en:Power_Usage_Effectiveness]]
+[[de:Power_Usage_Effectiveness]]
+[[nl:Power_Usage_Effectiveness]]

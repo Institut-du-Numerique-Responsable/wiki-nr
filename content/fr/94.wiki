@@ -1,0 +1,18 @@
+== Définition ==
+Le recyclage est l'ensemble des techniques de transformation des déchets après récupération visant à en réintroduire tout ou partie dans un cycle de production.<ref>Vocabulaire de l'environnement du Journal Officiel du 12 avril 2009</ref>
+
+D'après la banque mondiale<ref>https://datatopics.worldbank.org/what-a-waste/</ref>, seuls 13% des déchets sont recyclés dans le monde avec de grosses disparités entre les pays en voie de développement et les pays à revenu élevé.
+
+== Voir aussi ==
+
+=== Références ===
+<references />
+
+=== Articles connexes ===
+
+* [[Déchets d’Équipements Électriques et Électroniques|DEEE]]
+* [[Valorisation]]
+* [[Fin de Vie|Fin de vie]]
+* [[5R]]
+* [[Reconditionnement]]
+* [[Economie Circulaire|Économie Circulaire]]

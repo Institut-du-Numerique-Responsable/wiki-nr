@@ -1,0 +1,39 @@
+Die '''Charta für verantwortungsvolle Digitalisierung''' ist eine öffentliche Selbstverpflichtung, die das [https://institutnr.org Institut für verantwortungsvolle Digitalisierung] Organisationen anbietet.
+
+Mit der Unterzeichnung bekräftigt die Organisation ihr Engagement, in ihren eigenen Abläufen einen verantwortungsvollen Umgang mit digitalen Technologien einzuführen.
+
+Die Charta liegt in mehreren Sprachen und kostenfrei unter [https://charter.isit-europe.org/charte-numerique-responsable/?lang=de_DE charter.isit-europe.org] vor und steht Unternehmen, Vereinen, kleinen Betrieben und öffentlichen Stellen offen.
+
+== Die fünf Säulen ==
+
+; Umwelt
+: die Optimierung von digitalen Tools, um deren Auswirkungen und Verbrauch zu begrenzen.
+; Barrierefreiheit
+: die Entwicklung von digitalen Diensten, die für alle zugänglich, inklusiv und nachhaltig sind.
+; Ethik
+: die Anwendung von ethischen und verantwortungsbewussten digitalen Praktiken.
+; Resilienz
+: die Umsetzung einer verantwortungsvollen Digitalisierung, die für die Resilienz von Organisationen unerlässlich ist.
+; Werte
+: die Förderung von neuen Verhaltensweisen und Werten.
+
+== Wozu sie dient ==
+
+Die Charta ist ein Einstieg. Sie verlangt weder vorherige Messung noch Audit, sondern eine ausdrückliche, öffentliche Verpflichtung, aus der sich anschließend überprüfbare Maßnahmen ergeben.
+
+Diese Reihenfolge ist gewollt. Wer mit der Messung beginnt, bleibt oft dort stehen. Wer sich zuerst verpflichtet, verfügt intern über ein Mandat zum Handeln.
+
+== Was sie nicht ist ==
+
+Weder Zertifizierung noch Label. Nichts wird geprüft, keine Punktzahl vergeben. Für eine strukturierte Bewertung betreibt das Institut ein Label mit Bewertung auf 1000 Punkte, für die Messung des Fußabdrucks der IT-Landschaft die Kampagne [[WeNR]].
+
+Eine Charta wie ein Label zu behandeln lädt zum berechtigten Vorwurf des Greenwashing ein: die Unterschrift benennt ein Handlungsprinzip, kein Ergebnis.
+
+== Siehe auch ==
+
+* [[Verantwortungsvolle Digitalisierung]] · [[KI-Charta]] · [[Digitale Suffizienz]] · [[Digitale Barrierefreiheit]] · [[WeNR]]
+
+[[en:Sustainable IT Charter]]
+[[es:Carta de TI Responsable]]
+[[fr:Charte Numérique Responsable]]
+[[nl:Duurzame IT Charter]]

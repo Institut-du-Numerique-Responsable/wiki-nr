@@ -1,0 +1,21 @@
+La '''surface d’attaque''' désigne l’ensemble des points par lesquels un système peut être compromis : services exposés, comptes, interfaces de programmation, dépendances logicielles, terminaux, prestataires.
+
+== Réduire la surface ==
+
+* supprimer les services et comptes inutilisés ;
+* limiter les droits au strict nécessaire ;
+* réduire les dépendances logicielles : chacune apporte le code de quelqu’un d’autre ;
+* supprimer les données devenues inutiles (voir [[Dark_Data|Dark Data]]) ;
+* recenser les usages non déclarés, notamment le [[Shadow_AI|Shadow AI]].
+
+== Convergence avec la sobriété ==
+
+Ces mesures sont exactement celles que recommande l’[[Ecoconception|écoconception]] : moins de composants, moins de données, moins de services actifs. La sécurité et la sobriété se rejoignent ici, ce qui n’existe pas ne consomme rien et ne peut pas être attaqué.
+
+L’[[IA_agentique|IA agentique]] élargit cette surface : un agent disposant de droits étendus devient une cible, et un vecteur.
+
+== Voir aussi ==
+
+* [[Cybersécurité]] · [[RSSI]] · [[Shadow_AI|Shadow AI]] · [[Prompt_injection|Prompt injection]] · [[Dark_Data|Dark Data]] · [[Dette_technique|Dette technique]]
+
+[[Catégorie:Sécurité]]

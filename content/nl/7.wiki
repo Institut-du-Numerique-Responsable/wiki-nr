@@ -1,0 +1,38 @@
+'''Digitale soevereiniteit''' is het vermogen van een organisatie of een staat om zelf te beslissen over de eigen infrastructuur, gegevens en technologie, zonder gebonden te zijn aan afhankelijkheden waarover geen controle bestaat.
+
+== Wat het begrip omvat ==
+
+; Gegevens
+: waar zij staan, welk recht erop van toepassing is, wie er toegang toe heeft.
+; Infrastructuur
+: wie netwerken, datacenters en besturingssystemen bezit en beheert.
+; Competenties
+: het vermogen een systeem te onderhouden en door te ontwikkelen zonder één enkele leverancier.
+
+Soevereiniteit vraagt niet alles zelf te produceren. Zij vraagt van leverancier te kunnen wisselen, te kunnen controleren wat er draait, en het verdwijnen van een partner te overleven.
+
+== Verband met robuustheid ==
+
+In het witboek ''Voyage vers la robustesse'' (Infogreen Factory, 2025) merkt Vincent Courboulay, bestuurder van het Instituut voor Duurzame IT, op dat robuustheid het begrip soevereiniteit verbreedt naar '''strategische autonomie''': niet blind afhangen van ondoorzichtige of ontwortelde systemen.
+
+Die verschuiving is betekenisvol. Soevereiniteit wordt meestal besproken in termen van locatie en eigendom. Robuustheid stelt de vraag naar het vermogen door te werken wanneer iets uitvalt: bestaat er een alternatief, is het beproefd, hoe lang duurt de migratie?
+
+== Concrete hefbomen ==
+
+* '''Omkeerbaarheid''': voorwaarden voor uittreden en het formaat van teruggave contractueel vastleggen.
+* '''Open formaten en normen''', die technische gebondenheid voorkomen.
+* '''Leveranciersafhankelijkheid''' beoordelen als risico, niet als gemak.
+* '''Opensourcesoftware''', voor zover de eigen kennis het onderhoud aankan.
+
+== Een reëel meningsverschil ==
+
+Soevereiniteit wordt verweten als protectionistisch argument te dienen en oplossingen duurder te maken. Dat bezwaar snijdt hout zolang het begrip wordt teruggebracht tot de herkomst van de leverancier. Het verliest kracht zodra het gaat om omkeerbaarheid en continuïteit van dienst, want die laten zich toetsen en worden door geen enkele geografische herkomst gegarandeerd.
+
+== Zie ook ==
+
+* [[Duurzame IT]] · [[Digitale soberheid]] · [[Verantwoorde AI]]
+
+[[fr:Souveraineté_numérique]]
+[[en:Digital_sovereignty]]
+[[es:Soberanía_Digital]]
+[[de:Digitale_Souveränität]]

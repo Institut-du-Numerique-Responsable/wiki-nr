@@ -1,0 +1,7 @@
+== Définition ==
+'''MIPS''' pour '''M'''atières '''I'''ndispensables '''P'''ar unité de '''S'''ervice (ou Material Input Per Service unit) est un indicateur d'impact environnemental. Le calcul de MIPS révèle l'ampleur de l'utilisation des ressources tout au long du cycle de vie d'un produit ou service. Cet indicateur est ainsi utilisé pour mesurer l'éco-efficacité d'un produit ou d'un service. Il permettra de comparer la consommation de ressources nécessaires pour un produit et/ou un service dont la complexité n'est pas la même. Grâce au MIPS, nous pourrons identifier les phases sur lesquelles la charge environnementale du produit est la plus importante.
+
+== Voir aussi ==
+
+=== Référence ===
+ADEME - [https://librairie.ademe.fr/dechets-economie-circulaire/1189-modelisation-et-evaluation-des-impacts-environnementaux-de-produits-de-consommation-et-biens-d-equipement.html Modélisation et évaluation des impacts environnementaux de produits de consommation et biens d'équipements] (Sept. 2018)

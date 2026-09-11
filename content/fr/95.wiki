@@ -1,0 +1,17 @@
+== Définition ==
+Selon l’INSEE, les ressources halieutiques sont toutes les ressources vivantes aquatiques que l’homme peut exploiter par la pêche ou l’aquaculture par exemple.  Il s'agit donc d'espèces végétales et animales, vivant en mer ou en eau douce.
+
+Le Ministère de l’écologie nous apprend qu’elles fournissent chaque année environ 85 millions de tonnes de protéines pour l’alimentation humaine et dans une moindre mesure, animale.
+
+Mais cette manne alimentaire est menacée notamment par les activités humaines : l’artificialisation des sols, les pollutions, le dérèglement climatique…
+
+== Dans le cadre du numérique responsable ==
+On considère qu’un ordinateur de 2 kilos réclame pour sa construction 600 kilos de minéraux (pour l’[[extraction]] et le raffinage des métaux communs, précieux ou rares). Ces minéraux proviennent le plus souvent de pays où les conditions d’exploitation des mines ne se fait pas dans le plus grand respect de l’environnement (République démocratique du Congo, Bolivie, Brésil, Chine…). Or cette activité d'[[extraction]] entraîne le rejet de nombreux éléments toxiques : métaux lourds, acide sulfurique, cyanure, éléments radioactifs. L’air, les sols, les cours d’eau se trouvent parfois irrémédiablement souillés. Les ressources halieutiques qu’hébergent les rivières, les fleuves, les côtes maritimes en sont  alors les premières victimes.
+
+Le numérique menace les ressources halieutiques. Fabriquer nos ordinateurs, smartphones et tablettes, puis traiter les déchets électroniques qu’ils deviennent, dégrade indirectement la qualité des milieux marins, de leur flore et de leur faune. On ne le pressent pas spontanément mais il est bien réel.
+
+== Voir aussi ==
+
+=== Référence ===
+
+* INSEE - [https://www.insee.fr/fr/metadonnees/definition/c1588 Production halieutique]

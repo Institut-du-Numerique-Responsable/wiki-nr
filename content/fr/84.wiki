@@ -1,0 +1,20 @@
+== Définition ==
+Les Open Data sont des données dont l’accès et l’usage sont laissés libres aux usagers. 
+
+Ces données peuvent être d’origine publique ou privée, qu'elles soient produites par une collectivité, un service public ou une entreprise. Les Open Data sont diffusées de manière structurée selon une méthode et une licence ouverte garantissant son libre accès et sa réutilisation par tous, sans restrictions techniques, juridiques ou financières.
+
+Les Open Data garantissent l’accès à l’information et aux données librement accessibles et exploitables.
+
+== Voir aussi ==
+
+=== Références ===
+
+* [https://www.data.gouv.fr/fr/ Portail des Open Data Gouv.Fr] 
+* [https://data.enseignementsup-recherche.gouv.fr/pages/home/ Portail des Open Data sur l'enseignement supérieur, la recherche et l'innovation]
+* [https://opendata.apur.org/ Les Open Data de l’Apur, Atelier parisien d’urbanisme]
+* [https://www.etalab.gouv.fr/ Ouvrir, partager et valoriser les données]
+* [http://www.opendatafrance.net/ Observatoire des Open Data]
+
+=== Article connexe: ===
+
+* [[Donnée personnelle|Données personnelles]]

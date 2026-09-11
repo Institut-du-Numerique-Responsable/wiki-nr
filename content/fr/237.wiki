@@ -1,0 +1,17 @@
+La '''dette technique''' désigne l’accumulation de choix techniques provisoires ou sous-optimaux qui rendent les évolutions futures plus coûteuses.
+
+La métaphore est financière : le raccourci d’aujourd’hui se rembourse avec intérêts, sous forme de temps de développement, d’incidents et de contournements.
+
+== Lien avec l’empreinte ==
+
+Une application chargée de dette consomme davantage : traitements redondants, données dupliquées, dépendances inutilisées, composants maintenus par crainte de casser autre chose. Elle résiste aussi à l’optimisation, puisque personne n’ose y toucher.
+
+La dette est également un frein à la [[Fin_de_Vie|fin de vie]] applicative : un service dont plus personne ne comprend les usages reste allumé indéfiniment.
+
+L’[[Ecoconception|écoconception]] logicielle et la réduction de dette visent souvent les mêmes correctifs.
+
+== Voir aussi ==
+
+* [[Ecoconception]] · [[Obésiciel]] · [[Dark_Data|Dark Data]] · [[Cycle_de_vie_de_l'IA|Cycle de vie de l'IA]] · [[Sobriété_Numérique|Sobriété Numérique]]
+
+[[Catégorie:Concepts]]

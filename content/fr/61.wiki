@@ -1,0 +1,3 @@
+Le Free Cooling est une méthode basée sur l'utilisation de l'air extérieur pour aider à refroidir l'eau, qui peut ensuite être utilisée pour refroidir l'air dans un [[DataCenter|DataCenter]]. L'eau réfrigérée peut alors être utilisée immédiatement ou être stockée à court ou plus long terme. Lorsque les températures extérieures sont inférieures aux températures intérieures, ce système utilise l'air frais extérieur comme source de refroidissement gratuit. De cette manière, le système remplace le refroidisseur dans les systèmes de climatisation traditionnels tout en obtenant le même résultat de refroidissement.
+
+Voir également : [[American Society of Heating, Refrigerating and Air-Conditioning Engineers|ASHRAE]], [[PUE]]

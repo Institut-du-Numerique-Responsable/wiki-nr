@@ -1,0 +1,80 @@
+== Définition ==
+Le label [[Numérique Responsable|NR]] permet d’identifier et de rassembler toutes les organisations qui s’engagent à réduire l’impact du numérique. Le digital n’étant pas une industrie immatérielle, les organisations doivent mettre en œuvre des stratégies qui permettent de faire évoluer les politiques d’achats, d’allonger la durée de vie des équipements ou encore d’adopter une démarche de conception responsable des [[Service numérique|services numériques]]. Le label NR a été conçu pour être accessible à tous types d’organisations (entreprises, associations, administrations, collectivités…), quels que soient leur taille et leur secteur d’activité. Le label [[Numérique Responsable|NR]] est le garant de la crédibilité de la démarche [[Numérique Responsable|numérique responsable]].
+
+== Historique des Labels ENR et NR ==
+[[Fichier:ENR et Label NR.jpg|alt=Les deux labels ENR et NR|vignette|Les deux labels ENR et NR]]
+
+=== Jusqu'en 2021 il existait 2 labels ===
+En 2012, France IT a lancé le label « Entreprise Numérique Responsable » (ENR), dédié aux entreprises du secteur.
+
+En 2019, c’est l’Institut du Numérique Responsable qui propose le Label Numérique Responsable, géré par l’Agence LUCIE, dont l’objectif est de valoriser et rassembler toutes les organisations qui s’engagent à réduire l’impact du numérique.
+
+=== Après 2021 les acteurs s’unissent autour d’un objectif commun et d'un seul et même label ===
+Pour faciliter la lisibilité de l’engagement Numérique Responsable en France, les labels Numérique Responsable et Entreprises Numérique Responsable se rapprochent en 2021. Cette collaboration donne naissance à un unique label Numérique Responsable.
+
+== Un unique label NR et un nouveau référentiel ==
+Un unique label NR et un nouveau référentiel qui s’adaptent à toutes les organisations, en particulier aux ESN et collectivités.
+
+=== Les nouveautés du Label Numérique Responsable ===
+[[Fichier:Label NR Niveau 1 et Niveau 2.png|alt=Label NR Niveau 1 et Niveau 2|vignette|Label NR Niveau 1 et Niveau 2]]
+Le label NR propose dorénavant 2 niveaux d’engagement, avec l’introduction d’un niveau 1, plus accessible techniquement et financièrement, notamment aux TPE/PME.  
+
+Avec cette nouvelle version, les candidats au label obtiennent désormais une notation sur 1000 de leur démarche numérique responsable : pour obtenir le label niveau 1, il est nécessaire d’obtenir une note minimum de 300/1000 et pour le niveau 2, un minimum de 500/1000. Le niveau 1, qui propose une démarche et un niveau de contrôle plus accessible, offre une durée de labélisation de 2 ans, celle-ci est de 3 ans pour le niveau 2.
+
+Le label est à destination de toutes les organisations (entreprises, associations, écoles…), quels que soient leur taille et leur secteur d’activité. Il intègre désormais parfaitement les enjeux numériques des ESN (Entreprise de services du numérique) et des collectivités.
+
+=== L’évolution du référentiel Numérique Responsable ===
+Construit par les experts de l’INR en 2019, le référentiel Numérique Responsable donne un cadre à toutes les organisations qui souhaitent s’engager sur le sujet. 
+
+En 2021, les experts NR, membres de l’INR, et des adhérents du Cluster France IT, ont travaillé ensemble pour refondre ce référentiel, le faire évoluer et le structurer autour de 4 axes qui constituent le tronc commun : 
+
+* Stratégie et gouvernance
+* Soutien à la stratégie NR
+* Cycle de vie des services numériques
+* Étendre sa démarche NR
+
+=== Une solution plus adaptée aux ESN et collectivités ===
+Le label intègre désormais mieux les principes d’actions des ESN et collectivités. Deux groupes de travail ont contribué à l’adaptation du référentiel à ces deux secteurs. Ainsi 2 axes spécifiques ont été élaborés : un axe « Leviers externes des collectivités » pour les collectivités et un axe « Produits et services des ESN », pour les ESN.
+
+== Structure du référentiel ==
+
+Le tronc commun est organisé en '''4 axes''' déclinés en '''14 principes d’action''' :
+
+; Stratégie et gouvernance
+: principes d’action 1 à 3
+; Soutien à la stratégie NR
+: principes d’action 4 à 7
+; Cycle de vie des services numériques
+: principes d’action 8 à 12
+; Étendre sa démarche NR
+: principes d’action 13 et 14
+
+Chaque principe d’action se décompose en exigences techniques de mise en œuvre, qui constituent le niveau d’évaluation concret lors de l’audit.
+
+Le référentiel a été construit par l’[[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]] en partenariat avec le ministère de la Transition écologique, l’[[Agence_de_la_Transition_Écologique|ADEME]] et le WWF.
+
+== Processus de labellisation ==
+
+La démarche se déroule en cinq étapes, communes aux deux niveaux :
+
+# adhésion à la communauté ;
+# validation des connaissances, par un parcours de formation (voir [[Académie_NR|Académie NR]]) ;
+# auto-évaluation de l’organisation ;
+# audit par un organisme tiers indépendant ;
+# construction d’un plan d’action.
+
+Le niveau 2 ajoute une formation présentielle de trois jours et une évaluation de suivi dix-huit mois après la labellisation.
+
+=== Acteurs de la labellisation ===
+
+* '''Opérateur''' : Agence LUCIE gère le processus de labellisation.
+* '''Auditeurs''' : les audits sont conduits par SGS, Baker Tilly STREGO ou Bureau Veritas Certification.
+* '''Attribution''' : un comité d’experts indépendants, administré par l’[[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]], décide de l’attribution du label.
+
+Ce recours à une évaluation par tierce partie indépendante est ce qui distingue le label d’un simple engagement déclaratif tel que la [[Charte_Numérique_Responsable|Charte Numérique Responsable]].
+
+== Voir aussi ==
+
+* INR - [https://institutnr.org/label-numerique-responsable Label numérique responsable]
+* Experts du Label NR : https://label-nr.fr/trouver-votre-consultant-nr/
+* Label NR - [https://label-nr.fr/referentiel-numerique-responsable/ Le référentiel Numérique Responsable]

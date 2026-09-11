@@ -1,0 +1,35 @@
+El '''ecodiseño''' integra los criterios ambientales desde la concepción de un producto o servicio, en el mismo nivel que el coste, la calidad y el plazo.
+
+Descansa sobre una visión global de los impactos. El enfoque es multietapa, puesto que abarca las distintas fases del [[Análisis del Ciclo de Vida|ciclo de vida]], y multicriterio: consumos de materia y energía, vertidos en los medios naturales, efectos sobre el clima y la biodiversidad.
+
+== Aplicado a los servicios digitales ==
+
+El ecodiseño digital actúa en prioridad sobre las causas principales de impacto:
+
+* '''la solicitación de los equipos de usuario''': una página pesada obliga a renovar antes un terminal que todavía funciona, y ese reemplazo pesa más que la electricidad consumida;
+* '''el volumen de datos''' intercambiados y almacenados;
+* '''la utilidad real''' de las funcionalidades, cuestionada antes de ser optimizada.
+
+La consecuencia práctica sorprende a menudo: la mejor optimización consiste en suprimir una funcionalidad poco usada, no en acelerarla.
+
+== Referenciales ==
+
+; [[RGESN]]
+: referencial público francés derivado de la ley REEN, organizado en criterios formulados como preguntas.
+; [[GR491]]
+: guía del [[Instituto de TI Responsable]], más amplia, que cubre también las dimensiones sociales y éticas.
+
+El primero sirve de rejilla de evaluación; el segundo aporta el detalle operativo de las acciones.
+
+== Un indicador no basta ==
+
+Una nota de ecodiseño mide la conformidad con una lista de buenas prácticas, no el impacto real del servicio. Un sitio sobrio que nadie usa no ahorra nada; un servicio muy solicitado obtiene beneficios reales incluso con una nota media.
+
+== Véase también ==
+
+* [[ISO/IEC TS 20125]] · [[RGESN]] · [[GR491]] · [[Sobriedad Digital]] · [[Análisis del Ciclo de Vida]] · [[Accesibilidad Digital]]
+
+[[Categoría:Conceptos]]
+[[de:Ökodesign]]
+[[en:Ecodesign]]
+[[fr:Ecoconception]]

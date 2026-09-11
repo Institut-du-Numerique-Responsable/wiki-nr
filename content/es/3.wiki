@@ -1,0 +1,40 @@
+El '''Análisis del Ciclo de Vida''' (ACV) es un método normalizado que evalúa los impactos ambientales de un producto o servicio en todas sus etapas: extracción de materias primas, [[Fabricación|fabricación]], transporte, uso y [[Fin de Vida|fin de vida]].
+
+Las normas '''ISO 14040''' e '''ISO 14044''' definen su marco y sus exigencias.
+
+== Dos principios que lo distinguen ==
+
+; Multietapa
+: ninguna fase se examina de forma aislada. Un equipo más eficiente en uso pero más costoso de fabricar puede resultar peor en el balance completo.
+; Multicriterio
+: el ACV no se limita al carbono. Considera el agotamiento de recursos [[Abiótico|abióticos]], el consumo de agua, la acidificación, la eutrofización, la toxicidad y la radiación ionizante, entre otros.
+
+Esta doble exigencia evita el desplazamiento de impactos: reducir las emisiones de un servicio aumentando su consumo de agua no constituye una mejora.
+
+== Las cuatro fases del método ==
+
+# '''Definición de objetivos y alcance''': qué se estudia, para qué decisión, con qué unidad funcional.
+# '''Inventario''': recopilación de los flujos entrantes y salientes.
+# '''Evaluación de impactos''': conversión de los flujos en indicadores.
+# '''Interpretación''': análisis de sensibilidad y límites del resultado.
+
+La '''unidad funcional''' es el punto crítico. Comparar dos servicios exige definir el servicio prestado, no el objeto. « Un año de acceso a un documento por diez usuarios » permite comparar; « un servidor » no.
+
+== Aplicación a lo digital ==
+
+En un equipo informático, la fabricación domina la mayoría de los indicadores. El ACV lo demuestra de forma cuantificada y desplaza la prioridad hacia la duración de uso, el [[Reacondicionamiento|reacondicionamiento]] y el [[Reutilización|reúso]].
+
+Existe una variante social, el '''Análisis Social del Ciclo de Vida''', que aplica la misma lógica a los impactos sobre las partes interesadas.
+
+== Límites ==
+
+Un ACV depende de la calidad de los datos de inventario, a menudo escasos para los componentes electrónicos. Los resultados llevan una incertidumbre que conviene explicitar antes de fundamentar una decisión sobre ellos.
+
+== Véase también ==
+
+* [[Huella de Carbono]] · [[Ecodiseño]] · [[Fabricación]] · [[Fin de Vida]] · [[Abiótico]]
+
+[[Categoría:Medición]]
+[[de:Ökobilanz]]
+[[en:Life cycle assessment]]
+[[fr:Analyse du Cycle de Vie]]

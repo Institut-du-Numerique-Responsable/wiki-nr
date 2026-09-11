@@ -1,0 +1,17 @@
+L’'''analyse prédictive''' utilise des données historiques et des modèles statistiques pour estimer des évolutions futures : demande, panne, départ d’un client, consommation.
+
+== Usages en numérique responsable ==
+
+Elle sert à dimensionner au plus juste, capacité serveur, renouvellement de parc, maintenance avant panne plutôt qu’après. Correctement employée, elle évite le surdimensionnement « au cas où ».
+
+== Limites ==
+
+Un modèle prédictif extrapole le passé. Il reproduit donc les tendances passées, y compris les discriminations qu’elles contenaient (voir [[Biais_algorithmique|Biais algorithmique]]), et se trompe précisément lors des ruptures, c’est-à-dire quand la prédiction serait la plus utile.
+
+Une prédiction concernant une personne relève par ailleurs du [[Règlement_Général_sur_la_Protection_des_Données|RGPD]] et, selon l’usage, du régime des systèmes à risque élevé de l’[[AI_Act|AI Act]].
+
+== Voir aussi ==
+
+* [[Apprentissage_automatique|Apprentissage automatique]] · [[Régression]] · [[Biais_algorithmique|Biais algorithmique]] · [[AI_Act|AI Act]] · [[Efficacité_énergétique|Efficacité énergétique]]
+
+[[Catégorie:Intelligence artificielle]]

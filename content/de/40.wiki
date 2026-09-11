@@ -1,0 +1,30 @@
+Ein '''KI-Modell''' ist eine mathematische Struktur, meist ein neuronales Netz, die Eingabedaten in Ergebnisse umwandelt.
+
+Es wird anhand von [[Trainingsdaten|Datensätzen]] '''trainiert''', um eine bestimmte Aufgabe auszuführen: klassifizieren, vorhersagen, generieren oder übersetzen.
+
+== Was ein Modell nicht ist ==
+
+Ein Modell ist weder eine Wissensdatenbank noch ein Programm, dessen Regeln man einfach nachlesen könnte. Seine oft Milliarden Parameter entstehen durch das Training und lassen sich nicht einzeln interpretieren. Das erschwert die Erklärung einer Entscheidung und ist der Grund dafür, dass der [[:fr:AI Act|AI Act (FR)]] besondere Pflichten zur Erklärbarkeit für Hochrisikoanwendungen vorsieht.
+
+== Häufige Typen ==
+
+; Spezialisiertes Modell
+: Für eine bestimmte Aufgabe trainiert, kleiner und mit geringerem Aufwand bei der [[:fr:Inférence|Inferenz (FR)]].
+; Basismodell oder Modell mit allgemeinem Verwendungszweck
+: Auf einem sehr großen Korpus trainiert, an zahlreiche Aufgaben anpassbar und sowohl beim Training als auch im Betrieb aufwendig.
+
+Die Wahl zwischen beiden erfordert eine Abwägung zwischen Vielseitigkeit und Ressourcensparsamkeit, die selten ausdrücklich vorgenommen wird.
+
+== Siehe auch ==
+
+* [[Maschinelles Lernen|Maschinelles Lernen]]
+* [[Deep Learning|Deep Learning]]
+* [[:fr:Inférence|Inferenz (FR)]]
+* [[Trainingsdaten|Trainingsdaten]]
+* [[:fr:AI Act|AI Act (FR)]]
+* [[Verantwortungsvolle KI|Verantwortungsvolle KI]]
+
+[[Kategorie:Künstliche Intelligenz]]
+[[fr:Modèle d'intelligence artificielle]]
+[[en:Artificial intelligence model]]
+[[es:Modelo de inteligencia artificial]]

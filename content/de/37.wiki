@@ -1,0 +1,20 @@
+Ein '''Algorithmus''' ist eine endliche Folge von Anweisungen, mit der sich ein Problem lösen oder eine Aufgabe ausführen lässt.
+
+Der Begriff ist älter als die Informatik: Auch ein Kochrezept oder ein Verfahren zur schriftlichen Division ist ein Algorithmus. In der Informatik beschreibt der Algorithmus die Verarbeitung unabhängig von der Programmiersprache, in der er umgesetzt wird.
+
+== Verhältnis zur KI ==
+
+Ein herkömmlicher Algorithmus wird von einem Menschen geschrieben: Seine Regeln sind lesbar und seine Entscheidungen erklärbar. Ein System des [[Maschinelles Lernen|maschinellen Lernens]] leitet sein Verhalten dagegen aus [[Trainingsdaten|Daten]] ab, ohne explizite Regeln. Daraus entstehen Schwierigkeiten bei der [[:fr:Explicabilité|Erklärbarkeit (FR)]] und das Problem der [[Blackbox|Blackbox]].
+
+== Ressourcensparende Gestaltung ==
+
+Die Wahl des Algorithmus bestimmt den Ressourcenverbrauch wesentlich stärker als die Optimierung des Codes, der ihn umsetzt. Ein leistungsfähigerer Server gleicht einen schlecht konzipierten Prozess nicht aus: Das ist einer der Grundsätze des [[Ökodesign|Ökodesigns]] von Software.
+
+== Siehe auch ==
+
+* [[Maschinelles Lernen|Maschinelles Lernen]] · [[:fr:Explicabilité|Erklärbarkeit (FR)]] · [[Blackbox|Blackbox]] · [[Ökodesign|Ökodesign]] · [[:fr:Biais algorithmique|Algorithmische Verzerrung (FR)]]
+
+[[Kategorie:Konzepte]]
+[[fr:Algorithme]]
+[[en:Algorithm]]
+[[es:Algoritmo]]

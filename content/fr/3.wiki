@@ -1,0 +1,12 @@
+== Définition ==
+Les 3U (Utile, Utilisable, Utilisé) sont des principes de définition de l'expérience utilisateur lors de la conception d'un nouveau produit. La définition de l'expérience utilisateur revient à imaginer le parcours utilisateur le plus fluide et rapide possible, et nécessite de connaître les usages, comportements et attentes des utilisateurs finaux. 
+
+== La règle des 3U ==
+La définition de l'expérience utilisateur suit la règle des 3U : 
+*'''U'''tile : le produit ou le service doit satisfaire un besoin de l'utilisateur, lui permettant d'accomplir une tâche ou bien de réaliser un objectif. 
+*'''U'''tilisable : le produit ou le service doit permettre à l'utilisateur de l'utiliser de manière agréable, simple et efficace.
+*'''U'''tilisé : le produit ou le service doit être adopté facilement sur le marché.
+
+== <small>Document utilisé comme sources pour cet article</small> ==
+*Aurélie Jozan - ''L'UX Design, au coeur de la notoriété et de l'engagement utilisateur''.  11 juillet 2018. ([https://medium.com/bewizyu/lux-design-au-coeur-de-la-notori%C3%A9t%C3%A9-et-de-l-engagement-utilisateur-37f3cbeac23d Lire en ligne])
+[[de:3U]]

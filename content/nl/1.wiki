@@ -1,0 +1,67 @@
+<div class="nr-hero">
+<div class="nr-hero-logo">[[Bestand:Wiki-inr.png|alt=Instituut voor Duurzame IT|link=]]</div>
+<div class="nr-hero-texte">
+<div class="nr-hero-eyebrow">Instituut voor Duurzame IT</div>
+<div class="nr-hero-title">De woordenschat van duurzame IT</div>
+<div class="nr-hero-lede">
+Definities, referentiekaders en methoden voor ecodesign, digitale soberheid, toegankelijkheid en verantwoorde AI. Vrije toegang, zonder account.
+</div>
+</div>
+</div>
+
+== Beginnen ==
+
+<div class="nr-start">
+<div class="nr-start-item">'''[[Duurzame IT]]'''<br />De aanpak in het geheel</div>
+<div class="nr-start-item">'''[[Digitale soberheid]]'''<br />Het leidende principe</div>
+<div class="nr-start-item">'''[[Digitale soevereiniteit]]'''<br />Zelf kunnen beslissen</div>
+<div class="nr-start-item">'''[[Verantwoorde AI]]'''<br />AI met maat</div>
+</div>
+
+== Per thema ==
+
+<div class="nr-grid">
+
+<div class="nr-card">
+<div class="nr-card-head">Begrippen</div>
+<div class="nr-card-body">
+[[Duurzame IT]] · [[Digitale soberheid]] · [[Digitale soevereiniteit]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Kaders en toezeggingen</div>
+<div class="nr-card-body">
+[[RGESN]] · [[Duurzame IT Charter]] · [[Verantwoorde AI Charter]] · [[AI Act]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Kunstmatige intelligentie</div>
+<div class="nr-card-body">
+[[Verantwoorde AI]] · [[Verantwoorde AI Charter]]
+</div>
+</div>
+
+</div>
+
+== Alfabetisch register ==
+
+<div class="nr-alpha">
+[[Speciaal:PrefixIndex/a|A]] [[Speciaal:PrefixIndex/b|B]] [[Speciaal:PrefixIndex/c|C]] [[Speciaal:PrefixIndex/d|D]] [[Speciaal:PrefixIndex/e|E]] [[Speciaal:PrefixIndex/f|F]] [[Speciaal:PrefixIndex/g|G]] [[Speciaal:PrefixIndex/h|H]] [[Speciaal:PrefixIndex/i|I]] [[Speciaal:PrefixIndex/j|J]] [[Speciaal:PrefixIndex/k|K]] [[Speciaal:PrefixIndex/l|L]] [[Speciaal:PrefixIndex/m|M]] [[Speciaal:PrefixIndex/n|N]] [[Speciaal:PrefixIndex/o|O]] [[Speciaal:PrefixIndex/p|P]] [[Speciaal:PrefixIndex/q|Q]] [[Speciaal:PrefixIndex/r|R]] [[Speciaal:PrefixIndex/s|S]] [[Speciaal:PrefixIndex/t|T]] [[Speciaal:PrefixIndex/u|U]] [[Speciaal:PrefixIndex/v|V]] [[Speciaal:PrefixIndex/w|W]] [[Speciaal:PrefixIndex/x|X]] [[Speciaal:PrefixIndex/y|Y]] [[Speciaal:PrefixIndex/z|Z]]
+</div>
+
+== Bijdragen ==
+
+<div class="nr-maj">Zeven artikelen in het Nederlands. De Franse editie telt er meer dan 199 en dient als bron voor de vertalingen; de Engelse telt er 47.</div>
+
+Verder lezen: [https://fr.wiki.isit-europe.org/ Frans] · [https://en.wiki.isit-europe.org/ Engels] · [https://es.wiki.isit-europe.org/ Spaans] · [https://de.wiki.isit-europe.org/ Duits]
+
+Dit wiki wordt gedragen door de gemeenschap van het [https://institutnr.org Instituut voor Duurzame IT]. Om een artikel voor te stellen of een fout te melden: [mailto:wiki@institutnr.org wiki@institutnr.org].
+
+De inhoud is herbruikbaar onder de Creative Commons Zero-licentie.
+
+[[fr:Accueil]]
+[[en:Main_Page]]
+[[de:Hauptseite]]
+[[es:Portada]]

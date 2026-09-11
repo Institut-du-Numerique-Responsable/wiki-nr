@@ -1,0 +1,63 @@
+L’'''empreinte eau''' estime le volume d’eau mobilisé sur l’ensemble du cycle de vie d’un produit ou d’un service, depuis l’extraction des matières premières jusqu’à sa [[Fin_de_Vie|fin de vie]].
+
+== Définition ==
+
+L’empreinte eau ne se limite pas à l’eau que l’on voit couler. Elle intègre l’'''eau virtuelle''' : celle qui a été nécessaire, ailleurs et plus tôt, pour produire un bien. Un équipement acheté en France peut ainsi porter une empreinte eau localisée à l’autre bout du monde.
+
+On distingue habituellement trois composantes :
+
+; Eau bleue
+: eau douce prélevée dans les nappes et les cours d’eau
+; Eau verte
+: eau de pluie stockée dans les sols, mobilisée par la production agricole et forestière
+; Eau grise
+: volume d’eau nécessaire pour diluer les polluants rejetés jusqu’à un niveau acceptable
+
+== Pourquoi le numérique est concerné ==
+
+Le numérique est un secteur très consommateur d’eau, sur trois postes distincts.
+
+=== La fabrication des composants ===
+
+C’est le poste dominant. La production de semi-conducteurs exige de l’'''eau ultrapure''' en très grande quantité, à chaque étape de gravure et de rinçage des plaquettes de silicium. À cela s’ajoute l’eau mobilisée par l’extraction et le raffinage des métaux (voir [[Terres_Rares|terres rares]], [[Empreinte_Matière|Empreinte Matière]]).
+
+Cette consommation est presque toujours invisible pour l’utilisateur final, et localisée dans des régions parfois déjà en tension hydrique.
+
+=== Le refroidissement des centres de données ===
+
+Une partie des [[DataCenter|centres de données]] utilise le refroidissement adiabatique ou évaporatif, qui consomme de l’eau pour éviter de consommer de l’électricité. Il existe donc un '''arbitrage entre eau et énergie''' : un centre affichant un excellent [[Power_Usage_Effectiveness|PUE]] peut le devoir à une consommation d’eau importante.
+
+Le [[Water_Usage_Effectiveness|WUE]] mesure cet arbitrage.
+
+=== La production de l’électricité ===
+
+L’électricité consommée mobilise elle-même de l’eau, principalement pour le refroidissement des centrales thermiques et nucléaires. Cette part n’apparaît pas dans la consommation directe d’un site, mais dans son empreinte eau indirecte, c’est la différence entre le WUE direct et le WUE source.
+
+== Un enjeu de localisation ==
+
+Contrairement au carbone, dont l’effet est global quel que soit le lieu d’émission, '''l’eau est un enjeu local'''. Un mètre cube prélevé dans une région abondante et un mètre cube prélevé dans une zone de stress hydrique n’ont pas la même signification.
+
+C’est pourquoi les méthodes d’[[Analyse_du_Cycle_de_Vie|analyse du cycle de vie]] pondèrent les volumes par un indice de tension locale sur la ressource, plutôt que de les additionner tels quels.
+
+== Voir aussi ==
+
+* [[Water_Usage_Effectiveness|Water Usage Effectiveness]]
+* [[Power_Usage_Effectiveness|Power Usage Effectiveness]]
+* [[DataCenter]]
+* [[Empreinte_Carbone|Empreinte Carbone]]
+* [[Empreinte_Matière|Empreinte Matière]]
+* [[Empreinte_Écologique|Empreinte Écologique]]
+* [[Analyse_du_Cycle_de_Vie|Analyse du Cycle de Vie]]
+* [[Fabrication]]
+* [[Abiotique]]
+
+=== Références ===
+
+* JORF n°0162 du 13 juillet 2012 - [https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000026175617 Vocabulaire de l'environnement]
+
+=== Liens externes ===
+
+* [https://www.cieau.com/le-metier-de-leau/ressource-en-eau-eau-potable-eaux-usees/eau-virtuelle-empreinte-eau-quest-ce-que-cest/ Eau virtuelle et empreinte eau : Centre d’information sur l’eau]
+
+[[Catégorie:Référentiels et méthodes]]
+[[es:Huella de Agua]]

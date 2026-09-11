@@ -1,0 +1,15 @@
+Les '''forêts aléatoires''' (''random forests'') sont un algorithme d’[[Apprentissage_automatique|apprentissage automatique]] combinant de nombreux arbres de décision entraînés chacun sur un échantillon différent des données. La prédiction finale résulte du vote ou de la moyenne de l’ensemble.
+
+Ce mécanisme corrige le principal défaut d’un arbre isolé, qui colle trop aux données d’apprentissage.
+
+== Pourquoi les citer ==
+
+Sur données tabulaires, la situation la plus fréquente en entreprise, les forêts aléatoires rivalisent souvent avec des réseaux de neurones, pour un coût de calcul sans commune mesure et avec une interprétabilité supérieure : on peut mesurer le poids de chaque variable.
+
+C’est l’illustration d’un principe d’[[Ecoconception|écoconception]] : le modèle le plus lourd n’est pas nécessairement le plus juste, et rarement le plus défendable.
+
+== Voir aussi ==
+
+* [[Apprentissage_automatique|Apprentissage automatique]] · [[Régression]] · [[Explicabilité]] · [[Apprentissage_profond|Apprentissage profond]] · [[Sobriété_Numérique|Sobriété Numérique]]
+
+[[Catégorie:Intelligence artificielle]]

@@ -1,0 +1,19 @@
+Un '''terminal''' est l’équipement par lequel une personne accède à un service numérique : ordinateur, [[Smartphone|téléphone]], tablette, téléviseur connecté, objet connecté.
+
+== Premier poste d’impact ==
+
+Les terminaux constituent la part dominante de l’empreinte du numérique, devant les [[DataCenter|centres de données]] et les [[Réseau|réseaux]]. Deux raisons se cumulent : leur nombre, et le poids de leur [[Fabrication|fabrication]] au regard de leur consommation en usage.
+
+La conséquence pratique est constante : allonger la durée d’usage d’un terminal réduit davantage l’impact que n’importe quelle optimisation de son fonctionnement.
+
+== Effet de la conception logicielle ==
+
+Un service lourd accélère l’obsolescence des terminaux qui l’exécutent. Un site dont les exigences croissent à chaque version rend inutilisables des appareils encore fonctionnels, ce qui déclenche un renouvellement anticipé.
+
+C’est ce que vise l’[[Ecoconception|écoconception]] : préserver la compatibilité avec le parc existant plutôt que supposer un équipement récent.
+
+== Voir aussi ==
+
+* [[Fabrication]] · [[Fin_de_Vie|Fin de vie]] · [[Réemploi]] · [[Obsolescence_Programmée|Obsolescence programmée]] · [[Indice_de_réparabilité|Indice de réparabilité]] · [[Ecoconception]] · [[Smartphone]]
+
+[[Catégorie:Concepts]]

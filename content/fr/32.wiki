@@ -1,0 +1,10 @@
+== Définition ==
+Ce sont des données stockées qui génèrent des frais de stockage et de maintenance alors qu'elles ne sont pas utilisées et ne créent aucune valeur au sein du système d'information. Le [https://www.veritas.com/dark-data bureau Veritas] estime que les dark data concernent jusqu’à 52% des données hébergées.
+ Ps : Cette définition fait l'objet de nombreuses discussions sur la scène internationale et pourra faire l'objet de modification au regard des évolutions sur sa définition
+
+== Voir aussi ==
+
+=== Liens externes ===
+* [https://www.veritas.com/dark-data Veritas - Dark Data - Synthèse de l'étude]
+* [https://www.veritas.com/fr/fr/news-releases/2019-06-04-dark-data-exceeds-50-percent-creating-major-security-blind-spot-for-most-companies Veritas - Communiqué de presse - Près de la moitié des données sont des « dark data » qui menacent la sécurité des entreprises françaises]
+*[https://www.lebigdata.fr/dark-data-2210 Le Big Data - Dark Data des données précieuses souvent négligées]

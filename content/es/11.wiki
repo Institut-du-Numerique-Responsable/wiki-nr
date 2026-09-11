@@ -1,0 +1,28 @@
+La '''sobriedad digital''' consiste en reducir el volumen de uso y de equipamiento, no solo su rendimiento unitario. Se distingue de la eficiencia, que mejora la relación entre servicio prestado y recursos consumidos sin cuestionar la cantidad de servicio.
+
+La distinción importa porque el [[Efecto Rebote|efecto rebote]] anula con regularidad las ganancias de eficiencia.
+
+== Sus formas concretas ==
+
+; Sobre los equipos
+: alargar la duración de uso, comprar [[Reacondicionamiento|reacondicionado]], reducir el número de terminales por persona. Como la [[Fabricación|fabricación]] concentra la mayor parte del impacto, es aquí donde se juega lo esencial.
+; Sobre los datos
+: definir duraciones de conservación, limitar las copias, suprimir lo que ya no sirve. El principio de minimización del [[RGPD]] converge con esta lógica.
+; Sobre los servicios
+: cuestionar la utilidad de una funcionalidad antes de optimizarla, aceptar una degradación en horas punta en lugar de dimensionar para el pico.
+
+== Una objeción frecuente ==
+
+Se le reprocha a la sobriedad frenar la innovación o degradar el servicio. La respuesta es empírica: buena parte de las funcionalidades desplegadas se usan poco, y una parte de los datos almacenados no se consulta nunca. Suprimirlas no degrada nada.
+
+Queda un debate real sobre el reparto del esfuerzo, entre lo que corresponde a las organizaciones, a los fabricantes y a los usuarios individuales. La sobriedad no es una responsabilidad individual: las decisiones de arquitectura y de compra pesan más que los gestos personales.
+
+== Véase también ==
+
+* [[Efecto Rebote]] · [[Low Tech]] · [[Ecodiseño]] · [[TI Responsable]] · [[Dark Data]]
+
+[[Categoría:Conceptos]]
+[[de:Digitale Suffizienz]]
+[[en:Digital sobriety]]
+[[fr:Sobriété Numérique]]
+[[nl:Digitale soberheid]]

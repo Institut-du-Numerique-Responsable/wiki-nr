@@ -1,0 +1,22 @@
+L’'''infrastructure d’IA''' regroupe les ressources matérielles et logicielles nécessaires au fonctionnement d’un système d’[[Intelligence_Artificielle|intelligence artificielle]] : processeurs graphiques, serveurs, stockage, réseau, orchestration, surveillance.
+
+== Deux régimes distincts ==
+
+; Entraînement
+: calcul massif et concentré, sur des grappes de processeurs spécialisés, pendant des heures ou des semaines
+; [[Inférence|Inférence]]
+: charge plus modeste par requête, mais permanente et proportionnelle à l’usage
+
+Ces deux régimes n’ont ni le même profil de consommation, ni les mêmes contraintes de disponibilité.
+
+== Empreinte ==
+
+L’essentiel de l’impact ne se voit pas dans la facture d’électricité : la [[Fabrication|fabrication]] des processeurs spécialisés, leur durée d’usage courte et leur remplacement rapide pèsent lourd dans le bilan (voir [[Chaîne_de_valeur_de_l'IA|Chaîne de valeur de l'IA]]).
+
+Recourir à des modèles plus petits ([[SLM]]) ou mutualiser l’infrastructure réduit davantage l’empreinte que l’optimisation du [[Power_Usage_Effectiveness|PUE]] du centre qui l’héberge.
+
+== Voir aussi ==
+
+* [[Chaîne_de_valeur_de_l'IA|Chaîne de valeur de l'IA]] · [[DataCenter]] · [[Inférence]] · [[SLM]] · [[Empreinte_Carbone|Empreinte Carbone]] · [[Cloud_computing|Cloud computing]]
+
+[[Catégorie:Intelligence artificielle]]

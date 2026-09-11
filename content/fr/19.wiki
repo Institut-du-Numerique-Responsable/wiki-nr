@@ -1,0 +1,21 @@
+== Définition ==
+Blue Angel ou Ange Bleu en langue française est un [[Ecolabel|écolabel]] créé en 1978 par le gouvernement allemand (Blauer Engel <ref>https://www.blauer-engel.de/</ref>). Il garantit que le produit ou service certifié respecte des normes élevées en terme de respect de l'environnement. L'analyse est effectuée sur l'ensemble du cycle de vie du produit ou du service.
+
+Cet écolabel s’applique à de nombreux groupes de produits et s’est surtout imposé auprès des consommateurs germanophones en devenant même une marque. Il est le premier et le plus ancien label au monde pour les produits qui, par rapport à d’autres articles équivalents, sont particulièrement écologiques. Il existe plus de 12 000 produits et services provenant de divers secteurs (mobilier, BTP, appareils électriques...) ayant reçu la certification Blue Angel<ref name=":0">https://www.blauer-engel.de/en/blue-angel/our-label-environment</ref>.
+
+Le jury du label environnemental est un organe indépendant, impartial et volontaire composé de 16 représentants d'associations qui garantit la fiabilité de l'écolabel<ref name=":1">https://www.blauer-engel.de/en/blue-angel/actors/environmental-label-jury</ref>.
+
+== Dans le cadre du numérique responsable ==
+Dans le cas des téléphones, ordinateurs, imprimantes (dont les consommables), écrans..., les critères se situent au niveau de la recyclabilité, de la réparabilité, de la réduction des pollutions et de la consommation énergétique.
+
+== Voir aussi ==
+
+=== Références ===
+<references />
+
+=== Articles connexes ===
+* [[Analyse du Cycle de Vie|Analyse du cycle de vie]]
+
+=== Liens externes ===
+
+* https://fr.wikipedia.org/wiki/Ange_bleu_(label)

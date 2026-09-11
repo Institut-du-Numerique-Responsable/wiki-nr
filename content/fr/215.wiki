@@ -1,0 +1,23 @@
+L’'''effet de substitution''' désigne le remplacement, partiel ou total, d’un travail humain par une machine ou un algorithme.
+
+== Dans le cas de l’IA ==
+
+L’effet observé porte plus souvent sur des '''tâches''' que sur des métiers entiers. Un poste se recompose : certaines activités disparaissent, d’autres apparaissent, vérification des productions, formulation des demandes, correction des erreurs du système.
+
+Cette recomposition n’est pas neutre. Elle peut appauvrir le travail lorsqu’elle retire les tâches qui lui donnaient du sens et laisse celles de contrôle, ou au contraire le recentrer sur ce qui demande un jugement.
+
+Ce que la substitution déplace :
+
+* la '''répartition des compétences''' : les savoir-faire non exercés se perdent, ce qui pose un problème de [[Résilience|résilience]] en cas d’indisponibilité du système ;
+* la '''responsabilité''' : elle reste humaine, alors que la production ne l’est plus ;
+* l’'''autonomie''' au travail, que la Charte IA de l’[[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]] mentionne explicitement parmi les points à préserver.
+
+== Voir aussi ==
+
+* [[IA_Responsable|IA Responsable]]
+* [[Acceptabilité]]
+* [[Qualité_de_Vie_au_Travail|Qualité de Vie au Travail]]
+* [[Résilience]]
+* [[Effet_Rebond|Effet Rebond]]
+
+[[Catégorie:Intelligence artificielle]]

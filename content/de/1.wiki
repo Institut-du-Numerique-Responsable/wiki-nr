@@ -1,0 +1,95 @@
+<div class="nr-hero">
+<div class="nr-hero-logo">[[Datei:Wiki-inr.png|alt=Institut für verantwortungsvolle Digitalisierung|link=]]</div>
+<div class="nr-hero-texte">
+<div class="nr-hero-eyebrow">Institut für verantwortungsvolle Digitalisierung</div>
+<div class="nr-hero-title">Das Vokabular der verantwortungsvollen Digitalisierung</div>
+<div class="nr-hero-lede">
+Definitionen, Referenzrahmen und Methoden für Ökodesign, digitale Suffizienz, Barrierefreiheit und verantwortungsvolle KI. Freier Zugang, ohne Konto.
+</div>
+</div>
+</div>
+
+== Beginnen ==
+
+<div class="nr-start">
+<div class="nr-start-item">'''[[Verantwortungsvolle Digitalisierung]]'''<br />Die fünf Säulen</div>
+<div class="nr-start-item">'''[[Digitale Suffizienz]]'''<br />Das leitende Prinzip</div>
+<div class="nr-start-item">'''[[Digitale Souveränität]]'''<br />Entscheiden können</div>
+<div class="nr-start-item">'''[[Verantwortungsvolle KI]]'''<br />KI mit Maß</div>
+</div>
+
+== Nach Thema ==
+
+<div class="nr-grid">
+
+<div class="nr-card">
+<div class="nr-card-head">Begriffe und Effekte</div>
+<div class="nr-card-body">
+[[Verantwortungsvolle Digitalisierung]] · [[Digitale Suffizienz]] · [[Digitale Souveränität]] · [[Rebound-Effekt]] · [[Kreislaufwirtschaft]] · [[3U]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Messen und bewerten</div>
+<div class="nr-card-body">
+[[Ökobilanz]] · [[CO₂-Fußabdruck]] · [[WeNR]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Geräte und Lebenszyklus</div>
+<div class="nr-card-body">
+[[Herstellung]] · [[Lebensende]] · [[Geplante Obsoleszenz]] · [[Kreislaufwirtschaft]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Infrastruktur</div>
+<div class="nr-card-body">
+[[Rechenzentrum]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Barrierefreiheit</div>
+<div class="nr-card-body">
+[[Digitale Barrierefreiheit]] · [[Ökodesign]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Referenzrahmen und Selbstverpflichtungen</div>
+<div class="nr-card-body">
+[[RGESN]] · [[Ökodesign]] · [[Charta für verantwortungsvolle Digitalisierung]] · [[KI-Charta]] · [[WeNR]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Künstliche Intelligenz</div>
+<div class="nr-card-body">
+[[Verantwortungsvolle KI]] · [[KI-Charta]]
+</div>
+</div>
+
+</div>
+
+== Alphabetisches Verzeichnis ==
+
+<div class="nr-alpha">
+[[Spezial:Präfixindex/a|A]] [[Spezial:Präfixindex/b|B]] [[Spezial:Präfixindex/c|C]] [[Spezial:Präfixindex/d|D]] [[Spezial:Präfixindex/e|E]] [[Spezial:Präfixindex/f|F]] [[Spezial:Präfixindex/g|G]] [[Spezial:Präfixindex/h|H]] [[Spezial:Präfixindex/i|I]] [[Spezial:Präfixindex/j|J]] [[Spezial:Präfixindex/k|K]] [[Spezial:Präfixindex/l|L]] [[Spezial:Präfixindex/m|M]] [[Spezial:Präfixindex/n|N]] [[Spezial:Präfixindex/o|O]] [[Spezial:Präfixindex/p|P]] [[Spezial:Präfixindex/q|Q]] [[Spezial:Präfixindex/r|R]] [[Spezial:Präfixindex/s|S]] [[Spezial:Präfixindex/t|T]] [[Spezial:Präfixindex/u|U]] [[Spezial:Präfixindex/v|V]] [[Spezial:Präfixindex/w|W]] [[Spezial:Präfixindex/x|X]] [[Spezial:Präfixindex/y|Y]] [[Spezial:Präfixindex/z|Z]]
+</div>
+
+== Mitwirken ==
+
+<div class="nr-maj">Zwanzig Artikel auf Deutsch. Die französische Ausgabe umfasst über 199 und dient als Quelle für die Übersetzungen; die englische zählt 47.</div>
+
+Weiterführend: [https://fr.wiki.isit-europe.org/ Französisch] · [https://en.wiki.isit-europe.org/ Englisch] · [https://es.wiki.isit-europe.org/ Spanisch] · [https://nl.wiki.isit-europe.org/ Niederländisch]
+
+Dieses Wiki wird von der Gemeinschaft des [https://institutnr.org Instituts für verantwortungsvolle Digitalisierung] getragen. Um einen Artikel vorzuschlagen oder einen Fehler zu melden: [mailto:wiki@institutnr.org wiki@institutnr.org].
+
+Die Inhalte stehen unter der Lizenz Creative Commons Zero zur Weiterverwendung.
+
+[[fr:Accueil]]
+[[en:Main_Page]]
+[[nl:Hoofdpagina]]
+[[es:Portada]]

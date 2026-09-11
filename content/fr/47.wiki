@@ -1,0 +1,142 @@
+L’'''empreinte carbone''' estime la quantité de [[Gaz à Effet de Serre|gaz à effet de serre]] émise pour satisfaire la consommation d’un individu, d’une population, d’un territoire ou d’une activité.
+
+== Définition ==
+
+L’indicateur couvre les biens, les services et l’usage des infrastructures. Le calcul intègre les émissions liées aux importations et aux exportations, quel que soit le lieu de production. Il se distingue en cela de l’inventaire national, qui ne compte que les émissions produites sur le territoire.
+
+Le résultat s’exprime en [[Equivalent carbone|équivalent CO₂]], unité qui ramène tous les gaz à une échelle commune par leur potentiel de réchauffement global. Une tonne de méthane compte ainsi pour environ 28 tonnes de CO₂ sur cent ans.
+
+L’empreinte carbone ne mesure qu’un seul impact. Elle laisse de côté la consommation d’eau, l’épuisement des ressources minérales et la toxicité, couverts respectivement par l’[[Empreinte Eau|empreinte eau]], l’[[Empreinte Matière|empreinte matière]] et l’[[Analyse du Cycle de Vie|analyse du cycle de vie]] multicritère. Un arbitrage jugé favorable au climat peut dégrader ces autres postes.
+
+== Ordres de grandeur ==
+
+L’empreinte carbone d’un habitant de la France se situe autour de '''9 tonnes de CO₂e par an'''. La trajectoire nationale de neutralité vise environ '''2 tonnes''' par personne à l’horizon 2050, soit une division par quatre à cinq.
+
+Côté équipements, les valeurs publiées par les constructeurs et par l’[[Agence de la Transition Écologique|ADEME]] s’échelonnent ainsi, fabrication comprise :
+
+* smartphone : quelques dizaines de kilogrammes de CO₂e ;
+* ordinateur portable : de l’ordre de 150 à 300 kg de CO₂e ;
+* écran, serveur, baie de stockage : plusieurs centaines de kilogrammes.
+
+Ces valeurs restent des ordres de grandeur. Les périmètres, les durées de vie retenues et les mix électriques diffèrent d’une source à l’autre, ce qui interdit de comparer deux chiffres sans lire leurs hypothèses.
+
+Les empreintes unitaires par courriel ou par requête, longtemps reprises dans la presse, reposaient sur des hypothèses anciennes et non reproductibles. L’ADEME a cessé de les diffuser. Elles servent au mieux de support pédagogique, jamais de base de calcul.
+
+== Périmètre : les trois scopes ==
+
+La comptabilité carbone d’une organisation répartit les émissions en trois périmètres :
+
+; Scope 1 : émissions directes
+: combustion sur site, véhicules détenus, fuites de fluides frigorigènes
+; Scope 2 : émissions indirectes liées à l’énergie achetée
+: électricité, chaleur, froid
+; Scope 3 : autres émissions indirectes
+: achats de biens et services, fret, déplacements, immobilisations, usage et [[Fin de Vie|fin de vie]] des produits vendus
+
+Pour une direction des systèmes d’information, le scope 3 concentre l’essentiel du résultat. Les équipements achetés, les services d’hébergement et les licences logicielles y figurent, alors que l’électricité des salles serveurs, seule visible en scope 2, ne représente qu’une fraction du total.
+
+== La méthode ABC ==
+
+En France, la méthode de référence est le [[Bilan Carbone|Bilan Carbone]]®, créée en 2004 par l’[[Agence de la Transition Écologique|ADEME]] et portée depuis 2011 par l’[[Association pour la transition Bas Carbone|ABC]]. La '''version 9''', en vigueur depuis le 1er janvier 2025, structure la démarche en sept étapes.
+
+Trois évolutions de cette version changent la portée de l’exercice :
+
+* la mesure des '''trois scopes''' devient exhaustive et obligatoire, ce qui interdit d’écarter les achats numériques du périmètre ;
+* un '''plan de transition''' est exigé, et non plus seulement recommandé ;
+* la méthode se décline en '''trois niveaux de maturité''' (initial, standard, avancé), afin de s’adapter aux moyens de l’organisation.
+
+L’ABC forme et labellise les praticiens habilités à mener un bilan. Elle publie également des guides sectoriels et maintient les facteurs d’émission utilisés par la méthode, alignés sur la '''Base Empreinte''' de l’[[Agence de la Transition Écologique|ADEME]].
+
+Le Bilan Carbone reste compatible avec le [[GHG Protocol|GHG Protocol]] et la norme [[ISO 14064|ISO 14064]]. Il permet de répondre à l’obligation réglementaire du [[Bilan des Émissions des Gaz à Effet de Serre|BEGES]], dont il partage la logique en allant au-delà.
+
+== Spécificités de l’empreinte carbone du numérique ==
+
+=== La fabrication pèse plus que l’usage ===
+
+Pour la plupart des équipements, l’essentiel des émissions a lieu avant la première mise sous tension. L’ADEME situe la [[Fabrication|fabrication]] autour des trois quarts de l’empreinte d’un smartphone sur sa durée de vie. La proportion baisse pour un ordinateur portable, sans cesser d’être majoritaire.
+
+Cette structure inverse les priorités d’action. Allonger la durée de service d’un équipement réduit son empreinte annuelle dans la même proportion, alors qu’aucun gain d’efficacité en usage ne produit un effet comparable. Un remplacement anticipé par un modèle moins gourmand dégrade le plus souvent le bilan.
+
+=== Trois tiers d’impact inégaux ===
+
+L’étude conjointe de l’ADEME et de l’Arcep répartit l’empreinte du numérique en France entre trois postes :
+
+* les '''[[Terminal|terminaux]]''' des utilisateurs, qui dominent largement ;
+* les '''[[DataCenter|centres de données]]''' ;
+* les '''[[Réseau|réseaux]]''', dont la part reste la plus faible.
+
+Le numérique représente environ 2,5 % de l’empreinte carbone française. À trajectoire inchangée, l’étude projette une hausse marquée à l’horizon 2030, portée par la multiplication des équipements plus que par l’intensité des usages.
+
+=== Le facteur d’émission dépend du lieu et de l’heure ===
+
+Un kilowattheure consommé n’émet pas la même quantité de CO₂ selon le mix électrique. Le facteur français, de l’ordre de 0,06 kg CO₂e/kWh, reste très inférieur à la moyenne européenne, elle-même sous la moyenne mondiale. Déplacer un traitement d’un pays à l’autre modifie donc son empreinte dans un rapport de un à dix, sans rien changer au code exécuté.
+
+Cette sensibilité rend les comparaisons fragiles. Un résultat exprimé en CO₂e n’a de sens qu’accompagné du facteur d’émission retenu, de son millésime et de sa zone géographique.
+
+=== Mesurer un service, pas une machine ===
+
+L’empreinte d’un [[Service numérique|service numérique]] se calcule par [[Analyse du Cycle de Vie|analyse du cycle de vie]], rapportée à une '''unité fonctionnelle''' : une consultation de page, un utilisateur actif par mois, une transaction. Sans unité fonctionnelle explicite, deux mesures ne se comparent pas.
+
+Le partage des ressources complique l’exercice. Un serveur mutualisé, un lien réseau ou un service géré par un tiers se répartissent entre leurs usagers selon une règle d’allocation. Celle-ci s’appuie le plus souvent sur le temps processeur, la mémoire réservée ou le volume transféré. Ce choix d’allocation, rarement documenté, pèse davantage sur le résultat que la précision des mesures elles-mêmes.
+
+Les référentiels français NegaOctet et le [[RGESN|RGESN]] encadrent respectivement les données d’impact et les pratiques de conception. Le [[Power Usage Effectiveness|PUE]] et le [[Carbon Usage Effectiveness|CUE]] ne renseignent, eux, que l’efficacité d’un centre de données en exploitation, sans rien dire de la fabrication des serveurs qu’il héberge.
+
+=== L’effet rebond absorbe les gains ===
+
+L’amélioration de l’efficacité d’un service en abaisse le coût, ce qui en étend l’usage. Un gain unitaire de compression vidéo se traduit ainsi par un catalogue plus lourd et par une définition plus élevée. Une empreinte calculée à périmètre constant surestime alors la réduction obtenue, et seule la [[Sobriété Numérique|sobriété]] agit sur le volume.
+
+=== Le cas de l’intelligence artificielle ===
+
+L’[[Cycle de vie de l'IA|IA générative]] déplace le centre de gravité du calcul. L’entraînement d’un grand modèle concentre une dépense énergétique ponctuelle et massive, mais l’inférence, répétée à chaque requête et sur toute la durée d’exploitation, finit par la dépasser.
+
+Deux effets aggravent l’exercice de mesure. Les accélérateurs matériels ont une empreinte de fabrication élevée et une durée de service courte. Et les fournisseurs publient rarement la consommation par requête, ce qui laisse l’utilisateur d’une API sans donnée d’entrée exploitable pour son propre scope 3.
+
+== De la mesure au plan de transition ==
+
+Un bilan n’a d’utilité que s’il oriente des décisions. La [[Bilan Carbone|méthode Bilan Carbone]] impose désormais un plan de transition, et les leviers du numérique se hiérarchisent à l’inverse des intuitions courantes :
+
+* '''allonger la durée de service''' des équipements, levier de loin le plus efficace ;
+* privilégier le [[Reconditionnement|reconditionné]] et organiser le [[Réemploi|réemploi]] en fin d’usage ;
+* inscrire des exigences dans les marchés, à l’aide du [[Guide des Achats Numériques Responsables|guide des achats numériques responsables]] et du [[Clausier numérique écoresponsable|clausier numérique écoresponsable]] ;
+* réduire le besoin en matériel par l’[[Ecoconception|écoconception]] des services, un logiciel plus sobre repoussant le renouvellement du parc ;
+* traiter le volume d’usage par la [[Sobriété Numérique|sobriété]], seule réponse à l’effet rebond.
+
+L’achat de crédits de compensation ne réduit pas l’empreinte de l’organisation. Il finance un projet tiers et se comptabilise séparément, sans venir en déduction du bilan.
+
+== Cadre réglementaire ==
+
+Le [[Bilan des Émissions des Gaz à Effet de Serre|BEGES]] rend le bilan obligatoire pour les entreprises de plus de 500 salariés et pour les collectivités au delà d’un certain seuil, avec une publication périodique.
+
+La directive [[CSRD|CSRD]] étend l’exigence au reporting de durabilité et impose la publication des trois scopes ainsi que d’une trajectoire de réduction, sous vérification par un tiers indépendant. Pour la plupart des organisations concernées, le poste numérique cesse alors d’être facultatif dans le périmètre déclaré.
+
+== Voir aussi ==
+
+* [[Bilan Carbone|Bilan Carbone]]
+* [[Association pour la transition Bas Carbone|Association pour la transition Bas Carbone]]
+* [[Bilan des Émissions des Gaz à Effet de Serre|Bilan des Émissions des Gaz à Effet de Serre]]
+* [[Analyse du Cycle de Vie|Analyse du Cycle de Vie]]
+* [[Equivalent carbone|Equivalent carbone]]
+* [[Gaz à Effet de Serre|Gaz à Effet de Serre]]
+* [[Fabrication|Fabrication]]
+* [[Empreinte Eau|Empreinte Eau]]
+* [[Empreinte Matière|Empreinte Matière]]
+* [[Empreinte Écologique|Empreinte Écologique]]
+* [[Sobriété Numérique|Sobriété Numérique]]
+* [[Ecoconception|Ecoconception]]
+* [[CSRD|CSRD]]
+* [[Cycle de vie de l'IA|Cycle de vie de l'IA]]
+* [[Numérique Responsable|Numérique Responsable]]
+
+=== Références externes ===
+
+* [https://abc-transitionbascarbone.fr/ Association pour la transition Bas Carbone (ABC)]
+* [https://abc-transitionbascarbone.fr/bilan-carbone/ La méthode Bilan Carbone®]
+* [https://base-empreinte.ademe.fr/ Base Empreinte, ADEME]
+* [https://www.arcep.fr/la-regulation/grands-dossiers-thematiques-transverses/lempreinte-environnementale-du-numerique.html Empreinte environnementale du numérique, Arcep]
+* [https://negaoctet.org/ NegaOctet]
+
+[[Catégorie:Référentiels et méthodes]]
+
+[[de:CO₂-Fußabdruck]]
+[[en:Carbon footprint]]
+[[es:Huella de Carbono]]

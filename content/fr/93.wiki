@@ -1,0 +1,22 @@
+== Définition ==
+La règle des [[5R]] énonce : refuser, réduire, réutiliser, recycler, rendre à la terre. Le reconditionnement applique la troisième, réutiliser.
+
+Reconditionner un équipement signifie qu'on va le préparer dans la perspective d'en prolonger l'exploitation et d'éviter la production de nouveaux équipements. Il va s'agir par exemple de le nettoyer, d'en changer la batterie, d'en augmenter la mémoire centrale, d'en modifier la capacité de stockage…
+
+La finalité du reconditionnement peut être de remettre en vente un matériel déjà usagé mais qui demeure en parfait état de fonctionnement, voire, de le donner généreusement à une association, à des élèves ou étudiants qui ne seraient pas équipés.
+
+== Dans le cadre du Numérique Responsable ==
+Reconditionner un équipement est une "bonne pratique" en ce sens qu'elle évite d'augmenter le volume des déchets produits par une organisation. 
+
+Les entreprises ont souvent l'habitude de mettre en réforme les équipements informatiques dès l'instant où ils sont comptablement amortis et mettre en [[Recyclage des déchets|recyclage]] un matériel qui, parce qu'il fonctionne encore, pourrait être reconditionné.
+
+== Voir aussi ==
+
+=== Articles connexes ===
+
+* [[Recyclage des déchets]]
+* Gestion des [[Déchets d’Équipements Électriques et Électroniques|DEEE]]
+* [[Economie Circulaire|Économie Circulaire]]
+* [[5R]]
+* Reboot
+[[es:Reacondicionamiento]]

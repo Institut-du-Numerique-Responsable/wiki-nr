@@ -1,0 +1,36 @@
+'''Deep learning''' is a family of [[Machine learning|machine learning]] methods that use neural networks with multiple layers. During training, the learning procedure adjusts numerical weights so that the network produces useful outputs from examples. Layers transform intermediate representations rather than following a set of human-written rules for each case.<ref>Zhang et al., [https://d2l.ai/chapter_multilayer-perceptrons/index.html Multilayer Perceptrons], ''Dive into Deep Learning''.</ref>
+
+Deep learning supports applications such as speech recognition, image analysis and language generation. Architectures differ: a network designed to recognise an image need not have the same structure or operating requirements as a language model.
+
+== Training and use ==
+
+During training, developers run examples through the network, compute an error and update weights. They use validation data to choose settings and decide when to stop. During [[Inference|inference]], the deployed network uses those weights to process new inputs.
+
+A team can also start from an existing network and adapt it through [[Fine-tuning|fine-tuning]]. This may reduce the work needed for a new task, but it still requires appropriate [[Training data|data]] and an independent evaluation.
+
+== Example: inspecting equipment ==
+
+A refurbishment workshop could use image classification to help identify damaged casings. Useful evaluation images would include different devices, lighting conditions and types of damage. Photos of the same device should not appear in both training and test sets: the workshop needs evidence that the model works on unfamiliar equipment. Staff would still need a way to inspect uncertain cases.
+
+== Resource use and alternatives ==
+
+There is no fixed energy cost for deep learning. Task, architecture, hardware and workload affect consumption. A study of deployed AI models found substantial differences between tasks and between specialised and general-purpose systems; its measurements describe the tested configurations rather than a universal rate.<ref>Luccioni, Jernite and Strubell (2024), [https://arxiv.org/abs/2311.16863 Power Hungry Processing: Watts Driving the Cost of AI Deployment?].</ref>
+
+Compare a deep network with a simpler baseline before selecting it. For structured business data, a linear model or tree-based method may be sufficient. Include the expected number of predictions, equipment requirements and maintenance effort in that comparison.
+
+== Reporting a training experiment ==
+
+Carbontracker, developed by researchers at the University of Copenhagen, tracks and predicts energy use and associated emissions during training.<ref>Anthony, Kanding and Selvan (2020), [https://arxiv.org/abs/2007.03051 Carbontracker: Tracking and Predicting the Carbon Footprint of Training Deep Learning Models].</ref> Report the monitored components and emissions-factor source alongside the model's evaluation results.
+
+Henderson and colleagues, including researchers at Stanford, propose a framework for recording experiment energy and carbon information in a consistent form.<ref>Henderson et al. (2020), [https://arxiv.org/abs/2002.05651 Towards the Systematic Reporting of the Energy and Carbon Footprints of Machine Learning]; [https://engineering.stanford.edu/news/ais-carbon-footprint-problem Stanford project introduction].</ref> Keep development and tuning runs in view: the final successful run may represent only part of the computational work. See [[Carbon footprint]] for the distinction between an operational estimate and a lifecycle assessment.
+
+== See also ==
+* [[Machine learning]] · [[Artificial intelligence model]] · [[Fine-tuning]] · [[Black box]] · [[Digital sobriety]]
+
+== References ==
+<references />
+
+[[Category:Artificial intelligence]]
+[[fr:Apprentissage profond]]
+[[es:Aprendizaje profundo]]
+[[de:Deep Learning]]

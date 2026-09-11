@@ -1,0 +1,31 @@
+A '''data centre''' is a facility that houses servers, storage and networking equipment, together with the power supply, cooling and security systems needed to operate them. Facilities range from small enterprise installations to large sites used by cloud providers. Their environmental impacts depend on equipment, workloads, location and operating practices.
+
+== Energy and life cycle impacts ==
+A facility uses electricity for computing equipment and supporting systems such as cooling and power conversion. The International Energy Agency's ''Energy and AI'' report examines data centre electricity demand and its drivers, including the growth of AI workloads.<ref>IEA, [https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai Energy demand from AI], in ''Energy and AI'', 2025.</ref> Electricity figures should specify their year and geographic scope; projections also depend on assumptions about demand and efficiency.
+
+A [[Life cycle assessment|life cycle assessment]] additionally considers construction, [[Manufacturing|equipment manufacturing]], maintenance and [[End of life|end-of-life treatment]]. A centre's position in a wider digital footprint depends on which devices, networks and services the study includes. There is no single ranking that applies to every organisation or national assessment.
+
+== Interpreting efficiency indicators ==
+[[Power Usage Effectiveness|Power usage effectiveness]] (PUE) is total facility energy divided by IT equipment energy over the same reporting period. It describes the overhead associated with supporting the IT equipment. For example, a PUE of 1.2 means that total facility energy is 20% above the energy supplied to the IT equipment.
+
+PUE does not measure useful computational output, hardware manufacturing impacts or the carbon intensity of electricity. Operators should also examine absolute energy use, utilisation and service performance. The US Department of Energy's design guide covers IT systems, cooling, electrical systems and heat recovery.<ref>US Department of Energy, [https://www.energy.gov/cmei/femp/articles/best-practices-guide-energy-efficient-data-center-design Best Practices Guide for Energy-Efficient Data Center Design], 2024.</ref>
+
+== Water and cooling ==
+Water demand varies with the cooling system and local conditions. Evaporative cooling consumes water; other approaches have different energy and water trade-offs. Reporting should distinguish on-site water use from water associated with electricity generation, and state whether the figures describe withdrawal or consumption. The Department of Energy provides guidance on reducing cooling water use.<ref>US Department of Energy, [https://www.energy.gov/cmei/femp/cooling-water-efficiency-opportunities-federal-data-centers Cooling Water Efficiency Opportunities for Federal Data Centers].</ref>
+
+== Heat recovery ==
+Operators can supply recovered heat to nearby buildings or heating networks. Feasibility depends on temperature, distance and demand throughout the year, as well as the energy needed to transfer or upgrade the heat. NREL's Energy Systems Integration Facility provides a documented example of heat reuse alongside energy and water measures.<ref>US Department of Energy, [https://betterbuildingssolutioncenter.energy.gov/showcase-projects/nrels-energy-systems-integration-facility NREL's Energy Systems Integration Facility].</ref> An assessment should account for the heating source displaced and the additional infrastructure and electricity required.
+
+== See also ==
+* [[Power Usage Effectiveness]]
+* [[Green IT]]
+* [[Carbon footprint]]
+* [[Digital sobriety]]
+
+== References ==
+<references />
+
+[[Category:Concepts]]
+[[de:Rechenzentrum]]
+[[es:Centro de Datos]]
+[[fr:DataCenter]]

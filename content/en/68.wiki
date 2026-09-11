@@ -1,0 +1,34 @@
+An '''artificial intelligence model''' is a computational representation that a system uses to produce outputs from inputs. In [[Machine learning|machine learning]], training fits the model from data. Examples include linear models, decision trees and neural networks. A model does not have to be a neural network.
+
+== The model within a service ==
+
+A document-classification service needs more than a trained model. Someone must collect inputs, prepare them in the expected format, interpret predictions and handle errors. Access controls, the user interface and monitoring belong to the surrounding system.
+
+This distinction matters when evaluating a product. A model can score well on a test while the service fails because it receives incomplete documents or sends results to the wrong person. Model-level performance does not establish the quality of the whole workflow.
+
+== Specialised and general-purpose models ==
+
+A specialised model targets a bounded task, such as classifying messages. A foundation model undergoes broad training and can support several downstream tasks, sometimes after [[Fine-tuning|adaptation]]. These descriptions concern training and intended use; they do not establish a universal size threshold or a guarantee of capability.
+
+For a language-model service, check whether factual answers come from model outputs alone or whether [[RAG|retrieval]] supplies supporting documents. The model's parameters can encode information and sometimes memorise examples, but they do not provide a dependable, directly editable database of facts.
+
+== Reading model documentation ==
+
+A model card records intended uses, evaluation methods and limitations. The original model-card proposal also recommends reporting performance under relevant conditions and across groups, rather than providing one aggregate score.<ref>Mitchell et al. (2019), [https://arxiv.org/abs/1810.03993 Model Cards for Model Reporting].</ref>
+
+Before adoption, identify the exact version and licence, then check the evidence for your task. A benchmark in one language or domain may say little about another. Record the deployment configuration so that a later update can be evaluated against the same examples.
+
+== Responsible selection ==
+
+Set an acceptable error level and test a modest baseline. Compare memory requirements, response time and operating cost alongside quality. Include human review where mistakes have consequences. The NIST AI Risk Management Framework offers a voluntary process for considering risks across the system lifecycle.<ref>NIST, [https://www.nist.gov/itl/ai-risk-management-framework AI Risk Management Framework].</ref>
+
+== See also ==
+* [[Training data]] · [[Machine learning]] · [[Inference]] · [[Responsible AI]] · [[SLM]]
+
+== References ==
+<references />
+
+[[Category:Artificial intelligence]]
+[[fr:Modèle d'intelligence artificielle]]
+[[es:Modelo de inteligencia artificial]]
+[[de:KI-Modell]]

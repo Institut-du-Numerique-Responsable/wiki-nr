@@ -1,0 +1,49 @@
+== Définition ==
+'''BYOD''' est l'acronyme de '''B'''ring '''Y'''our '''O'''wn '''D'''evice. Cette pratique consistant à utiliser ses équipements personnels ([[smartphone]], ordinateur portable, tablette etc.) dans un contexte professionnel. Ce terme peut être mis en opposition au [[Corporate Owned, Personally Enabled|COPE.]] 
+
+== Dans le cadre du numérique responsable ==
+Dans le cadre de cette pratique, l'employeur permet à l'employé d'utiliser son équipement électronique pour remplir sa mission professionnelle. La pratique présente deux avantages apparents : elle limite la multiplication des terminaux et tend à allonger leur durée de vie. Un terminal choisi par son utilisateur répond mieux à ses attentes, et il en prend davantage soin. Le BYOD soulève toutefois des questions en termes de mise en place de possibles inégalités sociales, mais également sur le droit à la déconnexion avec l'équilibre entre vie privée et vie professionnelle qui peut en souffrir.
+
+== Comparaison des trois modèles ==
+
+{| class="wikitable"
+! Modèle !! Propriété !! Choix de l’équipement !! Effet sur le nombre de terminaux
+|-
+| '''BYOD''' || salarié || salarié || réduit, un seul terminal pour les deux usages
+|-
+| '''[[Choose_Your_Own_Device|CYOD]]''' || employeur || salarié, dans un catalogue || neutre
+|-
+| '''[[Corporate_Owned,_Personally_Enabled|COPE]]''' || employeur || employeur || augmente, terminaux personnels et professionnels distincts
+|}
+
+== Ce que le BYOD change réellement ==
+
+L’argument environnemental du BYOD tient à la mutualisation : un terminal au lieu de deux. Il se vérifie à deux conditions.
+
+'''La durée d’usage doit augmenter, pas diminuer.''' Un salarié qui renouvelle son téléphone personnel tous les deux ans annule le bénéfice d’avoir évité un second appareil. Le gain vient de l’allongement de la durée de vie, pas du seul comptage des terminaux.
+
+'''Le transfert de charge doit être assumé.''' Le BYOD déplace le coût d’achat et de renouvellement vers le salarié. Sans prise en charge par l’employeur, il crée une inégalité entre ceux qui peuvent s’équiper correctement et les autres, un effet contraire à la dimension sociale du [[Numérique_Responsable|numérique responsable]].
+
+== Contraintes de sécurité et de droit ==
+
+Le BYOD suppose un cadre écrit, généralement une charte annexée au règlement intérieur, précisant :
+
+* la séparation des données professionnelles et personnelles, souvent par conteneurisation ;
+* les conditions d’effacement à distance, limitées à la partie professionnelle ;
+* la prise en charge financière, totale ou partielle ;
+* les modalités du droit à la déconnexion.
+
+L’employeur reste responsable des [[Donnée_personnelle|données personnelles]] traitées sur l’équipement au titre du [[Règlement_Général_sur_la_Protection_des_Données|RGPD]], y compris lorsqu’il n’en est pas propriétaire.
+
+L’effacement à distance de l’ensemble d’un terminal personnel, incluant les données privées du salarié, expose l’employeur à un contentieux. La séparation technique des espaces est donc une condition, pas une option.
+
+== Voir aussi ==
+
+* [[Choose_Your_Own_Device|Choose Your Own Device]]
+* [[Corporate_Owned,_Personally_Enabled|Corporate Owned, Personally Enabled]]
+* [[Fin_de_Vie|Fin de Vie]]
+* [[Réemploi]]
+* [[Donnée_personnelle|Donnée personnelle]]
+* [[Règlement_Général_sur_la_Protection_des_Données|Règlement Général sur la Protection des Données]]
+* [[Fracture_Numérique|Fracture Numérique]]
+* [[Qualité_de_Vie_au_Travail|Qualité de Vie au Travail]]

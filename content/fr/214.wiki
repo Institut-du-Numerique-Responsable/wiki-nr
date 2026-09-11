@@ -1,0 +1,27 @@
+Les '''données d’entraînement''' sont l’ensemble des exemples, textes, images, sons, données structurées, à partir desquels un [[Modèle_d'intelligence_artificielle|modèle d’intelligence artificielle]] apprend.
+
+== Ce qui en dépend ==
+
+La qualité, la représentativité et la provenance de ces données déterminent les performances du modèle et ses défauts. Un modèle ne peut pas mieux valoir que les données qui l’ont formé.
+
+À vérifier avant d’entraîner un modèle ou d’en réutiliser un :
+
+* la '''représentativité''' : quelles populations, langues, situations sont présentes, et lesquelles manquent (voir [[Biais_algorithmique|Biais algorithmique]]) ;
+* la '''provenance et les droits''' : les contenus utilisés étaient-ils libres d’usage pour cette finalité ;
+* les '''[[Donnée_personnelle|données personnelles]]''' : leur présence engage le [[Règlement_Général_sur_la_Protection_des_Données|RGPD]], y compris pour un modèle entraîné par un tiers ;
+* la '''traçabilité''' : l’[[AI_Act|AI Act]] impose une documentation des jeux de données pour les modèles à usage général.
+
+== Enjeu de sobriété ==
+
+Accroître le volume de données n’améliore pas indéfiniment un modèle, mais en augmente toujours le coût d’entraînement. Un jeu plus restreint, mieux constitué et mieux documenté produit souvent un meilleur résultat qu’une accumulation indifférenciée.
+
+== Voir aussi ==
+
+* [[Apprentissage_automatique|Apprentissage automatique]]
+* [[Modèle_d'intelligence_artificielle|Modèle d'intelligence artificielle]]
+* [[Biais_algorithmique|Biais algorithmique]]
+* [[Donnée_personnelle|Donnée personnelle]]
+* [[Open_Data|Open Data]]
+* [[Chaîne_de_valeur_de_l'IA|Chaîne de valeur de l'IA]]
+
+[[Catégorie:Intelligence artificielle]]

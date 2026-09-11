@@ -1,0 +1,26 @@
+'''Green IT''' bezeichnet das Vorgehen zur Verringerung des ökologischen Fußabdrucks des Informationssystems selbst: Endgeräte, [[Rechenzentrum|Rechenzentren]], Netze und Software.
+
+Es ist eine der vier Säulen der [[Verantwortungsvolle Digitalisierung|verantwortungsvollen Digitalisierung]] — und die am längsten bekannte.
+
+== Handlungsfelder ==
+
+* Verlängerung der Nutzungsdauer der Geräte, der wichtigste Hebel angesichts des Gewichts der [[Herstellung|Herstellung]];
+* [[Ökodesign|Ökodesign]] digitaler Dienste;
+* Effizienz der Infrastruktur ([[Power Usage Effectiveness|PUE]], Wassereffizienz, Abwärmenutzung);
+* Beschaffungspolitik und [[Lebensende|Lebensende]] der Hardware, im Sinne der [[Kreislaufwirtschaft|Kreislaufwirtschaft]];
+* Verringerung der Menge gespeicherter Daten.
+
+== Was es nicht abdeckt ==
+
+Green IT behandelt die Wirkung '''der''' Digitaltechnik. Es sagt nichts über den Einsatz von Digitaltechnik für ökologische Zwecke (IT for Green) und nichts über die sozialen Dimensionen — Barrierefreiheit, Inklusion, Arbeitsbedingungen.
+
+Die verantwortungsvolle Digitalisierung auf Green IT zu verkürzen, ist die häufigste Verwechslung.
+
+== Siehe auch ==
+
+* [[Verantwortungsvolle Digitalisierung]] · [[Ökodesign]] · [[Digitale Suffizienz]] · [[CO₂-Fußabdruck]] · [[Rechenzentrum]] · [[Lebensende]] · [[Geplante Obsoleszenz]]
+
+[[en:Green IT]]
+[[es:Green IT]]
+[[fr:Green IT]]
+[[nl:Green IT]]

@@ -1,0 +1,57 @@
+'''Digital commons''' refers to a digital resource (software, content, data, infrastructure or knowledge) that is collectively managed by a community, under shared rules, and whose access and use remain open to all rather than reserved to a single exclusive owner.
+
+== Definition ==
+
+A digital commons rests on three elements:
+* a shared '''resource''' (code, content, dataset, protocol...);
+* a '''community''' that produces, maintains and evolves it;
+* '''governance rules''' defining rights of access, use and contribution.
+
+This definition transposes to the digital world the notion of "commons" theorised for shared natural resources, notably by economist [[Elinor Ostrom]], winner of the 2009 "Nobel" Prize in Economics, who showed that shared resources can be managed sustainably without falling under either exclusive private property or sole state control.
+
+== Origins ==
+
+The notion of digital commons emerged in the 1990s-2000s with the rise of:
+* '''free and open-source software''' (GNU GPL licenses, movement led by the Free Software Foundation);
+* '''Creative Commons licenses''' (2001), which provide legal tools for sharing content;
+* '''collaborative encyclopedias''' such as Wikipedia (2001), managed by its community of contributors.
+
+== Characteristics ==
+
+A digital commons is generally characterised by:
+* an '''open license''' guaranteeing reuse (free/libre, Creative Commons, open source);
+* '''shared governance''', often horizontal, among contributors;
+* '''non-exclusive access''', without excessive financial or technical barriers;
+* near-zero '''marginal copying cost''', specific to digital goods (unlike physical commons, a digital commons is not subject to rivalry of use).
+
+== Examples ==
+
+* '''Free/open-source software''': Linux, LibreOffice, Firefox
+* '''Collaborative content''': Wikipedia, OpenStreetMap
+* '''Open data''': data.gouv.fr, OpenFoodFacts
+* '''Shared infrastructure''': internet protocols (TCP/IP, DNS), Web standards (W3C)
+* '''Academic knowledge''': open archives (HAL, arXiv)
+
+== Stakes and responsible digital practices ==
+
+Digital commons play a central role in thinking about [[responsible digital|responsible digital practices]]:
+* they foster '''sobriety''' by avoiding duplication of resources (pooling rather than multiplying equivalent proprietary tools);
+* they strengthen the '''digital autonomy''' of organisations and territories (less dependency on a single vendor);
+* they raise the question of '''economic sustainability''': who funds the maintenance of a resource freely accessible to all? (pooled funding models, foundations, public subsidies, corporate contributions);
+* they raise questions of '''governance''': how to fairly involve volunteer contributors alongside institutional or commercial actors?
+
+== See also ==
+
+* [[Free and open-source software]]
+* [[Responsible digital]]
+* [[Open source]]
+* [[Open data]]
+
+== References ==
+
+* Elinor Ostrom, ''Governing the Commons'', Cambridge University Press, 1990.
+* Framasoft, resources on digital commons.
+
+[[Category:Responsible digital]]
+[[Category:Commons]]
+[[Category:Definitions]]

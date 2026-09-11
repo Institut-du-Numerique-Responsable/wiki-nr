@@ -1,0 +1,15 @@
+Un '''prompt''' est l’instruction transmise à une [[IA_générative|IA générative]] pour obtenir une réponse.
+
+Sa formulation détermine largement la qualité du résultat : un prompt vague produit une réponse générique, et l’utilisateur relance, chaque itération consommant une [[Inférence|inférence]].
+
+Bien formuler la demande relève donc autant de l’efficacité que de la sobriété : obtenir la bonne réponse du premier coup coûte moins que cinq tentatives.
+
+== Points de vigilance ==
+
+Le contenu d’un prompt sort du système d’information. Ce qui y est saisi peut être conservé ou réutilisé par le fournisseur (voir [[Shadow_AI|Shadow AI]]). Un prompt peut par ailleurs être détourné par [[Prompt_injection|injection]].
+
+== Voir aussi ==
+
+* [[Prompting_contextuel|Prompting contextuel]] · [[Prompt_injection|Prompt injection]] · [[IA_générative|IA générative]] · [[LLM]] · [[Inférence]] · [[Shadow_AI|Shadow AI]]
+
+[[Catégorie:Intelligence artificielle]]

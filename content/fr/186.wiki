@@ -1,0 +1,46 @@
+La '''Charte Numérique Responsable''' est un engagement volontaire proposé aux organisations publiques et privées souhaitant inscrire leur usage du numérique dans une démarche plus sobre, plus inclusive et plus éthique.
+
+== Définition ==
+
+La charte constitue une première étape d’engagement : elle ne certifie pas un niveau atteint, elle formalise une intention et un cap. Elle répond conjointement à l’urgence climatique et aux enjeux de justice sociale liés au numérique.
+
+Elle est portée par l’[[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]] et ses organisations affiliées : INR France (2018), ISIT-BE pour la Belgique et le Luxembourg (2020) et ISIT Suisse (2021).
+
+== Les cinq engagements ==
+
+# '''Environnement''' : optimiser les outils numériques pour limiter leurs impacts
+# '''Accessibilité''' : développer des services numériques inclusifs et durables
+# '''Éthique''' : garantir des pratiques responsables
+# '''Résilience''' : contribuer à la pérennité de l’organisation
+# '''Valeurs''' : faire émerger de nouveaux comportements et principes
+
+== Signature et portée ==
+
+La signature s’effectue en ligne, l’organisation indiquant les actions qu’elle entend mener en priorité. Elle rejoint alors une communauté d’organisations engagées.
+
+La charte repose sur la confiance : elle ne prévoit ni audit ni contrôle obligatoire. Son intérêt tient à l’engagement public qu’elle représente et à la dynamique collective qu’elle crée.
+
+Elle est complétée par la '''Charte IA''' pour les organisations déployant des systèmes d’[[IA_Responsable|intelligence artificielle]].
+
+== Voir aussi ==
+
+* [[Numérique_Responsable|Numérique Responsable]]
+* [[IA_Responsable|IA Responsable]]
+* [[Charte IA Responsable]]
+* [[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]]
+* [[Label_NR|Label NR]]
+* [[WeNR]]
+* [[Responsabilité_Sociétale_des_Entreprises|Responsabilité Sociétale des Entreprises]]
+
+=== Références externes ===
+
+* [https://charter.isit-europe.org/charte-numerique-responsable/ Charte Numérique Responsable, INR]
+* [https://charter.isit-europe.org/charte-ia/ Charte IA Responsable, INR]
+* [https://institutnr.org/ Institut du Numérique Responsable]
+
+[[Catégorie:Référentiels et méthodes]]
+
+[[de:Charta für verantwortungsvolle Digitalisierung]]
+[[en:Sustainable IT Charter]]
+[[es:Carta de TI Responsable]]
+[[nl:Duurzame IT Charter]]

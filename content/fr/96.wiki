@@ -1,0 +1,21 @@
+== Définition ==
+Bien qu'il crée des univers bien virtuels, le numérique est fabriqué quant à lui à partir de matériaux tout à fait réels. Ils sont généralement désignés par l'expression "ressources primaires". Comprendre cette notion de ressources primaires va permettre d'appréhender les enjeux environnementaux du numérique. 
+
+Les ressources primaires du monde numérique se répartissent selon les familles que sont :
+
+* les métaux et [[Terres Rares|terres rares]] (sous-ensemble )
+* les ressources minérales (naturelles et non renouvelables).
+
+== Dans le cadre du Numérique Responsable ==
+L'utilisation du numérique n'a cessé de croître ces dernières années, que ce soit au travers du web, par les usages que nous avons de nos [[Smartphone|smartphones]] ou bien encore par la banalisation progressive des véhicules électriques. Le problème est que l'ensemble de ces pratiques et objets consomme des ressources primaires, pour la plupart non renouvelables. Si de plus on considère le taux de recyclage des [[Déchets d’Équipements Électriques et Électroniques|DEEE]], à l'heure actuelle encore très anecdotique, on comprend la raison d'une tension sur ces métaux et ressources minérales. Certaines viennent déjà à manquer. 
+
+Guillaume Pitron<ref>https://www.guillaumepitron.com/</ref> explicite ces enjeux et problématiques dans un ouvrage qui fait désormais référence "La guerre des métaux rares - la face cachée de la transition énergétique et numérique<ref>http://www.editionslesliensquiliberent.fr/livre-La_guerre_des_m%C3%A9taux_rares-9791020905741-1-1-0-1.html</ref>"
+
+== Voir aussi ==
+
+=== Références ===
+<references />
+
+=== Ressources externes ===
+* ADEME - [https://multimedia.ademe.fr/infographies/infographie-terres-rares-ademe/ iconographie : terres rares]
+* Le portail français des ressources minérales  : http://www.mineralinfo.fr/

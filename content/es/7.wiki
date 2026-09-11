@@ -1,0 +1,66 @@
+El '''fin de vida''' es la etapa a partir de la cual un equipo deja de ser utilizado por su poseedor. En lo digital determina si los materiales extraídos para su [[Fabricación|fabricación]] se recuperan o se pierden definitivamente.
+
+== No es el fin de su utilidad ==
+
+Un equipo desechado funciona a menudo todavía. Lo que termina es su uso por un poseedor concreto, no su capacidad de servir.
+
+La distinción está en el centro de la [[TI Responsable|TI responsable]]. Alargar la duración de uso es la palanca más eficaz disponible, muy por delante de optimizar el consumo eléctrico, porque la fabricación ya está pagada.
+
+== Jerarquía de tratamientos ==
+
+Las vías no son equivalentes. Se ordenan de la más a la menos valiosa:
+
+# '''[[Reutilización|Reutilización]] y [[Reacondicionamiento|reacondicionamiento]]''': el equipo sigue sirviendo, tal cual o restaurado. La única vía que evita realmente fabricar uno nuevo.
+# '''Reparación''': sustituir un componente alarga la duración de uso.
+# '''Recuperación de componentes''': piezas para reparar otros equipos.
+# '''Reciclaje de materiales''': recuperación con pérdidas importantes.
+# '''Valorización energética''': incineración con recuperación de calor.
+# '''Vertedero''': pérdida definitiva de la materia.
+
+El orden importa. Reciclar un equipo que aún funcionaba destruye el valor de su fabricación, la etapa más costosa del [[Análisis del Ciclo de Vida|ciclo de vida]].
+
+== Las etapas concretas ==
+
+* recogida;
+* clasificación y diagnóstico;
+* borrado seguro de los datos;
+* reacondicionamiento o desmantelamiento;
+* descontaminación: retirada de baterías, pantallas y componentes peligrosos;
+* reciclaje o valorización.
+
+El '''borrado de los datos''' es la etapa propia de lo digital y la que más a menudo falta. Condiciona la posibilidad misma de la reutilización. Sin un procedimiento fiable, las organizaciones destruyen por precaución equipos en perfecto estado. La función de seguridad actúa así directamente sobre la huella ambiental, algo que rara vez se plantea al decidir.
+
+== El marco de los RAEE ==
+
+Los equipos digitales están sujetos a la normativa sobre residuos de aparatos eléctricos y electrónicos, que impone canales de recogida y tratamiento específicos, financiados por una contribución cobrada en la compra dentro de la responsabilidad ampliada del productor.
+
+Las tasas de recogida siguen muy por debajo de los objetivos. Una parte importante de los equipos duerme en cajones, se va con los residuos domésticos o se exporta fuera de los circuitos controlados.
+
+== Los equipos que duermen ==
+
+Una parte considerable de cualquier parque no está ni en uso ni en fin de vida: espera en un armario. Estos equipos no se reutilizan y su fabricación está pagada desde hace tiempo. Inventariarlos suele ser la ganancia más rápida disponible, y no cuesta más que atención.
+
+== Una cuestión de materiales ==
+
+Un equipo digital concentra decenas de metales, entre ellos tierras raras y metales críticos. Recuperarlos resulta técnicamente difícil: las aleaciones y los ensamblajes encolados complican la separación, y las tasas efectivas de reciclaje de varios de estos metales siguen siendo muy bajas.
+
+Cada equipo no reutilizado provoca así una nueva ronda de extracción minera.
+
+== Lo que puede hacer una organización ==
+
+* alargar la duración de uso antes de plantearse el fin de vida;
+* fijar las condiciones de la reutilización desde la compra: reparabilidad, disponibilidad de piezas, procedimiento de borrado;
+* dirigir los equipos a canales de reacondicionamiento en lugar de destruirlos;
+* preferir la donación o la reventa a entidades de la economía social;
+* seguir dónde acaba realmente el parque, en lugar de detenerse en el albarán de retirada.
+
+== Véase también ==
+
+* [[Fabricación]] · [[Reutilización]] · [[Reacondicionamiento]] · [[Economía Circular]] · [[Obsolescencia Programada]] · [[Análisis del Ciclo de Vida]]
+
+[[Categoría:Conceptos]]
+
+[[fr:Fin_de_Vie]]
+[[en:End_of_life]]
+[[de:Lebensende]]
+[[nl:Einde_levensduur]]

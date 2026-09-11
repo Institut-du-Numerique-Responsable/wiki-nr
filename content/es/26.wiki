@@ -1,0 +1,28 @@
+El '''reacondicionamiento''' consiste en recuperar un equipo usado, repararlo, probarlo y ponerlo de nuevo en circulación con una garantía. Se distingue de la [[Reutilización|reutilización]], que no supone intervención técnica.
+
+== Su interés ambiental ==
+
+Comprar reacondicionado evita una [[Fabricación|fabricación]], es decir, la etapa que concentra la mayor parte del impacto de un equipo informático. La ganancia no procede del gesto de reparar sino de la fabricación que no tiene lugar.
+
+Por eso el reacondicionado supera en balance a un equipo nuevo, incluso más eficiente energéticamente: la diferencia de consumo en uso no compensa el coste de una fabricación adicional.
+
+== Lo que distingue una oferta seria ==
+
+* Un '''diagnóstico documentado''' del estado de los componentes, en particular de la batería.
+* Una '''garantía''' de duración explícita.
+* Un '''borrado certificado''' de los datos del propietario anterior.
+* La disponibilidad de '''piezas de repuesto''' para las reparaciones posteriores.
+
+Sin estos elementos, el término designa una simple reventa de ocasión.
+
+== La cuestión del soporte lógico ==
+
+Un equipo reacondicionado sigue expuesto al fin del soporte de su sistema operativo. La duración de las actualizaciones de seguridad determina, en la práctica, cuántos años más podrá servir. Ese criterio pesa más que el estado físico del aparato y explica que el [[Índice de Reparabilidad|índice de reparabilidad]] se haya visto completado por un índice de durabilidad.
+
+== Véase también ==
+
+* [[Reutilización]] · [[Economía Circular]] · [[Índice de Reparabilidad]] · [[Fin de Vida]] · [[Obsolescencia Programada]]
+
+[[Categoría:Conceptos]]
+
+[[fr:Reconditionnement]]

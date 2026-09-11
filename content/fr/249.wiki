@@ -1,0 +1,17 @@
+Un '''LLM''' (''large language model'', modèle de langage de grande taille) est un modèle entraîné sur de très grands volumes de texte, capable de produire et de traiter du langage naturel.
+
+Il constitue le socle des services d’[[IA_générative|IA générative]] grand public.
+
+== Ce qu’il fait, et ce qu’il ne fait pas ==
+
+Un LLM prédit la suite d’une séquence de texte. Il ne consulte pas de base de connaissances, ne vérifie rien et n’a pas de notion d’exactitude, d’où les [[Hallucination|hallucinations]].
+
+== Coût ==
+
+L’entraînement mobilise des ressources considérables, mais l’[[Inférence|inférence]] répétée finit par dominer le bilan d’un service en production. Le choix de la taille du modèle est donc l’arbitrage principal : un [[SLM|modèle plus petit]], spécialisé, répond souvent au besoin pour une fraction du coût.
+
+== Voir aussi ==
+
+* [[SLM]] · [[IA_générative|IA générative]] · [[Inférence]] · [[Hallucination]] · [[RAG]] · [[Prompt]] · [[Chaîne_de_valeur_de_l'IA|Chaîne de valeur de l'IA]]
+
+[[Catégorie:Intelligence artificielle]]

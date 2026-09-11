@@ -1,0 +1,11 @@
+'''Garbage in, garbage out''', « des données médiocres produisent des résultats médiocres », est un principe selon lequel la qualité d’un traitement ne peut pas dépasser celle de ses entrées.
+
+Appliqué à l’[[Intelligence_Artificielle|intelligence artificielle]], il rappelle qu’aucune sophistication de modèle ne compense un jeu de [[Données_d'entraînement|données]] lacunaire, obsolète ou biaisé. Le modèle apprendra les défauts avec la même application que le reste.
+
+Le principe vaut aussi en sens inverse : investir dans la qualité et la documentation des données produit généralement plus de gain qu’augmenter la taille du modèle, pour un coût de calcul très inférieur.
+
+== Voir aussi ==
+
+* [[Données_d'entraînement|Données d'entraînement]] · [[Biais_algorithmique|Biais algorithmique]] · [[Hallucination]] · [[Débiaisage]] · [[Dark_Data|Dark Data]]
+
+[[Catégorie:Concepts]]

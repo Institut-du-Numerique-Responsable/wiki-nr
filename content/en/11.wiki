@@ -1,0 +1,42 @@
+'''Digital sobriety''', also called digital sufficiency, concerns the amount of equipment and digital activity needed to provide a useful service. It asks teams to examine demand, service requirements and purchasing decisions alongside technical efficiency.
+
+An efficient video service may use fewer resources per minute. A sobriety decision could involve choosing audio for a meeting that does not require video, or avoiding automatic playback. The appropriate choice depends on what participants need, including accessibility.
+
+== Efficiency and total demand ==
+
+A lower resource cost per operation does not guarantee a lower total footprint. If the number of operations grows, some or all of the saving may disappear. This is one way a [[Rebound effect|rebound effect]] can occur. Its size depends on the situation; complete cancellation of efficiency gains is not inevitable.
+
+Measure both the unit cost and total activity. A smaller file matters less if a service starts generating many more files, retains them indefinitely or requires users to buy new equipment.
+
+== Example: an internal reporting service ==
+
+A team sends a dashboard screenshot every hour to hundreds of employees. Before optimising image compression, ask who uses the report and for which decisions. Some staff may need a daily summary, while others need an alert only when a threshold is crossed.
+
+A trial can compare the revised service with the original: missed alerts, time spent checking reports, data transferred and stored, and user feedback. Keep the reporting frequency needed for the job. Reducing messages at the expense of missed incidents would defeat the purpose.
+
+== Decisions an organisation can make ==
+
+Equipment policies can favour repair and longer use where support and working needs allow it. Software teams can test on older supported devices and remove features that force replacement without providing enough benefit. Service owners can set retention periods according to actual needs and applicable obligations.
+
+Infrastructure decisions need observed demand, resilience requirements and a margin for uncertainty. Switching off an unused environment can help; indiscriminate reductions in capacity can undermine reliability.
+
+Arcep and Arcom's [[RGESN|ecodesign framework]] gives teams a structured way to examine service design from strategy to hosting.<ref>Arcep and Arcom (2024), [https://en.arcep.fr/news/press-releases/view/n/environment-rgesn-170524.html General policy framework for the ecodesign of digital services].</ref> ADEME also identifies longer equipment use, service ecodesign and changes in use among the measures for reducing digital impacts.<ref>ADEME (2025), [https://www.ademe.fr/presse/communique-national/numerique-environnement-entre-opportunites-et-necessaire-sobriete/ Numérique & environnement : entre opportunités et nécessaire sobriété] (French).</ref>
+
+== Reviewing the result ==
+
+Agree with the people using the service on what must remain available. Record the starting situation and review the outcome after implementation. Look for displaced work: fewer online steps may simply mean more phone calls or manual processing elsewhere.
+
+== Further reading in English ==
+* Cigref, in partnership with INR (2021 report), [https://www.cigref.fr/digital-sobriety-managing-the-digital-environmental-footprint-through-measurement Digital sobriety: managing the digital environmental footprint through measurement]: a practical discussion of measurement and organisational follow-up. Read the numerical findings in their original geographical and methodological scope.
+
+== See also ==
+* [[Sustainable IT]] · [[Ecodesign]] · [[Rebound effect]] · [[Low tech]] · [[Digital accessibility]]
+
+== References ==
+<references />
+
+[[Category:Concepts]]
+[[de:Digitale Suffizienz]]
+[[es:Sobriedad Digital]]
+[[fr:Sobriété Numérique]]
+[[nl:Digitale soberheid]]

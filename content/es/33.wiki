@@ -1,0 +1,28 @@
+El '''Green IT''' designa el enfoque de reducción de la huella ambiental del sistema de información en sí mismo: equipos, [[Centro de Datos|centros de datos]], redes y software.
+
+Constituye uno de los cuatro pilares de la [[TI Responsable|TI responsable]], y el identificado desde hace más tiempo.
+
+== Perímetro ==
+
+* alargamiento de la duración de uso de los equipos, primera palanca dado el peso de la [[Fabricación|fabricación]];
+* [[Ecodiseño|ecodiseño]] de los servicios digitales;
+* eficiencia de las infraestructuras ([[Power Usage Effectiveness|PUE]], [[Water Usage Effectiveness|WUE]], recuperación de calor);
+* política de compra y [[Fin de Vida|fin de vida]] del material, en lógica de [[Economía Circular|economía circular]], con [[Reacondicionamiento|reacondicionamiento]] y [[Reutilización|reutilización]];
+* reducción del volumen de datos conservados.
+
+== Lo que no cubre ==
+
+El Green IT trata el impacto '''de''' lo digital. No dice nada sobre el uso de lo digital al servicio del medio ambiente (IT for Green), ni sobre las dimensiones sociales —accesibilidad, inclusión, condiciones de trabajo.
+
+Reducir la TI responsable únicamente al Green IT es la confusión más frecuente.
+
+== Véase también ==
+
+* [[TI Responsable]] · [[Ecodiseño]] · [[Sobriedad Digital]] · [[Huella de Carbono]] · [[Centro de Datos]] · [[Fin de Vida]] · [[Obsolescencia Programada]]
+
+[[Categoría:Conceptos]]
+
+[[de:Green IT]]
+[[en:Green IT]]
+[[fr:Green IT]]
+[[nl:Green IT]]

@@ -1,0 +1,27 @@
+== Définition ==
+Elle désigne l’ensemble des énergies prêtes à être consommées par l’utilisateur final.  Elle adopte de multiples formes : énergie électrique, énergie thermique, énergie mécanique...
+
+L’énergie finale provient de l’[[Energie Primaire|énergie primaire]] (disponible dans la nature avant toute transformation).  Celle-ci peut être soit, utilisée directement, ou bien transformée en énergie secondaire pour être utilisable et transportable facilement et finalement consommée. L'énergie finale est donc "égale à l'énergie primaire moins les pertes de transformation, d'acheminement et de distribution"<ref>Changeons d'énergies: transition, mode d'emploi, Association Négawatt (2013)</ref>.
+
+L’extraction (lorsque c’est nécessaire) et les transformations de l’énergie primaire en énergie finale sont des sources de pollution et de gaz à effet de serre ([[Gaz à Effets de Serre|GES]]).  Elles sont également accompagnées de déperditions d’énergie. Cette énergie finale n'est donc qu'une fraction de l'énergie primaire initiale.
+
+== Dans le cadre du numérique responsable ==
+La part du numérique dans la consommation finale d’énergie est en constante augmentation. Ainsi, selon un rapport du Shift Project de 2018<ref name=":0">https://theshiftproject.org/wp-content/uploads/2018/11/Rapport-final-v8-WEB.pdf</ref>, utilisant des données de 2015, la part du numérique dans la consommation finale d’énergie passerait de 1,9% de la consommation mondiale à 3,3% en 2020.
+
+Selon cette même étude, la production des outils numériques représenterait 45% de l’empreinte énergétique totale, les 55% restant étant dédié à l’utilisation. Il est toutefois nécessaire de prendre en compte le type d’équipement.  En effet, la consommation énergétique liée à la production et à l’utilisation d’un smartphone qui serait conservé 2 ans se concentrerait majoritairement sur la phase de production.  Afin de maximiser cette dépense initiale en énergie, allonger la durée de vie et la conservation des équipements est un des leviers à utiliser dans le cadre d’une approche numérique responsable.  
+
+== Ressources ==
+
+=== Références ===
+
+* Wikipédia - [https://fr.wikipedia.org/wiki/%C3%89nergie_finale Energie finale]
+* Agence Internationale de l’Énergie - Indicateur de production sur les EP à l'échelle mondiale: https://www.iea.org/
+
+* Données de l'électricité en temps réel - Rte - https://www.rte-france.com/eco2mix
+* Les chiffres clés de l’énergie – http://reseaux-chaleur.cerema.fr/category/donnees-et-statistiques/data_lab
+* <ref name=":0" />The Shift Project - [https://theshiftproject.org/wp-content/uploads/2018/11/Rapport-final-v8-WEB.pdf Lean ICT - pour une sobriété numérique] - octobre 2018
+
+=== Liens externes ===
+
+* Wikipédia - [https://fr.wikipedia.org/wiki/%C3%89nergie_primaire Energie primaire]
+* France Stratégie - [https://www.strategie.gouv.fr/publications/maitriser-consommation-energetique-numerique-progres-technologique-ny-suffira Maitriser la consommation énergétique du numérique: le progrès technologique n'y suffira pas]

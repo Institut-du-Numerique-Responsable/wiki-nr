@@ -1,0 +1,23 @@
+== Définition ==
+En écologie les facteurs ou ressources abiotiques représentent des facteurs ou ressources physico-chimiques d'un écosystème ayant une influence du non-vivant sur le vivant. Le sol est un facteur abiotique, tout comme les facteurs climatiques ou topographiques.
+
+== Dans le cadre du numérique responsable ==
+L'épuisement des ressources abiotiques (ADP - Abiotic Depletion Potential) est l'un des quatre indicateurs environnementaux utilisé par le Green IT pour mesurer l'empreinte environnementale du numérique.  L'ADP permet d'évaluer l'épuisement des stocks de minerais, il est exprimé en kg équivalent antimoine (kg eq. SB).
+
+Dans son rapport sur l’empreinte environnementale du numérique mondial, GreenIT indique que l’épuisement des stocks de ressources abiotiques hors énergies fossiles, les minerais en particulier, se concentre dans la [[fabrication]] des équipements. En cause : le nombre d’utilisateurs, donc le volume d’équipements que leurs usages appellent. <ref name=":0">https://www.greenit.fr/etude-empreinte-environnementale-du-numerique-mondial/</ref>
+
+== Voir aussi ==
+
+=== Références ===
+
+* <ref name=":0" />Green IT et Frédéric Bordage, ''l'empreinte environnementale du numérique mondial'',  octobre 2019 ([https://www.greenit.fr/etude-empreinte-environnementale-du-numerique-mondial/ Lire en ligne])
+
+=== Articles connexes ===
+
+* [[Terres Rares]]
+
+=== Liens externes ===
+
+* Wikipédia [https://fr.wikipedia.org/wiki/Abiotique Abiotique]
+* Wikipédia [https://fr.wikipedia.org/wiki/Facteur_abiotique Facteur abiotique]
+[[es:Abiótico]]

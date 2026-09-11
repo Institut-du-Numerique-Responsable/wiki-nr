@@ -1,0 +1,182 @@
+L'analyse du cycle de vie (ACV) est une méthodologie standardisée visant à évaluer l'impact environnemental d'un système (produit, service, entreprise ou procédé) tout au long de son cycle de vie. Dans le cadre du numérique, l'ACV adapte cette méthodologie aux équipements, infrastructures et [[Service numérique|services numériques]]. Son objectif est de fournir une évaluation précise et complète de l'impact environnemental des solutions numériques.
+
+== Définition ==
+Selon la norme ISO 14044 : ''« L'analyse du cycle de vie (ACV) est une technique d'évaluation des aspects environnementaux et des impacts environnementaux potentiels associés à un système de produits »''.
+
+L’ACV est une méthodologie normalisée qui permet d’évaluer l’impact environnemental d’un système tout au long de son cycle de vie. Il s’agit d’une procédure s’appuyant sur des étapes établies dans les normes ISO 14040:2006<ref>https://www.iso.org/fr/standard/37456.html</ref> et ISO 14044:20066<ref>https://www.iso.org/fr/standard/38498.html</ref>.
+
+L'ACV utilise des modèles mathématiques de transformation pour convertir les données collectées concernant les flux de matières, d'énergie ou de déchets en données quantitatives. Ces données permettent ensuite de mesurer l'empreinte environnementale d'un produit ou d'un service de manière exhaustive. Dans un souci d’objectivité, chaque indicateur doit être mesurable et quantifiable.
+
+L’ACV est une analyse fonctionnelle, elle n’étudie pas un produit ou un service en particulier, mais plutôt un ensemble de solutions pouvant répondre à un besoin commun, par exemple, se déplacer, se loger, etc. L’ACV permet de comparer l’impact environnemental de ces solutions. Par exemple, pour le transport, on étudie différents moyens comme le vélo, la voiture, le bus, le métro…
+
+Pour cela, il faut définir en amont une unité fonctionnelle. Une unité fonctionnelle est une fonction qui permet de comparer différents produits en évaluant leur performance pour une même tâche. Elle tient compte de critères comme l'efficacité, la durée et la quantité utilisée.
+
+Quelques exemples d’unités fonctionnelles :
+
+* ''“Se déplacer d’un point A à un point B avec un billet de train”''
+
+* ''“Éclairer une pièce avec une luminosité de 40w pendant 1000h”''
+
+== Dans le cadre du Numérique Responsable ==
+
+=== Définition de l'ACV numérique ===
+L'analyse du cycle de vie numérique est une adaptation de l'ACV produit aux solutions numériques. Elle vise à évaluer l'impact environnemental des équipements, infrastructures et [[Service numérique|services numériques]], en effectuant un découpage en trois niveaux distincts appelés “tiers” : terminaux, réseaux, [[DataCenter|datacenters]]. L’ACV numérique adopte donc une approche à la fois multicritères, multi-étapes, mais aussi multi-composants.
+
+L'ACV produit et l'ACV numérique sont des méthodologies aux fondements similaires. Elles visent toutes deux à évaluer l'impact environnemental des produits tout au long de leur cycle de vie, mais elles diffèrent dans leurs approches en raison des spécificités des produits numériques.
+
+=== Approche de l’ACV numérique ===
+
+==== Multicritères ====
+Dans le but d’aborder la question de l’impact écologique avec une vision globale, de nombreux indicateurs environnementaux sont à considérer de manière systématique dans l’ACV. Ces indicateurs dépendent généralement des secteurs d’activité concernés.
+
+16 catégories d’impact définis par la méthode PEF (Product Environmental Footprint)<ref>https://green-business.ec.europa.eu/environmental-footprint-methods/life-cycle-assessment-ef-methods_en</ref> :
+
+* Changement climatique
+* Acidification
+* Toxicité humaine (autre que cancer)
+* Toxicité humaine (cancer)
+* Particules
+* Rayonnement ionisant
+* Appauvrissement de la couche d’ozone
+* Formation d’ozone
+* Eutrophisation terrestre
+* Eutrophisation d'eaux douces
+* Eutrophisation marine
+* Écotoxicité d'eaux douces
+* Utilisation des terres
+* Consommation d'eau
+* Épuisement des ressources minéraux et métaux
+* Épuisement des ressources matières fossiles
+
+==== Multi-étapes ====
+L’ACV est une analyse transverse qui étudie l’impact environnemental d’un ensemble de systèmes tout au long de leur cycle de vie :
+
+* Extraction des matières premières
+* Conception
+* Fabrication
+* Administration
+* Distribution ou déploiement
+* Utilisation
+* Maintenance
+* Fin de vie
+
+==== Multi-composants ====
+Dans le cadre d'une ACV numérique, on attache également de l’importance à l’étude des composants. Les composants sont les éléments constitutifs des terminaux utilisateurs, des [[DataCenter|datacenters]] et des réseaux de télécommunications. Ces derniers contiennent tous une multitude de composants et chacun ont un cycle de vie qui leur est propre. L’analyse de ces composants est réalisée selon un découpage en trois catégories d'équipements, appelés également "tiers"<ref>https://librairie.ademe.fr/produire-autrement/6022-referentiel-methodologique-d-evaluation-environnementale-des-services-numeriques.html (page 6)</ref>.
+
+===== Tiers 1 : Terminaux utilisateurs =====
+Également appelés “équipements utilisateurs”, ce sont des dispositifs électroniques utilisés par les utilisateurs finaux dans le cadre de leurs activités quotidiennes. On peut trouver par exemple les téléphones (fixes, portables), les tablettes, les ordinateurs (fixes, portables), ou encore les écrans, les projecteurs, etc.
+
+Dans une organisation, pour évaluer ces équipements, il est nécessaire de prendre en compte les paramètres suivants :
+
+* Le nombre d'unités pour inventorier le stock d'appareils.
+* La consommation énergétique du parc d'appareils en se basant soit sur des profils de consommation standard ou des données récentes et pertinentes.
+* La durée de vie typique pour attribuer les impacts en fonction de la durée de vie des appareils.
+
+===== Tiers 2 : Réseaux =====
+Cette partie concerne les infrastructures de réseaux utilisées pour les échanges de données entre les terminaux des utilisateurs finaux et les centres de données. Cette catégorie comprend à la fois les réseaux fixes (xDSL, FTTx) et les réseaux mobiles (5G, 4G, etc.), ainsi que le réseau dorsal (backbone) ou les réseaux d’accès (box internet).
+
+En 2024, les autres types de réseaux (télévision/radio, téléphonie fixe, satellites, réseaux d'entreprise, WiFi public, LPWAN…), ne sont pas inclus en raison du manque de données disponibles.
+
+===== Tiers 3 : Centres de données =====
+Les centres de données, communément appelés “[[DataCenter|datacenters]]”, sont des structures dédiées à l'hébergement et au traitement des données. La définition couvre un large éventail de structures, allant des petites salles serveurs intégrées dans des bâtiments tertiaires aux grands bâtiments équipés de plusieurs dizaines de mètres carrés de salles informatiques.
+
+Ces équipements peuvent être classés en trois catégories de fonctionnalités :
+
+* Calcul et traitement de données
+* Stockage des données
+* Connectivité réseau
+
+== Différences entre l'ACV produit et l'ACV numérique ==
+
+* L'ACV numérique prend en compte les spécificités des produits et [[Service numérique|services numériques]], notamment en termes de traçabilité et de rapidité de l'évolution technologique.
+* L’approche multi composants apporte une vision plus complète et plus pertinente pour étudier l’impact des solutions numériques.
+* Les indicateurs environnementaux peuvent différer entre l'ACV produit et l'ACV numérique en raison des différences dans les processus et les matériaux utilisés.
+* Les outils d'analyse doivent être adaptés pour mieux répondre aux caractéristiques des produits numériques.
+* La longévité peut être plus courte pour l'ACV numérique en raison de l’évolution de certains systèmes. Elle est par contre plus souvent revue, pour les mêmes raisons.
+
+== Méthodologie ACV numérique ==
+<gallery>
+Fichier:Etapes ACV.jpg|alt=Etapes d'une ACV|Etapes d'une ACV
+</gallery>
+
+=== Définition de l'objectif et du périmètre de l'étude : ===
+La démarche débute par la définition claire des objectifs et du périmètre de l'étude, conformément aux standards de la norme ISO 14041. Cette phase englobe la clarification du cadre, des méthodes d'étude, du public visé, ainsi que des mesures garantissant la fiabilité des résultats.
+
+=== Inventaire du cycle de vie : ===
+Conformément à la norme ISO 14041, cette étape est consacrée à l’inventaire du cycle de vie (ICV). Pour cela, il est nécessaire de procéder à une collecte de données exhaustive des flux entrants (les ressources, l'énergie, les matériaux, etc.) et sortants (les produits, les déchets, les émissions, etc.). En d'autres termes, chaque partie du système doit être examinée pour comprendre ce qu'elle consomme et ce qu'elle produit.
+
+=== Évaluation des impacts environnementaux : ===
+L'étape d'évaluation des impacts du cycle de vie (ÉICV) consiste à transformer l'inventaire de flux générés par un système étudié en une série d'impacts environnementaux clairement identifiables. Pour commencer, il est nécessaire de choisir parmi les 16 catégories d'impacts définis dans la méthode PEF (changement climatique, acidification, toxicité humaine, particules, rayonnement ionisant…). Les catégories d’impacts sont ensuite classées, caractérisées, puis normalisées.
+
+=== Interprétation des résultats : ===
+Cette étape consiste à tirer des conclusions solides des résultats obtenus en expliquant les limites de l'étude. L'interprétation de l'Analyse de Cycle de Vie nécessite d’adopter une démarche transparente, objective et critique.
+
+=== Revue par les pairs (optionnelle, mais recommandée) : ===
+Dans le but de garantir la qualité, la rigueur méthodologique et la validité des conclusions, les résultats de l'étude sont enfin soumis à une revue par les pairs. L’intégration des commentaires et suggestions des pairs permet d’améliorer la méthodologie et la précision des résultats de l’étude. La revue par les pairs augmente grandement la crédibilité et la fiabilité d’une étude, elle est fortement recommandée.
+
+== Avantages de l'ACV numérique : ==
+
+=== Identification des impacts environnementaux spécifiques : ===
+L'ACV numérique permet d'identifier les impacts environnementaux spécifiques associés aux produits et [[Service numérique|services numériques]], comme la consommation d'énergie, les émissions de gaz à effet de serre ou la consommation de ressources.
+
+=== Prise de décision éclairée : ===
+Fournir des informations détaillées sur l'impact environnemental des produits ou [[Service numérique|services numériques]] permet aux décideurs et aux organisations de prendre des décisions plus éclairées en matière de conception, de fabrication et de gestion de fin de vie.
+
+=== Optimisation des processus : ===
+L’ACV numérique identifie les étapes du cycle de vie qui peuvent engendrer un impact environnemental considérable. Cette analyse permet d'optimiser au mieux les performances environnementales de différentes solutions numériques.
+
+=== Sensibilisation et communication : ===
+L'ACV numérique peut être un outil de sensibilisation. Elle permet d’informer les consommateurs, mais aussi les organisations afin de les inciter à plus de transparence.
+
+=== Comparaison des options : ===
+En évaluant différents scénarios ou alternatives de conception, l'ACV numérique permet de comparer objectivement les différentes options et de choisir celle qui a le moins d'impact environnemental.
+
+== Limites de l'ACV numérique : ==
+
+=== Complexité des données : ===
+La collecte et l'analyse des données nécessaires à l'ACV numérique peuvent être complexes en raison de la multitude de facteurs à prendre en compte (variabilité des technologies, des processus de fabrication, pratiques de gestion…).
+
+=== Fiabilité des données disponibles : ===
+Évaluer la fiabilité des données collectées sur les impacts environnementaux spécifiques des produits numériques peut s’avérer difficile, ce qui risque de limiter la précision de l'analyse.
+
+=== Obsolescence des données : ===
+La nature rapide de l'évolution technologique dans le domaine numérique peut rendre les données d'ACV obsolètes rapidement. Il est donc nécessaire de mettre à jour fréquemment les données de l'analyse.
+
+=== Interprétation subjective des résultats : ===
+L'interprétation des résultats de l'ACV numérique peut être subjective, car elle dépend des choix de modélisation, des hypothèses et des critères d'évaluation utilisés, ce qui peut entraîner des conclusions différentes selon les parties prenantes.
+
+=== Revue optionnelle : ===
+La revue critique par les pairs est en théorie optionnelle, mais cette étape est fortement recommandée à l’usage.
+
+
+Pour conclure, l’ACV numérique est un outil récent en perpétuelle évolution. Il n’est évidemment pas parfait, mais s’améliore au fil du temps. Il s’agit actuellement de la meilleure méthodologie que nous ayons à disposition pour évaluer l’impact environnemental des solutions numériques. 
+
+== Voir aussi ==
+
+=== Articles connexes ===
+
+*[[Economie Circulaire|Economie circulaire]]
+*[[Service numérique]]
+
+=== Références ===
+<references />
+
+=== Sources ===
+
+* ISO/TS 14048:2002 - Management environnemental - Analyse du cycle de vie - Format de documentation de données : https://www.iso.org/fr/standard/29872.html
+* ISO/TR 14049:2012 - Management environnemental - Analyse du cycle de vie - Exemples illustrant l'application de l'ISO 14044 à la définition de l'objectif et du champ d'étude et à l'analyse de l'inventaire : https://www.iso.org/fr/standard/57110.html
+* Management environnemental : Analyse du cycle de vie, Processus de revue critique et compétences des vérificateurs : Exigences et lignes directrices supplémentaires à l'ISO 14044:2006 : https://www.iso.org/obp/ui/fr/#iso:std:iso:ts:14071:ed-1:v2:fr
+* ''https://fr.wikipedia.org/wiki/Analyse_du_cycle_de_vie''
+* ''https://fr.wiki.isit-europe.org/index.php?title=Analyse_du_Cycle_de_Vie&tile=ACV''
+* ''https://librairie.ademe.fr/consommer-autrement/5226-evaluation-de-l-impact-environnemental-du-numerique-en-france-et-analyse-prospective.html''
+* ''https://librairie.ademe.fr/ged/6700/impact-environnemental-numerique-rapport2-synthese-.pdf''
+* ''https://www.eco-conception.fr/static/analyse-du-cycle-de-vie-acv.html''
+* ''https://www.iso.org/fr/standard/37456.html''
+* ''https://www.iso.org/fr/standard/38498.html''
+* ''https://www.iso.org/fr/standard/29872.html''
+* ''https://www.iso.org/fr/standard/57110.html''
+* ''https://www.eco-conception.fr/static/histoire-acv.html''
+* ''https://www.waro.io/blog/product-environmental-footprint-pef''
+[[de:Ökobilanz]]
+[[en:Life cycle assessment]]
+[[es:Análisis del Ciclo de Vida]]

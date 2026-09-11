@@ -1,0 +1,32 @@
+A '''small language model''' ('''SLM''') is a language model described as small relative to other models in its context of use. The term has no single parameter-count boundary. Size alone does not establish quality, speed or suitability for a task.
+
+A small model may be trained for broad use or adapted to a narrow task. Quantisation, which stores weights at reduced numerical precision, is a separate choice: a quantised large model is not necessarily a small model in parameter count.
+
+== What smaller models can offer ==
+
+Fewer parameters can reduce the memory needed to store weights and make local deployment more practical. As a concrete example, the Phi-3 technical report describes a 3.8-billion-parameter model and experiments with running it on a phone. These are results for that model and setup, not a guarantee for all small models.<ref>Abdin et al. (2024), [https://arxiv.org/abs/2404.14219 Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone].</ref>
+
+Actual latency and resource use also depend on hardware, numerical precision, context length and serving software. A fixed claim such as “ten times cheaper” needs a specified workload and measurement.
+
+== Example: categorising incoming requests ==
+
+For assigning messages to a small set of categories, compare a small language model with keyword rules or a conventional classifier. Use the same held-out requests and count serious mistakes separately. Test the languages and uncommon cases the service will encounter.
+
+A smaller model that needs repeated retries or sends many cases to staff may lose its apparent cost advantage. Conversely, a modest model may be sufficient if the task is bounded and its outputs are easy to check.
+
+== Local use and environmental assessment ==
+
+Local execution can keep input processing on equipment under the organisation's control, provided the application does not transmit data elsewhere. It still requires permissions, updates and monitoring. Hardware already available to the team and a new device bought for the service have different environmental implications.
+
+Measure at an acceptable quality level and include expected usage. Research on AI deployment shows that task and model choice affect energy consumption; parameter count alone is an incomplete basis for comparison.<ref>Luccioni, Jernite and Strubell (2024), [https://arxiv.org/abs/2311.16863 Power Hungry Processing: Watts Driving the Cost of AI Deployment?].</ref>
+
+== See also ==
+* [[LLM]] · [[Fine-tuning]] · [[Inference]] · [[Digital sobriety]] · [[Responsible AI]]
+
+== References ==
+<references />
+
+[[Category:Artificial intelligence]]
+[[fr:SLM]]
+[[es:SLM]]
+[[de:SLM]]

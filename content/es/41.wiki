@@ -1,0 +1,30 @@
+Un '''modelo de inteligencia artificial''' es una estructura matemática, por lo general una red neuronal, que transforma datos de entrada en resultados.
+
+Se '''entrena''' con [[Datos de entrenamiento|conjuntos de datos]] para realizar una tarea determinada: clasificar, predecir, generar o traducir.
+
+== Qué no es un modelo ==
+
+Un modelo no es una base de conocimientos ni un programa cuyas reglas puedan leerse directamente. Sus parámetros, a menudo miles de millones, proceden del entrenamiento y no se interpretan individualmente. Esto dificulta explicar una decisión y es la razón por la que el [[:fr:AI Act|Reglamento de Inteligencia Artificial (FR)]] establece obligaciones específicas de explicabilidad para los usos de alto riesgo.
+
+== Tipos habituales ==
+
+; Modelo especializado
+: entrenado para una tarea concreta, más pequeño y menos costoso durante la [[:fr:Inférence|inferencia (FR)]]
+; Modelo fundacional o de uso general
+: entrenado con un corpus muy amplio, adaptable a numerosas tareas y costoso tanto de entrenar como de utilizar
+
+La elección entre ambos supone un compromiso entre versatilidad y sobriedad que rara vez se examina de forma explícita.
+
+== Véase también ==
+
+* [[Aprendizaje automático|Aprendizaje automático]]
+* [[Aprendizaje profundo|Aprendizaje profundo]]
+* [[:fr:Inférence|Inferencia (FR)]]
+* [[Datos de entrenamiento|Datos de entrenamiento]]
+* [[:fr:AI Act|Reglamento de Inteligencia Artificial (FR)]]
+* [[IA Responsable|IA Responsable]]
+
+[[Categoría:Inteligencia artificial]]
+[[fr:Modèle d'intelligence artificielle]]
+[[en:Artificial intelligence model]]
+[[de:KI-Modell]]

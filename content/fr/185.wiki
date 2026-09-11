@@ -1,0 +1,62 @@
+L’'''IA responsable''' désigne la conception, le déploiement et l’usage de systèmes d’[[Intelligence_Artificielle|intelligence artificielle]] au service de l’humain, dignes de confiance, inclusifs, non discriminatoires et respectueux de l’environnement.
+
+== Définition ==
+
+La démocratisation de l’IA générative a fait entrer ces systèmes dans le fonctionnement courant des organisations. L’IA responsable répond à cette diffusion rapide en posant des exigences sur l’ensemble du cycle de vie d’un système : choix du cas d’usage, données d’entraînement, transparence, contrôle humain et empreinte environnementale.
+
+L’[[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]] a formalisé cette approche dans sa '''Charte IA''', qui complète la [[Charte_Numérique_Responsable|Charte Numérique Responsable]] et s’inscrit dans le cadre du règlement européen sur l’intelligence artificielle (''AI Act'').
+
+== Les quatre principes de la Charte IA ==
+
+=== 1. Une IA au service de l’humain ===
+
+* Développer une IA qui renforce le rôle central des collaborateurs tout en élargissant leurs capacités
+* Construire les usages avec les équipes, par le dialogue social et le retour d’expérience
+* Former le personnel à un usage approprié de l’IA et à ses impacts
+* Respecter l’autonomie au travail, la qualité des relations sociales et le sens du travail
+* Inscrire dans les cahiers des charges le respect des traités internationaux protégeant les droits humains, la démocratie et l’État de droit
+
+=== 2. Une IA inclusive et éthique ===
+
+* Respecter l’égalité, la diversité et la non-discrimination
+* Mettre en place des mécanismes garantissant la qualité des données et évitant les biais de genre, d’origine ou de religion
+* Organiser la réponse aux discriminations résultant de données biaisées
+* Rendre les services numériques recourant à l’IA accessibles aux personnes en situation de handicap (voir [[Accessibilité_Numérique|Accessibilité Numérique]])
+
+=== 3. Une IA digne de confiance ===
+
+* Informer les utilisateurs qu’ils interagissent avec un système d’IA et leur indiquer les sources de données
+* Expliquer le fonctionnement des algorithmes de façon claire et accessible
+* Assurer une supervision humaine des activités à risque
+* Renforcer la robustesse des systèmes face aux cyberattaques
+
+=== 4. Une IA écoresponsable ===
+
+* Vérifier l’utilité réelle du cas d’usage avant tout déploiement
+* Privilégier des modèles d’'''IA frugale''', économes en ressources
+* Évaluer et minimiser l’empreinte environnementale sur tout le cycle de vie du système (voir [[Empreinte_Carbone|Empreinte Carbone]])
+* Appliquer des pratiques écoresponsables à l’entraînement comme au déploiement
+
+== Signature ==
+
+La Charte IA peut être signée par toute organisation publique ou privée, seule ou conjointement avec la [[Charte_Numérique_Responsable|Charte Numérique Responsable]].
+
+== Voir aussi ==
+
+* [[Intelligence_Artificielle|Intelligence Artificielle]]
+* [[Charte_Numérique_Responsable|Charte Numérique Responsable]]
+* [[Numérique_Responsable|Numérique Responsable]]
+* [[Sobriété_Numérique|Sobriété Numérique]]
+* [[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]]
+* [[Accessibilité_Numérique|Accessibilité Numérique]]
+
+=== Références externes ===
+
+* [https://charter.isit-europe.org/charte-ia/?lang=fr_FR Charte IA : Institut du Numérique Responsable]
+
+[[Catégorie:Intelligence artificielle]]
+[[Catégorie:Référentiels et méthodes]]
+[[de:Verantwortungsvolle KI]]
+[[en:Responsible AI]]
+[[es:IA Responsable]]
+[[nl:Verantwoorde AI]]

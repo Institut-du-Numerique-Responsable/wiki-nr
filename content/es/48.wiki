@@ -1,0 +1,43 @@
+La '''ciberseguridad''' protege los sistemas de información y la confidencialidad, integridad y disponibilidad de sus datos y servicios. En la [[TI Responsable|TI responsable]], los equipos también examinan cómo las decisiones de seguridad afectan a la vida útil de los dispositivos, al consumo de recursos y a las personas que utilizan el servicio.
+
+== Ecodiseño, seguridad y protección de datos ==
+En 2022, la misión francesa MiNumEco publicó las conclusiones de un taller sobre la relación entre estos tres ámbitos. Participaron, entre otros, DINUM, ANSSI, CNIL, la Universidad de Rennes, Campus Cyber y el Institut du Numérique Responsable (INR). El documento describe prácticas comunes y tensiones que conviene evaluar en cada proyecto.<ref name="minumeco">MiNumEco, [https://ecoresponsable.numerique.gouv.fr/publications/ecoconception-securite/ Écoconception, cybersécurité et protection des données, quelles synergies ?], 2022, en francés.</ref>
+
+La persona responsable del servicio, el equipo de seguridad, el delegado de protección de datos y quienes trabajan en ecodiseño deben colaborar desde la definición de la necesidad. Necesitan una descripción compartida del servicio, sus usuarios, la información que deben proteger y los recursos necesarios. El documento recoge un trabajo colectivo; no es una certificación ni una norma única que sustituya las exigencias de cada disciplina.
+
+== Decisiones que pueden favorecer los tres objetivos ==
+* '''Limitar datos y funciones.''' Recoger la información necesaria, retirar funciones sin uso y evitar llamadas superfluas a terceros puede reducir los flujos de datos y los componentes expuestos. Los permisos deben corresponder a las tareas de cada persona.
+* '''Mantener un inventario.''' Registrar equipos, aplicaciones, dependencias, almacenes de datos y responsables permite detectar software sin soporte, sistemas sin uso y copias olvidadas.
+* '''Prever un soporte prolongado.''' Incluir en las compras la disponibilidad de actualizaciones de seguridad y las opciones de reparación. Alargar la vida del hardware exige software mantenido; conservar un navegador vulnerable sin parches no es una estrategia de ecodiseño.
+* '''Completar la retirada de servicios.''' Revisar dependencias y requisitos de conservación, revocar accesos y detener los recursos asociados. Un servidor olvidado puede seguir expuesto y consumiendo recursos después de abandonar su aplicación.
+
+Estas prácticas proceden del análisis sobre minimización, conocimiento del sistema, mantenimiento y retirada de servicios.<ref>MiNumEco, [https://ecoresponsable.numerique.gouv.fr/publications/ecoconception-securite/synergies-et-divergences/ Synergies et divergences], 2022, en francés.</ref> Su beneficio ambiental depende de los recursos que se liberen y de las compras que permitan aplazar.
+
+== Dimensionar las protecciones ==
+El cifrado, la supervisión, las copias de seguridad y la infraestructura redundante requieren recursos. Los equipos deben dimensionarlos según riesgos y necesidades de continuidad documentados. Reducir almacenamiento o energía no justifica por sí solo debilitar una protección necesaria. La guía de seguridad de la CNIL aborda medidas operativas, incluidos servicios en la nube, API e IA.<ref>CNIL, [https://www.cnil.fr/fr/node/165213 Practice guide for the security of personal data: 2024 edition], guía disponible en inglés.</ref>
+
+Por ejemplo, el responsable de un servicio de citas puede acordar objetivos de recuperación con los equipos de operaciones y seguridad. Estos prueban la restauración y revisan duplicaciones innecesarias, conservando las copias independientes que exige la recuperación. Para los registros, definen los eventos útiles para la detección, las personas autorizadas y los plazos de conservación, sin registrar secretos ni guardarlo todo indefinidamente.
+
+La consolidación de infraestructura también requiere evaluar riesgos. Compartir recursos puede reducir la capacidad ociosa, pero una concentración excesiva puede agravar un incidente. Hay que comparar arquitecturas con requisitos equivalentes de seguridad y disponibilidad.
+
+== Reutilización y fin de uso ==
+Antes de reasignar o donar un equipo, eliminar los datos mediante un método adecuado al soporte y a su sensibilidad y comprobar el resultado. NIST SP 800-88, revisión 2, ofrece orientación para organizar este proceso.<ref>NIST, [https://csrc.nist.gov/pubs/sp/800/88/r2/final Guidelines for Media Sanitization, SP 800-88 Rev. 2], 2025, en inglés.</ref> La documentación ayuda a decidir si la [[Reutilización|reutilización]] es posible; borrar archivos de forma ordinaria no aporta una prueba suficiente.
+
+== Seguimiento en el equipo de TI ==
+Una revisión conjunta puede seguir los dispositivos con soporte vigente, los servicios retirados, los resultados de restauración y el volumen y finalidad de los datos conservados. Las mediciones de recursos pueden completar este seguimiento. Reducir gigabytes no equivale por sí solo a demostrar una reducción de carbono.
+
+Conviene complementar el taller de 2022 con referencias posteriores. El [[RGESN]] de 2024 orienta el ecodiseño de servicios digitales y no sustituye la gestión de riesgos de seguridad.<ref>Arcep, [https://en.arcep.fr/news/press-releases/view/n/environment-rgesn-170524.html General policy framework for the ecodesign of digital services], 2024, en inglés.</ref>
+
+== Véase también ==
+* [[Ecodiseño]]
+* [[Sobriedad Digital]]
+* [[Fin de Vida]]
+
+== Referencias ==
+<references />
+
+[[Categoría:Conceptos]]
+[[fr:Cybersécurité]]
+[[en:Cybersecurity]]
+[[de:Cybersicherheit]]
+[[nl:Cyberbeveiliging]]

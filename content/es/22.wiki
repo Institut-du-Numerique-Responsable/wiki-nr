@@ -1,0 +1,32 @@
+La '''fabricación''' de un equipo informático reúne la extracción de las materias primas, el refinado de los metales, la producción de los componentes y el ensamblaje. Es la etapa que domina la mayoría de los indicadores ambientales del [[Análisis del Ciclo de Vida|ciclo de vida]].
+
+== Su peso ==
+
+Según los trabajos de referencia del sector, la fabricación concentra la práctica totalidad del impacto sobre los recursos [[Abiótico|abióticos]], una fracción mayoritaria del consumo de agua dulce y una parte importante de las emisiones de gases de efecto invernadero y del consumo de energía primaria.
+
+Un ordenador de dos kilos moviliza varios cientos de kilos de minerales. Esos minerales proceden a menudo de países donde las condiciones de explotación minera degradan los suelos, el aire y los cursos de agua.
+
+== La consecuencia práctica ==
+
+Si la fabricación domina, entonces el criterio decisivo no es el consumo eléctrico del equipo sino '''el número de años durante los que se usa'''. Duplicar la vida útil de un portátil reduce su impacto anual casi a la mitad, resultado que ninguna optimización energética alcanza.
+
+De ahí el orden de prioridades de la [[TI Responsable|TI responsable]]:
+
+# no comprar;
+# comprar [[Reacondicionamiento|reacondicionado]];
+# alargar la vida del parque existente;
+# solo entonces, optimizar el consumo.
+
+== Un punto ciego de las mediciones ==
+
+Los indicadores de centros de datos ([[Power Usage Effectiveness|PUE]], [[Water Usage Effectiveness|WUE]], [[Carbon Usage Effectiveness|CUE]]) cubren únicamente la fase de uso. La fabricación de los servidores no aparece en ninguno. Un centro con un PUE excelente puede tener una huella considerable si renueva su hardware con rapidez.
+
+== Véase también ==
+
+* [[Análisis del Ciclo de Vida]] · [[Abiótico]] · [[Fin de Vida]] · [[Obsolescencia Programada]] · [[Reacondicionamiento]]
+
+[[Categoría:Conceptos]]
+
+[[fr:Fabrication]]
+[[en:Manufacturing]]
+[[de:Herstellung]][[nl:Fabricage]]

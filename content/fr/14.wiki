@@ -1,0 +1,78 @@
+L’'''accessibilité numérique''' consiste à concevoir des services numériques utilisables par tous, y compris par les personnes en situation de handicap.
+
+Ce n’est ni une option ajoutée en fin de projet, ni une catégorie technique parmi d’autres : c’est une qualité de conception, au même titre que la performance ou la sécurité.
+
+== Qui est concerné ==
+
+La réponse courante, « les personnes handicapées », sous-estime largement le sujet.
+
+Sont concernés les handicaps '''permanents''' (visuel, auditif, moteur, cognitif), mais aussi les situations '''temporaires''' (bras plâtré, otite, fatigue) et '''circonstancielles''' (écran au soleil, environnement bruyant, connexion dégradée, main occupée). Le vieillissement de la population élargit encore ce périmètre.
+
+Un service accessible bénéficie donc à une part des utilisateurs bien supérieure à celle des situations de handicap reconnues. C’est aussi ce qui explique que l’accessibilité améliore l’expérience générale : sous-titres utilisés dans les transports, navigation clavier appréciée des utilisateurs experts, contrastes suffisants sur un écran de mauvaise qualité.
+
+== Les quatre principes ==
+
+Les normes internationales, [[WCAG]], reprises par la norme européenne EN 301 549 et par le [[RGAA]] français, reposent sur quatre principes :
+
+; Perceptible
+: l’information doit pouvoir être perçue par au moins un sens disponible
+; Utilisable
+: l’interface doit pouvoir être manipulée, y compris sans souris et sans contrainte de temps
+; Compréhensible
+: le contenu et le fonctionnement doivent être intelligibles
+; Robuste
+: le contenu doit rester interprétable par les technologies d’assistance, aujourd’hui comme demain
+
+== Organiser et piloter l’accessibilité ==
+Le rapport Cigref [https://www.cigref.fr/accessibilite-numerique-organiser-piloter-et-outiller-le-passage-a-lechelle-dans-les-grandes-organisations Accessibilité numérique : organiser, piloter et outiller le passage à l’échelle dans les grandes organisations], publié le 21 mai 2026 et mis à jour en juillet 2026, propose une méthode et des retours d’expérience pour les directions numériques. La page donne accès aux formats PDF et Word.
+
+Le rapport recommande d’associer la DSI, la RSE et la conformité, de désigner un responsable disposant d’un pouvoir d’arbitrage et de construire une trajectoire pluriannuelle. Les achats, les métiers et les équipes projet doivent intégrer l’accessibilité dès le cadrage et suivre les services existants dans la durée.
+
+Pour une équipe IT, les chantiers concernent notamment la formation par métier, les composants réutilisables, les audits et les tests avec des personnes en situation de handicap. Les indicateurs servent à suivre les corrections et les obstacles encore rencontrés. Un design system peut faciliter le travail, mais son utilisation ne dispense pas de vérifier les parcours complets.
+
+== Ce qui relève de la conception, pas de l’outil ==
+
+Les tests automatisés détectent une minorité des défauts, de l’ordre du tiers selon les études. Le reste relève du jugement : pertinence d’une alternative textuelle, clarté d’un intitulé, cohérence d’un parcours, qualité de la langue.
+
+Ces pratiques pèsent plus lourd que le choix de l’outil :
+
+* concevoir '''avec''' des personnes concernées, plutôt que pour elles ;
+* rédiger clairement : l’accessibilité cognitive est la plus négligée ;
+* tester avec les technologies d’assistance réelles, pas seulement avec un validateur.
+
+== Lien avec le numérique responsable ==
+
+L’accessibilité constitue le volet social du [[Numérique_Responsable|numérique responsable]], aux côtés de l’[[Inclusion|inclusion]] et de la lutte contre l’[[Illectronisme|illectronisme]] (voir [[Human_for_IT|Human for IT]]).
+
+Elle rejoint la [[Sobriété_Numérique|sobriété]] sur le fond : un service accessible est structuré, léger, fonctionne sans dépendre du dernier navigateur ni d’une connexion rapide, et reste utilisable sur un équipement ancien. Concevoir accessible allonge de fait la durée d’usage des terminaux.
+
+Elle s’oppose en revanche frontalement aux [[Dark_pattern|interfaces trompeuses]], qui exploitent les difficultés de compréhension au lieu de les réduire.
+
+== Cadre réglementaire ==
+
+En France, le [[RGAA]] définit la méthode de vérification et les obligations applicables aux organismes publics et à certaines entreprises. Il traduit les critères [[WCAG]] en tests opérationnels.
+
+Au niveau européen, la norme EN 301 549 sert de référence pour la commande publique, et la directive sur l’accessibilité des produits et services étend progressivement les obligations au secteur privé.
+
+== Voir aussi ==
+
+* [[RGAA]]
+* [[WCAG]]
+* [[A11Y]]
+* [[Inclusion]]
+* [[Fracture_Numérique|Fracture Numérique]]
+* [[Illectronisme]]
+* [[Human_for_IT|Human for IT]]
+* [[Dark_pattern|Dark pattern]]
+* [[Ecoconception]]
+* [[Interface]]
+
+=== Références ===
+
+* Cigref : [https://www.cigref.fr/accessibilite-numerique-organiser-piloter-et-outiller-le-passage-a-lechelle-dans-les-grandes-organisations Accessibilité numérique : organiser, piloter et outiller le passage à l’échelle dans les grandes organisations] (2026)
+* [https://accessibilite.numerique.gouv.fr/ RGAA : accessibilite.numerique.gouv.fr]
+* [https://www.w3.org/WAI/standards-guidelines/wcag/ Web Content Accessibility Guidelines : W3C]
+
+[[Catégorie:Accessibilité]]
+[[de:Digitale Barrierefreiheit]]
+[[en:Digital accessibility]]

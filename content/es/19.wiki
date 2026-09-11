@@ -1,0 +1,25 @@
+Un recurso '''abiótico''' es un recurso natural no vivo: minerales, metales, minerales industriales y combustibles fósiles. El término se opone a ''biótico'', que designa los recursos procedentes de organismos vivos.
+
+== Por qué el término aparece en TI responsable ==
+
+El agotamiento de los recursos abióticos es uno de los indicadores del [[Análisis del Ciclo de Vida|análisis del ciclo de vida]]. En lo digital, resulta el más desfavorable: la [[Fabricación|fabricación]] de los equipos concentra prácticamente la totalidad de este impacto, muy por delante de la fase de uso.
+
+La causa es doble: el número de usuarios y el volumen de equipos que sus usos requieren.
+
+== Lo que mide el indicador ==
+
+El indicador se expresa en '''kg equivalente de antimonio''' (kg Sb eq). No cuenta la masa extraída, sino la escasez relativa del recurso respecto a sus reservas conocidas. Un gramo de un metal raro pesa más en el resultado que un kilo de un metal abundante.
+
+Esta ponderación explica por qué un teléfono, ligero, obtiene una puntuación elevada: contiene cantidades diminutas de numerosos metales críticos, difíciles de sustituir y muy poco reciclados.
+
+== El límite del reciclaje ==
+
+Recuperar un metal presente en miligramos, aleado con otros, resulta técnicamente costoso. Las tasas de reciclaje efectivas de los metales críticos siguen siendo bajas, lo que devuelve la prioridad a la duración de uso y al [[Reutilización|reúso]].
+
+== Véase también ==
+
+* [[Análisis del Ciclo de Vida]] · [[Fabricación]] · [[Economía Circular]] · [[Fin de Vida]]
+
+[[Categoría:Medición]]
+
+[[fr:Abiotique]]

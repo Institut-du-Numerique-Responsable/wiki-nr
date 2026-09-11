@@ -1,0 +1,30 @@
+El '''aprendizaje automático''' (''machine learning'') es un método que permite a un programa aprender a partir de datos en lugar de ser programado explícitamente. El algoritmo identifica regularidades en un conjunto de ejemplos y las utiliza para predecir o clasificar.
+
+== Tipos principales ==
+
+; Supervisado
+: el modelo aprende a partir de ejemplos etiquetados: una imagen y su etiqueta, o una transacción y su carácter fraudulento
+; No supervisado
+: el modelo agrupa datos sin etiquetas según sus similitudes
+; Por refuerzo
+: el modelo aprende mediante pruebas y recompensas, sin ejemplos proporcionados
+
+== Consecuencias ==
+
+El comportamiento del sistema procede de los [[Datos de entrenamiento|datos de entrenamiento]], en lugar de una regla escrita por una persona. Esto tiene dos implicaciones:
+
+* los defectos de los datos se convierten en defectos del modelo (véase [[:fr:Biais algorithmique|Sesgo algorítmico (FR)]]);
+* resulta difícil justificar una decisión, lo que plantea un problema cuando esta afecta a una persona.
+
+== Véase también ==
+
+* [[Aprendizaje profundo|Aprendizaje profundo]]
+* [[Modelo de inteligencia artificial|Modelo de inteligencia artificial]]
+* [[Datos de entrenamiento|Datos de entrenamiento]]
+* [[:fr:Biais algorithmique|Sesgo algorítmico (FR)]]
+* [[:fr:Intelligence Artificielle|Inteligencia artificial (FR)]]
+
+[[Categoría:Inteligencia artificial]]
+[[fr:Apprentissage automatique]]
+[[en:Machine learning]]
+[[de:Maschinelles Lernen]]

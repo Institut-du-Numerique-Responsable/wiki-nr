@@ -1,0 +1,23 @@
+L’'''empreinte matière''' estime la quantité de matières premières mobilisée pour satisfaire une consommation, biens, services, usage d’infrastructures, quel que soit le lieu de production, importations comprises.
+
+== Ce qu’elle ajoute au carbone ==
+
+L’[[Empreinte_Carbone|empreinte carbone]] mesure des émissions ; l’empreinte matière mesure des '''prélèvements'''. Les deux ne varient pas ensemble : un équipement peut être fabriqué avec une électricité décarbonée tout en mobilisant des métaux dont l’extraction dégrade des milieux et épuise des gisements.
+
+Pour le numérique, cette distinction est déterminante. Un smartphone concentre plusieurs dizaines de métaux différents, dont des [[Terres_Rares|terres rares]] et des métaux critiques présents en quantités infimes mais irremplaçables. Leur extraction déplace des volumes de roche sans commune mesure avec la masse de l’appareil.
+
+== Un ratio défavorable ==
+
+C’est ce que traduit la notion de '''sac à dos écologique''' : la matière mobilisée pour produire un objet dépasse de plusieurs ordres de grandeur sa masse finale. Le numérique est particulièrement concerné, du fait de la pureté exigée pour les composants électroniques.
+
+L’indicateur [[Matières_Indispensables_Par_unité_de_Service|MIPS]] formalise ce rapport.
+
+== Conséquence pratique ==
+
+Le seul levier réellement efficace est l’'''allongement de la durée d’usage''' : la matière est mobilisée une fois pour toutes à la [[Fabrication|fabrication]]. Aucune optimisation de l’usage ne la récupère, et le [[Recyclage_des_déchets|recyclage]] n’en restitue qu’une fraction, très variable selon les métaux.
+
+== Voir aussi ==
+
+* [[Empreinte_Carbone|Empreinte Carbone]] · [[Empreinte_Eau|Empreinte Eau]] · [[Empreinte_Écologique|Empreinte Écologique]] · [[Terres_Rares|Terres Rares]] · [[Ressources_primaires|Ressources primaires]] · [[Abiotique]] · [[Fabrication]] · [[Fin_de_Vie|Fin de Vie]] · [[Analyse_du_Cycle_de_Vie|Analyse du Cycle de Vie]]
+
+[[Catégorie:Référentiels et méthodes]]

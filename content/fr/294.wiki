@@ -1,0 +1,47 @@
+La '''souveraineté numérique''' désigne la capacité d’un État, d’une organisation ou d’un ensemble d’acteurs à maîtriser ses infrastructures, ses données et ses choix technologiques, sans subir de dépendance contraignante.
+
+== Trois dimensions ==
+
+; Données
+: où sont-elles stockées, à quel droit sont-elles soumises, qui peut légalement y accéder
+; Infrastructures
+: qui possède et exploite les réseaux, les [[DataCenter|centres de données]], les composants
+; Compétences
+: la capacité à concevoir, exploiter et réparer sans recours obligé à un tiers
+
+== Distinction ==
+
+La souveraineté est une question de '''pouvoir''' : qui décide, qui peut contraindre. L’[[Autonomie_stratégique|autonomie stratégique]] en est la traduction à l’échelle d’une organisation, et la [[Réversibilité|réversibilité]] le moyen technique de la préserver.
+
+Elle ne se confond pas avec la localisation : des données hébergées en Europe peuvent rester soumises à un droit extraterritorial si l’opérateur y est assujetti.
+
+== Lien avec le numérique responsable ==
+
+Souveraineté et sobriété se rejoignent sur les moyens : formats ouverts, matériel durable et réparable, compétences internes, systèmes compréhensibles. Un parc maîtrisé se conserve plus longtemps ; un système simple se reprend en main.
+
+L’[[Intelligence_Artificielle|intelligence artificielle]] déplace la question : les modèles de fondation concentrent la dépendance sur un petit nombre d’acteurs, ce que la [[Chaîne_de_valeur_de_l'IA|chaîne de valeur]] rend visible.
+
+== Souveraineté, robustesse et autonomie stratégique ==
+
+La souveraineté est souvent réduite à une question de localisation : où sont les serveurs, où sont les données. C’est nécessaire, mais insuffisant.
+
+Vincent Courboulay, administrateur de l’[[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]], signe la préface du livre blanc ''Voyage vers la robustesse'' (Infogreen Factory, 2025). Il y observe que la [[Robustesse_numérique|robustesse]] élargit la souveraineté vers l’[[Autonomie_stratégique|autonomie stratégique]] : ne pas dépendre aveuglément de systèmes opaques ou hors-sol.
+
+Les deux notions se distinguent par la question qu’elles posent :
+
+* la '''souveraineté''' interroge le '''pouvoir''' : qui décide, qui peut contraindre, à quel droit suis-je soumis ;
+* la '''robustesse''' interroge la '''capacité''' : que reste-t-il de possible quand le système devient indisponible.
+
+Une organisation peut être souveraine sur le papier, hébergement national, opérateur européen, et rester fragile si elle a perdu les compétences permettant d’exploiter ou de réparer ses systèmes. À l’inverse, elle peut dépendre d’un fournisseur étranger tout en conservant une capacité de repli documentée et testée.
+
+Les moyens sont largement communs : formats ouverts, [[Réversibilité|réversibilité]] éprouvée par des essais réels, compétences maintenues en interne, systèmes suffisamment simples pour être compris. La démarche [[Low_Tech|low tech]] rejoint cette exigence, non par principe de refus technologique, mais parce qu’un système que l’on comprend est un système que l’on maîtrise.
+
+== Voir aussi ==
+
+* [[Autonomie_stratégique|Autonomie stratégique]] · [[Résilience_numérique|Résilience numérique]] · [[Robustesse_numérique|Robustesse numérique]] · [[Réversibilité]] · [[Vendor_lock-in|Vendor lock-in]] · [[On-premise]] · [[Open_Data|Open Data]]
+
+[[Catégorie:Concepts]]
+[[de:Digitale Souveränität]]
+[[en:Digital sovereignty]]
+[[es:Soberanía Digital]]
+[[nl:Digitale soevereiniteit]]

@@ -1,0 +1,30 @@
+== Définition ==
+L'inclusion est la capacité à faire rentrer une personne dans un groupe. Le fait d'intégrer une personne ou un groupe met fin à une exclusion<ref>https://www.larousse.fr/dictionnaires/francais/inclusif/42280</ref>. Cet anglicisme signifie "qui n'exclut personne".
+
+Beaucoup de stratégies sont tournées vers l'exclusif, l'inclusion a une notion de 'déciblage', le fait d’arrêter de viser une cible.
+
+== Dans le cadre du numérique responsable ==
+
+Le numérique responsable favorise l'inclusion numérique.
+
+Au delà du manque d'équipement et/ou de l'absence de connexion, le manque de compétences dans l'utilisation des outils numériques est un réel frein à l'adoption du numérique. Environ 13 millions de français sont en difficulté avec le numérique<ref>https://territoires.societenumerique.gouv.fr/boite-outils/enjeux.html</ref> , on parle aussi de [[Fracture Numérique|fracture numérique]].
+
+Le numérique inclusif se définit aussi par son [[Accessibilité Numérique|accessibilité]]. Un service en ligne est accessible lorsqu'il est utilisable par toute personne, y compris les personnes en situation de handicap. En France, le RGAA (référentiel général d’amélioration de l’accessibilité) est un référentiel qui donne les règles et les actions d'amélioration pour rendre un service numérique accessible<ref>https://www.numerique.gouv.fr/publications/rgaa-accessibilite/</ref>.
+
+Le numérique responsable soutient plus de diversité pour construire des modèles communs et accessibles à tous. L'écriture inclusive<ref>https://www.univ-tlse3.fr/medias/fichier/manuel-decriture_1482308453426-pdf</ref> en fait partie. 
+
+== Voir aussi ==
+
+=== Références ===
+<references />
+
+=== Articles connexes ===
+
+* [[Fracture Numérique|Fracture numérique]]
+* [[Accessibilité Numérique|Accessibilité]]
+* [[Illectronisme]]
+
+=== Liens externes ===
+
+* https://www.cohesion-territoires.gouv.fr/inclusion-numerique-favoriser-lapprentissage-du-numerique-et-developper-les-usages
+* https://societenumerique.gouv.fr/strategie-nationale-pour-un-numerique-inclusif/#:~:text=En%20r%C3%A9unissant%20pour%20la%20premi%C3%A8re,ainsi%20que%20les%20outils%20n%C3%A9cessaires

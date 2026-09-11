@@ -1,0 +1,52 @@
+'''Manufacturing''' covers the production of digital equipment, from extraction of raw materials to assembly of the finished device. For most equipment it is the stage that dominates the environmental balance.
+
+== Its share of the life cycle ==
+
+According to the work of Frédéric Bordage (GreenIT, 2019), manufacturing accounts across the whole life cycle for the entire impact on abiotic resources, 79 % of the impact on freshwater stocks, 44 % of greenhouse gas emissions and 35 % of primary energy consumption.
+
+The share varies by device. For a smartphone, the French environment agency ADEME puts manufacturing at roughly three quarters of the carbon footprint over its lifetime. For a laptop the figure is lower but still dominant. For a server used intensively for years, electricity in use eventually catches up, though it rarely overtakes manufacturing before the machine is replaced.
+
+These figures come from different studies with different scopes and should be read as orders of magnitude, not as constants.
+
+== The carbon debt is paid up front ==
+
+Manufacturing emissions occur before the device is switched on for the first time. From then on, every additional year of use divides that debt by a larger number.
+
+Doubling the working life of a laptop roughly halves its annual carbon footprint. No efficiency gain in use produces a comparable result, which is why '''how long a device stays in service''' matters more than its energy rating.
+
+== What a smartphone is made of ==
+
+A smartphone weighing around 150 grams mobilises on the order of 70 kilograms of raw materials, most of it rock moved and discarded during mining.
+
+The device contains between 50 and 60 different metals, drawn from most of the periodic table:
+
+* '''structure and casing''': aluminium, magnesium, titanium;
+* '''electronics''': copper, gold, silver, palladium, tantalum in capacitors;
+* '''battery''': lithium, cobalt, nickel, graphite, manganese;
+* '''screen''': indium in the transparent conductive layer, plus several rare earths for colour;
+* '''magnets, vibration motor and speakers''': neodymium, praseodymium, dysprosium.
+
+Many of these are present in fractions of a gram. That is precisely what makes them hard to recover.
+
+== Scarcity and dependency ==
+
+Scarcity here is rarely geological. It is economic, technical and geopolitical:
+
+; Concentration of supply
+: the European Union lists 34 critical raw materials, of which 17 are considered strategic. For several of them a single country supplies most of the world's output, and the refining stage is more concentrated still than the mining stage.
+; Extraction conditions
+: cobalt from the Democratic Republic of the Congo and tantalum from coltan carry documented social and environmental costs, including artisanal mining and armed conflict financing.
+; Recovery that does not happen
+: the United Nations Environment Programme found that of 60 metals studied, 34 have an end-of-life recycling rate below 1 %. Metals present in milligrams and alloyed with others are technically recoverable but economically not worth recovering.
+
+The consequence for practice: recycling will not solve the supply problem for these metals. Only keeping devices in service longer, and reusing them, delays the next extraction.
+
+== See also ==
+
+* [[End of life]] · [[Carbon footprint]] · [[Life cycle assessment]] · [[Circular economy]] · [[Digital sobriety]] · [[Green IT]]
+
+[[Category:Concepts]]
+[[de:Herstellung]]
+[[es:Fabricación]]
+[[fr:Fabrication]]
+[[nl:Fabricage]]

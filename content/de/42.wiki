@@ -1,0 +1,20 @@
+Eine '''Blackbox''' ist ein System, dessen Eingaben und Ausgaben beobachtet werden können, ohne dass sich seine internen Abläufe erklären lassen.
+
+Die meisten Modelle des [[Deep Learning|Deep Learning]] gehören zu dieser Kategorie: Ihre oft Milliarden Parameter lassen sich nicht einzeln interpretieren.
+
+== Warum das problematisch ist ==
+
+* '''Anfechtung''': Eine Person kann eine Entscheidung nicht sachlich hinterfragen, wenn deren Gründe nicht offengelegt werden.
+* '''Korrektur''': Ein nicht erklärter Fehler lässt sich nur schwer anders als durch erneutes Training beheben.
+* '''Rechtskonformität''': Die [[:fr:Règlement Général sur la Protection des Données|DSGVO (FR)]] gewährt ein Recht auf Informationen über die Logik einer automatisierten Entscheidung. Der [[:fr:AI Act|AI Act (FR)]] verlangt [[:fr:Explicabilité|Erklärbarkeit (FR)]] für Hochrisikoanwendungen.
+
+Ein einfacheres Modell kann trotz etwas geringerer Leistung die richtige Wahl sein: Seine Entscheidung lässt sich begründen.
+
+== Siehe auch ==
+
+* [[:fr:Explicabilité|Erklärbarkeit (FR)]] · [[Deep Learning|Deep Learning]] · [[KI-Modell|KI-Modell]] · [[:fr:AI Act|AI Act (FR)]] · [[:fr:Acceptabilité|Akzeptabilität (FR)]]
+
+[[Kategorie:Künstliche Intelligenz]]
+[[fr:Boîte noire]]
+[[en:Black box]]
+[[es:Caja negra]]

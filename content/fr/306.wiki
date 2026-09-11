@@ -1,0 +1,23 @@
+L’'''éthique''' appliquée au numérique interroge la légitimité des usages, au-delà de ce que la technique permet et de ce que le droit autorise.
+
+== Ce qu’elle ajoute à la conformité ==
+
+La conformité fixe un plancher. L’éthique porte sur ce qui reste possible et légal, mais discutable : capter l’attention par des ressorts psychologiques, collecter au-delà du nécessaire, automatiser une décision sans recours, concevoir une interface qui exploite une difficulté de compréhension.
+
+Ces questions se posent avant l’arbitrage réglementaire, et souvent longtemps avant lui.
+
+== Domaines concernés ==
+
+* les '''[[Dark_pattern|interfaces trompeuses]]''' et l’[[Economie_de_l'attention|économie de l’attention]] ;
+* les '''[[Biais_algorithmique|biais algorithmiques]]''' et leurs effets discriminatoires ;
+* la '''[[Transparence|transparence]]''' et l’[[Explicabilité|explicabilité]] des décisions automatisées ;
+* les '''conditions de production''' des équipements et des données (voir [[Extraction]], [[Données_d'entraînement|données d’entraînement]]) ;
+* l’'''[[Accessibilité_Numérique|accessibilité]]''' et l’[[Inclusion|inclusion]].
+
+L’éthique constitue l’un des cinq engagements de la [[Charte_Numérique_Responsable|Charte Numérique Responsable]].
+
+== Voir aussi ==
+
+* [[Numérique_Responsable]] · [[IA_Responsable]] · [[Dark_pattern]] · [[Biais_algorithmique]] · [[Acceptabilité]] · [[Charte_Numérique_Responsable|Charte Numérique Responsable]] · [[Responsabilité_Sociétale_des_Entreprises|RSE]]
+
+[[Catégorie:Concepts]]

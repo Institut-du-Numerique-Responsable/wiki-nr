@@ -1,0 +1,30 @@
+'''Trainingsdaten''' sind die Beispiele, Texte, Bilder, Töne und strukturierten Daten, aus denen ein [[KI-Modell|KI-Modell]] lernt.
+
+== Was von ihnen abhängt ==
+
+Qualität, Repräsentativität und Herkunft dieser Daten bestimmen die Leistung des Modells und seine Schwächen. Ein Modell kann nur so gut sein wie die Daten, mit denen es trainiert wurde.
+
+Vor dem Training oder der Wiederverwendung eines Modells ist Folgendes zu prüfen:
+
+* '''Repräsentativität''': Welche Bevölkerungsgruppen, Sprachen und Situationen sind vertreten, welche fehlen (siehe [[:fr:Biais algorithmique|Algorithmische Verzerrung (FR)]])?
+* '''Herkunft und Rechte''': Durften die verwendeten Inhalte für diesen Zweck genutzt werden?
+* '''[[:fr:Donnée personnelle|Personenbezogene Daten (FR)]]''': Sind solche Daten enthalten, ist die [[:fr:Règlement Général sur la Protection des Données|DSGVO (FR)]] zu berücksichtigen, auch bei einem von Dritten trainierten Modell.
+* '''Nachvollziehbarkeit''': Der [[:fr:AI Act|AI Act (FR)]] verlangt eine Dokumentation der Datensätze für Modelle mit allgemeinem Verwendungszweck.
+
+== Ressourcensparsamkeit ==
+
+Ein größeres Datenvolumen verbessert ein Modell nicht unbegrenzt, erhöht aber den Trainingsaufwand. Ein kleinerer, besser zusammengestellter und besser dokumentierter Datensatz liefert häufig bessere Ergebnisse als eine wahllose Ansammlung.
+
+== Siehe auch ==
+
+* [[Maschinelles Lernen|Maschinelles Lernen]]
+* [[KI-Modell|KI-Modell]]
+* [[:fr:Biais algorithmique|Algorithmische Verzerrung (FR)]]
+* [[:fr:Donnée personnelle|Personenbezogene Daten (FR)]]
+* [[:fr:Open Data|Open Data (FR)]]
+* [[:fr:Chaîne de valeur de l'IA|KI-Wertschöpfungskette (FR)]]
+
+[[Kategorie:Künstliche Intelligenz]]
+[[fr:Données d'entraînement]]
+[[en:Training data]]
+[[es:Datos de entrenamiento]]

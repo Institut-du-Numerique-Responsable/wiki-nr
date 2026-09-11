@@ -1,0 +1,43 @@
+El '''WUE''' (''Water Usage Effectiveness'') mide el agua consumida por un [[Centro de Datos|centro de datos]] por unidad de energía destinada a sus equipos informáticos. Se expresa en litros por kilovatio-hora.
+
+== Por qué existe ==
+
+El WUE ilumina un punto ciego del [[Power Usage Effectiveness|PUE]]: la refrigeración evaporativa permite reducir el consumo eléctrico consumiendo agua. Optimizar únicamente el PUE puede degradar el WUE sin que el balance global mejore.
+
+== Dos definiciones que conviene distinguir ==
+
+; WUE directo
+: agua consumida en el emplazamiento, dividida por la energía de los equipos informáticos.
+; WUE de origen
+: añade el agua movilizada para producir la electricidad consumida, en particular por las centrales térmicas y nucleares.
+
+Ambos valores pueden diferir en un orden de magnitud. Un anuncio de WUE sin precisar cuál de los dos se aplica no permite comparar nada.
+
+== El agua es un asunto local ==
+
+A diferencia del carbono, el agua no constituye un problema global. Un metro cúbico extraído en zona de estrés hídrico no equivale a un metro cúbico extraído en región abundante. Un WUE bruto no dice nada sobre la tensión ejercida sobre el recurso: hay que cruzarlo con la situación hídrica del emplazamiento.
+
+== En el marco de la TI responsable ==
+
+Medir el agua responde a un ángulo muerto de la gestión ambiental de los centros de datos: durante mucho tiempo solo se contabilizó la energía. Ahora bien, la refrigeración es un arbitraje permanente entre electricidad y agua, y un centro puede mostrar excelentes cifras energéticas apoyándose masivamente en la evaporación.
+
+Tres razones hacen del WUE un indicador estructurante:
+
+* '''Evita la transferencia de impacto.''' Optimizar el [[Power Usage Effectiveness|PUE]] sin vigilar el WUE consiste a menudo en desplazar la presión ambiental de la red eléctrica hacia el recurso hídrico, no en reducirla.
+* '''Territorializa la responsabilidad.''' El agua es un recurso local y compartido. Un centro de datos compite con la agricultura y el consumo doméstico de su cuenca, lo que convierte la elección de emplazamiento en una decisión de [[TI Responsable|TI responsable]] y no en un simple cálculo de costes.
+* '''Documenta la elección de alojamiento.''' Exigir el WUE —y precisar si es directo o de origen— en un pliego de condiciones permite comparar proveedores sobre una base objetiva, más allá de los argumentos comerciales.
+
+Como todos los indicadores de infraestructura, el WUE mide la eficiencia de una instalación, no la utilidad de lo que se ejecuta en ella. Reduce el impacto por unidad de energía; la [[Sobriedad Digital|sobriedad digital]] reduce el número de unidades. Ambos enfoques son complementarios y ninguno sustituye al otro.
+
+== Normas de referencia ==
+
+* ISO/IEC 30134-9:2022, ''Information technology — Data centres key performance indicators — Part 9: Water usage effectiveness (WUE)''
+* EN 50600-4-9, ''Information technology — Data centre facilities and infrastructures — Part 4-9: Water Usage Effectiveness''
+
+== Véase también ==
+
+* [[Centro de Datos]] · [[Power Usage Effectiveness]] · [[Huella de Agua]] · [[Carbon Usage Effectiveness]]
+
+[[Categoría:Medición]]
+
+[[fr:Water_Usage_Effectiveness]]

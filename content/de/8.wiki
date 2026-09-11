@@ -1,0 +1,37 @@
+Die '''KI-Charta''' ist eine öffentliche Selbstverpflichtung des [https://institutnr.org Instituts für verantwortungsvolle Digitalisierung], die dem Einsatz künstlicher Intelligenz gewidmet ist. Sie führt die [[Charta für verantwortungsvolle Digitalisierung]] auf einem Feld fort, auf dem Entscheidungen schnell fallen und ihre Folgen schwer rückgängig zu machen sind.
+
+Sie liegt in mehreren Sprachen und kostenfrei unter [https://charter.isit-europe.org/charte-ia/?lang=de_DE charter.isit-europe.org] vor.
+
+Mit der Unterzeichnung verpflichtet sich die Organisation, in Übereinstimmung mit den geltenden Vorschriften und insbesondere dem AI Act, verantwortungsvolle Systeme künstlicher Intelligenz einzurichten und zu nutzen.
+
+== Die vier Verpflichtungen ==
+
+; KI im Dienste des Menschen
+: eine KI entwickeln, die die zentrale Rolle der Beschäftigten stärkt und ihre Fähigkeiten erweitert, gestaltet im sozialen Dialog statt an ihm vorbei.
+; Eine inklusive und ethische KI
+: Gleichbehandlung, Vielfalt und Diskriminierungsfreiheit wahren, mit Verfahren gegen Verzerrungen in den Daten und mit Anforderungen an die [[Digitale Barrierefreiheit|Barrierefreiheit]].
+; Eine verlässliche KI
+: Menschen transparent darüber informieren, dass sie mit einem KI-System interagieren, und die '''menschliche Aufsicht''' bei Tätigkeiten mit hohem Risiko aufrechterhalten.
+; Eine umweltbewusste und nachhaltige KI
+: sparsame Modelle mit effizientem Ressourceneinsatz wählen und den ökologischen Fußabdruck über den gesamten Lebenszyklus begrenzen.
+
+Die erste Verpflichtung wird am häufigsten übergangen. Sie setzt den sozialen Dialog '''vor''' die Einführung, während die meisten Organisationen ihn danach ansetzen.
+
+== Warum eine eigene Charta ==
+
+Die Einführung ging der Steuerung voraus. Werkzeuge kommen über die Teams ins Haus, nicht über die Leitung. Daraus entsteht nicht gemeldete Nutzung, die interne Daten Dritten aussetzt, die daraus ihre Modelle trainieren können.
+
+Eine Charta erlaubt es, eine Position zu beziehen, bevor sich die Praxis verfestigt.
+
+== Verhältnis zum AI Act ==
+
+Der AI Act legt rechtliche Pflichten nach Risikostufe fest. Die Charta greift früher und breiter: Sie erfasst Anwendungen, die die Verordnung nicht als hochriskant einstuft, die aber Fragen der Suffizienz, der Abhängigkeit und der Akzeptanz aufwerfen.
+
+== Siehe auch ==
+
+* [[Verantwortungsvolle KI]] · [[Charta für verantwortungsvolle Digitalisierung]] · [[Verantwortungsvolle Digitalisierung]] · [[Digitale Barrierefreiheit]]
+
+[[en:Responsible AI Charter]]
+[[es:Carta de IA Responsable]]
+[[fr:Charte IA Responsable]]
+[[nl:Verantwoorde AI Charter]]

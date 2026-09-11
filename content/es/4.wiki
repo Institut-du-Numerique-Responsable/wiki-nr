@@ -1,0 +1,36 @@
+Un '''centro de datos''' es una entidad física que reúne el edificio, los equipos informáticos que aseguran el almacenamiento, el tratamiento y la comunicación de los datos, y los equipos no informáticos: refrigeración, control de accesos, alimentación eléctrica con sus acometidas, respaldos y onduladores.
+
+== Indicadores de rendimiento ==
+
+; [[Power Usage Effectiveness|PUE]]
+: relación entre la energía total consumida por el centro y la consumida por los equipos informáticos. Un PUE de 1,2 significa que el 20 % de la energía se destina a lo que no calcula.
+; [[Water Usage Effectiveness|WUE]]
+: agua consumida por unidad de energía informática. Revela un punto ciego del PUE, porque la refrigeración evaporativa ahorra electricidad consumiendo agua.
+; [[Carbon Usage Effectiveness|CUE]]
+: emisiones de carbono por unidad de energía informática. Depende mucho del mix eléctrico local.
+
+Estos tres indicadores comparten un límite: solo cubren la fase de uso. La [[Fabricación|fabricación]] de los servidores, mayoritaria en el ciclo de vida, no aparece en ninguno.
+
+== Lo que un buen PUE no prueba ==
+
+Un centro situado en clima frío obtiene mecánicamente un buen PUE, sin ningún esfuerzo de sobriedad. Y un PUE excelente puede deberse a un consumo de agua elevado en zona de estrés hídrico. Leer un solo indicador induce a error.
+
+== Modelos de alojamiento ==
+
+; Interno (''on-premise'')
+: la organización posee y opera sus equipos.
+; Colocación
+: alquila espacio y energía, conserva sus servidores.
+; Nube
+: consume un servicio, sin visibilidad directa sobre el hardware ni sobre su renovación.
+
+La nube no suprime el impacto, lo desplaza fuera del perímetro de medición de la organización. Sigue apareciendo en el alcance 3 de su [[Huella de Carbono|huella de carbono]].
+
+== Véase también ==
+
+* [[Power Usage Effectiveness]] · [[Water Usage Effectiveness]] · [[Carbon Usage Effectiveness]] · [[Fabricación]] · [[Huella de Agua]]
+
+[[Categoría:Infraestructura]]
+[[de:Rechenzentrum]]
+[[en:Data centre]]
+[[fr:DataCenter]]

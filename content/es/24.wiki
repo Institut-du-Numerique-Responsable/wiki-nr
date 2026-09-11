@@ -1,0 +1,29 @@
+El '''índice de reparabilidad''' es una nota sobre 10 que acompaña en Francia a la venta de determinados productos electrónicos desde enero de 2021. Informa al comprador sobre la facilidad de reparación del aparato.
+
+== Sus criterios ==
+
+* La documentación técnica puesta a disposición.
+* La facilidad de desmontaje, las herramientas necesarias y el tipo de fijaciones.
+* La disponibilidad de las piezas de repuesto y su plazo de entrega.
+* El precio de las piezas en relación con el del producto nuevo.
+* Criterios específicos según la categoría de aparato.
+
+== Sus límites ==
+
+* La nota es '''declarativa''', calculada por el propio fabricante, y los controles siguen siendo limitados.
+* Recae sobre la '''posibilidad''' de reparar, no sobre la realidad de la oferta de reparación ni sobre su coste efectivo.
+* No dice nada sobre la duración del '''soporte lógico''', determinante para un equipo digital; el índice de durabilidad corrige este punto.
+
+Este último punto pesa mucho. Un teléfono fácil de desmontar pero privado de actualizaciones de seguridad se vuelve inutilizable pese a una nota elevada.
+
+== Índice de durabilidad ==
+
+El índice de durabilidad sucede al índice de reparabilidad e integra la fiabilidad del producto y la duración de las actualizaciones, además de la reparabilidad. Se acerca más a lo que determina realmente la vida útil de un equipo.
+
+== Véase también ==
+
+* [[Obsolescencia Programada]] · [[Economía Circular]] · [[Reutilización]] · [[Reacondicionamiento]] · [[Fin de Vida]]
+
+[[Categoría:Normativa]]
+
+[[fr:Indice_de_réparabilité]]

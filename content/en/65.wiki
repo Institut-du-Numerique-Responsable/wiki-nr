@@ -1,0 +1,37 @@
+An '''algorithm''' is a sequence of precise steps for carrying out a computation. Developers use algorithms to search records, schedule jobs, compress images and solve many other problems. The same algorithm can have implementations in several programming languages.
+
+== A simple example: finding a record ==
+
+Suppose you need to find an identifier in a sorted list. A linear search checks entries one after another. A binary search checks the middle entry, keeps the half that could contain the identifier, then repeats. Its worst-case number of comparisons grows logarithmically with the number of entries.<ref>NIST, [https://xlinux.nist.gov/dads/HTML/binarySearch.html Binary search], Dictionary of Algorithms and Data Structures.</ref>
+
+The sorted order is part of the requirement. If you must sort the whole dataset to make a single lookup, that preparation may cost more than the lookup saves. For repeated searches, an index may be worth building.
+
+== Algorithms and machine learning ==
+
+[[Machine learning]] uses algorithms during training and during [[Inference|inference]]. A training algorithm adjusts a model using examples; an inference procedure applies the resulting model to new inputs. Developers still choose the objective, data preparation and evaluation procedure.
+
+Writing rules by hand does not guarantee that people can understand or challenge a system's decisions. A large rule set can be difficult to audit, while a small decision tree can be readable. Complexity, documentation and the context of use all matter.
+
+== Choosing an efficient approach ==
+
+For [[Ecodesign|software ecodesign]], compare alternatives on representative data. Record execution time and memory use, and measure energy where suitable instrumentation is available. Include data loading, sorting and network transfers in the comparison: reducing computation in one function may leave the main cost elsewhere.
+
+A useful review question is whether the computation needs to run at all. Reusing an unchanged result or processing only new records can avoid repeated work. Confirm that the saved result remains valid and that storing it does not create a larger cost.
+
+== Research example from Switzerland ==
+
+EPFL's [https://www.epfl.ch/about/sustainability/sustainable-it/ Sustainable IT Systems] page introduces Cumulator as a project for estimating the carbon footprint of code. It offers a starting point for exploring environmental comparisons between computational approaches. An estimate still needs a stated hardware configuration, workload and emissions factor.<ref>EPFL, [https://www.epfl.ch/about/sustainability/sustainable-it/ Sustainable IT Systems], research projects.</ref>
+
+== See also ==
+* [[Machine learning]] · [[Artificial intelligence model]] · [[Ecodesign]] · [[Digital sobriety]]
+
+== References ==
+<references />
+
+== Further reading ==
+* NIST, [https://xlinux.nist.gov/dads/index.html Dictionary of Algorithms and Data Structures]: definitions and references for comparing algorithms.
+
+[[Category:Concepts]]
+[[fr:Algorithme]]
+[[es:Algoritmo]]
+[[de:Algorithmus]]

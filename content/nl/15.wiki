@@ -1,0 +1,43 @@
+'''WeNR''' is een zelfevaluatie- en meetinstrument van het Instituut voor Duurzame IT (ISIT), waarmee een organisatie de volwassenheid van haar praktijk op het gebied van [[Duurzame IT|duurzame IT]] kan inschatten.
+
+== Waartoe het dient ==
+
+WeNR helpt een organisatie haar praktijk te situeren, de voetafdruk van haar informatiesysteem te meten en zich te vergelijken met soortgelijke structuren. Het initiatief wordt gezamenlijk gedragen door het Institut du Numérique Responsable in Frankrijk, ISIT-BE in België en ISIT-CH in Zwitserland.
+
+Academische partners zijn de Université de La Rochelle en de UCLouvain. Het werk krijgt steun van het Franse milieuagentschap ADEME en van de DINUM.
+
+== Methode ==
+
+De methode bouwt voort op het proefschrift van Guillaume Bourgeois aan de Université de La Rochelle en is onderworpen aan een onafhankelijke kritische toetsing.
+
+De beoordeling berust op een vragenlijst die de organisatie zelf invult. Die bestrijkt kwalitatieve aspecten zoals bestuur, intern beleid en bewustwording, naast kwantitatieve gegevens over het apparatenpark, de gebruiksduur en de hosting.
+
+Zelfrapportage is tegelijk de kracht en de grens van de oefening: zij houdt de deelname goedkoop en maakt vergelijking mogelijk, maar controleert de cijfers niet.
+
+== Drie niveaus ==
+
+; MyImpact
+: een snelle rekenmodule voor de persoonlijke digitale voetafdruk, het hele jaar beschikbaar en in meerdere talen.
+; WeNR Standard
+: de volledige kwalitatieve en kwantitatieve beoordeling, opgezet om vergelijking tussen organisaties mogelijk te maken.
+; WeNR Hoger onderwijs
+: een versie afgestemd op instellingen voor hoger onderwijs, in ontwikkeling.
+
+== Verloop van een campagne ==
+
+Deelname staat open voor elke organisatie. Binnen de campagneperiode downloadt de organisatie een rekenbladbestand, vult het in en dient het in via het portaal; elke inzending krijgt een tijdstempel en de naam van de organisatie.
+
+De campagne van 2026 start in juni en introduceert nieuwe indicatoren voor de invloed van kunstmatige intelligentie op de digitale praktijk. Een vergelijkend rapport zet de resultaten van opeenvolgende campagnes naast elkaar; het rapport over de editie 2021 is vrij beschikbaar.
+
+== Zie ook ==
+
+* [[Duurzame IT]] · [[Duurzame IT Charter]] · [[Digitale soberheid]] · [[RGESN]]
+
+== Externe bron ==
+
+* [https://wenr.isit-europe.org/ WeNR — Instituut voor Duurzame IT]
+
+[[fr:WeNR]]
+[[en:WeNR]]
+[[de:WeNR]]
+[[es:WeNR]]

@@ -1,0 +1,71 @@
+== Définition ==
+Le '''Digital Cleanup Day''' (DCD) est une journée mondiale de sensibilisation à l’empreinte environnementale du numérique par l’action, organisée chaque année au mois de mars. Elle invite chacun — particuliers, écoles, collectivités, entreprises, associations — à poser des gestes concrets : nettoyer ses données, donner une seconde vie aux équipements qui dorment dans les tiroirs, faire recycler ceux qui sont hors d’usage.
+
+En France, l’évènement est porté par l’[[Institut du Numérique Responsable|INR]] et World Cleanup Day France.
+
+Le principe repose sur un constat simple : le stockage massif de données encombre les appareils, les ralentit et raccourcit leur durée d’usage, ce qui accélère leur remplacement. Or c’est la [[Fabrication|fabrication]] des équipements qui concentre l’essentiel des impacts environnementaux du numérique. Agir sur les données, c’est donc agir sur la durée de vie du matériel.
+
+== Historique ==
+Tout commence en Estonie en 2008 : 50 000 personnes s’unissent pour nettoyer rues et paysages de toutes sortes de détritus. Douze ans plus tard, ce mouvement civique réunit plus de 50 millions de volontaires dans 180 pays sous la bannière du « World Cleanup Day » et le slogan « One Day to clean up our planet ».
+
+La déclinaison numérique est plus récente. Créée par le World Cleanup Day et l’[[Institut du Numérique Responsable|INR]], elle est d’abord lancée en France sous le nom de « Cyber World CleanUp Day » (CWCUD). Après le succès des trois premières éditions portées par la France, l’évènement devient un programme global et change de nom et d’identité graphique en 2023 pour devenir le '''Digital Cleanup Day'''.
+
+L’édition 2026, septième du nom, a rassemblé 1 476 opérations de Digital Cleanup. La prochaine édition se déroule '''du 15 au 20 mars 2027'''.
+
+== Les quatre types d’opérations ==
+Une opération de Digital Cleanup peut prendre quatre formes, combinables entre elles.
+
+=== Digital Cleanup Données ===
+Atelier de désencombrement des appareils — ordinateurs, téléphones, tablettes, espaces de stockage en ligne et boîtes mail. Il s’agit de supprimer fichiers inutiles, doublons et applications dormantes, de traiter les [[Dark Data|données dormantes]] et de lutter contre l’[[Infobésité|infobésité]], dans une logique de [[Sobriété Numérique|sobriété numérique]].
+
+=== Digital Cleanup Réemploi ===
+Atelier de réparation et de remise en état pour donner une seconde vie aux équipements : diagnostic, réparation, effacement des données, don ou [[Reconditionnement|reconditionnement]]. Voir [[Réemploi]].
+
+=== Digital Cleanup Recyclage ===
+Point de collecte des équipements en fin d’usage, en lien avec les éco-organismes ou les déchetteries locales, pour orienter les [[Déchets d’Équipements Électriques et Électroniques|DEEE]] vers les filières de traitement. Voir [[Recyclage des déchets]] et [[Fin de Vie]].
+
+=== Digital Cleanup Sensibilisation ===
+Temps d’information et de formation : réunions, conférences, jeux, ateliers de type [[Fresque du numérique]], pour installer durablement des usages relevant du [[Numérique Responsable]].
+
+== Participer ==
+L’évènement est ouvert à tous : particuliers, organisations, écoles, collectivités.
+
+# Repérer une opération près de chez soi via la carte ou l’annuaire des évènements publié sur le site officiel.
+# Rejoindre l’équipe organisatrice de cette opération.
+# Réaliser les gestes proposés, accompagné par l’organisateur.
+# Transmettre ses résultats, qui alimentent le bilan de l’opération.
+
+== Organiser ==
+Toute personne ou organisation peut créer sa propre opération. La démarche se déroule en cinq phases :
+
+# '''Créer un compte''' sur le site officiel pour référencer son évènement.
+# '''Récupérer les ressources''' — guides, kits pédagogiques, supports de communication — et les partager avec son équipe.
+# '''Sensibiliser''' les participants en amont aux enjeux du numérique responsable.
+# '''Agir''' : nettoyage de données, réparation, collecte d’équipements en fin d’usage.
+# '''Remonter le bilan''' de l’opération, qui vient consolider les résultats nationaux et mondiaux.
+
+Les organisateurs inscrits accèdent à des guides pas à pas, des webinaires de questions-réponses, des kits pédagogiques, des supports de communication, des modèles d’animation et des tableurs de suivi des résultats.
+
+Un évènement peut être déclaré '''public''' (ouvert à tous et visible sur la carte), '''privé''' ou '''secret''' (réservé aux membres de l’organisation).
+
+== Dans le cadre du Numérique Responsable ==
+Chacun est partie prenante du Digital Cleanup Day, au seul motif que nous sommes tous en relation avec les données : nous les consultons, les produisons, les partageons, les stockons. Le travail consiste à en réduire les volumes — la [[Sobriété Numérique|sobriété numérique]] — et à en raccourcir le cycle de vie en les supprimant quand elles ne servent plus.
+
+Le numérique représente près de 4 % des émissions mondiales de [[Gaz à Effet de Serre|gaz à effet de serre]]. Prolonger la durée d’usage des équipements par le [[Réemploi|réemploi]] et la maintenance reste le levier le plus efficace pour réduire cette [[Empreinte Carbone|empreinte carbone]], dans une logique d’[[Economie Circulaire|économie circulaire]].
+
+== Voir aussi ==
+=== Articles connexes ===
+* [[Institut du Numérique Responsable]]
+* [[Sobriété Numérique]]
+* [[Infobésité]]
+* [[Dark Data]]
+* [[Réemploi]]
+* [[Recyclage des déchets]]
+* [[Numérique Responsable]]
+
+=== Liens externes ===
+* Site officiel français : https://digital-cleanup-day.fr/
+* Participer : https://digital-cleanup-day.fr/participer/
+* Organiser : https://digital-cleanup-day.fr/organiser/
+* Site international : https://www.digitalcleanupday.org/
+* World Cleanup Day : https://www.worldcleanupday.org/ et https://www.worldcleanupday.fr/en-france/

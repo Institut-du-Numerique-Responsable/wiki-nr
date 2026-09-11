@@ -1,0 +1,44 @@
+'''FOMO''' ('''F'''ear '''O'''f '''M'''issing '''O'''ut) désigne l’anxiété de manquer une information, une opportunité ou une expérience que d’autres vivent au même moment.
+
+Le terme est attribué à Patrick McGinnis, qui l’emploie en 2004 dans le journal des étudiants de la Harvard Business School.
+
+== Mécanisme ==
+
+Le FOMO n’est pas un effet secondaire des services numériques : il est produit par des choix de conception. Plusieurs procédés l’entretiennent :
+
+* le '''défilement infini''', qui supprime tout point d’arrêt naturel ;
+* les '''notifications''' non sollicitées, qui rappellent l’activité des autres ;
+* les contenus '''éphémères''', dont la disparition programmée crée une urgence artificielle ;
+* les '''compteurs sociaux''' : vues, participants, personnes qui regardent en ce moment ;
+* les '''séries d’assiduité''', qui font peser un coût sur l’interruption.
+
+Ces procédés relèvent des [[Dark_pattern|interfaces trompeuses]] et de l’[[Economie_de_l'attention|économie de l’attention]] : le temps passé étant la ressource monétisée, la conception vise à le maximiser plutôt qu’à satisfaire un besoin.
+
+== Effets ==
+
+Sur les personnes, le FOMO alimente la consultation compulsive, la fragmentation de l’attention et la difficulté à se déconnecter. Il participe de l’[[Infobésité|infobésité]] : la crainte de rater conduit à s’abonner, suivre et conserver plus que nécessaire.
+
+Sur les ressources, il se traduit par des sessions plus longues, davantage de trafic, de stockage et de sollicitation des terminaux, donc par une consommation d’énergie et un renouvellement d’équipements qui ne répondent à aucun besoin exprimé.
+
+== Enjeu de conception ==
+
+Concevoir un service numérique responsable suppose de ne pas exploiter ce ressort. Concrètement :
+
+* notifications désactivées par défaut, groupées, et réglables par l’utilisateur ;
+* pas de lecture automatique ni de défilement sans fin ;
+* pas de rareté artificielle ni de compteur destiné à créer une pression sociale ;
+* une fin de contenu explicite, qui laisse la possibilité de s’arrêter.
+
+Ces principes figurent dans le [[GR491]] et le [[RGESN]], au titre de la conception des interfaces et de la limitation des sollicitations.
+
+== Voir aussi ==
+
+* [[Economie_de_l'attention|Economie de l'attention]]
+* [[Dark_pattern|Dark pattern]]
+* [[Infobésité]]
+* [[Sobriété_Numérique|Sobriété Numérique]]
+* [[Obésiciel]]
+* [[Ecoconception]]
+* [[Qualité_de_Vie_au_Travail|Qualité de Vie au Travail]]
+
+[[Catégorie:Concepts]]

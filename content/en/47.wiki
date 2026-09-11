@@ -1,0 +1,22 @@
+'''Generative AI''' designates systems able to produce new content, text, images, sound, video or code, from patterns learned across a large body of examples.
+
+== How it works, and what follows ==
+
+The model does not consult a knowledge base. It produces the most probable continuation given what it has learned. Two consequences follow directly from that mechanism.
+
+'''Plausibility is not accuracy.''' Incorrect output can be perfectly well formed. Verification remains the user's responsibility.
+
+'''There is no source.''' By construction the model cannot say where a statement comes from, unless paired with a document retrieval system.
+
+== Practical issues ==
+
+* '''Confidentiality''': what is typed in may be retained or reused by the provider (see [[Shadow AI]]) ;
+* '''Rights''': over training data and over generated output ;
+* '''Transparency''': the [[AI Act]] requires disclosure that content was generated ;
+* '''Resources''': each generation is an [[Inference|inference]], whose cost varies widely with the size of the model used.
+
+== See also ==
+
+* [[LLM]] · [[Inference]] · [[Hallucination]] · [[Responsible AI]] · [[Shadow AI]] · [[Prompt injection]]
+
+[[Category:Artificial intelligence]]

@@ -1,0 +1,53 @@
+== Definition ==
+Die '''ISO/IEC TS 20125''' ist eine internationale Technische Spezifikation zum [[Ökodesign|Ökodesign]] digitaler Dienste. Der vollständige Titel lautet ''Information technology — Digital services ecodesign''; Teil 1 trägt den Titel ''Ecopractices for life cycle stages'' (Ökopraktiken für die Phasen des Lebenszyklus).
+
+Sie wurde im '''Februar 2026''' vom Unterkomitee '''ISO/IEC JTC 1/SC 39''' „Sustainability, IT and data centres“ veröffentlicht; die erste Ausgabe umfasst 62 Seiten. Sie legt Anforderungen und Empfehlungen für Bedarfsermittlung, Entwurf, Umsetzung, Betrieb, Wartung und Lebensende eines digitalen Dienstes fest, um dessen Umweltauswirkungen in allen Phasen zu verringern.
+
+Über die Praktiken hinaus soll das Dokument eine gemeinsame Sprache und ein gemeinsames Verständnis des Ökodesigns digitaler Dienste auf internationaler Ebene schaffen.
+
+== Entstehung ==
+Die ISO/IEC TS 20125-1 ist das internationale Ergebnis einer französischen Initiative. Sie baut auf der '''AFNOR SPEC 2201''' auf, die im April 2022 von der französischen Normungsorganisation AFNOR unter dem Titel ''Écoconception des services numériques'' veröffentlicht und von rund dreißig Organisationen gemeinschaftlich erarbeitet wurde.
+
+Nach etwa drei Jahren Arbeit im ISO/IEC JTC 1/SC 39 wurde diese französische Spezifikation zur internationalen Technischen Spezifikation ISO/IEC TS 20125-1:2026.
+
+== Inhalt ==
+=== Aufbau nach Lebenszyklusphasen ===
+Das Dokument folgt den sechs Phasen des Lebenszyklus eines digitalen Dienstes:
+
+# Bedarfsermittlung, Definition und Priorisierung
+# Entwurf
+# Umsetzung
+# Nutzung und Betrieb
+# Wartung
+# Außerbetriebnahme
+
+Jeder Phase sind eigene Ökopraktiken zugeordnet. Die erste Ausgabe enthält '''73 Anforderungen''' und '''177 Empfehlungen'''.
+
+=== Abgedeckte Dimensionen ===
+Die Spezifikation behandelt die '''technische''', '''organisatorische''' und '''funktionale''' Dimension, die die Umweltwirkung eines digitalen Dienstes bestimmen: Strategie, Inhalte, Spezifikationen, Nutzererfahrung und Benutzeroberfläche, Architektur, Frontend, Backend und Hosting.
+
+Im Mittelpunkt steht die ökologische Dimension digitaler Auswirkungen. Das Ökodesign der Hardware ist nicht unmittelbarer Gegenstand, wohl aber die Verringerung der durch Software verursachten [[Geplante Obsoleszenz|Obsoleszenz]] der Geräte sowie der maßvolle Verbrauch von IT-Ressourcen.
+
+== Geltungsbereich und Status ==
+Eine Technische Spezifikation (TS) ist ein normatives Dokument, das veröffentlicht wird, wenn der Gegenstand noch in Entwicklung ist oder noch kein vollständiger Konsens über eine Internationale Norm besteht. Sie kann ein Zwischenschritt zu einer vollwertigen ISO/IEC-Norm sein und wird regelmäßig überprüft.
+
+Adressiert werden öffentliche wie private Organisationen: Projektteams, IT-Abteilungen, Designer, Entwickler, Hosting-Anbieter, Einkauf und Dienstleister.
+
+== Verhältnis zu anderen Referenzrahmen ==
+* Das [[RGESN]] ist der französische regulatorische Referenzrahmen; die ISO/IEC TS 20125 ist sein freiwilliges internationales Gegenstück.
+* Die Bewertungsnormen ISO 14040 und ISO 14044 (siehe [[Ökobilanz]]) bleiben die methodische Grundlage zur Quantifizierung von Umweltwirkungen, während die ISO/IEC TS 20125 Entwurfspraktiken beschreibt.
+* Das allgemeine Ökodesign wird durch IEC 62430 und ISO 14006 abgedeckt.
+
+== Bedeutung ==
+Die Digitaltechnik verursacht einen erheblichen Anteil der weltweiten Treibhausgasemissionen (siehe [[CO₂-Fußabdruck]]). Der Entwurf eines Dienstes bestimmt maßgeblich die übertragenen Datenmengen, die Last der Infrastruktur und den Druck auf die Endgeräte — und damit deren Nutzungsdauer. Mit einem strukturierten internationalen Rahmen ermöglicht die ISO/IEC TS 20125 es Organisationen, [[Digitale Suffizienz|digitale Suffizienz]] in Projektprozesse und Vertragsanforderungen zu verankern.
+
+== Siehe auch ==
+* [[Ökodesign]] · [[RGESN]] · [[Ökobilanz]] · [[Digitale Suffizienz]] · [[Verantwortungsvolle Digitalisierung]] · [[Lebensende]] · [[Kreislaufwirtschaft]] · [[Rechenzentrum]]
+
+=== Externe Referenzen ===
+* [https://www.iso.org/standard/86105.html ISO/IEC TS 20125-1:2026, ISO-Katalog]
+* [https://www.afnor.org/actualites/climat-et-decarbonation/guide-reference-ecoconcevoir-services-numeriques/ Referenzleitfaden für das Ökodesign digitaler Dienste, AFNOR]
+
+[[en:ISO/IEC TS 20125]]
+[[es:ISO/IEC TS 20125]]
+[[fr:ISO/IEC TS 20125]]

@@ -1,0 +1,37 @@
+Die '''Ökobilanz''' (''Life Cycle Assessment'', LCA) ist ein genormtes Verfahren, das die Umweltwirkungen eines Produkts oder einer Dienstleistung über alle Phasen hinweg bewertet: Rohstoffgewinnung, [[Herstellung]], Transport, Nutzung und [[Lebensende]].
+
+Die Normen '''ISO 14040''' und '''ISO 14044''' legen ihren Rahmen und ihre Anforderungen fest.
+
+== Zwei Merkmale ==
+
+; Mehrstufig
+: keine Phase wird für sich betrachtet. Ein Gerät, das im Betrieb sparsamer ist, aber in der Herstellung teurer, kann in der Gesamtbilanz schlechter abschneiden.
+; Mehrkriteriell
+: die Ökobilanz beschränkt sich nicht auf CO₂. Sie erfasst unter anderem die Erschöpfung nicht lebender Rohstoffe, den Wasserverbrauch, die Versauerung, die Überdüngung und die Toxizität.
+
+Dieses Doppelprinzip verhindert die Verlagerung von Wirkungen: Emissionen zu senken und dafür mehr Wasser zu verbrauchen ist keine Verbesserung.
+
+== Die vier Schritte ==
+
+# '''Ziel und Untersuchungsrahmen''': was wird untersucht, für welche Entscheidung, mit welcher funktionellen Einheit.
+# '''Sachbilanz''': Erfassung der ein- und ausgehenden Stoff- und Energieströme.
+# '''Wirkungsabschätzung''': Umrechnung der Ströme in Indikatoren.
+# '''Auswertung''': Sensitivitätsanalyse und Grenzen des Ergebnisses.
+
+Der kritische Punkt ist die '''funktionelle Einheit'''. Zwei Angebote lassen sich nur vergleichen, wenn man die erbrachte Leistung beschreibt, nicht den Gegenstand. « Ein Jahr Zugriff auf ein Dokument für zehn Nutzende » erlaubt einen Vergleich, « ein Server » nicht.
+
+== Anwendung auf die IT ==
+
+Bei IT-Geräten dominiert die Herstellung die meisten Indikatoren. Die Ökobilanz weist das zahlenmäßig nach und verschiebt die Priorität auf die Nutzungsdauer und die Wiederverwendung.
+
+== Grenzen ==
+
+Eine Ökobilanz hängt von der Qualität der Sachbilanzdaten ab, die für elektronische Bauteile oft dünn sind. Die Unsicherheit gehört benannt, bevor eine Entscheidung darauf gestützt wird.
+
+== Siehe auch ==
+
+* [[CO₂-Fußabdruck]] · [[Ökodesign]] · [[Herstellung]] · [[Lebensende]] · [[Verantwortungsvolle Digitalisierung]]
+
+[[fr:Analyse_du_Cycle_de_Vie]]
+[[en:Life_cycle_assessment]]
+[[es:Análisis_del_Ciclo_de_Vida]]

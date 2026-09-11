@@ -1,0 +1,9 @@
+== Définition ==
+ERC est un acronyme désignant la séquence Eviter Réduire Compenser. Celle-ci érige les principes associés au développement durable et a pour objectif d'éviter les atteintes à l’environnement, de réduire celles qui ne peuvent être évitées et, si possible, de compenser les effets notables qui n’ont pu être ni évités, ni réduits. Elle s’applique aux projets et aux plans et programmes soumis à évaluation environnementale.
+
+== Voir aussi ==
+
+=== Liens externes ===
+
+* Ministère de la Transition Ecologique - Éviter, réduire et compenser les impacts sur l’environnement : https://www.ecologie.gouv.fr/eviter-reduire-et-compenser-impacts-sur-lenvironnement
+* Commissariat général au développement durable - Évaluation environnementale Guide d’aide à la définition des mesures ERC : https://www.ecologie.gouv.fr/sites/default/files/Th%C3%A9ma%20-%20Guide%20d%E2%80%99aide%20%C3%A0%20la%20d%C3%A9finition%20des%20mesures%20ERC.pdf

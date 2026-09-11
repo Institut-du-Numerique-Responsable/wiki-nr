@@ -1,0 +1,48 @@
+La '''cybersécurité''' vise à protéger les systèmes d'information ainsi que la confidentialité, l'intégrité et la disponibilité des données et des services. Dans une démarche de [[Numérique Responsable|numérique responsable]], les équipes examinent aussi les conséquences de leurs choix de sécurité sur la durée de vie des équipements, les ressources consommées et les personnes qui utilisent le service.
+
+== Écoconception, sécurité et protection des données ==
+En 2022, la MiNumEco a publié une restitution d'atelier consacrée aux relations entre ces trois domaines, avec la participation notamment de la DINUM, de l'ANSSI, de la CNIL, de l'Université de Rennes, du Campus Cyber et de l'Institut du Numérique Responsable (INR). Le dossier décrit des pratiques communes et des tensions à examiner dans les projets.<ref name="minumeco">MiNumEco, [https://ecoresponsable.numerique.gouv.fr/publications/ecoconception-securite/ Écoconception, cybersécurité et protection des données, quelles synergies ?], 2022.</ref>
+
+Le [[RSSI]], le responsable du service, le délégué à la protection des données et les personnes chargées de l'écoconception ont intérêt à travailler ensemble dès la définition du besoin. Ils doivent partager une description du service, de ses utilisateurs, des informations à protéger et des ressources nécessaires. Ce dossier est une restitution de travaux collectifs, pas une certification ni un référentiel unique qui remplacerait les exigences de chaque discipline.
+
+== Des décisions utiles aux trois démarches ==
+* '''Limiter les données et les fonctionnalités.''' Recueillir les informations nécessaires au service, retirer les fonctions inutilisées et les appels superflus à des tiers peut réduire les flux et le nombre de composants exposés. Les droits d'accès doivent correspondre aux tâches de chacun.
+* '''Tenir un inventaire.''' Recenser les équipements, applications, dépendances, espaces de stockage et responsables permet de repérer les logiciels sans support, les systèmes inutilisés et les copies oubliées.
+* '''Prévoir une maintenance longue.''' Intégrer aux achats la disponibilité des mises à jour de sécurité et les possibilités de réparation. Prolonger la vie du matériel suppose un environnement logiciel maintenu : conserver un navigateur vulnérable sans correctifs n'est pas une stratégie d'écoconception.
+* '''Décommissionner jusqu'au bout.''' Vérifier les dépendances et les obligations de conservation, révoquer les accès et arrêter les ressources associées. Un serveur oublié peut rester exposé et consommer après l'abandon de son application.
+
+Ces pratiques reprennent l'analyse du dossier sur la minimisation, la connaissance du système d'information, la maintenance et le décommissionnement.<ref>MiNumEco, [https://ecoresponsable.numerique.gouv.fr/publications/ecoconception-securite/synergies-et-divergences/ Synergies et divergences], 2022.</ref> Leur bénéfice environnemental dépend des ressources effectivement libérées et des achats qu'elles permettent de différer.
+
+== Dimensionner les protections ==
+Le chiffrement, la supervision, les sauvegardes et les infrastructures redondantes mobilisent des ressources. Les équipes doivent les dimensionner selon les risques et les besoins de continuité documentés. Une baisse du stockage ou de la consommation d'énergie ne justifie pas, à elle seule, l'affaiblissement d'une protection nécessaire. Le guide de sécurité de la CNIL couvre les mesures opérationnelles, dont le cloud, les API et l'IA.<ref name="cnil">CNIL, [https://www.cnil.fr/fr/node/165213 Guide de la sécurité des données personnelles, édition 2024], présentation et accès à la version anglaise et à la version française.</ref>
+
+Par exemple, pour un service de prise de rendez-vous, le responsable métier peut définir les objectifs de reprise avec l'exploitation et la sécurité. L'équipe teste la restauration et recherche les duplications inutiles tout en conservant les copies de sauvegarde indépendantes nécessaires. Pour les journaux, elle précise les événements utiles à la détection, les personnes autorisées à les consulter et les durées de conservation, sans enregistrer de secrets ni tout conserver indéfiniment.
+
+La mutualisation des infrastructures demande aussi une analyse de risques. Elle peut réduire les capacités inutilisées, mais une concentration excessive peut aggraver les conséquences d'un incident. La comparaison doit porter sur des architectures répondant aux mêmes besoins de sécurité et de disponibilité.
+
+== Réemploi et fin d'usage ==
+Avant une réaffectation ou un don, effacer les données selon une méthode adaptée au support et à leur sensibilité, puis vérifier le résultat. Le NIST SP 800-88 révision 2 fournit un cadre pour organiser cet assainissement des supports.<ref>NIST, [https://csrc.nist.gov/pubs/sp/800/88/r2/final Guidelines for Media Sanitization, SP 800-88 Rev. 2], 2025, en anglais.</ref> Cette procédure documentée aide à déterminer si le [[Réemploi|réemploi]] est possible ; une simple suppression de fichiers ne constitue pas une preuve suffisante.
+
+== Suivre les résultats ==
+Une revue commune peut suivre les équipements encore couverts par un support, les services réellement arrêtés, les résultats des tests de restauration et les volumes de données conservés avec leur finalité. Des mesures de ressources peuvent compléter ce suivi. Une réduction en gigaoctets ne constitue pas, à elle seule, une réduction carbone mesurée.
+
+Le dossier de 2022 se lit avec des références plus récentes. Le [[RGESN]] de 2024 accompagne l'écoconception des services numériques ; il ne remplace pas l'analyse des risques de sécurité.<ref>Arcep, [https://en.arcep.fr/news/press-releases/view/n/environment-rgesn-170524.html Publication du référentiel général d'écoconception de services numériques], 2024, présentation anglaise avec lien vers le français.</ref>
+
+== Voir aussi ==
+* [[Règlement Général sur la Protection des Données]]
+* [[Donnée personnelle]]
+* [[RSSI]]
+* [[Shadow AI]]
+* [[Prompt injection]]
+* [[Dark Data]]
+* [[Résilience]]
+* [[Fin de Vie]]
+
+== Références ==
+<references />
+
+[[Catégorie:Sécurité]]
+[[en:Cybersecurity]]
+[[es:Ciberseguridad]]
+[[de:Cybersicherheit]]
+[[nl:Cyberbeveiliging]]

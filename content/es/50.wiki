@@ -1,0 +1,27 @@
+Los '''códigos de conducta y de buenas prácticas de IA''' son instrumentos distintos vinculados al [[AI Act]]. Cada uno tiene destinatarios y objetivos propios. Antes de declarar su adhesión, una organización debe identificar el documento, la versión y los compromisos que asume.
+
+== Modelos de IA de uso general ==
+El [https://digital-strategy.ec.europa.eu/en/policies/ai-code-practice Código de buenas prácticas para modelos de IA de uso general, presentado en inglés] ayuda a sus proveedores a demostrar el cumplimiento de determinadas obligaciones. Abarca transparencia, derechos de autor y, para los modelos con riesgo sistémico, seguridad y protección. La adhesión es voluntaria; las obligaciones legales correspondientes siguen siendo exigibles.
+
+Para un departamento de TI comprador, la firma del proveedor es un dato que debe valorar junto con la documentación del modelo y las condiciones contractuales. No garantiza el cumplimiento de todos los usos posteriores ni la calidad del sistema que construya un integrador.
+
+== Códigos de conducta del artículo 95 ==
+El [https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-95 artículo 95, en inglés] aborda compromisos voluntarios sobre sostenibilidad ambiental, alfabetización en IA, diseño inclusivo y protección de personas vulnerables. El servicio de información advierte que el texto mostrado debe leerse junto con las modificaciones de 2026. Conviene comprobar la versión jurídica vigente antes de formular una exigencia.
+
+Un equipo puede concretar un compromiso ambiental mediante criterios medibles: energía por tarea, períodos de conservación de datos o justificación de un entrenamiento adicional. Debe indicar el alcance, el método de medida y quién realiza el seguimiento. Sin una medida y una decisión asociada, resulta difícil evaluar el objetivo.
+
+== Transparencia de los contenidos generados ==
+El [https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content código sobre transparencia de los contenidos generados por IA, presentado en inglés] acompaña las obligaciones de marcado e información del artículo 50. Es distinto del código para modelos de uso general. Los equipos editoriales y técnicos deben determinar qué obligaciones corresponden a su papel y al contenido que publican.
+
+== Aplicación en una organización ==
+Mantener un registro por compromiso: documento y versión, sistemas incluidos, responsable, pruebas y fecha de revisión. Deben participar compras, asesoría jurídica, seguridad, responsables de los servicios y el equipo de TI responsable. Una carta interna puede complementar el trabajo; no equivale a una certificación europea. Referencias consultadas el 11 de septiembre de 2026.
+
+== Véase también ==
+* [[IA Responsable]]
+* [[TI Responsable]]
+
+[[Category:Inteligencia artificial]]
+[[Category:Normativa]]
+[[de:Verhaltenskodizes und Praxisleitfäden für KI]]
+[[fr:Codes de conduite et de bonnes pratiques IA]]
+[[en:AI codes of conduct and practice]]

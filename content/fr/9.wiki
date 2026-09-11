@@ -1,0 +1,17 @@
+== Définition ==
+'''AFNOR''' est l'acronyme pour '''A'''gence '''F'''rançaise de '''NOR'''malisation.  L'AFNOR représente la France auprès de l'Organisation Internationale de Normalisation (<abbr>ISO</abbr>).
+
+== Dans le cadre du Numérique Responsable ==
+L'AFNOR propose une AFAQ éco-conception qui permet d'évaluer et de faire certifier ses projets en matière d'éco-conception.
+
+== Voir aussi ==
+
+=== Références ===
+
+* AFNOR - [https://telechargement-afnor.org/certification-guide-evaluation-eco-conception Guide d'évaluation eco-conception]
+
+=== Liens externes ===
+* la [https://www.boutique.afnor.org/norme/nf-en-iso-14040/management-environnemental-analyse-du-cycle-de-vie-principes-et-cadre/article/704298/fa140281?utm_source=referral&utm_medium=afnor-solutions&utm_campaign=ID250 norme ISO 14040] présente la démarche générale de l’[[Analyse du Cycle de Vie|ACV]] et ses différentes étapes ;
+* la [https://www.boutique.afnor.org/norme/nf-en-iso-14044/management-environnemental-analyse-du-cycle-de-vie-exigences-et-lignes-directrices/article/651688/fa138266?utm_source=referral&utm_medium=afnor-solutions&utm_campaign=ID251 norme ISO 14044] se focalise sur l’étape de l’évaluation et la hiérarchisation des impacts environnementaux de l'[[Analyse du Cycle de Vie (ACV)|ACV]] ;
+* la [https://www.boutique.afnor.org/norme/nf-x30-264/management-environnemental-aide-a-la-mise-en-place-d-une-demarche-d-eco-conception/article/803060/fa166440?utm_source=referral&utm_medium=afnor-solutions&utm_campaign=ID252 norme NF X30-264] donne des lignes directrices pour mettre en place une démarche d’[[Eco Conception|éco conception]].
+* Wikipédia - [https://fr.wikipedia.org/wiki/Association_fran%C3%A7aise_de_normalisation AFNOR]

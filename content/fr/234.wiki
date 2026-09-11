@@ -1,0 +1,15 @@
+La '''colocation''' consiste à héberger ses propres serveurs dans un [[DataCenter|centre de données]] exploité par un tiers, qui fournit le bâtiment, l’alimentation électrique, le refroidissement et la connectivité.
+
+Elle occupe une position intermédiaire entre l’[[On-premise|hébergement interne]] et le [[Cloud_computing|cloud]] : l’organisation reste propriétaire du matériel et maîtrise sa configuration, tout en bénéficiant d’une infrastructure mutualisée généralement plus efficace qu’une salle serveur d’entreprise.
+
+== Points d’attention ==
+
+Le contrat détermine l’essentiel : engagement de [[Power_Usage_Effectiveness|PUE]], origine de l’électricité, consommation d’eau (voir [[Water_Usage_Effectiveness|WUE]]), possibilité de récupérer la chaleur, conditions de sortie.
+
+Restant propriétaire du matériel, l’organisation garde la main sur sa durée d’usage, donc sur le principal levier de réduction d’impact.
+
+== Voir aussi ==
+
+* [[DataCenter]] · [[Cloud_computing|Cloud computing]] · [[On-premise]] · [[Power_Usage_Effectiveness|Power Usage Effectiveness]] · [[Fin_de_Vie|Fin de Vie]]
+
+[[Catégorie:Concepts]]

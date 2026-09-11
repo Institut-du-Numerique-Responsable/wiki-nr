@@ -1,0 +1,107 @@
+<div class="nr-hero">
+<div class="nr-hero-logo">[[File:Wiki-inr.png|alt=Institute for Sustainable IT|link=]]</div>
+<div class="nr-hero-texte">
+<div class="nr-hero-eyebrow">Institute for Sustainable IT</div>
+<div class="nr-hero-title">The vocabulary of sustainable IT</div>
+<div class="nr-hero-lede">
+Definitions, frameworks and methods for [[Ecodesign|ecodesign]], [[Digital sobriety|digital sobriety]], [[Digital accessibility|accessibility]] and [[Responsible AI|responsible AI]]. Open access, no account needed.
+</div>
+</div>
+</div>
+
+== Start here ==
+
+<div class="nr-start">
+<div class="nr-start-item">'''[[Sustainable IT]]'''<br />The overall approach</div>
+<div class="nr-start-item">'''[[Digital sobriety]]'''<br />The guiding principle</div>
+<div class="nr-start-item">'''[[Carbon footprint]]'''<br />Measuring impact</div>
+<div class="nr-start-item">'''[[Ecodesign]]'''<br />Designing differently</div>
+</div>
+
+== Browse by theme ==
+
+<div class="nr-grid">
+
+<div class="nr-card">
+<div class="nr-card-head">Measuring and assessing</div>
+<div class="nr-card-body">
+[[Life cycle assessment]] · [[Carbon footprint]] · [[Bilan Carbone]] · [[GHG Protocol]] · [[ISO 14064]] · [[Power Usage Effectiveness|PUE]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Frameworks and approaches</div>
+<div class="nr-card-body">
+[[RGESN]] · [[GR491]] · [[Sustainable IT Charter]] · [[Ecodesign]] · [[Green IT]] · [[IT for Green]] · [[Human for IT]] · [[IT for Human]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Regulation</div>
+<div class="nr-card-body">
+[[CSRD]] · [[AI Act]] · [[RGAA]] · [[WCAG]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Artificial intelligence</div>
+<div class="nr-card-body">
+[[Responsible AI]] · [[Generative AI]] · [[LLM]] · [[Inference]] · [[Hallucination]] · [[Algorithmic bias]] · [[AI governance]] · [[Responsible AI Charter]] · [[Shadow AI]] · [[Prompt injection]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Accessibility and inclusion</div>
+<div class="nr-card-body">
+[[Digital accessibility]] · [[RGAA]] · [[WCAG]] · [[Digital divide]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Equipment and life cycle</div>
+<div class="nr-card-body">
+[[Manufacturing]] · [[End of life]] · [[Circular economy]] · [[Low tech]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Infrastructure</div>
+<div class="nr-card-body">
+[[Data centre]] · [[Power Usage Effectiveness]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Security, data and sovereignty</div>
+<div class="nr-card-body">
+[[Cybersecurity]] · [[Digital sovereignty]] · [[Digital resilience]] · [[Robustness]] · [[Reversibility]] · [[Vendor lock-in]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Concepts and effects</div>
+<div class="nr-card-body">
+[[Rebound effect]] · [[Jevons paradox]] · [[Digital sobriety]] · [[Greenwashing]]
+</div>
+</div>
+
+</div>
+
+== Alphabetical index ==
+
+<div class="nr-alpha">
+[[Special:PrefixIndex/a|A]] [[Special:PrefixIndex/b|B]] [[Special:PrefixIndex/c|C]] [[Special:PrefixIndex/d|D]] [[Special:PrefixIndex/e|E]] [[Special:PrefixIndex/f|F]] [[Special:PrefixIndex/g|G]] [[Special:PrefixIndex/h|H]] [[Special:PrefixIndex/i|I]] [[Special:PrefixIndex/j|J]] [[Special:PrefixIndex/k|K]] [[Special:PrefixIndex/l|L]] [[Special:PrefixIndex/m|M]] [[Special:PrefixIndex/n|N]] [[Special:PrefixIndex/o|O]] [[Special:PrefixIndex/p|P]] [[Special:PrefixIndex/q|Q]] [[Special:PrefixIndex/r|R]] [[Special:PrefixIndex/s|S]] [[Special:PrefixIndex/t|T]] [[Special:PrefixIndex/u|U]] [[Special:PrefixIndex/v|V]] [[Special:PrefixIndex/w|W]] [[Special:PrefixIndex/x|X]] [[Special:PrefixIndex/y|Y]] [[Special:PrefixIndex/z|Z]]
+</div>
+
+== Contribute ==
+
+<div class="nr-maj">47 articles. The French edition, with more than 199, serves as the source for translations.</div>
+
+This wiki is maintained by the community of the [https://institutnr.org Institute for Sustainable IT]. To suggest an article or report an error: [mailto:wiki@institutnr.org wiki@institutnr.org].
+
+Content is reusable under the Creative Commons Zero licence.
+
+[[fr:Accueil]]
+[[de:Hauptseite]]
+[[nl:Hoofdpagina]]
+[[es:Portada]]

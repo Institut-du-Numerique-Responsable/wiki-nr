@@ -1,0 +1,20 @@
+L’'''évolutivité''', ou ''scalabilité'', est la capacité d’un système à absorber une augmentation de charge sans dégradation du service.
+
+On distingue l’évolutivité '''verticale''', accroître les ressources d’une machine, et '''horizontale''', répartir la charge sur davantage de machines.
+
+== Regard du numérique responsable ==
+
+L’évolutivité est souvent conçue comme une réserve permanente : des ressources provisionnées en continu pour une charge de pointe rare. C’est un gaspillage structurel, d’autant que la [[Fabrication|fabrication]] du matériel inutilisé a déjà eu lieu.
+
+Deux approches évitent ce gaspillage :
+
+* '''élasticité réelle''' : les ressources suivent la charge, à la hausse comme à la baisse, avec extinction effective ;
+* '''dégradation gracieuse''' : accepter un service réduit en pointe plutôt que dimensionner pour le pic, en désactivant les fonctions accessoires.
+
+La question préalable reste la plus efficace : le pic anticipé se produit-il réellement.
+
+== Voir aussi ==
+
+* [[Cloud_computing|Cloud computing]] · [[Ecoconception]] · [[Sobriété_Numérique|Sobriété Numérique]] · [[Résilience]] · [[Efficacité_énergétique|Efficacité énergétique]]
+
+[[Catégorie:Concepts]]

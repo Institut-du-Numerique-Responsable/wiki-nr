@@ -1,0 +1,32 @@
+Die '''KI-Verordnung''' der EU, auch '''AI Act''' genannt, ist die Verordnung (EU) 2024/1689 über künstliche Intelligenz. Welche Pflichten gelten, hängt von der Rolle der Organisation, dem Modell oder System und seinem Verwendungszweck ab. Eine IT-Abteilung muss daher zunächst ihre Rolle bestimmen: Sie kann etwa eine API nutzen, ein Modell in ein Produkt integrieren oder ein eigenes System anbieten.
+
+== Den Einsatz prüfen ==
+Die Verordnung verbietet bestimmte Praktiken und stuft einige Anwendungen, darunter bestimmte Systeme zur Personalauswahl, als Hochrisiko-KI ein. Für andere Systeme gelten Transparenzpflichten. Die Einstufung richtet sich nach den Voraussetzungen und Ausnahmen im Rechtstext. Die Produktbezeichnung „KI-Assistent“ reicht dafür nicht aus. Die Kommission erläutert [https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai Rechtsrahmen und Zeitplan auf Englisch].
+
+Bei einer Anwendung zur Vorauswahl von Bewerbungen sollten IT und Personalabteilung den Zweck, betroffene Personen, Daten, Anbieterpflichten und die vorgesehene menschliche Aufsicht dokumentieren. Für einen internen Dokumentenassistenten ist eine andere Bewertung nötig. Datenschutz und Sicherheit müssen auch dort geprüft werden.
+
+== Geltungsbeginn ==
+Die Verordnung trat am 1. August 2024 in Kraft. Die ersten Verbote und die Bestimmungen zur KI-Kompetenz gelten seit Februar 2025; die Pflichten für Modelle mit allgemeinem Verwendungszweck seit August 2025, jeweils unter Berücksichtigung der Übergangsregelungen. Der allgemeine Geltungsbeginn war der 2. August 2026.
+
+Nach den Änderungen von 2026 nennt die Kommission den 2. Dezember 2027 für Hochrisiko-Anwendungen nach Anhang III und den 2. August 2028 für betroffene Systeme in regulierten Produkten. Vor der Festlegung einer Compliance-Frist sollten Verantwortliche den [https://eur-lex.europa.eu/eli/reg/2024/1689/oj europäischen Rechtstext und seine konsolidierten Fassungen] prüfen. Quellenstand: 11. September 2026.
+
+== Aufgaben der IT-Abteilung ==
+* Anwendungen, Modelle, Versionen, Anbieter und Zuständigkeiten erfassen.
+* Nachweise für die Einstufung und Entscheidungen zum Betrieb aufbewahren.
+* Tests im jeweiligen Einsatzkontext, wirksame menschliche Aufsicht und Verfahren für Vorfälle planen.
+* Beschäftigte entsprechend ihren Aufgaben und Risiken schulen.
+
+Diese Schritte strukturieren die Umsetzung. Für einen vollständigen Konformitätsnachweis müssen die konkret geltenden Anforderungen geprüft werden. Auch bei einem Vertrag mit einem Anbieter behält die nutzende Organisation eigene Verantwortlichkeiten.
+
+== Bezug zur verantwortungsvollen Digitalisierung ==
+[[Verhaltenskodizes und Praxisleitfäden für KI]] umfassen verschiedene Instrumente. Artikel 95 enthält freiwillige Ziele zur ökologischen Nachhaltigkeit und inklusiven Gestaltung. Ein IT-Team kann den Energiebedarf je Aufgabe messen, eine einfachere Lösung vergleichen und die Barrierefreiheit testen. Solche Zusagen sind von den gesetzlichen Pflichten für das jeweilige System zu unterscheiden.
+
+== Siehe auch ==
+* [[Verantwortungsvolle KI]]
+* [[Cybersicherheit]]
+* [[Verantwortungsvolle Digitalisierung]]
+
+[[Category:Künstliche Intelligenz]]
+[[es:AI Act]]
+[[fr:AI Act]]
+[[en:AI Act]]

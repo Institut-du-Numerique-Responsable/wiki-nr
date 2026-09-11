@@ -1,0 +1,39 @@
+La '''Carta de IA Responsable''' es un compromiso público propuesto por el [[Instituto de TI Responsable]], dedicado a los usos de la inteligencia artificial. Prolonga la [[Carta de TI Responsable]] sobre un terreno donde las decisiones se toman deprisa y los efectos son difíciles de revertir.
+
+Está disponible en varios idiomas y de forma gratuita en [https://charter.isit-europe.org/charte-ia/ charter.isit-europe.org].
+
+Las organizaciones firmantes se comprometen a desplegar sistemas de IA centrados en el ser humano, fiables, inclusivos, no discriminatorios y respetuosos con el medio ambiente, conforme a la normativa aplicable, en particular el [[AI Act]].
+
+== Los cuatro compromisos ==
+
+; IA al servicio de las personas
+: desarrollar una IA que refuerce el papel central de los empleados y amplíe sus capacidades, construida mediante el diálogo social y no al margen de él.
+; IA inclusiva y ética
+: respetar la equidad, la diversidad y la no discriminación, con mecanismos que prevengan los sesgos en los datos y exigencias de accesibilidad.
+; IA de confianza
+: informar de manera transparente a las personas sobre sus interacciones con sistemas de IA, y mantener la supervisión humana en las actividades de alto riesgo.
+; IA ecorresponsable
+: adoptar modelos frugales, eficientes en el uso de recursos, y limitar la huella ambiental a lo largo de todo el ciclo de vida.
+
+El primer compromiso es el que más se omite. Sitúa el diálogo social '''antes''' del despliegue, mientras que la mayoría de las organizaciones lo sitúan después.
+
+== Por qué una carta específica ==
+
+La adopción precedió a la gobernanza. Las herramientas llegan por los equipos antes que por las direcciones, lo que produce el fenómeno del Shadow AI: usos no declarados que exponen datos internos a terceros capaces de servirse de ellos para entrenar sus modelos.
+
+Una carta permite declarar una posición antes de que los usos se fijen.
+
+== Articulación con el AI Act ==
+
+El [[AI Act]] fija obligaciones jurídicas según el nivel de riesgo. La carta interviene antes y más ampliamente: cubre usos que el reglamento no clasifica como de riesgo alto pero que plantean cuestiones de sobriedad, de dependencia o de aceptabilidad.
+
+== Véase también ==
+
+* [[IA Responsable]] · [[Carta de TI Responsable]] · [[AI Act]] · [[Instituto de TI Responsable]]
+
+[[Categoría:Inteligencia artificial]]
+
+[[de:KI-Charta]]
+[[en:Responsible AI Charter]]
+[[fr:Charte IA Responsable]]
+[[nl:Verantwoorde AI Charter]]

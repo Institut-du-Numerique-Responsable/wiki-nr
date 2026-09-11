@@ -1,0 +1,43 @@
+'''WeNR''' ist ein Selbstbewertungs- und Messwerkzeug des Instituts für verantwortungsvolle Digitalisierung (ISIT), mit dem eine Organisation den Reifegrad ihrer Praktiken der [[Verantwortungsvolle Digitalisierung|verantwortungsvollen Digitalisierung]] einschätzen kann.
+
+== Wozu es dient ==
+
+WeNR hilft einer Organisation, ihre Praxis einzuordnen, den Fußabdruck ihrer IT-Landschaft zu messen und sich mit vergleichbaren Einrichtungen zu vergleichen. Getragen wird das Vorhaben gemeinsam vom Institut du Numérique Responsable in Frankreich, von ISIT-BE in Belgien und ISIT-CH in der Schweiz.
+
+Akademische Partner sind die Université de La Rochelle und die UCLouvain. Unterstützt wird die Arbeit von der französischen Umweltagentur ADEME und von der DINUM.
+
+== Methode ==
+
+Die Methode stützt sich auf die Dissertation von Guillaume Bourgeois an der Université de La Rochelle und wurde einer unabhängigen kritischen Prüfung unterzogen.
+
+Die Bewertung beruht auf einem Fragebogen, den die Organisation selbst ausfüllt. Er erfasst qualitative Aspekte wie Steuerung, interne Regelungen und Sensibilisierung sowie quantitative Angaben zu Gerätebestand, Nutzungsdauer und Hosting.
+
+Die Selbstauskunft ist zugleich Stärke und Grenze des Verfahrens: Sie hält die Teilnahme günstig und ermöglicht Vergleiche, überprüft die Zahlen aber nicht.
+
+== Drei Stufen ==
+
+; MyImpact
+: ein schneller Rechner für den persönlichen digitalen Fußabdruck, ganzjährig und in mehreren Sprachen verfügbar.
+; WeNR Standard
+: die vollständige qualitative und quantitative Bewertung, ausgelegt auf den Vergleich zwischen Organisationen.
+; WeNR Hochschulbildung
+: eine auf Hochschulen zugeschnittene Fassung, derzeit in Entwicklung.
+
+== Ablauf einer Kampagne ==
+
+Die Teilnahme steht jeder Organisation offen. Innerhalb des Kampagnenzeitraums lädt die Organisation eine Tabellendatei herunter, füllt sie aus und reicht sie über das Portal ein; jede Einreichung wird mit Zeitstempel versehen und nach der Organisation benannt.
+
+Die Kampagne 2026 startet im Juni und führt neue Indikatoren ein, die die Wirkung künstlicher Intelligenz auf die digitale Praxis erfassen. Ein Vergleichsbericht stellt die Ergebnisse aufeinanderfolgender Kampagnen nebeneinander; der Bericht zur Ausgabe 2021 ist frei verfügbar.
+
+== Siehe auch ==
+
+* [[Verantwortungsvolle Digitalisierung]] · [[Charta für verantwortungsvolle Digitalisierung]] · [[Digitale Suffizienz]] · [[RGESN]]
+
+== Externe Quelle ==
+
+* [https://wenr.isit-europe.org/ WeNR — Institut für verantwortungsvolle Digitalisierung]
+
+[[fr:WeNR]]
+[[en:WeNR]]
+[[nl:WeNR]]
+[[es:WeNR]]

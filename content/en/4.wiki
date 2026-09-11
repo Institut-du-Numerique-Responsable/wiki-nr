@@ -1,0 +1,43 @@
+'''Responsible AI''' concerns the decisions people make when designing, selecting and using artificial intelligence systems. It includes the purpose of the service, the treatment of people affected by it, data handling, reliability and environmental impacts. Responsibility continues through operation, changes and eventual withdrawal of the service.
+
+== Start with a use case ==
+
+Describe the problem and the people who need help. A team considering an assistant for customer questions should compare it with improvements to search, forms or documentation. Set a quality threshold before choosing a model, and identify the consequences of an incorrect answer.
+
+Useful measures might include unresolved requests, correction time and the ability to reach a member of staff. The number of generated responses says little about whether customers obtained the help they needed.
+
+== The INR Responsible AI Charter ==
+
+The Institut du Numérique Responsable's [[Responsible AI Charter|charter]] groups its commitments around four areas: serving people at work, inclusion and ethics, trustworthy systems, and environmental responsibility. It calls for staff involvement and training, attention to discrimination and accessibility, human oversight, and assessment of environmental impacts throughout the lifecycle.<ref>Institut du Numérique Responsable, [https://charter.isit-europe.org/charte-ia/?lang=fr_FR Responsible AI Charter] (French).</ref>
+
+A signature records an undertaking. An organisation still needs to assign responsibilities, implement controls and review evidence from use.
+
+== Example: an assistant for support staff ==
+
+An assistant could draft replies from approved documentation while a member of staff checks them before sending. Evaluate whether it saves time after corrections, whether its citations support the answer and whether it handles the languages customers use. Give staff a clear route to report errors.
+
+If the assistant uses [[RAG]], check document permissions and where retrieved passages are processed. If it can take actions, limit those actions in the application. A reassuring instruction in a prompt cannot replace access controls.
+
+== Evidence and oversight ==
+
+Record the [[Artificial intelligence model|model]] version, evaluation examples and known limitations. Review performance when the model, documents or workflow change. The NIST AI Risk Management Framework offers a voluntary approach to managing AI risks across the lifecycle, including the organisational context in which a system operates.<ref>NIST, [https://www.nist.gov/itl/ai-risk-management-framework AI Risk Management Framework].</ref>
+
+Legal duties depend on the system and its use. For example, Article 13 of the [[AI Act]] addresses transparency and instructions for deployers of high-risk systems; it does not apply the same requirements to every use of AI.<ref>European Commission, [https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-13 AI Act, Article 13].</ref>
+
+For the environmental assessment, compare alternatives at the required quality level. Include operating volume, equipment and human review. A smaller model can be a useful candidate, but its suitability needs testing on the actual task.
+
+== Further reading in English ==
+* Cigref (2024), [https://www.cigref.fr/cigref-memo-ai-in-business-feedback-and-best-practices AI in business: feedback and best practices]: early experience from member companies and public administrations, useful for examining how organisations introduce generative AI.
+* Cigref (2026), [https://www.cigref.fr/assessing-the-return-on-investment-of-generative-and-agentic-ai-solutions Assessing the return on investment of generative and agentic AI solutions]: questions for evaluating business value and changes to working practices alongside technical performance.
+
+== See also ==
+* [[AI governance]] · [[Algorithmic bias]] · [[Black box]] · [[Shadow AI]] · [[Sustainable IT]] · [[SLM]]
+
+== References ==
+<references />
+
+[[Category:Artificial intelligence]]
+[[de:Verantwortungsvolle KI]]
+[[es:IA Responsable]]
+[[fr:IA Responsable]]
+[[nl:Verantwoorde AI]]

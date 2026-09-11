@@ -1,0 +1,13 @@
+'''K-means''' est un algorithme de [[Clustering|clustering]] qui partitionne un ensemble de données en un nombre de groupes fixé à l’avance, en rapprochant chaque point du centre le plus proche puis en recalculant ces centres, jusqu’à stabilisation.
+
+== Caractéristiques ==
+
+Il est simple, rapide et peu coûteux, ce qui en fait un bon point de départ. Ses limites tiennent à ses hypothèses : le nombre de groupes doit être choisi par l’analyste, les groupes sont supposés de forme et de taille comparables, et le résultat dépend de l’initialisation.
+
+Un découpage produit par K-means est une proposition de lecture, pas une vérité des données.
+
+== Voir aussi ==
+
+* [[Clustering]] · [[Apprentissage_automatique|Apprentissage automatique]] · [[Analyse_prédictive|Analyse prédictive]]
+
+[[Catégorie:Intelligence artificielle]]

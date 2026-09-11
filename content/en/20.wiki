@@ -1,0 +1,15 @@
+'''IT for Human''', sometimes called '''IT for Social''', is the use of digital technology to reduce the social impact of other activities or to meet a social need.
+
+Examples include telemedicine in underserved areas, adaptive learning tools, assistive devices supporting independence, and solidarity platforms.
+
+It is the social counterpart of [[IT for Green]], and the same requirement applies: the solution must be judged on its actual benefit, not on its intent.
+
+== Point of caution ==
+
+A service designed for inclusion can produce exclusion if it assumes equipment, connectivity or digital confidence that its audience lacks. The digitisation of public services illustrates this: it improves access for the majority and removes it for a minority, often the most vulnerable.
+
+== See also ==
+
+* [[Human for IT]] · [[Sustainable IT]] · [[Digital accessibility]]
+
+[[Category:Concepts]]

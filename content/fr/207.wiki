@@ -1,0 +1,23 @@
+'''AI for Green''' désigne l’usage de l’[[Intelligence_Artificielle|intelligence artificielle]] au service de la transition écologique : pilotage énergétique, agriculture, mobilité, maintenance prédictive, optimisation des réseaux.
+
+== Le paradoxe ==
+
+L’IA mobilisée pour réduire des impacts en produit elle-même : entraînement des modèles, [[Inférence|inférence]], infrastructures de [[DataCenter|centres de données]], fabrication des équipements.
+
+Un projet AI for Green n’a de sens que si le gain dépasse le coût, ce qui suppose de mesurer les deux. Cette comparaison est rarement produite.
+
+S’ajoutent deux mécanismes qui rognent le gain :
+
+* l’'''[[Effet_Rebond|effet rebond]]''' : l’optimisation libère une ressource, qui est réaffectée à d’autres usages ;
+* l’'''effet d’aubaine''' : la solution numérique est retenue là où un changement d’organisation aurait suffi.
+
+== Voir aussi ==
+
+* [[AI_for_Good|AI for Good]]
+* [[Effet_Rebond|Effet Rebond]]
+* [[Paradoxe_de_Jevons|Paradoxe de Jevons]]
+* [[IA_Responsable|IA Responsable]]
+* [[Chaîne_de_valeur_de_l'IA|Chaîne de valeur de l'IA]]
+* [[Sobriété_Numérique|Sobriété Numérique]]
+
+[[Catégorie:Intelligence artificielle]]

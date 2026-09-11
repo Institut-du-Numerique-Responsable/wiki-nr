@@ -1,0 +1,32 @@
+El '''efecto rebote''', también llamado [[Paradoja de Jevons|paradoja de Jevons]], designa el aumento de consumo que sigue a una mejora de eficiencia. El ahorro previsto se ve compensado, en parte o por completo, por una adaptación del comportamiento.
+
+Puede definirse como el aumento de consumo ligado a la reducción de los límites al uso de una tecnología, límites que pueden ser monetarios, temporales, sociales, físicos, o relacionados con el esfuerzo, el peligro o la organización.
+
+== Cómo se manifiesta en lo digital ==
+
+* Un servicio más rápido se usa más a menudo.
+* Un almacenamiento más barato conduce a conservar más datos, incluidos los [[Dark Data|datos muertos]].
+* Una red más capaz permite formatos de vídeo más pesados.
+* Un modelo de inteligencia artificial más eficiente por consulta soporta un número de consultas mucho mayor.
+
+== Rebote directo e indirecto ==
+
+; Directo
+: el ahorro se reinvierte en el mismo uso. Un ordenador que consume menos se deja encendido más tiempo.
+; Indirecto
+: el ahorro se reinvierte en otra parte. El dinero no gastado en electricidad financia un consumo distinto.
+
+== Consecuencia para una demanda de sobriedad ==
+
+Una acción que solo actúa sobre la eficiencia no garantiza ninguna reducción del impacto total. Para que el ahorro se materialice hay que fijar un límite: un presupuesto de recursos, un tope de volumen, una decisión explícita de no reasignar lo ahorrado.
+
+Es la diferencia entre eficiencia y [[Sobriedad Digital|sobriedad]]. La primera mejora la relación entre servicio prestado y recursos consumidos. La segunda cuestiona el volumen de servicio.
+
+== Véase también ==
+
+* [[Paradoja de Jevons]] · [[Sobriedad Digital]] · [[TI Responsable]] · [[Ecodiseño]]
+
+[[Categoría:Conceptos]]
+[[de:Rebound-Effekt]]
+[[en:Rebound effect]]
+[[fr:Effet Rebond]]

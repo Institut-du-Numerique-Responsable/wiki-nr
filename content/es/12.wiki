@@ -1,0 +1,44 @@
+La '''TI responsable''' (''numérique responsable'' en francés, ''sustainable IT'' en inglés) designa una manera de concebir, comprar, usar y retirar los sistemas digitales que tiene en cuenta sus efectos ambientales, sociales y económicos a lo largo de todo el [[Análisis del Ciclo de Vida|ciclo de vida]].
+
+== Por qué el tema existe ==
+
+Lo digital no es inmaterial. Un ordenador de dos kilos moviliza cientos de kilos de minerales durante su [[Fabricación|fabricación]], y esa fase concentra la mayor parte del impacto: casi la totalidad del agotamiento de [[Abiótico|recursos abióticos]], una fracción dominante del consumo de agua dulce y buena parte de las emisiones de gases de efecto invernadero del sector.
+
+De ahí una consecuencia práctica que orienta toda la disciplina: '''alargar la vida de los equipos pesa más que optimizar su consumo eléctrico'''.
+
+== Tres dimensiones, no una ==
+
+; Ambiental
+: reducir la huella de fabricación, uso y [[Fin de Vida|fin de vida]] de los equipos y servicios.
+; Social
+: accesibilidad, inclusión, condiciones de trabajo en las cadenas de suministro, protección de los datos personales.
+; Económica y ética
+: soberanía, dependencia respecto a proveedores, transparencia de los algoritmos.
+
+Reducir la TI responsable a su vertiente carbono es el error más común. La accesibilidad de un servicio o las condiciones de extracción de los minerales pertenecen al mismo campo.
+
+== Cómo se practica ==
+
+* '''[[Ecodiseño]]''' de los servicios digitales, guiado por referenciales como el [[RGESN]] o el [[GR491]].
+* '''Compra responsable''', que privilegia la durabilidad, la reparabilidad y el [[Reacondicionamiento|reacondicionamiento]].
+* '''[[Sobriedad Digital|Sobriedad]]''': cuestionar la necesidad antes de optimizar la solución.
+* '''Medición''' mediante [[Análisis del Ciclo de Vida|ACV]] o [[Huella de Carbono|huella de carbono]], para sustituir la intuición por datos.
+
+== Un escollo recurrente ==
+
+Ganar en eficiencia no garantiza reducir el impacto total. El [[Efecto Rebote|efecto rebote]] describe cómo el ahorro obtenido se reinvierte en un uso mayor. Una demanda de TI responsable que solo optimiza, sin cuestionar los volúmenes, corre el riesgo de no reducir nada.
+
+== Véase también ==
+
+* [[Instituto de TI Responsable]] · [[Ecodiseño]] · [[Sobriedad Digital]] · [[Análisis del Ciclo de Vida]] · [[Efecto Rebote]]
+
+== Ciberseguridad y vida útil de los servicios ==
+La [[Ciberseguridad|ciberseguridad]] interviene en las decisiones sobre mantenimiento, conservación de datos, copias de seguridad y reutilización de equipos. Un equipo de TI puede retirar funciones y sistemas sin uso manteniendo las protecciones necesarias. El [https://ecoresponsable.numerique.gouv.fr/publications/ecoconception-securite/ informe de MiNumEco sobre ecodiseño, ciberseguridad y protección de datos] (2022, en francés), elaborado con participación del INR, analiza estas relaciones. La ficha específica desarrolla las decisiones prácticas con un ejemplo de recuperación del servicio y referencias operativas.
+
+
+
+[[Categoría:Conceptos]]
+[[de:Verantwortungsvolle Digitalisierung]]
+[[en:Sustainable IT]]
+[[fr:Numérique Responsable]]
+[[nl:Duurzame IT]]

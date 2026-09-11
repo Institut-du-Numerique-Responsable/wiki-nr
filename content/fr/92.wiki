@@ -1,0 +1,26 @@
+== Définition ==
+'''RSE''' est l'acronyme pour '''R'''esponsabilité '''S'''ociétale des '''E'''ntreprises. La RSE est un concept dans lequel les entreprises intègrent les préoccupations sociales, environnementales, et économiques dans leurs activités et dans leurs interactions avec leurs parties prenantes sur une base volontaire. La norme ISO 26.000:2010 le définit précisément en ces termes (chapitre 2.18) :
+
+"Elle est la responsabilité d'une organisation vis-à-vis des impacts de ses décisions et activités sur la société et sur l'environnement, se traduisant par un comportement [[éthique]] et transparent qui :
+
+* contribue au [[développement durable]], y compris à la santé et au bien-être de la société;
+* prend en compte les attentes des parties prenantes;
+* respecte les lois en vigueur tout en étant en cohérence avec les normes internationales de comportement;
+* est intégré dans l'ensemble de l'organisation et mis en œuvre dans ses relations."
+Pour information, toute société cotée en bourse a pour obligation légale de publier un rapport RSE<ref>[https://fr.wikipedia.org/wiki/Loi_relative_aux_nouvelles_r%C3%A9gulations_%C3%A9conomiques Article 116 de la loi n° 2001-420 relative aux nouvelles régulations économiques]</ref>.
+
+== Voir aussi ==
+
+=== Références ===
+* 
+<references />
+=== Articles connexes ===
+
+* [[People Planet Profit|3P]]
+
+=== Liens externes ===
+
+* [https://www.economie.gouv.fr/entreprises/responsabilite-societale-entreprises-rse Qu’est-ce que la responsabilité sociétale des entreprises (RSE) ?] - economie.gouv.fr
+* [https://www.cci.fr/web/developpement-durable/responsabilite-societale-des-entreprises La responsabilité sociétale des entreprises] - CCI
+* Source Wikipédia [https://fr.wikipedia.org/wiki/Responsabilit%C3%A9_soci%C3%A9tale_des_entreprises RSE]
+* Norme ISO [https://www.iso.org/iso-26000-social-responsibility.html 2600 Social Responsibility]

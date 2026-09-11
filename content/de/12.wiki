@@ -1,0 +1,34 @@
+Das '''RGESN''' (''Référentiel général d'écoconception de services numériques'') ist der französische Referenzrahmen für das Ökodesign digitaler Dienste.
+
+Er besteht aus Kriterien in Frageform, die das für einen Dienst verantwortliche Team beantwortet, um sein Vorgehen zu bewerten. Der Rahmen ist nicht verbindlich. Er bietet eine gemeinsame Grundlage, sowohl für die Neuentwicklung als auch für die Verbesserung eines bestehenden Dienstes.
+
+== Herkunft ==
+
+Das RGESN geht auf das französische Gesetz vom 15. November 2021 zur Verringerung des ökologischen Fußabdrucks der Digitaltechnik zurück, kurz '''REEN-Gesetz'''. Eine zweite, von der Regulierungsbehörde Arcep veröffentlichte Fassung hat die Kriterien neu geordnet und präzisiert.
+
+== Seine Logik ==
+
+Der Rahmen setzt bei den Hauptursachen der Wirkung an, in dieser Reihenfolge:
+
+# die '''Herstellung der Endgeräte''', die den Lebenszyklus dominiert;
+# die '''Beanspruchung der Nutzergeräte''', da ein schwerer Dienst den Austausch eines noch funktionierenden Geräts beschleunigt;
+# das '''Datenvolumen''', das ausgetauscht und gespeichert wird.
+
+Diese Reihenfolge erklärt eine Empfehlung, die überrascht, wer Performance-Ratschläge erwartet: einen Dienst auf alter Hardware lauffähig zu halten wiegt schwerer, als seinen Stromverbrauch zu senken.
+
+== Unterschied zum GR491 ==
+
+Das RGESN ist ein öffentlicher Rahmen, auf Ökodesign begrenzt. Der GR491 ist ein Leitfaden des Instituts für verantwortungsvolle Digitalisierung, breiter angelegt, und deckt über die Umwelt hinaus das gesamte Feld der verantwortungsvollen Digitalisierung ab. Der erste dient als Bewertungsraster, der zweite liefert die operative Ausgestaltung.
+
+== Grenze ==
+
+Ein Referenzrahmen misst die Übereinstimmung mit guter Praxis, nicht die tatsächliche Wirkung eines Dienstes. Die meisten Kriterien zu erfüllen belegt keine Reduktion des Fußabdrucks. Das belegt nur eine Messung.
+
+== Siehe auch ==
+
+* [[ISO/IEC TS 20125]] · [[Ökodesign]] · [[Verantwortungsvolle Digitalisierung]] · [[Digitale Suffizienz]]
+
+[[fr:RGESN]]
+[[en:RGESN]]
+[[es:RGESN]]
+[[nl:RGESN]]

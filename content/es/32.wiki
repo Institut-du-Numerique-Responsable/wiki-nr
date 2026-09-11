@@ -1,0 +1,81 @@
+== Definición ==
+Un '''dark pattern''' —«patrón oscuro» o «interfaz engañosa» en español— es una decisión de diseño deliberada que empuja al usuario a hacer algo que sirve al interés del servicio, pero no necesariamente al suyo. La intención de engañar, ocultar o complicar está en el centro de la definición: no se trata de una torpeza ergonómica, sino de una manipulación concebida como tal.
+
+Los objetivos varían: hacer gastar más, prolongar la permanencia en un servicio, u obtener la aceptación de condiciones o de un rastreo que el usuario habría rechazado si se le hubieran presentado con claridad.
+
+El término fue popularizado en 2010 por el especialista británico en experiencia de usuario Harry Brignull, autor de la primera clasificación. La literatura reciente y los textos reglamentarios emplean cada vez más la expresión ''deceptive design'' (diseño engañoso), considerada más explícita.
+
+== Tipología ==
+Las clasificaciones varían, pero se repite un núcleo estable de familias.
+
+=== Ocultación ===
+* '''Costes ocultos''': gastos de gestión o de envío revelados en el último paso del pago.
+* '''Precio por goteo''' (''drip pricing''): el precio anunciado solo se completa tras varias pantallas.
+* '''Adición furtiva al carrito''': opción, seguro o suscripción preañadidos que el usuario debe acordarse de retirar.
+
+=== Urgencia y escasez artificiales ===
+* Cuentas atrás que se reinician, mensajes de «solo quedan 2» o «14 personas están viendo esta página» imposibles de verificar.
+* Explotación del sesgo de escasez y del miedo a perderse algo (FOMO).
+
+=== Desvío de atención y culpabilización ===
+* '''Misdirection''': jerarquía visual que destaca la opción favorable al servicio y difumina la otra —botón de color frente a un enlace gris diminuto.
+* '''Confirmshaming''': formular el rechazo de manera culpabilizadora («No gracias, prefiero pagar el precio completo»).
+* '''Preguntas trampa''': dobles negaciones, casillas cuyo sentido se invierte de una línea a otra.
+
+=== Obstrucción ===
+* '''Roach motel''': suscribirse en dos clics, darse de baja en ocho pasos, una llamada y una carta. Es el patrón más explícitamente perseguido por los reguladores.
+* '''Nagging''': solicitudes repetidas —notificaciones, ventanas modales— hasta obtener el consentimiento.
+
+=== Coacción y privacidad ===
+* '''Acción forzada''': creación de cuenta obligatoria para una acción trivial, permisos solicitados sin relación con la función.
+* '''''Privacy Zuckering''''': diseño que lleva a compartir más datos personales de lo previsto, con los ajustes protectores enterrados y desactivados por defecto.
+* '''Preselección''': casillas premarcadas que hacen las veces de consentimiento.
+* '''Publicidad disfrazada''': contenido comercial presentado como editorial o como elemento de la interfaz.
+
+== Mecanismos explotados ==
+Los dark patterns no crean comportamientos nuevos: explotan sesgos cognitivos bien documentados.
+
+* '''Sesgo de escasez y aversión a la pérdida''': el temor a perder una oportunidad pesa más que la perspectiva de una ganancia equivalente.
+* '''Efecto de anclaje''': una tarifa alta mostrada primero vuelve aceptable la siguiente.
+* '''Coste del esfuerzo''': más allá de unos pocos pasos el usuario abandona —justamente el cálculo de la obstrucción.
+* '''Efecto por defecto''': la opción preconfigurada se mantiene en la gran mayoría de los casos, sea cual sea su contenido.
+* '''Carga atencional''': una interfaz densa y apremiante degrada la calidad de la decisión, terreno propio de la economía de la atención.
+
+== El caso de los banners de consentimiento ==
+Los avisos de cookies son el campo de observación más habitual: botón «Aceptar todo» prominente frente a un rechazo relegado a un submenú, formulaciones orientadas, reaparición en cada visita. Desde sus decisiones de 2022, la autoridad francesa de protección de datos (CNIL) aplica una exigencia sencilla: '''rechazar debe ser tan fácil como aceptar''', con un botón de rechazo visible en el primer nivel.
+
+== Marco reglamentario ==
+* '''RGPD''': el consentimiento debe ser libre, específico, informado e inequívoco. Una casilla premarcada, un rechazo costoso o un consentimiento obtenido por cansancio no cumplen ese requisito.
+* '''Reglamento de Servicios Digitales (DSA)''', artículo 25: prohíbe las interfaces que engañan, manipulan o menoscaban la autonomía de decisión de los usuarios. En diciembre de 2025 la Comisión Europea impuso su primera multa en virtud del DSA —120 millones de euros a la plataforma X, entre otros motivos por el diseño engañoso de su distintivo de verificación.
+* '''Reglamento de Mercados Digitales (DMA)''': regula las interfaces de los guardianes de acceso, en particular las pantallas de elección y los consentimientos cruzados entre servicios.
+* '''Derecho del consumo''': según los casos, los dark patterns constituyen prácticas comerciales engañosas o agresivas.
+
+== Importancia para las TI responsables ==
+El tema suele archivarse únicamente del lado de la ética; también afecta directamente a la sobriedad.
+
+* '''Consumo de recursos.''' Un recorrido alargado artificialmente, las solicitudes repetidas y las funciones de captación multiplican las peticiones, las pantallas pesadas y el tiempo de uso, y por tanto la energía consumida por terminales, redes y servidores.
+* '''Tiempo de uso impuesto.''' Las mecánicas de enganche prolongan el uso sin crear valor para el usuario: lo contrario del principio útil / utilizable / utilizado que estructura el [[Ecodiseño|ecodiseño]] de los servicios digitales.
+* '''Convergencia con la accesibilidad.''' Una interfaz engañosa es ante todo una interfaz ilegible. Las personas con discapacidad, con dificultades digitales o con el idioma sufren primero sus efectos, lo que vincula el tema con la accesibilidad digital y la inclusión.
+* '''Referenciales.''' La [[ISO/IEC TS 20125]] y su predecesora francesa AFNOR SPEC 2201 piden explícitamente descartar las funcionalidades de captación y los sesgos de diseño que engañan al usuario o alargan artificialmente su tiempo de uso. El GR491 aborda la cuestión en sus familias de estrategia y UX/UI.
+
+== Diseñar sin dark patterns ==
+* '''Simetría de las opciones.''' Aceptar y rechazar deben exigir el mismo número de acciones y recibir el mismo tratamiento visual.
+* '''Valores por defecto protectores.''' La opción preconfigurada es la que protege al usuario: sin casillas premarcadas, sin compartición de datos por defecto.
+* '''Fricción deseable.''' No toda fricción es mala: ralentizar voluntariamente una acción irreversible o costosa protege al usuario. La fricción manipuladora obstaculiza lo que el usuario quiere hacer; la fricción deseable le ayuda a decidir.
+* '''Lenguaje claro.''' Sin dobles negaciones, sin vocabulario orientado, con el precio completo mostrado cuanto antes.
+* '''Simetría de entrada y salida.''' Darse de baja, eliminar la cuenta o exportar los datos debe ser tan accesible como registrarse.
+* '''Revisión ética y pruebas con usuarios.''' Hacer revisar los recorridos por personas ajenas al proyecto, con una pregunta simple: ¿habría tomado la misma decisión un usuario informado?
+
+== Véase también ==
+* [[Ecodiseño]] · [[Sobriedad Digital]] · [[TI Responsable]] · [[RGESN]] · [[ISO/IEC TS 20125]] · [[IA Responsable]]
+
+=== Referencias externas ===
+* [https://www.deceptive.design/ Deceptive Design, Harry Brignull]
+* [https://designersethiques.org/fr/thematiques/design-persuasif/concevoir-sans-dark-patterns Concevoir sans dark patterns, Designers Éthiques]
+* [https://design.cnil.fr/ Données & Design, LINC — CNIL]
+
+[[Categoría:Conceptos]]
+
+[[de:Dark Pattern]]
+[[en:Dark pattern]]
+[[fr:Dark pattern]]

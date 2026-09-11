@@ -1,0 +1,61 @@
+== Définition ==
+L’écoconception consiste à intégrer la protection de l’environnement dès la conception des biens ou services. Elle a pour objectif de réduire les impacts environnementaux des produits tout au long de leur cycle de vie : extraction des matières premières, production, distribution, utilisation et fin de vie. 
+
+Elle repose sur une vision globale des impacts environnementaux. L’approche est multi-étapes, puisqu’elle couvre les différentes phases du cycle de vie, et multicritères : consommations de matière et d’énergie, rejets dans les milieux naturels, effets sur le climat et la biodiversité.
+
+== Ecoconception logicielle ou conception responsable ?  ==
+Il est désormais couramment admis de ne plus utiliser le terme d'écoconception logicielle mais d'utiliser plutôt en lieu et place le terme de conception responsable de service numérique. L'écoconception logicielle correspond à l'application des principes d'écoconception au périmètre logiciel. Cette discipline vise a appliquer les leviers de réduction des impacts environnementaux aux différentes étapes du cycle de vie du logiciel ( Conception, Réalisation, Déploiement, Administration, Utilisation, Maintenance, Fin de Vie).
+
+== Application des principes de circularité ==
+L'écoconception est une approche qui prend en compte toutes les étapes du cycle de vie : 
+
+# conception
+# réalisation ou implémentation
+# administration
+# distribution ou déploiement
+# utilisation
+# maintenance
+# fin de vie
+
+== Une approche globale ==
+La démarche d'écoconception n'a de sens, et surtout ne démontrera ses effets bénéfiques, que si l'on envisage l'ensemble des problématiques environnementales du logiciel sur l'ensemble des phases de son cycle de vie... En effet, à quoi bon faire un régime au petit déjeuner si c'est pour se goinfrer au déjeuner ... Cette question de bon sens est également applicable dans l'univers numérique.
+
+== Objectifs de l'écoconception logicielle ==
+L'écoconception logicielle vise à obtenir des résultats en terme environnemental :  
+
+* réduire la consommation énergétique
+* accroitre la performance
+* améliorer l'efficience 
+* supprimer les fonctionnalités superflues et sans valeur utilisateur
+* permettre la sobriété et la frugalité des composants.
+
+L'évolution de ce terme, qui s'est transformé en conception responsable de [[service numérique|service numérique,]] embarque quant à lui les objectifs de l'écoconception et d'autres que nous verrons sur la page dédiée.  
+
+== Cadre normatif ==
+Depuis février 2026, l’écoconception des services numériques fait l’objet d’une spécification technique internationale, l’[[ISO/IEC TS 20125]], issue de l’[[AFNOR SPEC 2201]] publiée en 2022. En France, le [[RGESN]] en constitue le volet réglementaire et le [[GR491]] le volet opérationnel.
+
+== Ecoconception ou éco-conception ? ==
+L'orthographe de ce terme revêt plusieurs réalités et il est admis d'écrire écoconception, éco-conception et ou eco conception, vous trouverez également certains document reprenant l'anglicisme d'"eco-design".
+
+== Voir aussi ==
+
+=== Références ===
+
+* Ministère de l’Écologie, du Développement durable et de l’Énergie - [https://www.ecologie.gouv.fr/leco-conception-des-produits#:~:text=L'%C3%A9co%2Dconception%20consiste%20%C3%A0,utilisation%20et%20fin%20de%20vie. L'éco-conception des produits].
+* Les Cahiers du Développement Durable - [http://les.cahiers-developpement-durable.be/outils/eco-conception/ L'Eco-conception d'un produit ou d'un service]
+
+=== Articles Connexes ===
+
+* [[Analyse du Cycle de Vie (ACV)]]
+* [[ISO/IEC TS 20125]]
+* [[AFNOR SPEC 2201]]
+* [[RGESN]]
+* [[GR491]]
+
+=== Liens externes ===
+
+* [[Agence Française de NORmalisation|AFNOR]] - [https://www.boutique.afnor.org/norme/nf-x30-264/management-environnemental-aide-a-la-mise-en-place-d-une-demarche-d-eco-conception/article/803060/fa166440?utm_source=referral&utm_medium=afnor-solutions&utm_campaign=ID252 NF X30-264] - Cette norme donne des lignes directrices pour mettre en place une démarche d’[https://fr.wiki.isit-europe.org/nr/Ecoconception éco-conception].
+* Wikipédia - [https://fr.wikipedia.org/wiki/%C3%89coconception Ecoconception]
+[[de:Ökodesign]]
+[[en:Ecodesign]]
+[[es:Ecodiseño]]

@@ -1,0 +1,51 @@
+Après l’extraction des ressources, la '''fabrication''' est la deuxième étape du [[cycle de vie]] d’un produit numérique. Pour la plupart des équipements, c’est elle qui domine le bilan environnemental.
+
+== Sa part dans le cycle de vie ==
+
+Selon les travaux de Frédéric Bordage (GreenIT, 2019), sur l’ensemble du cycle de vie, la fabrication compte pour 100 % de l’impact sur les ressources [[Abiotique|abiotiques]], 79 % de l’impact sur les stocks d’eau douce, 44 % des émissions de [[Gaz à Effet de Serre|GES]] et 35 % de la consommation d’[[Energie Primaire|énergie primaire]].
+
+La part varie selon l’équipement. Pour un smartphone, l’[[Agence de la Transition Écologique|ADEME]] situe la fabrication autour des trois quarts de l’[[Empreinte Carbone|empreinte carbone]] sur la durée de vie. Pour un ordinateur portable, la proportion baisse sans cesser d’être majoritaire. Pour un serveur sollicité intensivement pendant des années, l’électricité d’usage finit par se rapprocher, sans dépasser la fabrication avant le remplacement de la machine.
+
+Ces chiffres proviennent d’études aux périmètres différents. Ils se lisent comme des ordres de grandeur, pas comme des constantes.
+
+== La dette carbone est payée d’avance ==
+
+Les émissions de fabrication ont lieu avant la première mise sous tension. Chaque année d’usage supplémentaire divise ensuite cette dette par un nombre plus grand.
+
+Doubler la durée de vie d’un ordinateur portable réduit de moitié environ son empreinte annuelle. Aucun gain d’efficacité en usage ne produit un résultat comparable, et c’est pourquoi '''la durée pendant laquelle un équipement reste en service''' pèse davantage que son étiquette énergétique.
+
+== Ce que contient un smartphone ==
+
+Un smartphone d’environ 150 grammes mobilise de l’ordre de 70 kilogrammes de matières premières, pour l’essentiel de la roche déplacée puis rejetée lors de l’extraction minière.
+
+L’appareil réunit entre 50 et 60 métaux différents, puisés dans une grande partie du tableau périodique :
+
+* '''structure et coque''' : aluminium, magnésium, titane ;
+* '''électronique''' : cuivre, or, argent, palladium, tantale dans les condensateurs ;
+* '''batterie''' : lithium, cobalt, nickel, graphite, manganèse ;
+* '''écran''' : indium pour la couche conductrice transparente, et plusieurs [[Terres Rares|terres rares]] pour les couleurs ;
+* '''aimants, vibreur et haut-parleurs''' : néodyme, praséodyme, dysprosium.
+
+Beaucoup sont présents à hauteur de fractions de gramme. C’est précisément ce qui les rend difficiles à récupérer.
+
+== Rareté et dépendance ==
+
+La rareté est ici rarement géologique. Elle est économique, technique et géopolitique :
+
+; Concentration de l’approvisionnement
+: l’Union européenne recense 34 matières premières critiques, dont 17 jugées stratégiques. Pour plusieurs d’entre elles, un seul pays fournit l’essentiel de la production mondiale, et l’étape de raffinage est encore plus concentrée que celle de l’extraction.
+; Conditions d’extraction
+: le cobalt de République démocratique du Congo et le tantale issu du coltan portent des coûts sociaux et environnementaux documentés, entre exploitation minière artisanale et financement de conflits armés.
+; Une récupération qui n’a pas lieu
+: le Programme des Nations unies pour l’environnement a établi que sur 60 métaux étudiés, 34 affichent un taux de recyclage en fin de vie inférieur à 1 %. Un métal présent en milligrammes et allié à d’autres est techniquement récupérable, mais économiquement pas rentable à récupérer.
+
+La conséquence pratique tient en une phrase : le recyclage ne résoudra pas le problème d’approvisionnement de ces métaux. Seuls l’allongement de la durée de service et le [[Réemploi|réemploi]] repoussent l’extraction suivante.
+
+== Voir aussi ==
+
+* [[Abiotique]] · [[Terres Rares|Terres rares]] · [[Fin de Vie|Fin de vie]] · [[Réemploi]] · [[Economie Circulaire|Économie circulaire]] · [[Empreinte Carbone|Empreinte carbone]] · [[Analyse du Cycle de Vie|Analyse du cycle de vie]]
+
+[[de:Herstellung]]
+[[en:Manufacturing]]
+[[es:Fabricación]]
+[[nl:Fabricage]]

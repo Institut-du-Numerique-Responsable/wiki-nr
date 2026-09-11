@@ -1,0 +1,51 @@
+'''Verantwoorde AI''' verwijst naar het ontwerpen, uitrollen en gebruiken van systemen voor kunstmatige intelligentie die ten dienste staan van de mens, betrouwbaar, inclusief, niet-discriminerend en milieubewust zijn.
+
+== Definitie ==
+
+De snelle verspreiding van generatieve AI heeft deze systemen in de dagelijkse werking van organisaties gebracht. Verantwoorde AI stelt daarom eisen aan de volledige levenscyclus van een systeem: keuze van de toepassing, trainingsdata, transparantie, menselijk toezicht en ecologische voetafdruk.
+
+Het [https://institutnr.org Instituut voor Duurzame IT] heeft deze aanpak vastgelegd in het '''[[Verantwoorde AI Charter]]''', dat het [[Duurzame IT Charter]] aanvult en aansluit bij de Europese AI-verordening (''AI Act'').
+
+== De vier verbintenissen van het [[Verantwoorde AI Charter|charter]] ==
+
+=== 1. AI ten dienste van de mensheid ===
+
+* AI ontwikkelen die de centrale rol van medewerkers versterkt en hun capaciteiten uitbreidt
+* De toepassingen samen met de teams ontwikkelen, via sociale dialoog en feedback
+* Personeel opleiden in het juiste gebruik van AI en de gevolgen ervan
+* Autonomie op het werk, de kwaliteit van sociale interactie en de zin van het werk respecteren
+* Naleving van internationale verdragen over mensenrechten, democratie en rechtsstaat opnemen in bestekken
+
+=== 2. Inclusieve en ethische AI ===
+
+* Gelijkheid, diversiteit en non-discriminatie respecteren
+* Mechanismen invoeren die de datakwaliteit waarborgen en vertekening naar geslacht, herkomst of religie voorkomen
+* De reactie organiseren op discriminatie die voortkomt uit vertekende data
+* Digitale diensten met AI toegankelijk maken voor mensen met een beperking
+
+=== 3. Vertrouwde AI ===
+
+* Gebruikers informeren dat zij met een AI-systeem communiceren, en de databronnen vermelden
+* De werking van de algoritmen helder en toegankelijk uitleggen
+* Menselijk toezicht op risicovolle activiteiten verzekeren
+* De robuustheid van de systemen tegen cyberaanvallen versterken
+
+=== 4. Milieubewuste AI ===
+
+* Het werkelijke nut van de toepassing nagaan vóór elke uitrol
+* Kiezen voor '''sobere AI-modellen''' die zuinig omgaan met hulpbronnen
+* De ecologische voetafdruk over de hele levenscyclus inschatten en beperken
+* Milieubewuste praktijken toepassen bij training en uitrol
+
+== Ondertekening ==
+
+Het [[Verantwoorde AI Charter]] kan worden ondertekend door elke publieke of private organisatie, afzonderlijk of samen met het [[Duurzame IT Charter]].
+
+== Externe referenties ==
+
+* [https://charter.isit-europe.org/charte-ia/?lang=nl_NL AI-Charter — Institut du Numérique Responsable]
+
+[[fr:IA_Responsable]]
+[[en:Responsible_AI]]
+[[es:IA_Responsable]]
+[[de:Verantwortungsvolle_KI]]

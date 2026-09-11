@@ -1,0 +1,15 @@
+== Définition ==
+'[[réseaux|Réseaux]] électriques intelligents' (ou "smart grid") est une expression faisant référence "aux nouvelles possibilités de gestion et de pilotage des réseaux électriques ouvertes par l'introduction des [[TIC (Technologie de l'Information et des Communications)|technologies de l'information]] à toutes les échelles géographiques"<ref>[https://negawatt.org/Changeons-d-energies Changeons d'énergies: transition, mode d'emploi, Association Négawatt (2013)]</ref>.
+
+== Voir aussi ==
+
+=== Référence ===
+<references />
+
+=== Article connexe ===
+
+* [[Microgrid]]
+
+=== Lien externe ===
+
+* Wikipédia - [https://fr.wikipedia.org/wiki/R%C3%A9seau_%C3%A9lectrique_intelligent Réseau électrique intelligent]

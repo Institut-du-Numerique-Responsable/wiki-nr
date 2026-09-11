@@ -1,0 +1,37 @@
+Het '''Verantwoorde AI Charter''' is een publieke verbintenis van het [https://institutnr.org Instituut voor Duurzame IT], gewijd aan het gebruik van kunstmatige intelligentie. Het vult het [[Duurzame IT Charter]] aan op een terrein waar beslissingen snel vallen en de gevolgen moeilijk terug te draaien zijn.
+
+Het is kosteloos en in meerdere talen beschikbaar op [https://charter.isit-europe.org/charte-ia/?lang=nl_NL charter.isit-europe.org].
+
+De ondertekenaars verbinden zich ertoe, in overeenstemming met de toepasselijke regelgeving waaronder de [[AI Act|AI-wet]], verantwoordelijke kunstmatige-intelligentiesystemen in te zetten: ten dienste van en gecontroleerd door mensen, betrouwbaar, inclusief, niet-discriminerend en milieubewust.
+
+== De vier verbintenissen ==
+
+; AI ten dienste van de mensheid
+: AI ontwikkelen die de centrale rol van medewerkers versterkt en hun capaciteiten uitbreidt, opgebouwd via sociale dialoog in plaats van eromheen.
+; Inclusieve en ethische AI
+: gelijkheid, diversiteit en non-discriminatie respecteren, met mechanismen tegen vertekening in de data en met eisen aan toegankelijkheid.
+; Vertrouwde AI
+: gebruikers transparant informeren over hun interactie met AI-systemen, en menselijk toezicht behouden bij risicovolle activiteiten.
+; Milieubewuste AI
+: kiezen voor sobere modellen die zuinig omgaan met hulpbronnen, en de ecologische voetafdruk over de hele levenscyclus beperken.
+
+De eerste verbintenis wordt het vaakst overgeslagen. Zij plaatst de sociale dialoog '''vóór''' de uitrol, terwijl de meeste organisaties die erna plaatsen.
+
+== Waarom een apart charter ==
+
+De invoering liep vooruit op de sturing. Hulpmiddelen komen binnen via de teams, niet via de directie. Zo ontstaat niet-gemeld gebruik dat interne gegevens blootstelt aan derden die er hun modellen op kunnen trainen.
+
+Een charter maakt het mogelijk een standpunt in te nemen voordat de praktijk zich vastzet.
+
+== Verhouding tot de AI-wet ==
+
+De [[AI Act|AI-wet]] legt juridische verplichtingen op naar risiconiveau. Het charter werkt eerder en breder: het bestrijkt toepassingen die de verordening niet als hoog risico aanmerkt, maar die wel vragen oproepen over soberheid, afhankelijkheid en aanvaardbaarheid.
+
+== Zie ook ==
+
+* [[Verantwoorde AI]] · [[Duurzame IT Charter]] · [[Duurzame IT]]
+
+[[de:KI-Charta]]
+[[en:Responsible AI Charter]]
+[[es:Carta de IA Responsable]]
+[[fr:Charte IA Responsable]]

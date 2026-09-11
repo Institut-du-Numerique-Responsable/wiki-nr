@@ -1,0 +1,21 @@
+Beim '''Fine-Tuning''' wird das Training eines bestehenden [[KI-Modell|Modells]] mit einem bestimmten [[Trainingsdaten|Datensatz]] fortgesetzt, um es an ein Fachgebiet oder einen Anwendungsfall anzupassen.
+
+So muss man nicht bei null beginnen: Das Modell behält seine allgemeinen Fähigkeiten und spezialisiert sich zu einem Bruchteil des Aufwands eines vollständigen Trainings.
+
+== Alternativen ==
+
+Vor dem Fine-Tuning sollten zwei weniger aufwendige Ansätze erprobt werden:
+
+* '''[[Kontextuelles Prompting|Kontextuelles Prompting]]''', bei dem Anweisungen und Beispiele zum Zeitpunkt der Anfrage bereitgestellt werden;
+* '''[[RAG|RAG]]''', bei dem Informationen aus einer Dokumentensammlung abgerufen werden, statt sie in den Modellparametern zu speichern.
+
+Fine-Tuning ist gerechtfertigt, wenn ein gleichbleibender '''Stil''' oder ein festes '''Format''' erlernt werden soll. Für veränderliches '''Wissen''' ist RAG vorzuziehen: Aktualisiert wird die Dokumentensammlung, ohne erneutes Training.
+
+== Siehe auch ==
+
+* [[RAG|RAG]] · [[Kontextuelles Prompting|Kontextuelles Prompting]] · [[KI-Modell|KI-Modell]] · [[SLM|SLM]] · [[:fr:Inférence|Inferenz (FR)]]
+
+[[Kategorie:Künstliche Intelligenz]]
+[[fr:Fine-tuning]]
+[[en:Fine-tuning]]
+[[es:Ajuste fino]]

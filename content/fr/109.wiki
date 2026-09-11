@@ -1,0 +1,26 @@
+== Définition ==
+La valorisation consiste à prolonger la valeur d'un produit. Elle se présente sous plusieurs formes :
+
+* Réemploi
+* Valorisation matière comme le [[Recyclage des déchets|recyclage]] de certains déchets. Après transformation, les matières d'un déchet deviennent une matière première pour un nouveau produit.
+* Valorisation chimique. C'est un autre type de [[Recyclage des déchets|recyclage]] des déchets. Après des traitements chimiques, la nouvelle matière obtenue peut être utilisée dans les mêmes conditions que la matière première vierge.
+* Valorisation biologique comme le compostage ou la méthanisation.
+* Valorisation énergétique des déchets comme l'incinération. Lorsque le déchet brûle, il est possible de récupérer une énergie sous forme de vapeur ou d'électricité.
+
+== Dans le cadre du numérique responsable ==
+Les matières des ordinateurs peuvent être recyclés à 64,2%<ref>https://www.ecosystem.eco/fr/equipement/ordinateur</ref>. 
+
+Bien que le taux de valorisation d'un smartphone soit de 78%<ref>https://www.ecosystem.eco/upload/media/download/0001/02/275b1a3d7e4e7db2d1a162c9244b86be90193c13.pdf</ref>  grâce à la valorisation matière et la valorisation énergétique, environ 10% des smartphones sont traités par les filières de recyclage et valorisation. Le réemploi est donc le type de valorisation à privilégier.
+
+== Voir aussi ==
+
+=== Références ===
+<references />
+
+=== Articles connexes ===
+
+* [[5R]]
+
+=== Liens externes ===
+
+* https://fr.wikipedia.org/wiki/Valorisation_des_d%C3%A9chets

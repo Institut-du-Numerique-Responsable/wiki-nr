@@ -1,0 +1,81 @@
+== Definition ==
+A '''dark pattern''' — increasingly called '''deceptive design''' — is a deliberate design choice that leads users to do something that serves the service provider's interest rather than their own. Intent is central to the definition: this is not clumsy ergonomics, but manipulation designed as such.
+
+The goals vary: making people spend more, keeping them on a service longer, or obtaining acceptance of terms or tracking they would have declined had the choice been presented plainly.
+
+The term was popularised in 2010 by British user experience specialist Harry Brignull, who produced the first classification. Regulators and recent literature increasingly prefer "deceptive design" as a clearer, less loaded phrase.
+
+== Typology ==
+Classifications vary, but a stable core of families recurs.
+
+=== Concealment ===
+* '''Hidden costs''': service, handling or delivery fees revealed only at the final checkout step.
+* '''Drip pricing''': the announced price becomes complete only after several screens.
+* '''Sneak into basket''': an option, insurance or subscription pre-added that the user must remember to remove.
+
+=== Manufactured urgency and scarcity ===
+* Countdown timers that reset, "only 2 left" or "14 people are viewing this page" claims that cannot be verified.
+* Exploitation of scarcity bias and fear of missing out (FOMO).
+
+=== Misdirection and shaming ===
+* '''Misdirection''': a visual hierarchy that promotes the option favouring the service and erases the other — a coloured button against a tiny grey link.
+* '''Confirmshaming''': phrasing the decline option so as to induce guilt ("No thanks, I'd rather pay full price").
+* '''Trick questions''': double negatives, checkboxes whose meaning flips from one line to the next.
+
+=== Obstruction ===
+* '''Roach motel''': subscribe in two clicks, cancel in eight steps, a phone call and a letter. This is the pattern most explicitly targeted by regulators.
+* '''Nagging''': repeated prompts — notifications, modal windows — until consent is given.
+
+=== Coercion and privacy ===
+* '''Forced action''': mandatory account creation for a trivial task, permissions requested with no bearing on the feature.
+* '''Privacy Zuckering''': design that leads users to share more personal data than intended, with protective settings buried and off by default.
+* '''Preselection''': pre-ticked boxes standing in for consent.
+* '''Disguised ads''': commercial content presented as editorial material or as an interface element.
+
+== Mechanisms exploited ==
+Dark patterns create no new behaviour; they exploit well documented cognitive biases.
+
+* '''Scarcity bias and loss aversion''': the fear of losing an opportunity weighs more than the prospect of an equivalent gain.
+* '''Anchoring''': a high price shown first makes the next one look reasonable.
+* '''Cost of effort''': beyond a few steps users give up — precisely the calculation behind obstruction.
+* '''Default effect''': the pre-set option is kept in the vast majority of cases, whatever it contains.
+* '''Attentional load''': a dense, pressing interface degrades decision quality, which is the domain of the attention economy.
+
+== Consent banners ==
+Cookie banners are the most common observation ground: a prominent "Accept all" button against a refusal buried in a submenu, loaded wording, re-display on every visit. Since its 2022 decisions, the French data protection authority (CNIL) has applied a simple requirement: '''refusing must be as easy as accepting''', with a visible refusal button at the first level.
+
+== Regulatory framework ==
+* '''GDPR''': consent must be freely given, specific, informed and unambiguous. A pre-ticked box, a costly refusal path or consent obtained through fatigue do not meet that bar.
+* '''Digital Services Act (DSA)''', Article 25: interfaces that deceive, manipulate or otherwise impair users' ability to make free and informed decisions are prohibited. In December 2025 the European Commission issued its first DSA fine — €120 million against the platform X, in part for the deceptive design of its verification badge.
+* '''Digital Markets Act (DMA)''': governs gatekeepers' interfaces, notably choice screens and cross-service consent.
+* '''Consumer law''': depending on the case, dark patterns fall under misleading or aggressive commercial practices.
+
+== Why it matters for sustainable IT ==
+The topic is usually filed under ethics alone; it also bears directly on sobriety.
+
+* '''Resource consumption.''' Artificially lengthened journeys, repeated prompts and engagement features multiply requests, heavy screens and time spent — hence the energy drawn by devices, networks and servers.
+* '''Imposed usage time.''' Engagement mechanics extend usage without creating user value: the opposite of the useful / usable / used principle that underpins [[Ecodesign|ecodesign]] of digital services.
+* '''Convergence with accessibility.''' A deceptive interface is first of all an unreadable one. People with disabilities, people uneasy with digital tools or with the language bear the consequences first, which ties the subject to [[Digital accessibility|digital accessibility]] and inclusion.
+* '''Reference frameworks.''' [[ISO/IEC TS 20125]] and its French predecessor AFNOR SPEC 2201 explicitly call for discarding attention-capture features and design biases that mislead users or artificially extend their usage time. The [[GR491]] covers the subject in its strategy and UX/UI families.
+
+== Designing without dark patterns ==
+* '''Symmetry of choice.''' Accepting and refusing should take the same number of actions and receive the same visual treatment.
+* '''Protective defaults.''' The pre-set option is the one that protects the user: no pre-ticked boxes, no data sharing by default.
+* '''Desirable friction.''' Not all friction is bad: deliberately slowing an irreversible or costly action protects the user. Manipulative friction obstructs what the user wants; desirable friction helps them decide.
+* '''Plain language.''' No double negatives, no loaded wording, full price shown as early as possible.
+* '''Entry and exit symmetry.''' Cancelling, deleting an account or exporting data must be as accessible as signing up.
+* '''Ethical review and user testing.''' Have journeys reviewed by people outside the project, with one question: would an informed user have made the same choice?
+
+== See also ==
+* [[Ecodesign]] · [[Digital sobriety]] · [[Digital accessibility]] · [[GR491]] · [[RGESN]] · [[ISO/IEC TS 20125]] · [[Sustainable IT]] · [[Algorithmic bias]]
+
+=== External references ===
+* [https://www.deceptive.design/ Deceptive Design, Harry Brignull]
+* [https://designersethiques.org/fr/thematiques/design-persuasif/concevoir-sans-dark-patterns Designing without dark patterns, Designers Éthiques]
+* [https://design.cnil.fr/ Data & Design, LINC — CNIL]
+
+[[Category:Concepts]]
+
+[[de:Dark Pattern]]
+[[es:Dark pattern]]
+[[fr:Dark pattern]]

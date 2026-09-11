@@ -1,0 +1,21 @@
+== Définition ==
+Le terme de DEEE signifie Déchet équipements électriques et électroniques. 
+
+L'article R. 543-172. du Code de l’environnement définit les EEE comme « les équipements fonctionnant grâce à des courants électriques ou à des champs électromagnétiques, ainsi que les équipements de production, de transfert et de mesure de ces courants et champs, conçus pour être utilisés à une tension ne dépassant pas 1 000 volts en courant alternatif et 1 500 volts en courant continu ». Le terme DEEE s’applique « aux équipements électriques et électroniques, et aux déchets qui en sont issus, y compris tous les composants, sous-ensembles et produits consommables faisant partie intégrante du produit au moment de la mise au rebut. » 
+
+Les DEEE sont un mélange complexe de matériaux et de composants qui, en raison de leur contenu dangereux, et s'ils ne sont pas correctement gérés, peuvent causer des problèmes environnementaux et sanitaires majeurs. De plus, la production d'électronique moderne nécessite l'utilisation de ressources rares et coûteuses (par exemple, environ 10% de l'or total dans le monde est utilisé pour leur production). 
+
+== Dans le cadre du numérique responsable ==
+Pour améliorer la gestion environnementale des DEEE, contribuer à une [[Economie Circulaire|économie circulaire]] et accroître l'efficacité des ressources, il est essentiel d'améliorer la collecte, le traitement et le recyclage des produits électroniques en [[Fin de Vie|fin de vie]].
+
+Il est également possible en tant que citoyen de limiter les DEEE en suivant l'approche des [[5R]].
+
+== Voir aussi ==
+
+=== Références ===
+* L'article R. 543-172. du Code de l’environnement définit les EEE https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029390371/2014-08-23/
+
+=== Liens externes ===
+
+* Wikipédia [https://fr.wikipedia.org/wiki/D%C3%A9chets_d%27%C3%A9quipements_%C3%A9lectriques_et_%C3%A9lectroniques Déchets d'équipements électriques et électroniques]
+* INR et Ecologic - Lhurault - [https://institutnr.org/vos-vieux-mobiles-ont-encore-des-ressources Donner c’est aider ! Vos vieux mobiles ont encore tellement de ressources]  - 25 mars 2021

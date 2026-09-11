@@ -1,0 +1,17 @@
+'''Human for IT''', sometimes called '''Social IT''', is the practice of making digital technology accessible and usable by as many people as possible.
+
+It addresses the social dimension of [[Sustainable IT|sustainable IT]] from the standpoint of digital technology itself: who benefits from it, who is excluded, and under what conditions it is produced.
+
+== Areas ==
+
+* '''[[Digital accessibility]]''' for people with disabilities ;
+* '''inclusion''' and the fight against digital exclusion ;
+* '''production conditions''': mining, assembly, and annotation of training data ;
+* '''quality of working life''' for those who use these tools daily ;
+* '''interface ethics''', against deceptive design.
+
+== See also ==
+
+* [[IT for Human]] · [[Green IT]] · [[Sustainable IT]] · [[Digital accessibility]]
+
+[[Category:Concepts]]

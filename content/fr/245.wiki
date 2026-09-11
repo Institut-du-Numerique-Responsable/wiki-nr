@@ -1,0 +1,17 @@
+Le '''cloud hybride''' combine des ressources hébergées en interne ([[On-premise|on-premise]]) et des services de [[Cloud_computing|cloud]] public.
+
+Il répond à des besoins mixtes : conserver en interne les traitements sensibles ou soumis à contrainte réglementaire, recourir au cloud pour les charges variables ou les services standards.
+
+== Points d’attention ==
+
+* la '''complexité''' ajoutée : deux environnements à maintenir, à sécuriser et à raccorder ;
+* les '''transferts de données''' entre les deux, coûteux en bande passante et en latence ;
+* le '''risque de dépendance''' malgré tout, si la couche d’orchestration est propriétaire (voir [[Vendor_lock-in|Vendor lock-in]]).
+
+L’hybridation ne réduit pas mécaniquement l’empreinte : elle peut au contraire dupliquer des ressources des deux côtés.
+
+== Voir aussi ==
+
+* [[Cloud_computing|Cloud computing]] · [[On-premise]] · [[Colocation]] · [[Réversibilité]] · [[Autonomie_stratégique|Autonomie stratégique]]
+
+[[Catégorie:Concepts]]

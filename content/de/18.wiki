@@ -1,0 +1,51 @@
+Die '''Herstellung''' eines IT-Geräts umfasst die Gewinnung der Rohstoffe, die Raffination der Metalle, die Fertigung der Bauteile und die Montage. Bei den meisten Geräten bestimmt sie die Umweltbilanz.
+
+== Ihr Anteil am Lebenszyklus ==
+
+Nach den Arbeiten von Frédéric Bordage (GreenIT, 2019) entfallen über den gesamten Lebenszyklus auf die Herstellung die vollständige Wirkung auf abiotische Rohstoffe, 79 % der Wirkung auf Süßwasservorräte, 44 % der Treibhausgasemissionen und 35 % des Primärenergieverbrauchs.
+
+Der Anteil hängt vom Gerät ab. Bei einem Smartphone beziffert die französische Umweltagentur ADEME die Herstellung auf etwa drei Viertel des [[CO₂-Fußabdruck|CO₂-Fußabdrucks]] über die Lebensdauer. Bei einem Notebook fällt der Anteil niedriger aus, bleibt aber überwiegend. Bei einem über Jahre stark ausgelasteten Server nähert sich der Betriebsstrom an, überholt die Herstellung jedoch selten vor dem Austausch.
+
+Diese Zahlen stammen aus Studien mit unterschiedlichem Zuschnitt. Sie sind Größenordnungen, keine Konstanten.
+
+== Die CO₂-Schuld wird im Voraus bezahlt ==
+
+Die Emissionen der Herstellung entstehen, bevor das Gerät zum ersten Mal eingeschaltet wird. Jedes weitere Nutzungsjahr teilt diese Schuld anschließend durch eine größere Zahl.
+
+Die Lebensdauer eines Notebooks zu verdoppeln halbiert seinen jährlichen Fußabdruck annähernd. Kein Effizienzgewinn im Betrieb erreicht ein vergleichbares Ergebnis. Deshalb wiegt '''die Zeit, die ein Gerät im Einsatz bleibt''', schwerer als sein Energielabel.
+
+== Woraus ein Smartphone besteht ==
+
+Ein Smartphone von etwa 150 Gramm bewegt in der Größenordnung von 70 Kilogramm Rohstoffen, überwiegend Gestein, das beim Bergbau bewegt und wieder verworfen wird.
+
+Das Gerät vereint zwischen 50 und 60 verschiedene Metalle aus weiten Teilen des Periodensystems:
+
+* '''Rahmen und Gehäuse''': Aluminium, Magnesium, Titan;
+* '''Elektronik''': Kupfer, Gold, Silber, Palladium, Tantal in den Kondensatoren;
+* '''Akku''': Lithium, Kobalt, Nickel, Graphit, Mangan;
+* '''Display''': Indium für die transparente leitfähige Schicht sowie mehrere Seltene Erden für die Farbdarstellung;
+* '''Magnete, Vibrationsmotor und Lautsprecher''': Neodym, Praseodym, Dysprosium.
+
+Viele davon liegen in Bruchteilen eines Gramms vor. Genau das macht ihre Rückgewinnung schwierig.
+
+== Knappheit und Abhängigkeit ==
+
+Die Knappheit ist hier selten geologisch. Sie ist wirtschaftlich, technisch und geopolitisch:
+
+; Konzentration der Lieferketten
+: die Europäische Union führt 34 kritische Rohstoffe, davon 17 als strategisch eingestuft. Bei mehreren liefert ein einziges Land den Großteil der Weltproduktion, und die Raffination ist noch stärker konzentriert als der Abbau.
+; Abbaubedingungen
+: Kobalt aus der Demokratischen Republik Kongo und Tantal aus Coltan tragen dokumentierte soziale und ökologische Kosten, von handwerklichem Bergbau bis zur Finanzierung bewaffneter Konflikte.
+; Rückgewinnung, die ausbleibt
+: das Umweltprogramm der Vereinten Nationen stellte fest, dass von 60 untersuchten Metallen 34 eine Recyclingquote am Lebensende unter 1 % aufweisen. Ein Metall, das in Milligramm vorliegt und mit anderen legiert ist, lässt sich technisch zurückgewinnen, wirtschaftlich aber nicht.
+
+Die praktische Folge: Recycling wird das Versorgungsproblem dieser Metalle nicht lösen. Nur längere Nutzung und Weiterverwendung verschieben die nächste Förderung.
+
+== Siehe auch ==
+
+* [[Lebensende]] · [[CO₂-Fußabdruck]] · [[Ökobilanz]] · [[Kreislaufwirtschaft]] · [[Digitale Suffizienz]] · [[Verantwortungsvolle Digitalisierung]]
+
+[[fr:Fabrication]]
+[[en:Manufacturing]]
+[[es:Fabricación]]
+[[nl:Fabricage]]

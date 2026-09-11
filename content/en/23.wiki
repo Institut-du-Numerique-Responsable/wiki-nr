@@ -1,0 +1,43 @@
+'''Digital accessibility''' means designing digital services that everyone can use, including people with disabilities.
+
+It is neither an option added at the end of a project nor a technical category among others: it is a quality of design, in the same way as performance or security.
+
+== Who is concerned ==
+
+The usual answer, "people with disabilities", greatly understates the subject.
+
+It covers '''permanent''' disabilities (visual, hearing, motor, cognitive), '''temporary''' situations (a broken arm, an ear infection, fatigue) and '''circumstantial''' ones (a screen in sunlight, a noisy environment, a poor connection, one hand occupied). An ageing population widens the scope further.
+
+This is why accessible services improve the experience for everyone: captions are used on public transport, keyboard navigation is preferred by expert users, sufficient contrast helps on poor screens.
+
+== Four principles ==
+
+International standards, [[WCAG]], adopted by the European standard EN 301 549 and the French [[RGAA]], rest on four principles: content must be '''perceivable''', '''operable''', '''understandable''' and '''robust'''.
+
+== A matter of organisation ==
+
+Accessibility rarely fails for lack of technical skill. It fails because nobody owns it, or because it is addressed too late.
+
+A 2026 Cigref study on scaling accessibility in large organisations proposes governance shared between IT, sustainability and compliance functions, with an accountable owner reporting at executive level. Its recommendations: a multi-year trajectory rather than one-off compliance campaigns, integration from project inception, role-specific training for developers, designers, writers and buyers, accessibility by default through the design system, and indicators tracked over time.
+
+Correcting after the fact costs several times more than designing accessibly.
+
+== Tools do not do the work ==
+
+Automated testing detects only a minority of defects, commonly estimated at around a third. The rest requires judgement: whether a text alternative is meaningful, whether a label is clear, whether a journey is coherent, whether the language is plain.
+
+Three practices determine outcomes more than any tool: designing '''with''' people concerned rather than for them, writing clearly, and testing with real assistive technologies rather than a validator alone.
+
+== Relationship with sustainable IT ==
+
+Accessibility is the social component of [[Sustainable IT|sustainable IT]] (see [[Human for IT]]). It also aligns with [[Digital sobriety|sobriety]]: an accessible service is structured, light, works without the latest browser and remains usable on older hardware, which extends device lifespan.
+
+It stands in direct opposition to deceptive interfaces, which exploit difficulties of comprehension rather than reducing them.
+
+== See also ==
+
+* [[WCAG]] · [[RGAA]] · [[Human for IT]] · [[Sustainable IT]] · [[Ecodesign]]
+
+[[Category:Accessibility]]
+[[de:Digitale Barrierefreiheit]]
+[[fr:Accessibilité Numérique]]

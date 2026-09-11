@@ -1,0 +1,30 @@
+Los '''datos de entrenamiento''' son el conjunto de ejemplos, textos, imágenes, sonidos y datos estructurados a partir de los cuales aprende un [[Modelo de inteligencia artificial|modelo de inteligencia artificial]].
+
+== Qué depende de ellos ==
+
+La calidad, la representatividad y la procedencia de estos datos determinan el rendimiento del modelo y sus defectos. Un modelo no puede ser mejor que los datos con los que se ha entrenado.
+
+Antes de entrenar un modelo o reutilizar uno existente, conviene comprobar:
+
+* la '''representatividad''': qué poblaciones, idiomas y situaciones están presentes y cuáles faltan (véase [[:fr:Biais algorithmique|Sesgo algorítmico (FR)]]);
+* la '''procedencia y los derechos''': si los contenidos podían utilizarse para esa finalidad;
+* los '''[[:fr:Donnée personnelle|datos personales (FR)]]''': su presencia implica la aplicación del [[:fr:Règlement Général sur la Protection des Données|RGPD (FR)]], incluso cuando un tercero ha entrenado el modelo;
+* la '''trazabilidad''': el [[:fr:AI Act|Reglamento de Inteligencia Artificial (FR)]] exige documentar los conjuntos de datos de los modelos de uso general.
+
+== Sobriedad en el uso de recursos ==
+
+Aumentar el volumen de datos no mejora indefinidamente un modelo, pero sí incrementa el coste de entrenamiento. Un conjunto más reducido, mejor compuesto y mejor documentado suele ofrecer mejores resultados que una acumulación indiscriminada.
+
+== Véase también ==
+
+* [[Aprendizaje automático|Aprendizaje automático]]
+* [[Modelo de inteligencia artificial|Modelo de inteligencia artificial]]
+* [[:fr:Biais algorithmique|Sesgo algorítmico (FR)]]
+* [[:fr:Donnée personnelle|Datos personales (FR)]]
+* [[:fr:Open Data|Datos abiertos (FR)]]
+* [[:fr:Chaîne de valeur de l'IA|Cadena de valor de la IA (FR)]]
+
+[[Categoría:Inteligencia artificial]]
+[[fr:Données d'entraînement]]
+[[en:Training data]]
+[[de:Trainingsdaten]]

@@ -1,0 +1,21 @@
+== Signification ==
+'''REEEBOOT''' est un jeu de mots conçu par Jean Christophe Chaussat, président et cofondateur de l'[[Institut du Numérique Responsable|INR]] qui intègre le terme anglais de "reboot" et du sigle "EEE" afin de désigner le redémarrage  des équipements électriques et électroniques. 
+
+REEEboot est un programme pour aider les associations porteuses de projets œuvrant contre la fracture sociale et favorisant le retour à l’emploi, à bénéficier d'équipements informatiques nécessaires pour mener à bien leur activité. 
+
+== Description du programme ==
+Le programme REEEboot s’inscrit dans une démarche de [[développement durable]] en assurant le démantèlement ou la réhabilitation de matériel informatique usagé. 
+
+Il contribue également à créer de l’emploi au sein des structures de l’[[Economie Sociale et Solidaire|Économie Sociale et Solidaire]] qui œuvrent pour l’insertion par l’activité économique : 
+
+* Les Ateliers du Bocage,
+* [https://www.rebootecosysteme.org Reboot Ecosystème],
+* Les Ateliers Sans Frontières,
+* etc...
+
+Ces structures, dans la logique de développement durable, récupèrent les équipements informatiques usagés, notamment ceux de Pôle Emploi, afin de les revaloriser ou de les démanteler dans le respect de la réglementation en vigueur, s'ils ne répondent pas aux critères minimums de qualité.
+
+== Voir aussi ==
+
+=== Liens externes ===
+* Site du programme [http://www.reeeboot.fr/ reeeboot] de l'INR

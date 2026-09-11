@@ -1,0 +1,13 @@
+== Définition ==
+Les '''BCR''' (''Binding Corporate Rules''), en français « règles d’entreprise contraignantes », encadrent juridiquement les transferts de données d’un groupe hors de l’[[EEE|Union européenne]]. Elles permettent aussi d’engager une mise en conformité globale à l’échelle du groupe. Cela permet d’unifier les règles concernant le traitement des données personnelles par leurs filiales.
+
+Elles sont définies dans l’article 4 du [[RGPD]] : « règles internes relatives à la protection des données à caractère personnel qu’applique un responsable du traitement ou un sous-traitant établi sur le territoire d’un État membre pour des transferts ou pour un ensemble de transferts de données à caractère personnel à un responsable du traitement ou à un sous-traitant établi dans un ou plusieurs pays tiers au sein d’un groupe d’entreprises, ou d’un groupe d’entreprises engagées dans une activité économique conjointe. <ref>Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016, relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) - [https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre1#Article4 Article 4 - Définitions]</ref>»
+
+== Voir aussi ==
+
+=== Références ===
+<references />
+
+=== Liens Externes ===
+* [https://www.cnil.fr/fr/ce-quil-faut-savoir-sur-les-regles-dentreprise-contraignantes-bcr Ce qu’il faut savoir sur les règles d'entreprise contraignantes (BCR)]
+* [https://www.cnil.fr/fr/comment-preparer-un-dossier-de-bcr Comment préparer un dossier de BCR ?]

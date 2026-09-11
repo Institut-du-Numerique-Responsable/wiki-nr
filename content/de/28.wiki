@@ -1,0 +1,47 @@
+Die '''Power Usage Effectiveness''' (PUE) ist die bekannteste Energieeffizienzkennzahl für [[Rechenzentrum|Rechenzentren]]. Sie setzt den gesamten Stromverbrauch der Einrichtung ins Verhältnis zum Stromverbrauch der dort betriebenen IT-Ausstattung.
+
+ PUE = gesamter Stromverbrauch / Stromverbrauch der IT-Ausstattung
+
+Der '''Gesamtverbrauch''' umfasst Kühlung, Luftaufbereitung, Beleuchtung, Stromverteilung und unterbrechungsfreie Stromversorgung. Die '''IT-Seite''' umfasst Server, Netzwerktechnik, Speicher und Sicherung.
+
+Je näher der Wert bei 1 liegt, desto kleiner der Anteil, der auf alles entfällt, was nicht rechnet. Neuere Anlagen nennen Werte zwischen 1,1 und 1,3, ältere überschreiten häufig 2. Der theoretische Grenzwert ist 1.
+
+Ein Punkt wird regelmäßig missverstanden: Die PUE zählt den Verbrauch, nicht seine Herkunft. Der Bezug von Ökostrom verändert das Verhältnis nicht, denn die Kennzahl sagt nichts darüber aus, woher die Energie stammt.
+
+== Genormte Definition ==
+
+Die Kennzahl ist durch '''ISO/IEC 30134-2:2016''' und die europäische Norm '''EN 50600-4-2''' definiert.
+
+Der französische Referenzrahmen [[RGESN]] formuliert sie als Verhältnis zwischen der gesamten vom Betriebszentrum verbrauchten Energie, einschließlich Kühlung, Luftaufbereitung und unterbrechungsfreier Stromversorgung, und dem Teil, der tatsächlich von den betriebenen Rechensystemen verbraucht wird.
+
+== Reichweite und Grenzen ==
+
+Die PUE ist nützlich und wird regelmäßig überinterpretiert. Drei Grenzen sollte man kennen.
+
+'''Sie misst nicht die Effizienz der Datenverarbeitung.''' Server durch andere zu ersetzen, die doppelt so viel ziehen und ebenso wenig ausgelastet sind, '''verbessert''' die PUE. Ein Rechenzentrum, dessen Server bei 5 % Last laufen, kann einen hervorragenden Wert ausweisen und dabei den Großteil der bezogenen Energie verschwenden.
+
+'''Sie blendet die Herstellung aus.''' Die Kennzahl erfasst allein die Nutzungsphase, während die [[Herstellung]] der Geräte einen erheblichen Teil der Wirkung über den gesamten Lebenszyklus ausmacht.
+
+'''Sie hängt stark vom Klima ab und kann das Problem zum Wasser verschieben.''' Eine Anlage in kaltem Klima oder mit Verdunstungskühlung erreicht mechanisch eine bessere PUE, mitunter um den Preis eines hohen Wasserverbrauchs, den die PUE nicht sieht.
+
+Ein vierter Effekt folgt aus der Formel selbst: Eine gering ausgelastete Anlage weist eine schlechtere PUE aus, weil sich der feste Verbrauch auf weniger Rechenleistung verteilt.
+
+Die PUE gehört deshalb neben die Kennzahlen für Kohlenstoff und Wasser, neben die Herkunft der Energie und vor allem neben den '''tatsächlichen Auslastungsgrad''' der Server.
+
+== Im Rahmen der verantwortungsvollen Digitalisierung ==
+
+Die beste Kennzahl ist jene, die kein Verhältnis erfasst: das Gerät, das gar nicht erst aufgestellt wird. Bevor eine PUE optimiert wird, stellt die [[Digitale Suffizienz|digitale Suffizienz]] den Bedarf selbst infrage, ebenso die Aufbewahrungsdauer der Daten und den wirklichen Nutzungsgrad der Ressourcen.
+
+== Siehe auch ==
+
+* [[Rechenzentrum]] · [[Herstellung]] · [[CO₂-Fußabdruck]] · [[Ökobilanz]] · [[Digitale Suffizienz]] · [[Verantwortungsvolle Digitalisierung]]
+
+== Normen ==
+
+* ISO/IEC 30134-2:2016, ''Information technology — Data centres — Key performance indicators — Part 2: Power usage effectiveness (PUE)''
+* EN 50600-4-2, ''Information technology — Data centre facilities and infrastructures — Part 4-2: Power Usage Effectiveness''
+
+[[fr:Power_Usage_Effectiveness]]
+[[en:Power_Usage_Effectiveness]]
+[[es:Power_Usage_Effectiveness]]
+[[nl:Power_Usage_Effectiveness]]

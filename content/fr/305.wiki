@@ -1,0 +1,17 @@
+L’'''extraction''' désigne le prélèvement des matières premières nécessaires à la [[Fabrication|fabrication]] des équipements numériques : métaux communs, métaux critiques, [[Terres_Rares|terres rares]], sables siliceux.
+
+== Pourquoi elle compte ==
+
+C’est la première étape du cycle de vie, et celle qui engage l’essentiel des impacts sur les [[Ressources_primaires|ressources primaires]]. Elle mobilise de l’énergie, de l’[[Empreinte_Eau|eau]], des surfaces, et produit des rejets.
+
+Le rapport entre matière extraite et matière contenue dans l’objet fini est très défavorable pour l’électronique, du fait des concentrations faibles des métaux recherchés et de la pureté exigée pour les composants.
+
+== Dimension sociale ==
+
+L’extraction pose des questions qui dépassent l’environnement : conditions de travail, sécurité, droits humains, conflits liés au contrôle des gisements. Ces enjeux relèvent du volet social du [[Numérique_Responsable|numérique responsable]] (voir [[Human_for_IT]]).
+
+== Voir aussi ==
+
+* [[Empreinte_Matière|Empreinte matière]] · [[Terres_Rares|Terres rares]] · [[Ressources_primaires|Ressources primaires]] · [[Abiotique]] · [[Fabrication]] · [[Economie_Circulaire|Économie circulaire]] · [[Recyclage_des_déchets|Recyclage]]
+
+[[Catégorie:Concepts]]

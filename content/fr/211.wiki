@@ -1,0 +1,29 @@
+La '''chaîne de valeur de l’IA''' désigne l’ensemble des étapes nécessaires à la conception et au fonctionnement d’un système d’[[Intelligence_Artificielle|intelligence artificielle]].
+
+== Étapes ==
+
+# '''Extraction et fabrication''' du matériel : processeurs graphiques, serveurs, réseau ;
+# '''Collecte et préparation''' des [[Données_d'entraînement|données]], incluant l’annotation, souvent réalisée par des travailleurs peu rémunérés ;
+# '''Entraînement''' du modèle, phase de calcul intensive et concentrée dans le temps ;
+# '''Hébergement''' dans des [[DataCenter|centres de données]] ;
+# '''Utilisation''' : chaque requête déclenche une [[Inférence|inférence]] ;
+# '''Maintenance''' : réentraînements, mises à jour, remplacement du matériel ;
+# '''[[Fin_de_Vie|Fin de vie]]''' des équipements.
+
+== Pourquoi la vision par chaîne compte ==
+
+Le débat public se concentre sur l’entraînement des grands modèles. Or pour un service en production, l’inférence répétée finit par dépasser le coût de l’entraînement, et la [[Fabrication|fabrication]] du matériel reste un poste majeur sur l’ensemble du cycle.
+
+Les impacts sont par ailleurs '''répartis''' : extraction minière dans certains pays, annotation dans d’autres, calcul ailleurs encore. Une évaluation limitée au périmètre de l’organisation utilisatrice en manque l’essentiel.
+
+== Voir aussi ==
+
+* [[Analyse_du_Cycle_de_Vie|Analyse du Cycle de Vie]]
+* [[Inférence]]
+* [[DataCenter]]
+* [[Fabrication]]
+* [[Empreinte_Carbone|Empreinte Carbone]]
+* [[Empreinte_Eau|Empreinte Eau]]
+* [[IA_Responsable|IA Responsable]]
+
+[[Catégorie:Intelligence artificielle]]

@@ -1,0 +1,22 @@
+== Définition ==
+L'efficacité énergétique est un ratio entre l'énergie investie dans un processus au regard de l'énergie utile.
+
+L'efficacité énergétique peut être calculée à l'échelle :  
+
+* d'un composant électronique, 
+* d'une machine, 
+* d'un service numérique, 
+* d'un datacenter. 
+
+== Dans le cadre du Numérique Responsable ==
+
+=== Pour les datacenters ===
+La performance énergétique des [[DataCenter|datacenters]] est calculé au travers du [[Power Usage Effectiveness|PUE]] (Power Usage Effectiveness). Le PUE est de nos jours un indicateur reconnu pour mesurer l'efficacité énergétique d'un centre informatique, il est donc possible de demander le PUE de différents centres afin de les comparer et pouvoir choisir lequel offre la meilleure rentabilité énergétique d'alimentation électrique. Il peut par ailleurs exister d'autres formes d'énergie dans un datacenter.
+
+L'informatique d'un datacenter correspond en moyenne à 50% de la consommation énergétique <ref>https://www.actu-environnement.com/media/pdf/news-27968-data-center-atee.pdf</ref>. Le refroidissement représente en moyenne 40 % de la consommation énergétique<ref>https://www.actu-environnement.com/media/pdf/news-27968-data-center-atee.pdf</ref>.
+
+== Voir aussi ==
+
+=== Liens externes ===
+* https://atee.fr/
+* https://www.ademe.fr/

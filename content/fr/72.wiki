@@ -1,0 +1,69 @@
+L’'''indice de réparabilité''' est une note sur 10 affichée au moment de l’achat, informant sur le caractère plus ou moins réparable d’un équipement électrique ou électronique.
+
+Il vise à orienter l’acheteur vers des produits réparables et à faire de la réparation le premier réflexe en cas de panne, contre l’[[Obsolescence_Programmée|obsolescence]].
+
+== Cadre légal ==
+
+L’indice découle de la '''loi AGEC''' (loi n° 2020-105 du 10 février 2020 relative à la lutte contre le gaspillage et à l’économie circulaire), précisée par le décret n° 2020-1757 du 29 décembre 2020.
+
+Son affichage est obligatoire depuis le '''1{{er}} janvier 2021''', d’abord pour cinq catégories : smartphones, ordinateurs portables, téléviseurs, lave-linge à hublot et tondeuses à gazon électriques. D’autres catégories ont été ajoutées depuis.
+
+== Méthode de calcul ==
+
+La note repose sur cinq critères :
+
+* '''documentation''' : engagement de mise à disposition des documents techniques aux réparateurs et aux consommateurs, exprimé en années ;
+* '''démontabilité''' : facilité de démontage, nature des fixations et outils nécessaires ;
+* '''disponibilité des pièces détachées''' et délai de livraison ;
+* '''prix des pièces détachées''', rapporté au prix du produit ;
+* '''critère spécifique''' à la catégorie d’équipement.
+
+Chaque critère se subdivise en sous-critères. Le détail de la notation doit être mis à disposition de l’acheteur par le vendeur, et le fabricant conserve les pièces justificatives en cas de contrôle.
+
+== Remplacement par l’indice de durabilité ==
+
+La loi AGEC prévoyait le passage à un '''indice de durabilité''', plus large. Le décret n° 2024-316 du 5 avril 2024 en fixe les modalités.
+
+Le remplacement est progressif, par catégorie de produits :
+
+* '''téléviseurs''' : depuis le 8 janvier 2025 ;
+* '''lave-linge''' : depuis le 8 avril 2025.
+
+L’indice de durabilité conserve les critères de réparabilité et y ajoute des critères de '''fiabilité''' : résistance à l’usure et aux contraintes, facilité d’entretien et de maintenance, durée de garantie, existence de mises à jour logicielles.
+
+Ce déplacement est significatif. La réparabilité mesure ce qu’il est possible de faire après la panne ; la durabilité intègre la probabilité que la panne survienne. Pour les équipements numériques, la disponibilité des mises à jour logicielles est souvent le facteur qui détermine réellement la fin d’usage, un appareil en parfait état devient inutilisable faute de support.
+
+== Portée pour le numérique responsable ==
+
+L’allongement de la durée d’usage est le levier le plus efficace de réduction de l’impact du numérique, la [[Fabrication|fabrication]] concentrant l’essentiel des émissions et de l’[[Empreinte_Matière|empreinte matière]] d’un équipement.
+
+L’indice donne à l’acheteur, particulier comme organisation, un critère opposable au moment de la décision. Intégré à une politique d’achat (voir [[Guide_des_Achats_Numériques_Responsables|Guide des Achats Numériques Responsables]]), il complète le raisonnement en [[Coût_total_de_possession|coût total de possession]] : un équipement réparable coûte moins cher rapporté à sa durée de vie.
+
+== Limites ==
+
+* la note est '''déclarative''', calculée par le fabricant lui-même, les contrôles restant limités ;
+* elle porte sur la '''possibilité''' de réparer, non sur la réalité de l’offre de réparation ni sur son coût effectif ;
+* elle ne dit rien de la durée de '''support logiciel''', déterminante pour un équipement numérique ; l’indice de durabilité corrige ce point.
+
+== Voir aussi ==
+
+* [[Obsolescence_Programmée|Obsolescence Programmée]]
+* [[Economie_Circulaire|Economie Circulaire]]
+* [[Réemploi]]
+* [[Reconditionnement]]
+* [[Fin_de_Vie|Fin de Vie]]
+* [[Déchets_d’Équipements_Électriques_et_Électroniques|Déchets d’Équipements Électriques et Électroniques]]
+* [[Coût_total_de_possession|Coût total de possession]]
+* [[Guide_des_Achats_Numériques_Responsables|Guide des Achats Numériques Responsables]]
+* [[Ecolabel]]
+
+=== Références ===
+
+* Ministère de la Transition écologique : [https://www.ecologie.gouv.fr/politiques-publiques/indice-durabilite Indice de durabilité]
+* economie.gouv.fr : [https://www.economie.gouv.fr/particuliers/mes-droits-conso/bien-consommer/tout-savoir-sur-lindice-de-reparabilite Tout savoir sur l’indice de réparabilité]
+* Légifrance : [https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042837821 Décret n° 2020-1757 du 29 décembre 2020]
+* Légifrance : [https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049375315 Décret n° 2024-316 du 5 avril 2024 relatif à l’indice de durabilité]
+
+[[Catégorie:Réglementation]]
+[[Catégorie:Cycle de vie des équipements]]
+[[es:Índice de Reparabilidad]]

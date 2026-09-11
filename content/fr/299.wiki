@@ -1,0 +1,73 @@
+Le '''clausier numérique écoresponsable''' est un référentiel de clauses contractuelles et de critères de sélection destinés à intégrer les exigences du [[Numérique_Responsable|numérique responsable]] dans les marchés publics et privés.
+
+Il est publié par l’[[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]] et la French Tech Corporate Community (FTCC). La version 1.0 date du 8 novembre 2024 ; les travaux ont été pilotés par Richard Bury et Claire Lardière (EDF). La '''version 2''' est parue en août 2026.
+
+== Ce qu’il résout ==
+
+Une politique d’achat responsable se heurte à un obstacle pratique : traduire une intention en exigence opposable. Un acheteur peut vouloir des équipements durables ou un hébergement sobre, encore faut-il l’écrire dans un document contractuel, sous une forme vérifiable et non discriminatoire.
+
+Le clausier fournit ce matériau prêt à l’emploi, ce qui évite à chaque organisation de le réécrire.
+
+== Structure ==
+
+Le document est organisé par '''segment d’achats'''. Pour chacun, il distingue deux moments :
+
+; En amont, la sélection
+: des critères formulés sous forme de questionnaire, permettant d’évaluer et de comparer les soumissionnaires
+; Pendant l’exécution, les exigences
+: des clauses à intégrer aux documents contractuels : notamment le CCTP, et qui s’appliquent au titulaire sur toute la durée du marché
+
+Cette distinction est importante : un critère de sélection départage des candidats, une clause contractuelle engage le titulaire dans la durée. Confondre les deux produit des marchés dont les engagements environnementaux ne sont pas exigibles.
+
+== Versions ==
+
+=== Version 1 (novembre 2024) ===
+
+La première version portait sur la seule '''écoresponsabilité''' : impact environnemental des équipements, des services et de l’hébergement. Elle laissait de côté les autres dimensions du [[Numérique_Responsable|numérique responsable]].
+
+=== Version 2 (août 2026) ===
+
+La version 2 élargit sensiblement le périmètre en intégrant trois volets absents de la première :
+
+* l’'''[[Intelligence_Artificielle|intelligence artificielle]]''' : critères applicables à l’achat de services et de systèmes d’IA, en cohérence avec l’[[AI_Act|AI Act]] et la démarche d’[[IA_Responsable|IA responsable]] : utilité du cas d’usage, transparence, supervision humaine, empreinte des [[Inférence|inférences]] ;
+* la '''[[Souveraineté_numérique|souveraineté]]''' : localisation des données et droit applicable, [[Réversibilité|réversibilité]] contractuelle et technique, prévention du [[Vendor_lock-in|verrouillage fournisseur]], maintien des compétences ;
+* la '''dimension sociale''' des achats : conditions de production tout au long de la chaîne d’approvisionnement, [[Accessibilité_Numérique|accessibilité]] des livrables, [[Inclusion|inclusion]], et exigences relatives au travail associé aux services numériques (voir [[Human_for_IT|Human for IT]]).
+
+Cette extension aligne le clausier sur le périmètre complet du numérique responsable, là où la version 1 se limitait au volet [[Green_IT|Green IT]].
+
+== Lien avec la réglementation ==
+
+Le clausier répond notamment à la [[CSRD]], qui impose aux entreprises concernées de mesurer et de publier les émissions de leur chaîne de valeur. Les services numériques achetés relèvent des émissions indirectes, le scope 3 du [[GHG_Protocol|GHG Protocol]], que l’acheteur ne peut documenter que si ses fournisseurs s’y engagent contractuellement.
+
+C’est le mécanisme par lequel une exigence réglementaire pesant sur un donneur d’ordre se propage à ses fournisseurs.
+
+== Public visé ==
+
+Responsables Green IT, acheteurs et juristes de la commande publique, directions des systèmes d’information, ainsi que les entreprises de services du numérique et fournisseurs de cloud qui répondent à ces marchés.
+
+== Articulation avec les autres outils ==
+
+* le [[Guide_des_Achats_Numériques_Responsables|Guide des Achats Numériques Responsables]] expose la démarche d’achat ;
+* le clausier fournit la matière contractuelle ;
+* le [[RGESN]] et le [[GR491]] définissent les exigences techniques auxquelles les clauses peuvent renvoyer ;
+* le [[Label_NR|Label NR]] atteste de la démarche d’ensemble de l’organisation ;
+* le raisonnement en [[Coût_total_de_possession|coût total de possession]] fournit l’argument économique qui rend ces exigences défendables en interne.
+
+== Voir aussi ==
+
+* [[Guide_des_Achats_Numériques_Responsables|Guide des Achats Numériques Responsables]]
+* [[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]]
+* [[CSRD]]
+* [[RGESN]]
+* [[GR491]]
+* [[Label_NR|Label NR]]
+* [[Coût_total_de_possession|Coût total de possession]]
+* [[Indice_de_réparabilité|Indice de réparabilité]]
+* [[TCO_Certified|TCO Certified]]
+* [[Ecolabel]]
+
+=== Références ===
+
+* Institut du Numérique Responsable : [https://institutnr.org/clausier-numerique-ecoresponsable Clausier numérique écoresponsable]
+
+[[Catégorie:Référentiels et méthodes]]

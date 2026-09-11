@@ -1,0 +1,21 @@
+Ein '''SLM''' (''Small Language Model'', kleines Sprachmodell) ist ein Sprachmodell mit geringer Größe, das häufig auf ein Fachgebiet oder eine Aufgabe spezialisiert ist.
+
+== Vorteile ==
+
+* '''Geringerer [[:fr:Inférence|Inferenzaufwand (FR)]]''': ein bis zwei Größenordnungen weniger als bei einem [[:fr:LLM|großen Modell (FR)]].
+* '''Lokale Ausführung''' ist möglich, auch auf einem Arbeitsplatzrechner: Die Daten verlassen das Informationssystem nicht.
+* '''Geringere Latenz'''.
+* '''Geringerer Fußabdruck''' sowohl beim Training als auch bei der Nutzung.
+
+Bei einer klar abgegrenzten Aufgabe, etwa Anfragen zu klassifizieren, Felder zu extrahieren oder Texte nach einer Vorlage umzuformulieren, erreicht ein passend angepasstes SLM häufig das Niveau eines großen Allzweckmodells.
+
+Damit wird '''ressourcensparsame KI''' konkret: das kleinste Modell wählen, das den Bedarf erfüllt.
+
+== Siehe auch ==
+
+* [[:fr:LLM|LLM (FR)]] · [[:fr:Inférence|Inferenz (FR)]] · [[Fine-Tuning|Fine-Tuning]] · [[Verantwortungsvolle KI|Verantwortungsvolle KI]] · [[Digitale Suffizienz|Digitale Suffizienz]] · [[:fr:Infrastructure d'IA|KI-Infrastruktur (FR)]]
+
+[[Kategorie:Künstliche Intelligenz]]
+[[fr:SLM]]
+[[en:SLM]]
+[[es:SLM]]

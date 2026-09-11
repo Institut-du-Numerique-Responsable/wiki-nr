@@ -1,0 +1,30 @@
+'''Maschinelles Lernen''' (''Machine Learning'') ist eine Methode, mit der ein Programm aus Daten lernt, anstatt ausdrücklich programmiert zu werden. Der Algorithmus erkennt Regelmäßigkeiten in einer Sammlung von Beispielen und nutzt sie für Vorhersagen oder Klassifikationen.
+
+== Wichtigste Formen ==
+
+; Überwachtes Lernen
+: Das Modell lernt anhand gekennzeichneter Beispiele: ein Bild und seine Bezeichnung oder eine Transaktion und die Angabe, ob sie betrügerisch ist.
+; Unüberwachtes Lernen
+: Das Modell gruppiert nicht gekennzeichnete Daten anhand ihrer Ähnlichkeiten.
+; Bestärkendes Lernen
+: Das Modell lernt durch Versuche und Belohnungen, ohne vorgegebene Beispiele.
+
+== Folgen ==
+
+Das Verhalten des Systems ergibt sich aus den [[Trainingsdaten|Trainingsdaten]], nicht aus einer von einem Menschen geschriebenen Regel. Daraus folgen zwei Punkte:
+
+* Mängel der Daten werden zu Mängeln des Modells (siehe [[:fr:Biais algorithmique|Algorithmische Verzerrung (FR)]]).
+* Eine Entscheidung lässt sich nur schwer begründen. Das wird zum Problem, sobald die Entscheidung einen Menschen betrifft.
+
+== Siehe auch ==
+
+* [[Deep Learning|Deep Learning]]
+* [[KI-Modell|KI-Modell]]
+* [[Trainingsdaten|Trainingsdaten]]
+* [[:fr:Biais algorithmique|Algorithmische Verzerrung (FR)]]
+* [[:fr:Intelligence Artificielle|Künstliche Intelligenz (FR)]]
+
+[[Kategorie:Künstliche Intelligenz]]
+[[fr:Apprentissage automatique]]
+[[en:Machine learning]]
+[[es:Aprendizaje automático]]

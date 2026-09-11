@@ -1,0 +1,25 @@
+Un '''deepfake interne''' est un contenu audio, vidéo ou visuel généré ou modifié par une [[Intelligence_Artificielle|intelligence artificielle]], imitant une personne réelle de l’organisation, collègue, responsable, dirigeant, dans un contexte professionnel.
+
+== Usages légitimes et détournements ==
+
+Certains usages sont assumés : modules de formation, simulations d’incident, messages internes traduits ou doublés. Ils supposent le consentement de la personne représentée et une mention explicite du caractère synthétique du contenu.
+
+Le détournement principal est la '''fraude au président''' : un appel ou une visioconférence imitant la voix et l’image d’un dirigeant pour obtenir un virement ou un accès. La qualité des imitations rend inopérante la vérification par simple reconnaissance.
+
+== Mesures ==
+
+* '''Procédures de validation indépendantes du canal''' : une demande inhabituelle se confirme par un second moyen, choisi par le destinataire ;
+* '''Règles internes''' sur l’usage de l’image et de la voix des collaborateurs, adossées au [[Règlement_Général_sur_la_Protection_des_Données|RGPD]] ;
+* '''Marquage''' systématique des contenus synthétiques produits en interne, cohérent avec les obligations de transparence de l’[[AI_Act|AI Act]] ;
+* '''Sensibilisation''' : savoir que la falsification est devenue accessible compte davantage que savoir la détecter.
+
+== Voir aussi ==
+
+* [[Cybersécurité]]
+* [[IA_générative|IA générative]]
+* [[AI_Act|AI Act]]
+* [[Donnée_personnelle|Donnée personnelle]]
+* [[IA_Responsable|IA Responsable]]
+
+[[Catégorie:Intelligence artificielle]]
+[[Catégorie:Sécurité]]

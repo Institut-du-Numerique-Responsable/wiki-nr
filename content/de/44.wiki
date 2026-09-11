@@ -1,0 +1,19 @@
+'''Kontextuelles Prompting''' bedeutet, einen [[:fr:Prompt|Prompt (FR)]] um Rahmeninformationen zu ergänzen, etwa die erwartete Rolle, Einschränkungen, das Ausgabeformat und Beispiele, um die Relevanz der Antwort zu verbessern.
+
+Es ist die am wenigsten aufwendige Alternative zum [[Fine-Tuning|Fine-Tuning]]: kein erneutes Training, eine sofortige Änderung und ein häufig bereits ausreichendes Ergebnis.
+
+== Was funktioniert ==
+
+* Das erwartete '''Format festlegen''', statt es nachträglich zu korrigieren.
+* '''Beispiele geben''', die das gewünschte Ergebnis zeigen und wirksamer sind als eine abstrakte Anweisung.
+* '''Einschränkungen ausdrücklich nennen''': Länge, Ton und Inhalte, die nicht erzeugt werden sollen.
+* Den '''notwendigen Kontext bereitstellen''', ohne ihn unnötig auszuweiten: Ein langer Kontext erhöht den Aufwand jeder [[:fr:Inférence|Inferenz (FR)]].
+
+== Siehe auch ==
+
+* [[:fr:Prompt|Prompt (FR)]] · [[Fine-Tuning|Fine-Tuning]] · [[RAG|RAG]] · [[:fr:LLM|LLM (FR)]] · [[:fr:Inférence|Inferenz (FR)]]
+
+[[Kategorie:Künstliche Intelligenz]]
+[[fr:Prompting contextuel]]
+[[en:Contextual prompting]]
+[[es:Prompting contextual]]

@@ -1,0 +1,63 @@
+Le '''RGESN''' (''Référentiel général d’écoconception de services numériques'') est un référentiel public français qui recense les bonnes pratiques d’[[Ecoconception|écoconception]] applicables à un [[Service_numérique|service numérique]] tout au long de son cycle de vie.
+
+== Définition ==
+
+Le RGESN prend la forme d’une liste de critères formulés sous forme de questions, auxquelles l’équipe en charge d’un service numérique répond pour évaluer sa démarche d’écoconception. Le référentiel n’a pas valeur contraignante. Il fournit un cadre commun, utilisable aussi bien pour concevoir un nouveau service que pour améliorer un service existant.
+
+Son objectif est de réduire l’empreinte environnementale des services numériques en agissant en priorité sur les causes principales : la fabrication des terminaux, la sollicitation des équipements utilisateurs et le volume de données échangées et stockées.
+
+== Origine et cadre légal ==
+
+Le RGESN découle de la loi n° 2021-1485 du 15 novembre 2021 visant à réduire l’empreinte environnementale du numérique, dite '''loi REEN'''.
+
+Une première version a été publiée en 2022 par la mission interministérielle Numérique écoresponsable. La version en vigueur, dite '''version 2024''', a été publiée en mai 2024 par l’[[Autorité_de_Protection_des_Données|Arcep]] et l’Arcom, en coordination avec l’[[Agence_de_la_Transition_Écologique|ADEME]], après une consultation publique menée à l’automne 2023.
+
+== Structure ==
+
+La version 2024 comporte '''78 critères''' répartis en '''9 thématiques''' :
+
+# Stratégie
+# Spécifications
+# Architecture
+# UX/UI
+# Contenus
+# Frontend
+# Backend
+# Hébergement
+# Algorithmie
+
+Chaque critère est caractérisé par trois dimensions :
+
+* la '''difficulté''' de mise en œuvre (faible, moyenne, forte) ;
+* la '''priorité''' (prioritaire, recommandé, modéré) ;
+* l’'''applicabilité''', un critère pouvant être sans objet selon la nature du service.
+
+Chaque critère est accompagné d’une fiche pratique précisant les modalités de mise en œuvre et les moyens de vérification.
+
+== Différence avec le GR491 ==
+
+Le RGESN et le [[GR491]] poursuivent le même but mais relèvent de logiques différentes. Le RGESN est un référentiel public, issu d’une obligation légale, volontairement resserré pour rester praticable. Le [[GR491]], publié par l’[[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]], est un guide associatif beaucoup plus étendu, qui vise l’exhaustivité et couvre un périmètre plus large que la seule écoconception.
+
+Les deux sont complémentaires : le RGESN sert de socle d’évaluation, le [[GR491]] de bibliothèque de mise en œuvre.
+
+== Voir aussi ==
+
+* [[Ecoconception]]
+* [[GR491]]
+* [[ISO/IEC TS 20125]]
+* [[AFNOR SPEC 2201]]
+* [[Numérique_Responsable|Numérique Responsable]]
+* [[Service_numérique|Service numérique]]
+* [[Sobriété_Numérique|Sobriété Numérique]]
+* [[Empreinte_Carbone|Empreinte Carbone]]
+
+=== Références externes ===
+
+* [https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/ Référentiel général d’écoconception de services numériques : Numérique écoresponsable]
+* [https://www.arcep.fr/mes-demarches-et-services/entreprises/fiches-pratiques/referentiel-general-ecoconception-services-numeriques.html Fiche pratique RGESN : Arcep]
+
+[[Catégorie:Référentiels et méthodes]]
+[[de:RGESN]]
+[[en:RGESN]]
+[[es:RGESN]]
+[[nl:RGESN]]

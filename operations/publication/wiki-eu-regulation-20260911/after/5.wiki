@@ -1,0 +1,24 @@
+The '''Cyber Resilience Act''' (CRA), Regulation (EU) 2024/2847, establishes cybersecurity requirements for products with digital elements. It covers relevant hardware and software placed on the market, with exclusions and specific regimes. Assess the product and the organisation's role as manufacturer, importer, distributor or user against the [https://eur-lex.europa.eu/eli/reg/2024/2847/oj official legislation].
+
+== Why IT departments are concerned ==
+A software supplier needs to examine manufacturer responsibilities. An IT buyer can consider vulnerability handling and support duration during procurement. Developing an application, distributing a component and operating a cloud service do not automatically produce the same legal classification.
+
+The rules address security across the product lifecycle, vulnerability handling and information for users. The [https://digital-strategy.ec.europa.eu/en/policies/cra-summary Commission's summary] explains scope, roles and transitional arrangements.
+
+== Application dates ==
+Article 14 reporting obligations apply from '''11 September 2026'''. They concern actively exploited vulnerabilities and severe incidents affecting product security, under the conditions in the regulation. General application starts on 11 December 2027. The Commission describes the [https://digital-strategy.ec.europa.eu/en/policies/cra-reporting reporting arrangements]. Different obligations have different starting dates.
+
+== Procurement and equipment lifetime ==
+When buying a connected device, ask about its announced support period, update process and vulnerability reporting channel. Check whether updates remain compatible with deployed hardware and what the organisation will do when support ends.
+
+This connects with [[Sustainable IT|sustainable IT]]: continued maintenance can support longer use of working equipment. CRA compliance does not certify a low environmental footprint. Repairability, energy consumption and life-cycle impacts require separate assessment.
+
+== IT example ==
+Before purchasing industrial gateways, involve operations, security and procurement. Identify who receives alerts, tests patches and tracks deployed versions. Account for equipment that is difficult to interrupt and test recovery arrangements. These responsibilities continue after delivery. Sources checked on 11 September 2026.
+
+== See also ==
+* [[Cybersecurity]]
+* [[NIS2]]
+
+[[Category:Regulation]]
+[[fr:Cyber Resilience Act]]

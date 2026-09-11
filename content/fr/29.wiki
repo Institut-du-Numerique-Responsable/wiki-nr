@@ -1,0 +1,147 @@
+== Définition ==
+Un centre de données est une entité physique qui regroupe le bâtiment, les équipements informatiques assurant le stockage, le traitement et la communication des données, et les équipements non informatiques : blocs réfrigérants, contrôles d’accès, alimentation électrique avec ses arrivées, ses secours et ses onduleurs. 
+
+La définition du datacenter est détaillée dans les normes EN 50600 et IEC30164. 
+
+Les Data Center peuvent se classer en trois grandes catégories :    
+
+* les Data Center classiques,  
+* les Hyper data centers,
+* les Datas Centers de type "edge computing"
+
+== Dans le cadre du Numérique Responsable ==
+Les data centers classiques sont généralement privés, appartenant à une entreprise, et ont une [[efficacité énergétique]] moyenne.
+
+Les hyper data centers sont conçus "pour réaliser des économies d'échelle entre 10 et des centaines de GWh"<ref>https://www.senat.fr/notice-rapport/2019/r19-555-notice.html</ref> mais ont une [[efficacité énergétique]] moindre que les data centers classiques nationaux.
+
+Les data centers de type "edge computing" (ou "edge cloud") sont de petite taille et sont à plus grande proximité des utilisateurs (exemple: sur un site industriel). La technologie est encore peu développée et utilisée. Ceux-ci répondent au besoin de "déconcentrer voire décentraliser le traitement et/ou le stockage des données dans des équipements plus proches des utilisateurs (hommes ou machines)"<ref>https://theshiftproject.org/article/deployer-la-sobriete-numerique-rapport-shift/</ref>.
+
+L'impact énergétique d’un centre de données peut être très importante, les plus importants pouvant consommer autant d’électricité qu’une ville moyenne. 
+
+Leur activité peut également entraîner une intense dissipation de chaleur, que certains modèles innovants s’efforcent de réutiliser. Les synergies entre data centers et réutilisation de l'énergie sont multiples. Les data centers peuvent "augmenter la capacité d'accueil en énergies renouvelables localement et en optimiser leur consommation". Des exemples existent déjà au Royaume-Uni, en Irlande, en Norvège et en Suède. 
+
+== Référentiels ==
+
+=== Classe de disponibilité (tiering) ===
+Plusieurs référentiels définissant les niveaux de disponibilité des Data centers et les infrastructures associées ont été publiés ces dernières années tels que les standards américains ANSI/TIA-942 et BICSI 002. Au niveau européen, le CENELEC préconise de se référer aux normes de la série EN 50600.
+
+=== Code de Conduite pour les data center (Directive UE) ===
+Le code of conduct ou code de conduite a été créé en réponse à l'augmentation de la consommation d'énergie dans les centres de données et à la nécessité de réduire les impacts environnementaux, économiques et de sécurité de l'approvisionnement énergétique. L'objectif est d'informer et de stimuler les opérateurs et les propriétaires de centres de données à réduire la consommation d'énergie de manière rentable sans nuire à la fonction critique des centres de données. Le code de conduite vise à atteindre cet objectif en améliorant la compréhension de la demande d'énergie au sein du centre de données, en sensibilisant et en recommandant les meilleures pratiques et objectifs d'efficacité énergétique.
+
+Ce code de conduite est une initiative volontaire visant à rassembler les parties prenantes intéressées, y compris la coordination d'autres activités similaires par les fabricants, les fournisseurs, les consultants et les services publics. Les parties signataires devront suivre l'intention de ce code de conduite et soutenir un ensemble d'engagements convenus.
+
+Le Code de conduite européen pour les centres de données a été lancé en 2008 dans le but d'améliorer l'efficacité énergétique des centres de données, un secteur de consommation d'énergie croissante (qui devrait atteindre 100 TWh en 2020). Le code de conduite est une initiative gérée par le CCR, qui établit des normes ambitieuses pour les entreprises désireuses de participer (participants). Le code de conduite identifie et se concentre sur les problèmes clés et les solutions convenues, décrits dans le document sur les meilleures pratiques. Outre les participants, les entreprises (fournisseurs, consultants, associations professionnelles) peuvent également promouvoir le code de conduite auprès de leurs clients. Ces entreprises sont reconnues comme Endorsers.
+
+Les participants qui réduisent considérablement leur consommation d'énergie sont éligibles aux prix annuels du code de conduite des centres de données de l'UE.
+== Les Indicateurs Numérique Responsable des Data Center ==
+
+=== Indicateurs de performance énergétique ===
+
+* Consommation d'électricité
+** Consommation électrique totale
+** Consommations par usages ( climatisation, ventilation, sécurisation électrique, équipements informatiques, eq. Réseaux etc. ) en énergie primaire
+** DCIE
+** [[Renewable Energy Factor|REF ( Renewable Energy Factor )]]
+** ERF ( Energy Reuse Factor )
+** ACE
+** Kwh / nbr utilisateur
+* Consommation de fioul
+* Consommation d’eau glacée
+* Production d’eau glacée
+* CER : Cooling Effectiveness Ratio
+* SEER : Seasonally adjusted Energy Efficiency Ratio
+* COP : Coefficient de performance
+* [[Power Usage Effectiveness|PUE]]
+* ITEE
+** ITEE network : IT Equipement Energie Efficiency for network
+** ITEE storage : IT Equipement Energie Efficiency for storage
+** ITEU storage : IT Equipement Energie Use for storage
+** ITEE sv : IT Equipement Energie Efficiency for servers
+** ITEU sv : IT Equipement Energie Use for servers
+
+=== Indicateurs environnementaux GES ===
+
+* Bilan Emissions GES
+* [[Carbon Usage Effectiveness|CUE]] : Carbon Usage Effectiveness
+* Mesure des GES par unité de service délivré
+
+=== Indicateurs environnementaux ressources ===
+
+==== Eau ====
+
+* [[Water Usage Effectiveness|WUE]] : Water Usage Effectiveness
+* Consommation d’eau directe
+
+==== Matières ====
+
+* Argent
+* Cuivre
+* Indium
+* Gallium
+* Lithium
+* Tantale
+* Terres rares
+
+=== Indicateur de cycle de vie des équipements ===
+
+* Production de déchets
+* Taux de réemploi
+* Taux de valorisation
+* Taux de recyclage
+* Taux de décommissionnement des applications
+* Taux de non usage des ressources libérées
+* % ressources libérées / an
+* % équipements disposant d’écolabels
+* Bilan Energie
+* Bilan Eau
+* Bilan déchets
+* % d’utilisation CPU moyen par serveur
+* % d’utilisation RAM moyen par serveur
+
+=== Indicateur services ===
+
+* Ratio application / utilisateur
+* % applications virtualisées
+* % application dans le cloud
+* Nombre d'applications ayant fait l'objet d’une démarche environnementale / Nombre d'applications en production
+* % Nbr application de production / Nbr application total ( dev, recette, préproduction, etc... )
+* % mise en prod / nbr utilisateur d’un service
+* % de nbr de tickets de maintenance / nbr d’utilisateur
+* Nbr d’utilisateurs différents / applications
+* Taux de dématérialisation des services
+* Ratio utilisation CPU par application et ou service VS le dimensionnement
+* Ration utilisation MEM par application et ou service  VS le dimensionnement
+* % Test OK par application
+* Taux de disponibilité des services
+* Taux d’application accessible
+* Taux de respect des SLA
+
+=== Indicateur DATA et STOCKAGE ===
+
+* Nbr Go / utilisateur données bureautiques
+* Nbr Go / Utilisateur données applicatives
+* % de données personnelles
+* % de données sensibles
+* % de données archivées ( stockage longue durée ) / données actives
+* % de dark data
+* Nbr de duplication moyenne des data
+* % du nbr d’utilisateur inactif / nbr utilisateur total + Nbr total utilisateur inactif > 2 ans
+
+== Voir aussi ==
+
+=== Références ===
+<references />
+
+=== Articles connexes ===
+
+* [[Free Cooling]]
+
+=== Liens externes ===
+
+* https://fr.wikipedia.org/wiki/Centre_de_donn%C3%A9es
+* Code Of Conduct pour l'efficience énergétique des centres de données (EU) : https://ec.europa.eu/jrc/en/energy-efficiency/code-conduct/datacentres
+* E3P https://e3p.jrc.ec.europa.eu/communities/data-centres-code-conduct
+* Indicateurs de performance énergétique et environnementale des data centers : https://www.apl-datacenter.com/wp-content/uploads/2017/07/livre-blanc-indicateurs-performance-%C3%A9nerg%C3%A9tique-environnementale-des-data-centers.pdf
+[[de:Rechenzentrum]]
+[[en:Data centre]]
+[[es:Centro de Datos]]

@@ -1,0 +1,26 @@
+== Définition ==
+L’effet rebond, encore appelé [[paradoxe de Jevons]], peut être défini comme « l’augmentation de consommation liée à la réduction des limites à l’utilisation d’une technologie, ces limites pouvant être monétaires, temporelles, sociales, physiques, liées à l’effort, au danger, à l’organisation… » 
+
+Il en découle le corollaire suivant : les économies d’énergie ou de ressources initialement prévues par l’utilisation d’une nouvelle technologie sont partiellement ou complètement compensées à la suite d'une adaptation du comportement de la société. 
+
+== Effets rebond et technologies du numérique ==
+Il existe trois types d'effets rebonds<ref name=":0">https://ecoinfo.cnrs.fr/thematiques/consequences-du-numerique/effets-rebond-du-numerique/</ref>: 
+
+* '''Effets rebond directs''' qui apparaissent lorsqu’une baisse du coût d’une ressource induit des réductions de prix qui, à leur tour, déclenchent une augmentation de la demande pour le bien coûtant le moins cher.  La miniaturisation dans le numérique (microprocesseurs, différents composants…) a permis de réaliser des gains sur les matières premières. Ces économies ont été investies en R&D et ont permis d’améliorer les performances des matériels. Cette amélioration a de facto rendu obsolète des équipements en parfait état de marche. Un autre exemple d'effet rebond direct serait celui de la virtualisation des centres de données. En effet avec la diminution des coûts de stockage, la demande en stockage s'est accrue et par là même les besoins en traitement des données.
+
+* '''Effets rebond indirects''' où les économies réalisées lorsqu'une ressource est produite de manière plus efficace, et donc moins chère, sont investies en consommant d’autres produits polluants. Bien que nous assistions à une explosion de l'e-learning, du télétravail, des achats en ligne, on ne constate pas une réelle diminution des émissions de CO2. En effet, la combinaison d'un éloignement plus important de son lieu de travail et la possibilité de se déplacer plus sur le plan personnel, a conduit à éliminer tous les bénéfices d'une généralisation des pratiques liées aux technologies numériques. Il est également intéressant de considérer l'effet rebond lié au gain de temps apporté par ces mêmes technologies. L'information est immédiatement accessible, toutefois, la prolifération de celle-ci rend plus complexe et donc plus longue, l'identification de l'information appropriée.
+* '''Effets rebond structurels''' qui impactent l’ensemble de l’économie. Ils peuvent apparaitre par exemple, lors d'une baisse des prix de l’énergie qui réduirait les prix des biens intermédiaires et finaux et par la même provoquerait des changements structurels dans les modes de production et les habitudes de consommation.
+
+== Voir aussi ==
+
+=== Références ===
+
+* Wikipédia [https://fr.wikipedia.org/wiki/Effet_rebond_(%C3%A9conomie) Effet rebond] 
+* <ref name=":0" />CNRS, Ecoinfo, [https://ecoinfo.cnrs.fr/thematiques/consequences-du-numerique/effets-rebond-du-numerique/ Effets rebond du numérique]
+
+=== Liens externes ===
+
+* Frédéric Bordage, ''Sobriété numérique - Les clés pour agir'', Editions Buchet Chastel, 2019 - ISBN 9782283032152
+[[de:Rebound-Effekt]]
+[[en:Rebound effect]]
+[[es:Efecto Rebote]]

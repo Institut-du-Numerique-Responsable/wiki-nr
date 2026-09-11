@@ -1,0 +1,30 @@
+'''Life cycle assessment''' (LCA) is a method for estimating the environmental impacts of a product or service across its life cycle, from raw material extraction to end-of-life treatment. Analysts use it to identify major sources of impact and compare options that provide an equivalent function.<ref>ISO, [https://www.iso.org/standard/37456.html ISO 14040:2006: Life cycle assessment, principles and framework].</ref>
+
+== Defining the comparison ==
+An assessment starts with a question and a functional unit: a quantified description of the service under study. For example, a comparison of workplace computers might cover providing specified office functions to one employee for five years. Comparing two devices at the factory gate would answer a different question.
+
+The study must describe its boundaries, including any exclusions. For a digital service, relevant activities may include device production, network infrastructure, servers, electricity, maintenance and disposal. Analysts also explain how they allocate shared equipment and infrastructure to the service.
+
+== From inventory to results ==
+Practitioners collect an inventory of material and energy inputs and emissions, translate these flows into environmental impact indicators, then interpret the results against the study's purpose. They examine data quality, uncertainty and the assumptions that affect the comparison. ISO 14044 sets requirements and guidelines for these stages, reporting and critical review.<ref>ISO, [https://www.iso.org/standard/38498.html ISO 14044:2006: Life cycle assessment, requirements and guidelines].</ref>
+
+For digital equipment, useful sensitivity checks include device lifetime, electricity mix, utilisation and replacement rates. A longer assumed lifetime spreads manufacturing impacts over more years of service. That assumption needs to reflect how long users can keep the equipment working, including repair and software support.
+
+== Reading a digital LCA ==
+The relative contributions of [[Manufacturing|manufacturing]] and use depend on the equipment, workload, lifetime and electricity supply. A result for an office laptop cannot establish the same ranking for a server running continuously. Readers should check the study's date, geography and functional unit before transferring its conclusions to another setting.
+
+An LCA can cover several environmental impact categories. A [[Carbon footprint|carbon footprint]] addresses climate change alone. ISO 14067 provides requirements for quantifying and reporting a product carbon footprint; it does not assess other environmental impacts or include carbon offsetting within its scope.<ref>ISO, [https://www.iso.org/standard/71206.html ISO 14067:2018: Carbon footprint of products].</ref> A lower carbon result can therefore coexist with higher impacts in another category.
+
+== See also ==
+* [[Carbon footprint]]
+* [[Ecodesign]]
+* [[Manufacturing]]
+* [[End of life]]
+
+== References ==
+<references />
+
+[[Category:Frameworks and methods]]
+[[de:Ökobilanz]]
+[[es:Análisis del Ciclo de Vida]]
+[[fr:Analyse du Cycle de Vie]]

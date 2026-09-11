@@ -1,0 +1,74 @@
+La '''fin de vie''' est l’étape du cycle de vie d’un équipement à partir de laquelle il n’est plus utilisé par son détenteur. Dans le numérique, elle constitue un enjeu majeur : c’est à ce moment que se joue la récupération, ou la perte définitive, des matériaux extraits pour la [[Fabrication|fabrication]].
+
+== Définition ==
+
+La fin de vie ne signifie pas la fin de l’usage possible. Un équipement mis au rebut est très souvent encore fonctionnel : ce qui prend fin, c’est son usage par un utilisateur donné, pas sa capacité à servir.
+
+Cette distinction est au cœur du [[Numérique_Responsable|numérique responsable]]. Prolonger la durée d’usage d’un équipement est le levier le plus efficace pour réduire l’impact du numérique, très loin devant l’optimisation de sa consommation électrique.
+
+== La hiérarchie des traitements ==
+
+Les modes de traitement ne se valent pas. Ils s’ordonnent du plus au moins vertueux :
+
+# '''[[Réemploi]] et [[Reconditionnement|reconditionnement]]''' : l’équipement continue de servir, tel quel ou remis en état. C’est la seule voie qui évite réellement la fabrication d’un équipement neuf.
+# '''Réparation''' : le remplacement d’un composant prolonge la durée d’usage (voir [[Indice_de_réparabilité|Indice de réparabilité]]).
+# '''Réutilisation de composants''' : récupération de pièces détachées pour réparer d’autres équipements.
+# '''[[Recyclage_des_déchets|Recyclage]] matière''' : récupération des matériaux, avec des pertes importantes.
+# '''[[Valorisation]] énergétique''' : incinération avec récupération de chaleur.
+# '''Enfouissement''' : perte définitive de la matière.
+
+Cette hiérarchie recoupe la logique des [[5R]] et celle de l’[[Economie_Circulaire|économie circulaire]].
+
+== Les étapes concrètes ==
+
+* collecte
+* tri et diagnostic
+* effacement sécurisé des données
+* [[Reconditionnement|reconditionnement]] ou démantèlement
+* dépollution : retrait des batteries, écrans et composants dangereux
+* [[Recyclage_des_déchets|recyclage]] ou [[Valorisation|valorisation]]
+
+L’'''effacement des données''' est une étape spécifique au numérique, souvent négligée : c’est elle qui conditionne la possibilité même du [[Réemploi|réemploi]]. Sans procédure fiable, les organisations préfèrent détruire des équipements en parfait état de marche.
+
+== Le cadre des DEEE ==
+
+Les équipements numériques relèvent de la réglementation sur les [[Déchets_d’Équipements_Électriques_et_Électroniques|déchets d’équipements électriques et électroniques]] (DEEE), qui impose des filières de collecte et de traitement dédiées, financées par une [[Ecocontribution|écocontribution]].
+
+Le taux de collecte reste très en deçà des objectifs : une part importante des équipements dort dans les tiroirs, part en déchets ménagers ou est exportée hors des circuits contrôlés.
+
+== Les équipements qui dorment ==
+
+Une part importante d’un parc n’est ni en usage ni en fin de vie : elle attend dans un placard. Ces équipements ne sont pas réemployés et leur fabrication est payée depuis longtemps. Les inventorier constitue souvent le gain le plus rapide accessible, et cela ne coûte qu’un peu d’attention.
+
+== Un enjeu de matériaux ==
+
+Un équipement numérique concentre des dizaines de métaux, dont des [[Terres_Rares|terres rares]] et des métaux critiques. Leur récupération est techniquement difficile : les alliages et les assemblages collés rendent le tri complexe, et les taux de recyclage effectifs de certains métaux restent très faibles.
+
+Chaque équipement non réemployé impose donc une nouvelle extraction minière, c’est ce qui rend la fin de vie indissociable de la question de l’[[Empreinte_Matière|empreinte matière]] et des [[Ressources_primaires|ressources primaires]].
+
+== Ce que peut faire une organisation ==
+
+* allonger la durée d’usage avant de considérer la fin de vie ;
+* prévoir dès l’achat les conditions du [[Réemploi|réemploi]] : réparabilité, disponibilité des pièces, effacement des données ;
+* passer par des filières de [[Reconditionnement|reconditionnement]] plutôt que par la destruction ;
+* privilégier le don ou la revente aux filières solidaires (voir [[Economie_Sociale_et_Solidaire|Economie Sociale et Solidaire]]) ;
+* mesurer et suivre le devenir réel du parc, plutôt que de s’arrêter au bordereau d’enlèvement.
+
+== Voir aussi ==
+
+* [[Réemploi]]
+* [[Reconditionnement]]
+* [[Recyclage_des_déchets|Recyclage des déchets]]
+* [[Déchets_d’Équipements_Électriques_et_Électroniques|Déchets d’Équipements Électriques et Électroniques]]
+* [[Obsolescence_Programmée|Obsolescence Programmée]]
+* [[Indice_de_réparabilité|Indice de réparabilité]]
+* [[Economie_Circulaire|Economie Circulaire]]
+* [[Analyse_du_Cycle_de_Vie|Analyse du Cycle de Vie]]
+* [[Terres_Rares|Terres Rares]]
+* [[Fabrication]]
+
+[[Catégorie:Cycle de vie des équipements]]
+[[de:Lebensende]]
+[[en:End of life]]
+[[es:Fin de Vida]]
+[[nl:Einde levensduur]]

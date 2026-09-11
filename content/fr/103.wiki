@@ -1,0 +1,26 @@
+== Définition ==
+La sobriété numérique est définie par le Shift Project comme l'action de "limiter sa consommation de ressources de façon compatible avec les contraintes environnementales<ref>[https://theshiftproject.org/article/deployer-la-sobriete-numerique-rapport-shift/ The Shift Project, "Déployer la sobriété numérique", janvier 2020]</ref>".
+
+De manière plus concrète il s’agit :
+
+* de développer une conscience collective de l’impact carbone des activités, achats, choix et décisions des acteurs et parties prenantes du [[Système d'Information|SI]]
+* de promouvoir la pratique de la « juste consommation » : ne consommer de data ou d’énergie que pour couvrir le « juste besoin » (qui correspond à ce qui est juste nécessaire)
+* ne produire (de volume de data ou de déchets) qu’en plus faible quantité possible.
+
+
+La frugalité numérique (autre façon de nommer la sobriété numérique) est l’affaire de tous les utilisateurs et contributeurs du [[Système d'Information|S]]I. On l’applique depuis la conception d’une infrastructure (choix des composants, des matériaux) ou d’une application logicielle (cf [[Eco Conception|éco-conception]]) jusqu’aux usages les plus communs des ressources informatiques (système d’impression, messagerie électronique, ...).
+
+L’homo 'informaticus' sage est assurément un sapiens numériquement sobre. Sa citation préférée est assurément cette phase de Platon :  « C’est dans la mesure et dans la proportion que se trouvent partout la beauté et la vertu ».
+== Voir aussi ==
+
+=== Références ===
+<references />
+
+=== Liens externes ===
+
+* CIGREF : [https://www.cigref.fr/publication-sobriete-numerique-une-demarche-d-entreprise-responsable Sobriété numérique : une démarche d’entreprise responsable]
+* Collectif GreenIT.fr et ESPELIA : [https://www.cerdd.org/Parcours-thematiques/Transitions-economiques/Ressources-transitions-economiques/Sobriete-numerique-et-collectivites-territoriales-quels-enjeux Sobriété numérique et collectivités territoriales : Quels Enjeux ?]
+[[de:Digitale Suffizienz]]
+[[en:Digital sobriety]]
+[[es:Sobriedad Digital]]
+[[nl:Digitale soberheid]]

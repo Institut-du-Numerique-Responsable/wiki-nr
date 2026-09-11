@@ -1,0 +1,45 @@
+'''WeNR''' es una herramienta de autoevaluación y medición desarrollada por el Instituto de TI Responsable (ISIT), que permite a una organización evaluar la madurez de sus prácticas de [[TI Responsable|TI responsable]].
+
+== Para qué sirve ==
+
+WeNR ayuda a una organización a situar sus prácticas, medir la huella de su sistema de información y compararse con estructuras similares. El proyecto lo sostienen conjuntamente el Institut du Numérique Responsable en Francia, ISIT-BE en Bélgica e ISIT-CH en Suiza.
+
+Sus socios académicos son la Université de La Rochelle y la UCLouvain. El trabajo cuenta con el apoyo de la agencia ambiental francesa ADEME y de la DINUM.
+
+== Método ==
+
+El método se apoya en la tesis doctoral de Guillaume Bourgeois en la Université de La Rochelle y ha sido objeto de una revisión crítica independiente.
+
+La evaluación descansa sobre un cuestionario que cumplimenta la propia organización, y que cubre aspectos cualitativos (gobernanza, políticas internas, sensibilización) junto a otros cuantitativos (parque de equipos, duración de uso, alojamiento).
+
+La autodeclaración es a la vez la fuerza y el límite del ejercicio: abarata la participación y hace posible la comparación, pero no verifica las cifras.
+
+== Tres niveles ==
+
+; MyImpact
+: calculadora rápida de la huella digital personal, accesible todo el año y en varios idiomas.
+; WeNR Standard
+: evaluación cualitativa y cuantitativa completa, concebida para permitir la comparación entre organizaciones.
+; WeNR Enseñanza superior
+: versión adaptada a los centros de enseñanza superior, en desarrollo.
+
+== Desarrollo de una campaña ==
+
+La participación está abierta a cualquier organización. Durante el periodo de campaña, la organización descarga un fichero de hoja de cálculo, lo cumplimenta y lo deposita en el portal; cada envío queda fechado y renombrado con el nombre de la organización.
+
+La campaña de 2026 se abre en junio e introduce nuevos indicadores dedicados al impacto de la inteligencia artificial en las prácticas digitales. Un informe comparativo pone en perspectiva los resultados de las campañas sucesivas; el correspondiente a la edición de 2021 es de libre acceso.
+
+== Véase también ==
+
+* [[TI Responsable]] · [[Carta de TI Responsable]] · [[Huella de Carbono]] · [[Análisis del Ciclo de Vida]] · [[RGESN]]
+
+== Referencia externa ==
+
+* [https://wenr.isit-europe.org/ WeNR — Instituto de TI Responsable]
+
+[[Categoría:Referenciales]]
+
+[[fr:WeNR]]
+[[en:WeNR]]
+[[de:WeNR]]
+[[nl:WeNR]]

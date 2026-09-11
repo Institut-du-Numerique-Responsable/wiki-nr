@@ -1,0 +1,47 @@
+'''Verantwortungsvolle Digitalisierung''' (französisch ''numérique responsable'', englisch ''sustainable IT'') bezeichnet eine Art, digitale Systeme zu entwerfen, zu beschaffen, zu nutzen und auszumustern, die ihre ökologischen, sozialen und wirtschaftlichen Wirkungen über den gesamten Lebenszyklus einbezieht.
+
+Das Institut für verantwortungsvolle Digitalisierung fasst den Ansatz in '''fünf Säulen der digitalen Nachhaltigkeit''' zusammen: Umwelt, Barrierefreiheit, Ethik, Resilienz und Werte.
+
+== Warum das Thema besteht ==
+
+Digitales ist nicht immateriell. Ein Rechner von zwei Kilogramm bewegt bei seiner [[Herstellung]] mehrere hundert Kilogramm Mineralien. Diese Phase bündelt den größten Teil der Wirkung: nahezu die gesamte Erschöpfung abiotischer Rohstoffe, einen erheblichen Anteil des Süßwasserverbrauchs und einen großen Teil der Treibhausgasemissionen des Sektors.
+
+Daraus folgt der Leitsatz der Disziplin: '''die Nutzungsdauer der Geräte zu verlängern wiegt schwerer als ihren Stromverbrauch zu senken'''.
+
+== Die fünf Säulen ==
+
+; Umwelt
+: digitale Werkzeuge so gestalten, dass ihre Wirkung und ihr Verbrauch begrenzt bleiben.
+; Barrierefreiheit
+: digitale Dienste entwickeln, die für alle zugänglich, inklusiv und nachhaltig sind.
+; Ethik
+: ethische und verantwortungsbewusste digitale Praktiken anwenden.
+; Resilienz
+: eine verantwortungsvolle Digitalisierung umsetzen, die für die Widerstandsfähigkeit von Organisationen unerlässlich ist.
+; Werte
+: das Entstehen neuer Verhaltensweisen und Werte fördern.
+
+Die häufigste Verkürzung besteht darin, das Thema auf seinen CO₂-Anteil zu reduzieren. [[Digitale Barrierefreiheit|Barrierefreiheit]] und die Bedingungen des Rohstoffabbaus gehören zum selben Feld.
+
+== Wie sie umgesetzt wird ==
+
+* '''[[Ökodesign]]''' digitaler Dienste, geleitet von Referenzrahmen wie dem [[RGESN]].
+* '''Verantwortliche Beschaffung''', die Langlebigkeit, Reparierbarkeit und Wiederaufbereitung bevorzugt.
+* '''[[Digitale Suffizienz]]''': den Bedarf hinterfragen, bevor die Lösung optimiert wird.
+* '''Messung''' über [[Ökobilanz]] oder [[CO₂-Fußabdruck]], um Intuition durch Daten zu ersetzen.
+
+== Ein wiederkehrender Stolperstein ==
+
+Effizienzgewinne senken nicht zwangsläufig die Gesamtwirkung. Der [[Rebound-Effekt]] beschreibt, wie das Eingesparte in mehr Nutzung zurückfließt. Ein Ansatz, der nur optimiert, ohne die Mengen zu hinterfragen, reduziert womöglich gar nichts.
+
+== Siehe auch ==
+
+* [[Digitale Suffizienz]] · [[Digitale Souveränität]] · [[Charta für verantwortungsvolle Digitalisierung]] · [[Verantwortungsvolle KI]] · [[RGESN]] · [[WeNR]]
+
+[[fr:Numérique_Responsable]]
+[[en:Sustainable_IT]]
+[[es:TI_Responsable]]
+[[nl:Duurzame_IT]]
+
+== Cybersicherheit und Nutzungsdauer ==
+[[Cybersicherheit]] beeinflusst Wartung, Datenaufbewahrung, Backups und die Wiederverwendung von Geräten. IT-Teams können ungenutzte Funktionen und aufgegebene Systeme entfernen und zugleich notwendige Schutzmaßnahmen beibehalten. Der [https://ecoresponsable.numerique.gouv.fr/publications/ecoconception-securite/ MiNumEco-Bericht zu Ökodesign, Cybersicherheit und Datenschutz] (2022, auf Französisch), an dem das INR mitwirkte, untersucht diese Zusammenhänge. Der eigene Artikel erläutert die praktischen Entscheidungen anhand eines Wiederherstellungsbeispiels und weiterführender Fachquellen.

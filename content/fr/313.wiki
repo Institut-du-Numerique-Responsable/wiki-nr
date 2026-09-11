@@ -1,0 +1,55 @@
+La '''Charte IA Responsable''' est un engagement public proposé par l’[[Institut du Numérique Responsable|Institut du Numérique Responsable]], consacré à l’usage de l’intelligence artificielle. Elle prolonge la [[Charte Numérique Responsable]] sur un terrain où les décisions se prennent vite et où leurs effets se défont difficilement.
+
+Elle est disponible en plusieurs langues sur [https://charter.isit-europe.org/charte-ia/ charter.isit-europe.org], gratuitement, et ouverte à toute organisation.
+
+Les signataires s’engagent à déployer des systèmes d’[[Intelligence Artificielle|intelligence artificielle]] centrés sur l’humain, dignes de confiance, inclusifs, non discriminatoires et respectueux de l’environnement, en cohérence avec la réglementation applicable, dont l’[[AI Act]].
+
+== Les quatre engagements ==
+
+; Une IA au service de l’humain
+: développer une IA qui renforce la place des collaborateurs et augmente leurs capacités, et la construire par le dialogue social plutôt qu’autour de lui.
+; Une IA inclusive et éthique
+: respecter l’équité, la diversité et la non-discrimination, avec des dispositifs de garde contre les [[Biais algorithmique|biais]] présents dans les données et des exigences d’[[Accessibilité Numérique|accessibilité]].
+; Une IA digne de confiance
+: informer clairement les personnes de leurs interactions avec un système d’IA et maintenir une supervision humaine sur les activités à haut risque.
+; Une IA écoresponsable
+: privilégier des modèles frugaux et un usage efficient des ressources, et limiter l’empreinte environnementale sur l’ensemble du [[Cycle de vie de l'IA|cycle de vie]].
+
+Le premier engagement est celui que l’on saute le plus souvent. Il place le dialogue social avant le déploiement, là où la plupart des organisations le placent après.
+
+== Pourquoi une charte distincte ==
+
+L’adoption a devancé la gouvernance. Les outils arrivent par les équipes plutôt que par la direction, ce qui produit du [[Shadow AI]] : un usage non déclaré qui expose des données internes à des tiers susceptibles d’entraîner leurs modèles dessus.
+
+Une charte permet à une organisation de se positionner avant que les pratiques ne se figent.
+
+== Articulation avec l’AI Act ==
+
+L’[[AI Act]] fixe des obligations juridiques par niveau de risque. La charte intervient plus tôt et plus largement : elle couvre des usages que le règlement ne classe pas à haut risque, mais qui posent malgré tout des questions de [[Sobriété Numérique|sobriété]], de dépendance et d’[[Acceptabilité|acceptabilité]].
+
+== Ce qu’elle n’est pas ==
+
+Ni une certification, ni un label. Rien n’est audité, aucun score n’est attribué. Signer énonce un principe d’action, pas un résultat. Pour une démarche évaluée, voir le [[Label NR]].
+
+== Voir aussi ==
+
+* [[IA Responsable]]
+* [[Charte Numérique Responsable]]
+* [[AI Act]]
+* [[Shadow AI]]
+* [[Gouvernance de l'IA]]
+* [[Biais algorithmique]]
+* [[Institut du Numérique Responsable]]
+
+=== Références externes ===
+
+* [https://charter.isit-europe.org/charte-ia/ Charte IA Responsable, INR]
+* [https://charter.isit-europe.org/charte-numerique-responsable/ Charte Numérique Responsable, INR]
+* [https://institutnr.org/ Institut du Numérique Responsable]
+
+[[Catégorie:Référentiels et méthodes]]
+
+[[de:KI-Charta]]
+[[en:Responsible AI Charter]]
+[[es:Carta de IA Responsable]]
+[[nl:Verantwoorde AI Charter]]

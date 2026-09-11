@@ -1,0 +1,36 @@
+The '''carbon footprint''' of an activity is an estimate of its greenhouse-gas emissions within a stated boundary. It is expressed in carbon dioxide equivalent (CO2e), using conversion factors for the warming effects of different gases. A result needs a reference period, an accounting method and a clear description of what it includes.
+
+== Energy use and emissions from AI ==
+
+Power describes the rate of energy use, in watts. Energy describes consumption over time, for example in kilowatt-hours. To estimate emissions associated with electricity, an assessment combines energy use with an electricity-emissions factor. The chosen location, time period and accounting approach matter.
+
+A GPU reading does not cover a whole data centre. CPU, memory, cooling and other infrastructure may sit outside the instrumented boundary. Equipment manufacture is another component of a lifecycle assessment. Report these exclusions rather than labelling a partial electricity estimate as the complete footprint of an AI service.
+
+For an experiment, record hardware, runtime, workload, measurement method and the source of emissions factors. Include unsuccessful trials and tuning if the question concerns the cost of developing the model. For a deployed service, state the number and type of requests and the quality level achieved.
+
+== University research and tools ==
+
+* '''University of Copenhagen: Carbontracker.''' Anthony, Kanding and Selvan's [https://arxiv.org/abs/2007.03051 2020 paper] describes tracking and predicting the energy and carbon footprint of deep-learning training. The [https://di.ku.dk/english/news/2020/students-develop-tool-to-predict-the-carbon-footprint-of-algorithms/ university's English introduction] explains the project and its research context.
+* '''Stanford and collaborators: systematic reporting.''' Henderson and colleagues' [https://arxiv.org/abs/2002.05651 Towards the Systematic Reporting of the Energy and Carbon Footprints of Machine Learning] presents a reporting framework and experiment-impact-tracker. [https://engineering.stanford.edu/news/ais-carbon-footprint-problem Stanford's introduction] identifies the participating researchers and explains why comparable reporting matters.
+* '''MIT: instrumentation and estimation.''' Lincoln Laboratory's [https://www.ll.mit.edu/r-d/projects/green-instrumentation-and-experimentation Green Instrumentation and Experimentation] project addresses power tracking and reduction. MIT also describes [https://news.mit.edu/2026/faster-way-to-estimate-ai-power-consumption-0427 EnergAIzer], a 2026 research method for predicting AI-workload power consumption. A prediction is distinct from a measurement of a particular production run.
+* '''EPFL, Switzerland: software and infrastructure.''' EPFL's [https://www.epfl.ch/about/sustainability/sustainable-it/ Sustainable IT Systems] page introduces Cumulator, a project for estimating the footprint of code, and EcoCloud's work on data-centre sustainability. Check a tool's documented scope and supported environment before selecting it for an assessment.
+
+These resources serve different purposes. Compare boundaries and assumptions before comparing the numbers they produce; none of the descriptions above establishes that a tool covers the complete lifecycle of an AI service.
+
+== Organisational and lifecycle accounting ==
+
+The [[GHG Protocol]] Corporate Standard supports organisation-level emissions inventories.<ref>GHG Protocol, [https://ghgprotocol.org/corporate-standard Corporate Standard].</ref> [[ISO 14064]] and [[Bilan Carbone]] provide related accounting approaches, while [[Life cycle assessment|life cycle assessment]] examines products or services and can include environmental impacts beyond climate change.
+
+Manufacturing and operation both belong in a digital assessment. Their relative importance varies with equipment, service life, utilisation and electricity supply. Extending a device's use can spread its manufacturing impact over more years, but it does not halve every component of its annual footprint.
+
+== See also ==
+* [[Deep learning]] · [[Inference]] · [[Sustainable IT]] · [[Life cycle assessment]] · [[GHG Protocol]]
+
+== References ==
+<references />
+
+
+[[Category:Frameworks and methods]]
+[[de:CO₂-Fußabdruck]]
+[[es:Huella de Carbono]]
+[[fr:Empreinte Carbone]]

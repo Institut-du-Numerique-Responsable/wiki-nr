@@ -1,0 +1,93 @@
+<div class="nr-hero">
+<div class="nr-hero-logo">[[Archivo:Wiki-inr.png|alt=Instituto de TI Responsable|enlace=]]</div>
+<div class="nr-hero-texte">
+<div class="nr-hero-eyebrow">Instituto de TI Responsable</div>
+<div class="nr-hero-title">El vocabulario de la TI responsable</div>
+<div class="nr-hero-lede">
+Definiciones, referenciales y métodos del [[Ecodiseño|ecodiseño]], la [[Sobriedad Digital|sobriedad digital]], la accesibilidad y la IA responsable. Acceso libre, sin cuenta.
+</div>
+</div>
+</div>
+
+== Empezar ==
+
+<div class="nr-start">
+<div class="nr-start-item">'''[[TI Responsable]]'''<br />El enfoque de conjunto</div>
+<div class="nr-start-item">'''[[Sobriedad Digital]]'''<br />El principio rector</div>
+<div class="nr-start-item">'''[[Huella de Carbono]]'''<br />Medir el impacto</div>
+<div class="nr-start-item">'''[[Ecodiseño]]'''<br />Concebir de otro modo</div>
+</div>
+
+== Recorrer por tema ==
+
+<div class="nr-grid">
+
+<div class="nr-card">
+<div class="nr-card-head">Medir y evaluar</div>
+<div class="nr-card-body">
+[[Análisis del Ciclo de Vida]] · [[Huella de Carbono]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Conceptos y efectos</div>
+<div class="nr-card-body">
+[[TI Responsable]] · [[Sobriedad Digital]] · [[Efecto Rebote]] · [[Ecodiseño]] · [[Soberanía Digital]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Equipos y ciclo de vida</div>
+<div class="nr-card-body">
+[[Fin de Vida]] · [[Obsolescencia Programada]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Infraestructura</div>
+<div class="nr-card-body">
+[[Centro de Datos]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Referenciales y compromisos</div>
+<div class="nr-card-body">
+[[RGESN]] · [[Carta de TI Responsable]] · [[Carta de IA Responsable]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Inteligencia artificial</div>
+<div class="nr-card-body">
+[[IA Responsable]] · [[Carta de IA Responsable]]
+</div>
+</div>
+
+<div class="nr-card">
+<div class="nr-card-head">Organizaciones</div>
+<div class="nr-card-body">
+[[Instituto de TI Responsable]]
+</div>
+</div>
+
+</div>
+
+== Índice alfabético ==
+
+<div class="nr-alpha">
+[[Especial:PrefixIndex/a|A]] [[Especial:PrefixIndex/b|B]] [[Especial:PrefixIndex/c|C]] [[Especial:PrefixIndex/d|D]] [[Especial:PrefixIndex/e|E]] [[Especial:PrefixIndex/f|F]] [[Especial:PrefixIndex/g|G]] [[Especial:PrefixIndex/h|H]] [[Especial:PrefixIndex/i|I]] [[Especial:PrefixIndex/j|J]] [[Especial:PrefixIndex/k|K]] [[Especial:PrefixIndex/l|L]] [[Especial:PrefixIndex/m|M]] [[Especial:PrefixIndex/n|N]] [[Especial:PrefixIndex/o|O]] [[Especial:PrefixIndex/p|P]] [[Especial:PrefixIndex/q|Q]] [[Especial:PrefixIndex/r|R]] [[Especial:PrefixIndex/s|S]] [[Especial:PrefixIndex/t|T]] [[Especial:PrefixIndex/u|U]] [[Especial:PrefixIndex/v|V]] [[Especial:PrefixIndex/w|W]] [[Especial:PrefixIndex/x|X]] [[Especial:PrefixIndex/y|Y]] [[Especial:PrefixIndex/z|Z]]
+</div>
+
+== Contribuir ==
+
+<div class="nr-maj">16 artículos en español. La versión francesa reúne más de 199 y sirve de fuente para las traducciones; la inglesa cuenta 47.</div>
+
+Este wiki lo alimenta la comunidad del [[Instituto de TI Responsable]]. Para proponer un artículo o señalar un error: [mailto:wiki@institutnr.org wiki@institutnr.org].
+
+Los contenidos son reutilizables bajo licencia Creative Commons Zero.
+
+[[fr:Accueil]]
+[[en:Main_Page]]
+[[de:Hauptseite]]
+[[nl:Hoofdpagina]]

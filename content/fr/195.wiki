@@ -1,0 +1,41 @@
+La '''VSME''' (''Voluntary Sustainability Reporting Standard for non-listed SMEs'') est la norme européenne de reporting de durabilité destinée aux '''PME non cotées''', publiée par l’EFRAG.
+
+== Définition ==
+
+La VSME répond à un problème concret : les PME hors du champ de la directive CSRD subissent malgré tout des demandes d’informations extra-financières de la part de leurs clients, banques et investisseurs, chacun avec son propre questionnaire. La norme propose un format unique et allégé pour y répondre.
+
+Elle a été élaborée par l’EFRAG dans le cadre du paquet de mesures d’allègement pour les PME de 2023, et vise les entreprises de moins de 250 salariés. La Commission européenne en a recommandé l’usage en juillet 2025.
+
+Son adoption est '''volontaire''' : aucune obligation légale ne s’y attache.
+
+== Structure ==
+
+La norme comporte deux modules :
+
+; Module basique
+: point d’entrée destiné à toutes les PME, et cible pour les microentreprises de moins de 10 salariés. Il couvre les informations générales : base de préparation, pratiques, politiques et initiatives de transition vers une économie plus durable.
+
+; Module complet
+: destiné aux entreprises devant répondre à des attentes plus fines, notamment de la part des banques, investisseurs et donneurs d’ordre.
+
+Le module basique est un prérequis du module complet.
+
+== Intérêt pour le numérique responsable ==
+
+Pour une PME du secteur numérique, la VSME offre un cadre proportionné pour formaliser ses données environnementales et sociales, consommation d’énergie, émissions, parc d’équipements, sans supporter la charge d’un reporting CSRD complet. Elle se combine utilement avec une démarche de mesure telle que [[WeNR]] ou avec le [[Label_NR|Label NR]].
+
+== Voir aussi ==
+
+* [[Responsabilité_Sociétale_des_Entreprises|Responsabilité Sociétale des Entreprises]]
+* [[Bilan_des_Émissions_des_Gaz_à_Effet_de_Serre|Bilan des Émissions des Gaz à Effet de Serre]]
+* [[Comptabilité_environnementale|Comptabilité environnementale]]
+* [[WeNR]]
+* [[Label_NR|Label NR]]
+
+=== Références externes ===
+
+* [https://www.efrag.org/en/projects/voluntary-reporting-standard-for-smes-vsme/concluded VSME : EFRAG]
+* [https://finance.ec.europa.eu/publications/commission-presents-voluntary-sustainability-reporting-standard-ease-burden-smes_en Recommandation de la Commission européenne]
+
+[[Catégorie:Référentiels et méthodes]]
+[[Catégorie:Réglementation]]

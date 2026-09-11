@@ -1,0 +1,31 @@
+Der '''Rebound-Effekt''', auch '''Jevons-Paradox''' genannt, bezeichnet den Anstieg des Verbrauchs, der auf eine Effizienzverbesserung folgt. Die erwartete Einsparung wird ganz oder teilweise durch verändertes Verhalten aufgezehrt.
+
+Er lässt sich als der Verbrauchsanstieg beschreiben, der aus dem Wegfall von Nutzungsgrenzen entsteht: monetären, zeitlichen, sozialen, körperlichen, oder solchen des Aufwands, der Gefahr und der Organisation.
+
+== Wie er sich in der IT zeigt ==
+
+* Ein schnellerer Dienst wird häufiger genutzt.
+* Billigerer Speicher führt dazu, mehr Daten aufzubewahren.
+* Ein leistungsfähigeres Netz erlaubt schwerere Videoformate.
+* Ein je Anfrage sparsameres KI-Modell trägt eine weit höhere Zahl von Anfragen.
+
+== Direkt und indirekt ==
+
+; Direkt
+: die Einsparung fließt in dieselbe Nutzung zurück. Ein sparsamerer Rechner bleibt länger eingeschaltet.
+; Indirekt
+: die Einsparung fließt anderswohin. Das nicht für Strom ausgegebene Geld finanziert einen anderen Verbrauch.
+
+== Folge für jede Suffizienzstrategie ==
+
+Wer allein an der Effizienz ansetzt, hat keine Gewähr, die Gesamtwirkung zu senken. Damit die Einsparung eintritt, braucht es eine Grenze: ein Ressourcenbudget, eine Mengenobergrenze, eine ausdrückliche Entscheidung, das Eingesparte nicht neu zu verwenden.
+
+Genau hier trennen sich Effizienz und [[Digitale Suffizienz|Suffizienz]]. Die erste verbessert das Verhältnis von Leistung zu Ressourcen. Die zweite stellt die Menge der Leistung infrage.
+
+== Siehe auch ==
+
+* [[Digitale Suffizienz]] · [[Verantwortungsvolle Digitalisierung]] · [[Ökodesign]] · [[Kreislaufwirtschaft]]
+
+[[fr:Effet_Rebond]]
+[[en:Rebound_effect]]
+[[es:Efecto_Rebote]]

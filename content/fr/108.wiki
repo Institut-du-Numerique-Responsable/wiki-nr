@@ -1,0 +1,19 @@
+== Définition ==
+Le Triman est un logo ou signalétique qui répond à une obligation réglementaire et qui fait l’objet d’une diffusion auprès des consommateurs.  
+
+Le décret d’application impose cette signalétique à toute entreprise qui met sur le marché des produits recyclables relevant d’une responsabilité élargie des producteurs. Elle figure sur le produit ou, à défaut, sur l’emballage, la notice ou tout autre support, y compris dématérialisé. Elle informe le consommateur que le produit relève d’une consigne de tri. 
+
+Cette signalétique répond entre autres à l’engagement 255 du Grenelle Environnement “d’harmoniser au niveau national la signalétique et les consignes de tri par exemple au moment du renouvellement de chaque marché, afin de permettre des campagnes d’information nationales et promouvoir une information lisible sur les étiquetages”
+
+== Périmètre d'application ==
+Les industriels concernées dans la filière numérique sont: 
+* Papiers graphiques.
+* Equipements électriques et électroniques.
+* Piles et accumulateurs.
+
+== Voir aussi ==
+
+=== Documents de référence ===
+* Décret d'application no 2014-1577 du 23 décembre 2014 relatif à la signalétique commune des produits recyclables qui relèvent d'une consigne de tri, 
+* articles R541-12-17 et R541-12-18 au Code de l’environnement
+* recommandations du [https://www.ademe.fr/signaletique-commune-tri-triman-guide-dutilisation Guide d'utilisation] détaillé développé par l'[[ADEME]] :

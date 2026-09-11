@@ -1,0 +1,9 @@
+Les '''A'''utorités de '''P'''rotection des '''D'''onnées (ADP) sont des autorités publiques indépendantes qui contrôlent, par des pouvoirs d’enquête et d’adoption de mesures correctrices, l’application de la législation relative à la protection des données. Elles fournissent des conseils d’experts sur les questions liées à la protection des données et traitent les réclamations relatives à des violations du Règlement Général sur la Protection des Données ([[Règlement Général sur la Protection des Données|RGPD]]) et des législations nationales en la matière. Chaque État Membre de l’Union Européenne dispose de sa propre Autorité de Protection des Données. 
+
+A l'échelle de l'Union Européenne, l'Autorité de Protection des Données est la CEPD (Contrôleur Européen de la Protection des Données). 
+
+En France, il s'agit de la [[Commission Nationale de l'Informatique et des Libertés|CNIL]]. 
+
+Sources: 
+https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_fr
+[[Catégorie:Acteurs]]

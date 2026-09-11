@@ -1,0 +1,40 @@
+La '''soberanía digital''' designa la capacidad de una organización, un Estado o un conjunto de Estados de decidir por sí mismos sobre sus infraestructuras, sus datos y sus tecnologías, sin verse obligados por dependencias que no controlan.
+
+== Lo que la noción recubre ==
+
+; Los datos
+: dónde residen, qué derecho se les aplica, quién puede acceder a ellos.
+; Las infraestructuras
+: quién posee y opera las redes, los [[Centro de Datos|centros de datos]], los sistemas operativos.
+; Las competencias
+: la capacidad de mantener y hacer evolucionar un sistema sin recurrir a un solo proveedor.
+
+La soberanía no exige producirlo todo en el propio territorio. Exige poder cambiar de proveedor, auditar lo que se ejecuta y sobrevivir a la desaparición de un socio.
+
+== Vínculo con la robustez ==
+
+En el libro blanco ''Voyage vers la robustesse'' (Infogreen Factory, 2025), Vincent Courboulay, administrador del [[Instituto de TI Responsable]], observa que la robustez amplía la noción de soberanía hacia la '''autonomía estratégica''': no depender ciegamente de sistemas opacos o desarraigados.
+
+El desplazamiento es significativo. La soberanía se plantea a menudo en términos de localización y de propiedad. La robustez la plantea en términos de capacidad de seguir funcionando cuando algo falla, lo que conduce a preguntas distintas: ¿existe una alternativa? ¿está probada? ¿cuánto tiempo llevaría la migración?
+
+== Las palancas concretas ==
+
+* '''Reversibilidad''': prever desde el contrato las condiciones de salida y el formato de restitución de los datos.
+* '''Formatos y normas abiertas''', que impiden el cautiverio técnico.
+* '''Dependencia de proveedor''' evaluada como un riesgo, no como una comodidad.
+* '''Programas de código abierto''' cuando la competencia interna permite mantenerlos.
+
+== Un debate real ==
+
+Se reprocha a la soberanía servir de argumento proteccionista y encarecer las soluciones. La objeción tiene fundamento cuando la noción se limita a la bandera del proveedor. Pierde fuerza cuando se plantea en términos de reversibilidad y de continuidad de servicio, criterios que se verifican y que ningún origen geográfico garantiza por sí solo.
+
+== Véase también ==
+
+* [[TI Responsable]] · [[Instituto de TI Responsable]] · [[Centro de Datos]]
+
+[[Categoría:Conceptos]]
+
+[[fr:Souveraineté_numérique]]
+[[en:Digital_sovereignty]]
+[[de:Digitale Souveränität]]
+[[nl:Digitale soevereiniteit]]

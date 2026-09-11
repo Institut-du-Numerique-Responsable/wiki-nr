@@ -1,0 +1,22 @@
+'''Deep Learning''' ist ein Teilgebiet des [[Maschinelles Lernen|maschinellen Lernens]], das auf künstlichen neuronalen Netzen mit zahlreichen Schichten beruht.
+
+Es bildet die Grundlage für die erzielten Leistungen bei Bilderkennung, Übersetzung, Sprachsynthese und Textgenerierung.
+
+== Aufwand ==
+
+Die Tiefe der Netze und die Menge der [[Trainingsdaten|Trainingsdaten]] erklären den Ressourcenverbrauch: rechenintensive Verarbeitung auf Grafikprozessoren während des Trainings und anschließend bei jeder [[:fr:Inférence|Inferenz (FR)]].
+
+Darin unterscheidet sich Deep Learning von klassischen statistischen Verfahren, die für alltägliche Anforderungen häufig ausreichen und erheblich weniger Aufwand verursachen. Die Entscheidung für eine tiefe Architektur sollte daher auf einem Vergleich beruhen und nicht reflexartig erfolgen. Das ist der Gedanke einer '''ressourcensparsamen KI''' im Rahmen der [[Verantwortungsvolle KI|verantwortungsvollen KI]].
+
+== Siehe auch ==
+
+* [[Maschinelles Lernen|Maschinelles Lernen]]
+* [[KI-Modell|KI-Modell]]
+* [[:fr:Inférence|Inferenz (FR)]]
+* [[Verantwortungsvolle KI|Verantwortungsvolle KI]]
+* [[Digitale Suffizienz|Digitale Suffizienz]]
+
+[[Kategorie:Künstliche Intelligenz]]
+[[fr:Apprentissage profond]]
+[[en:Deep learning]]
+[[es:Aprendizaje profundo]]

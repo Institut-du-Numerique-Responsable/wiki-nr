@@ -1,0 +1,16 @@
+
+==Définition==
+'''IoT''' ('''I'''nternet '''o'''f '''T'''hings) ou encore Internet des objets désigne l'ensemble des infrastructures et technologies mises en place pour faire fonctionner des '''objets''' (physiques ou virtuels) par le biais d'une connexion Internet.  Ces objets sont pilotables à distance en utilisant ordinateur, téléphone portable ou tablette.
+
+Les objets physiques concernés ont leur propre identité numérique et peuvent communiquer les uns avec les autres.  Il peut s'agir de téléviseurs, réfrigérateurs...ou de systèmes plus complexes (voitures autonomes, avions…) ou encore l'éclairage d'une ville.
+==Dans le cadre du numérique responsable==
+====Un fort impact environnemental====
+Les objets connectés, contrairement à ce que certains voudraient nous laisser croire, ne nous veulent pas que du bien. Tout d'abord, ces objets possèdent divers capteurs et prolifèrent dans notre environnement. Ensuite, les batteries dont ils disposent ne sont pas toujours remplaçables et les réparations pas toujours possibles. La durée de vie de ces objets est donc limitée. En conséquence, ils ont un impact environnemental qui est loin d'être négligeable.
+====Pourvoyeur de [https://fr.wiki.isit-europe.org/nr/Dark_Data dark data]====
+L'IoT, par le biais de ces objets connectés, et donc des capteurs dont ils sont équipés, a la particularité de capturer diverses informations et donc de pouvoir générer des données en continu. Ceci crée deux effets pervers. Le premier est la consommation énergétique de cet équipement, tout autant pour récupérer et consolider la mesure que pour la transmettre. Le deuxième est lié à l'utilisation de ces données capturées en temps réel ainsi que leur conservation. Il est intéressant de noter qu'une étude d'IBM nous indique que 90% de ces données ne seront jamais visualisées ou ne créeront pas de valeur ou plus précisément de véritable usage.
+====Une durée de vie courte====
+Les capteurs sont de plus en plus petits, en conséquence leurs batteries ont des durées de vie relativement courtes. Lorsque le remplacement de la batterie est impossible, ce capteur low-cost, le plus souvent fabriqué dans des usines en Chine, se retrouve rapidement dans une poubelle. Si la batterie ne pose pas problème alors c'est souvent la solidité et la robustesse des équipements qui est en cause.  En effet, ces équipements sont souvent prédestinés à fonctionner dans des conditions difficiles : mesure de la température extérieure de la maison, capteur de qualité d'eau dans les canalisations, ou bien de la qualité de l'air ... 
+
+==Voir aussi==
+===Référence===
+*[https://www.futura-sciences.com/tech/definitions/internet-internet-objets-15158/ Internet des objets: qu'est ce que c'est?] - Futura Sciences

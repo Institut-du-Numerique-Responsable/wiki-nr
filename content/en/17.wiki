@@ -1,0 +1,34 @@
+'''Green IT''' refers to practices that reduce the environmental impacts of information technology: user devices, networks, [[Data centre|data centres]], software and the services they support. Organisations address purchasing, operation, maintenance and end of life as part of [[Sustainable IT|sustainable IT]].
+
+== Choosing priorities ==
+A useful starting point is an inventory of equipment and services, with information on age, use, electricity consumption and replacement plans. Teams can then estimate impacts and identify where better data would change a decision. Cigref's English report on measuring the digital environmental footprint, prepared with the Institut du Numérique Responsable, discusses this work at organisational level.<ref>Cigref and INR, [https://www.cigref.fr/digital-sobriety-managing-the-digital-environmental-footprint-through-measurement Digital sobriety: managing the digital environmental footprint through measurement], 2021 report, English edition published in 2022.</ref>
+
+Priorities depend on the organisation. Extending device life can avoid new manufacturing when it postpones a purchase. In a computing-intensive service, electricity consumption may also warrant substantial attention. Teams need a consistent [[Life cycle assessment|life cycle]] perspective to compare these options; a facility efficiency ratio alone cannot establish which investment offers the greatest overall benefit.
+
+== Changes in practice ==
+Equipment policies can favour repairable products, longer support periods, reuse and suitable end-of-life collection. Staff need a way to request repairs and return spare devices, so that a purchasing policy translates into longer actual use.
+
+For software, teams can remove unnecessary processing, reduce data transfers and test on older supported devices. Arcep publishes an English version of the French general policy framework for the ecodesign of digital services (RGESN), with criteria covering the design and operation of services.<ref>Arcep, [https://en.arcep.fr/news/press-releases/view/n/environment-rgesn-170524.html General policy framework for the ecodesign of digital services], 17 May 2024.</ref>
+
+Before retiring an application, its owner should check dependencies, users and retention obligations. The infrastructure team can then release the associated resources and check which servers, storage or backup jobs have stopped consuming resources. Deleting an application name from a catalogue does not establish an environmental saving.
+
+== Tracking progress ==
+Report absolute impacts alongside measures per employee, transaction or other relevant unit of service. Growth in use can outweigh an efficiency improvement. Document changes in scope and data sources so that readers can distinguish a real reduction from a change in calculation.
+
+EPFL's English Sustainable IT Systems page offers a university example, including work on assessing computing impacts and research through EcoCloud.<ref>EPFL, [https://www.epfl.ch/about/sustainability/sustainable-it/ Sustainable IT Systems].</ref> The Belgian Institute for Sustainable IT also provides English resources and an introduction to the voluntary Sustainable IT Charter.<ref>ISIT-BE, [https://isit-be.org/the-sustainable-it-charter The Sustainable IT Charter].</ref>
+
+== See also ==
+* [[IT for Green]]
+* [[Digital sobriety]]
+* [[Ecodesign]]
+* [[End of life]]
+
+== References ==
+<references />
+
+[[Category:Concepts]]
+
+[[de:Green IT]]
+[[es:Green IT]]
+[[fr:Green IT]]
+[[nl:Green IT]]

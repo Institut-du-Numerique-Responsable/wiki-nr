@@ -1,0 +1,39 @@
+Het '''Duurzame IT Charter''' is een publieke verbintenis die het [https://institutnr.org Instituut voor Duurzame IT] aanbiedt aan organisaties die hun digitale praktijk op een houdbaar spoor willen zetten.
+
+Het charter is een tekst waarin de digitale verbintenissen van de ondertekenaar worden samengevat. Het is kosteloos en in meerdere talen beschikbaar op [https://charter.isit-europe.org/charte-numerique-responsable/?lang=nl_NL charter.isit-europe.org], en staat open voor bedrijven, verenigingen, kleine ondernemingen en overheidsorganisaties.
+
+== De vijf verbintenissen ==
+
+Het charter formuleert elke verbintenis in de wij-vorm. Daarmee bindt het de ondertekenende organisatie, in plaats van een algemene intentie te beschrijven.
+
+; Milieu
+: « Wij streven naar optimalisering van digitale hulpmiddelen om hun impact en verbruik te beperken. »
+; Toegankelijkheid
+: « Wij zetten ons in voor de ontwikkeling van digitale diensten die voor iedereen toegankelijk, inclusief en duurzaam zijn. »
+; Ethiek
+: « Wij streven naar ethische en verantwoordelijke digitale praktijken. »
+; Weerbaarheid
+: « Wij zetten ons in voor Duurzame IT die essentieel is voor de veerkracht van organisaties. »
+; Waarden
+: « Wij zijn vastbesloten het ontstaan van nieuwe praktijken en waarden te stimuleren. »
+
+== Waartoe het dient ==
+
+Het charter is een instap. Het vraagt geen voorafgaande meting en geen audit, maar een uitdrukkelijke, publieke verbintenis waaruit vervolgens toetsbare maatregelen voortvloeien. Het zet de ondertekenaar ertoe aan zich doorlopend te evalueren en te verbeteren.
+
+Die volgorde is bewust gekozen. Wie met meten begint, blijft daar vaak steken. Wie zich eerst verbindt, beschikt intern over een mandaat om te handelen.
+
+== Wat het niet is ==
+
+Geen certificering en geen keurmerk. Er wordt niets gecontroleerd en geen score toegekend. Voor een gestructureerde beoordeling heeft het instituut een keurmerk met een score op 1000, en voor het meten van de voetafdruk van het informatiesysteem de WeNR-campagne.
+
+Een charter behandelen als een keurmerk nodigt uit tot het terechte verwijt van greenwashing: de ondertekening benoemt een handelingsprincipe, geen resultaat.
+
+== Zie ook ==
+
+* [[Duurzame IT]] · [[Verantwoorde AI Charter]] · [[Digitale soberheid]] · [[Verantwoorde AI]]
+
+[[de:Charta für verantwortungsvolle Digitalisierung]]
+[[en:Sustainable IT Charter]]
+[[es:Carta de TI Responsable]]
+[[fr:Charte Numérique Responsable]]

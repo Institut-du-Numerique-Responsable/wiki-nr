@@ -1,0 +1,18 @@
+== Definition ==
+Die 3U (Useful, Useable, Used) sind Grundsätze für die Definition des Nutzererlebnisses bei der Gestaltung eines neuen Produkts. Die Definition der Nutzererfahrung läuft darauf hinaus, sich eine möglichst reibungslose und schnelle Nutzerreise vorzustellen, und erfordert, dass man die Gewohnheiten, Verhaltensweisen und Erwartungen der Endnutzer kennt.
+
+== Die 3U-Regel ==
+Die Definition der Nutzererfahrung folgt der 3U-Regel:
+
+* Nützlich: Das Produkt oder die Dienstleistung muss ein Bedürfnis des Nutzers befriedigen und es ihm ermöglichen, eine Aufgabe zu erfüllen oder ein Ziel zu erreichen.
+* Nutzbar: Das Produkt oder die Dienstleistung muss es dem Nutzer ermöglichen, sie auf angenehme, einfache und effektive Weise zu nutzen.
+* Benutzt: Das Produkt oder die Dienstleistung muss auf dem Markt leicht angenommen werden.
+
+== Quelle ==
+Aurélie Jozan - UX Design, im Zentrum von Markenbekanntheit und Nutzerbindung. 11. Juli 2018. (Online lesen)
+
+== Siehe auch ==
+
+* [[Verantwortungsvolle Digitalisierung]]
+
+[[fr:Utile_Utilisable_Utilisé]]

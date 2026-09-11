@@ -1,0 +1,45 @@
+'''Cybersecurity''' protects information systems and the confidentiality, integrity and availability of the data and services they support. In [[Sustainable IT|sustainable IT]], teams also consider how security decisions affect equipment lifetime, resource consumption and people's ability to use a service.
+
+== Ecodesign, security and privacy ==
+In 2022, France's MiNumEco published a workshop report on the relationships between ecodesign, cybersecurity and data protection. Participants included DINUM, ANSSI, CNIL, the University of Rennes, Campus Cyber and the Institut du Numérique Responsable (INR). The report identifies shared practices and tensions that project teams can examine together.<ref name="minumeco">MiNumEco, [https://ecoresponsable.numerique.gouv.fr/publications/ecoconception-securite/ Écoconception, cybersécurité et protection des données, quelles synergies ?], 2022, in French.</ref>
+
+Security staff, service owners, the data protection officer and those responsible for ecodesign should work together from the definition of the need. They need an agreed view of the service, its users, the information at risk and the resources required to operate it. The report is a practical discussion document, not a certification or a single standard replacing each discipline's requirements.
+
+== Decisions that can support all three objectives ==
+* '''Limit collection and functions.''' Collect the information needed for the service and remove unused features and unnecessary third-party calls. This can reduce data flows and the number of exposed components. Limit permissions to each person's tasks.
+* '''Maintain an inventory.''' Record equipment, applications, dependencies, data stores and responsible owners. Teams can then identify unsupported software, unused systems and forgotten copies of data.
+* '''Plan long-term support.''' Include security update availability and repair options in procurement. Extending hardware life requires a supported software environment; retaining a vulnerable, unsupported browser is not an ecodesign strategy.
+* '''Retire services completely.''' Check dependencies and retention requirements, revoke access and stop the associated resources. A forgotten server can remain exposed and consume resources after users have stopped using its application.
+
+These practices follow the workshop's analysis of minimisation, system knowledge, maintenance and decommissioning.<ref>MiNumEco, [https://ecoresponsable.numerique.gouv.fr/publications/ecoconception-securite/synergies-et-divergences/ Synergies et divergences], 2022, in French.</ref> Their environmental benefit depends on the resources actually released and on whether they postpone equipment purchases.
+
+== Safeguards and resource use ==
+Encryption, security monitoring, backups and redundant infrastructure require resources. Teams should size them against documented risks and continuity needs. Reducing storage or energy consumption alone does not justify weakening a necessary protection. CNIL's security guide covers operational safeguards, including cloud services, APIs and AI.<ref name="cnil">CNIL, [https://www.cnil.fr/fr/node/165213 Practice guide for the security of personal data: 2024 edition], English guide available.</ref>
+
+For example, the owner of an online appointment service can agree recovery objectives with operations and security staff. They can test restoration and examine unnecessary duplication while retaining the independent backup copies needed for recovery. For logs, document the events needed for detection, authorised readers and retention periods; avoid recording secrets or collecting everything indefinitely.
+
+Consolidating infrastructure also needs a risk assessment. Sharing resources can reduce idle capacity, but excessive consolidation can increase the consequences of one incident. Compare designs that meet the same security and availability needs.
+
+== Reuse and secure retirement ==
+Before reassigning or donating equipment, remove data with a method suited to the storage medium and information sensitivity, and verify the result. NIST SP 800-88 Revision 2 provides guidance for organising media sanitisation.<ref>NIST, [https://csrc.nist.gov/pubs/sp/800/88/r2/final Guidelines for Media Sanitization, SP 800-88 Rev. 2], 2025.</ref> A documented process helps determine whether reuse is possible; ordinary file deletion is not sufficient evidence.
+
+== Follow-up in an IT team ==
+A shared review can track supported devices, unused services actually retired, backup restoration results and the volume and purpose of retained data. Pair these with resource measurements where useful. A storage reduction in gigabytes is not, by itself, a measured carbon reduction.
+
+Use the 2022 workshop alongside newer references. The 2024 [[RGESN]] provides an ecodesign framework for digital services; it does not replace security risk management.<ref>Arcep, [https://en.arcep.fr/news/press-releases/view/n/environment-rgesn-170524.html General policy framework for the ecodesign of digital services], 2024, in English.</ref>
+
+== See also ==
+* [[Ecodesign]]
+* [[Digital resilience]]
+* [[Shadow AI]]
+* [[Digital sobriety]]
+* [[End of life]]
+
+== References ==
+<references />
+
+[[Category:Concepts]]
+[[fr:Cybersécurité]]
+[[es:Ciberseguridad]]
+[[de:Cybersicherheit]]
+[[nl:Cyberbeveiliging]]

@@ -1,0 +1,13 @@
+Le '''clustering''' est une technique d’[[Apprentissage_automatique|apprentissage non supervisé]] qui regroupe automatiquement des données similaires, sans catégories définies à l’avance.
+
+Elle sert à découvrir une structure : segments d’usagers, familles d’équipements aux profils de consommation proches, regroupement de journaux d’incidents.
+
+Contrairement à la classification, aucune étiquette n’est fournie : c’est l’algorithme qui propose le découpage, et l’humain qui l’interprète. Deux paramétrages différents produisent des groupes différents, tous également « corrects » du point de vue du calcul.
+
+L’algorithme le plus courant est [[K-means]].
+
+== Voir aussi ==
+
+* [[K-means]] · [[Apprentissage_automatique|Apprentissage automatique]] · [[Analyse_prédictive|Analyse prédictive]] · [[Modèle_d'intelligence_artificielle|Modèle d'intelligence artificielle]]
+
+[[Catégorie:Intelligence artificielle]]

@@ -1,0 +1,36 @@
+'''Digital sovereignty''' is the ability of a state, an organisation or a group of actors to control its infrastructure, its data and its technological choices without suffering constraining dependence.
+
+== Three dimensions ==
+
+; Data
+: where they are stored, which law applies, who may lawfully access them
+; Infrastructure
+: who owns and operates networks, [[Data centre|data centres]] and components
+; Skills
+: the ability to design, operate and repair without obligatory recourse to a third party
+
+== Not the same as localisation ==
+
+Sovereignty is frequently reduced to where the servers sit. That is necessary but insufficient. Data hosted in Europe may still fall under extraterritorial law if the operator is subject to it.
+
+== Sovereignty and robustness ==
+
+The two notions ask different questions. Sovereignty asks about '''power''': who decides, who can compel. [[Robustness|Robustness]] asks about '''capacity''': what remains possible when the system is unavailable.
+
+An organisation can be sovereign on paper and fragile in practice if it has lost the skills to operate its systems. Conversely it may depend on a foreign supplier while retaining a documented and tested fallback.
+
+The means largely overlap: open formats, tested [[Reversibility|reversibility]], skills retained in-house, systems simple enough to be understood.
+
+== Artificial intelligence ==
+
+AI shifts the question. Foundation models concentrate dependence on a small number of actors, and that dependence extends beyond hosting to the model itself, its training data and its evolution.
+
+== See also ==
+
+* [[Robustness]] · [[Digital resilience]] · [[Reversibility]] · [[Vendor lock-in]] · [[Low tech]]
+
+[[Category:Concepts]]
+[[de:Digitale Souveränität]]
+[[es:Soberanía Digital]]
+[[fr:Souveraineté numérique]]
+[[nl:Digitale soevereiniteit]]

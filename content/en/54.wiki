@@ -1,0 +1,41 @@
+The '''Responsible AI Charter''' is a public commitment offered by the [https://institutnr.org Institute for Sustainable IT], devoted to the use of artificial intelligence. It extends the [[Sustainable IT Charter]] onto ground where decisions are taken quickly and their effects are hard to undo.
+
+It is available in several languages at [https://charter.isit-europe.org/charte-ia/?lang=en_GB charter.isit-europe.org], free of charge, and open to any organisation.
+
+Signatories undertake to deploy AI systems that are human-centred, trustworthy, inclusive, non-discriminatory and environmentally responsible, in line with applicable regulation including the [[AI Act]].
+
+== The four commitments ==
+
+; AI at the service of humanity
+: develop AI that reinforces the central role of employees while enhancing their capabilities, and build it through social dialogue rather than around it.
+; Inclusive and ethical AI
+: respect equity, diversity and non-discrimination, with mechanisms that guard against bias in the data and requirements for [[Digital accessibility|accessibility]].
+; Trustworthy AI
+: give people transparent information about their interactions with AI systems, and keep human oversight over high-risk activities.
+; Eco-responsible AI
+: adopt frugal models with efficient use of resources, and limit the environmental footprint across the whole life cycle.
+
+The first commitment is the one most often skipped. It places social dialogue before deployment, where most organisations place it after.
+
+== Why a separate charter ==
+
+Adoption ran ahead of governance. Tools arrive through teams rather than through management, which produces [[Shadow AI]]: undeclared use that exposes internal data to third parties who may train their models on it.
+
+A charter lets an organisation state a position before practice hardens.
+
+== Relation to the AI Act ==
+
+The [[AI Act]] sets legal obligations by risk level. The charter operates earlier and more broadly: it covers uses the regulation does not classify as high risk but which still raise questions of sobriety, dependency and acceptability.
+
+== What it is not ==
+
+Neither a certification nor a label. Nothing is audited and no score is awarded. Signing states a principle of action, not a result.
+
+== See also ==
+
+* [[Responsible AI]] · [[Sustainable IT Charter]] · [[AI Act]] · [[Shadow AI]] · [[AI governance]] · [[Algorithmic bias]]
+
+[[de:KI-Charta]]
+[[es:Carta de IA Responsable]]
+[[fr:Charte IA Responsable]]
+[[nl:Verantwoorde AI Charter]]

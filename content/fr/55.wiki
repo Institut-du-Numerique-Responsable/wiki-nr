@@ -1,0 +1,22 @@
+== Définition ==
+Le label '''FSC''' ('''F'''orest '''S'''tewardship '''C'''ouncil) est un [[Ecolabel|label environnementa]]<nowiki/>l (ou écolabel) créé en 1993 qui garantit que le papier ou le bois provient de forêts gérées de manière responsable<ref>https://fr.fsc.org/fr-fr/notre-systeme/credibilite-de-la-tracabilite</ref>.
+
+Ce label est privé et accrédité par des organismes indépendants. Ce label a le soutien d'ONG, comme WWF<ref>https://www.wwf.fr/champs-daction/foret/gestion-durable/FSC</ref>.
+
+En 2017, seuls 5% des forêts dans le monde et 0,2 % en France étaient certifiées FSC<ref>https://www.wwf.fr/champs-daction/foret/gestion-durable/FSC</ref>. Cela représente 195 millions d’ha certifiés dans 83 pays et 33 000 entreprises possèdent une chaîne de traçabilité FSC dans le monde.
+
+== Types de label FSC ==
+Il existe 3 types de label FSC<ref>https://fr.fsc.org/fr-fr/produits-et-communication/les-3-labels-fsc</ref> :
+
+* le label FSC 100% : issue de forêts certifiées FSC.
+* le label FSC Mixte : issue de forêts certifiées FSC et de matériaux recyclés.
+* le label FSC Recyclé : issue de matériaux recyclés.
+
+== Voir aussi ==
+
+=== Références ===
+<references />
+
+=== Articles connexes ===
+
+* Wikipedia - [https://fr.wikipedia.org/wiki/Forest_Stewardship_Council Forest Stewardship Council]

@@ -1,0 +1,32 @@
+'''Training data''' are the examples used to fit a [[Artificial intelligence model|machine learning model]]. They may contain text, images, measurements, audio or combinations of these. In supervised learning, labels specify the target output. In self-supervised learning, the training process derives a target from the input data.
+
+== Choosing examples ==
+
+Begin with the intended use. A model trained on formal letters may handle short, misspelled support messages poorly. A dataset with many records can still omit the languages or situations that users encounter.
+
+Document how people collected the data, what each field means, who supplied labels and which cases they excluded. The ''Datasheets for Datasets'' proposal provides a framework covering motivation, composition, collection, recommended uses and maintenance.<ref>Gebru et al., [https://arxiv.org/abs/1803.09010 Datasheets for Datasets].</ref>
+
+Check the conditions under which you can use and retain the material. Public access to a document does not, by itself, settle copyright, personal-data or contractual questions. Keep provenance and usage restrictions with the dataset so that later teams can assess them.
+
+== Separating training from evaluation ==
+
+Training examples fit the model. Validation examples support development choices. A held-out test set provides a final assessment after those choices. Fitting preprocessing steps on test data creates leakage and can make results look better than they will be in use.<ref>scikit-learn, [https://scikit-learn.org/stable/common_pitfalls.html Common pitfalls and recommended practices].</ref>
+
+Consider a collection of maintenance reports. If several reports concern the same machine, a random split may put near-duplicates on both sides. A split by machine, site or time may provide a more realistic test, depending on where the team plans to deploy the service.
+
+== Quality work before another training run ==
+
+Inspect duplicates, conflicting labels and missing cases. Keep a record of dataset versions and changes so that a performance difference can be investigated. Removing records without examining their role can also remove uncommon but important cases.
+
+For [[Sustainable IT]], data preparation is an opportunity to avoid repeated, poorly targeted training. More data can improve a model, but collecting or generating additional examples should address an observed gap. Measure the result instead of treating dataset size as a quality score.
+
+== See also ==
+* [[Machine learning]] · [[Algorithmic bias]] · [[Fine-tuning]] · [[Artificial intelligence model]]
+
+== References ==
+<references />
+
+[[Category:Artificial intelligence]]
+[[fr:Données d'entraînement]]
+[[es:Datos de entrenamiento]]
+[[de:Trainingsdaten]]

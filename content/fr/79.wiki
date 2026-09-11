@@ -1,0 +1,36 @@
+== Définition ==
+La transformation digitale bouleverse et transforme le monde de l’entreprise. Or le numérique n’est pas une industrie immatérielle. Les défis environnementaux qui accompagnent la transformation numérique sont encore trop souvent mal traités. L’empreinte écologique du numérique risque de s’alourdir encore : consommation d’énergie en hausse, émissions de gaz à effet de serre, pollution des sols et de l’air, épuisement des ressources non renouvelables, érosion de la biodiversité. S’y ajoute la difficulté croissante à gérer l’extraction des matériaux et la fin de vie des équipements.    
+
+Le numérique responsable est une démarche d’amélioration continue qui vise à réduire l’empreinte écologique, économique et sociale des technologies de l’information et de la communication (TIC).        
+
+==== Termes souvent associés ====
+Numérique responsable n'est pas à confondre avec les termes décrit ci-dessous et qui ne couvrent pas la totalité des champs d'action associés au numérique responsable :     
+
+* Green IT : démarche de réduction de l’empreinte environnementale du SI,
+* IT for Green : démarche de mise à disposition de l'IT pour résoudre des problématiques environnementales,
+* Human for IT : démarche de mise à disposition du plus grand nombre du numérique ( favoriser l'inclusion numérique / réduire la fracture sociale induit par l'usage du numérique ),
+* IT for Human : qui vise à utiliser le numérique afin de limiter l'impact social d'autres activités.
+La traduction anglo-saxonne de numérique responsable se traduira en "Sustainable IT".
+
+== Origines ==
+La notion de responsable est à comprendre au sens de [https://fr.wikipedia.org/wiki/Hans_Jonas Hans JONAS] qui pose "[https://fr.wikipedia.org/wiki/Le_Principe_responsabilit%C3%A9 Le Principe responsabilité]" et qui propose une reformulation de l'éthique autour de l'idée de responsabilité. Ce principe introduit et inclus des idéaux de progrès et d'utopie, tout en dessinant une philosophie de "l'espérance responsable" fondée sur le respect. Le numérique responsable reprend le sens de ce principe posé par [https://fr.wikipedia.org/wiki/Hans_Jonas Hans JONAS] et propose de l'appliquer au numérique pour permettre à cette discipline de conjuguer progrès, transformation de la société , et durabilité de l'environnement pour une promesse d'un monde meilleur. 
+
+== Voir aussi  ==
+
+=== Articles connexes ===
+
+* [[People Planet Profit]]
+
+=== Liens externes ===
+
+* Wikipédia - [https://fr.wikipedia.org/wiki/Informatique_durable Informatique durable]
+* WWF - [https://www.wwf.fr/projets/numerique-responsable Pour un numérique plus responsable]
+* Vers un numérique responsable – Rencontre avec Vincent Courboulay : https://institutnr.org/publication-vers-un-numerique-responsable
+* INR - 2021 - Numérique plus responsable : que dit la loi ? https://institutnr.org/numerique-responsable-que-dit-la-loi
+[[de:Verantwortungsvolle Digitalisierung]]
+[[en:Sustainable IT]]
+[[es:TI Responsable]]
+[[nl:Duurzame IT]]
+
+== Cybersécurité et durée de vie des services ==
+La [[Cybersécurité|cybersécurité]] intervient dans les choix de maintenance, de conservation des données, de sauvegarde et de réemploi. Une équipe IT peut réduire les fonctions inutilisées et retirer les systèmes abandonnés tout en maintenant les protections nécessaires. Le dossier [https://ecoresponsable.numerique.gouv.fr/publications/ecoconception-securite/ MiNumEco sur l'écoconception, la cybersécurité et la protection des données] (2022), élaboré avec la participation de l'INR, examine ces liens. La fiche dédiée développe les arbitrages, avec un exemple de reprise de service et des références opérationnelles.

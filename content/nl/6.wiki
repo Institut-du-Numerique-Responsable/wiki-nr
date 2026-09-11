@@ -1,0 +1,27 @@
+'''Digitale soberheid''' betekent het volume aan gebruik en apparatuur verkleinen, niet alleen het rendement ervan verbeteren. Zij verschilt van efficiëntie, die de verhouding tussen geleverde dienst en verbruikte middelen verbetert zonder de hoeveelheid dienst ter discussie te stellen.
+
+Het onderscheid doet ertoe, omdat het rebound-effect efficiëntiewinst geregeld opslokt.
+
+== Concrete vormen ==
+
+; Bij apparatuur
+: gebruiksduur verlengen, refurbished kopen, het aantal apparaten per persoon terugbrengen. Omdat de fabricage het grootste deel van de impact bundelt, valt hier de beslissing.
+; Bij gegevens
+: bewaartermijnen vastleggen, kopieën beperken, verwijderen wat niet meer dient. Het minimaliseringsbeginsel van de AVG wijst dezelfde kant op.
+; Bij diensten
+: het nut van een functie toetsen voordat zij wordt geoptimaliseerd; bij piekbelasting een verminderde dienst aanvaarden in plaats van op de piek te dimensioneren.
+
+== Een veelgehoord bezwaar ==
+
+Soberheid zou innovatie afremmen. Het antwoord is empirisch: een aanzienlijk deel van de uitgeleverde functies wordt nauwelijks gebruikt, een deel van de opgeslagen gegevens nooit geraadpleegd. Die schrappen verslechtert niets.
+
+Wat open blijft, is de verdeling van de inspanning tussen organisaties, fabrikanten en individuele gebruikers. Soberheid is geen individuele verantwoordelijkheid: keuzes in architectuur en inkoop wegen zwaarder dan persoonlijke gebaren.
+
+== Zie ook ==
+
+* [[Duurzame IT]] · [[Digitale soevereiniteit]] · [[RGESN]]
+
+[[fr:Sobriété_Numérique]]
+[[en:Digital_sobriety]]
+[[es:Sobriedad_Digital]]
+[[de:Digitale_Suffizienz]]

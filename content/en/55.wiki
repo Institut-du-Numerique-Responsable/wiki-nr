@@ -1,0 +1,45 @@
+The '''Sustainable IT Charter''' is a public commitment offered by the [https://institutnr.org Institute for Sustainable IT] to organisations that want to place their digital practices on a sustainable footing.
+
+It is available in several languages at [https://charter.isit-europe.org/charte-numerique-responsable/?lang=en_GB charter.isit-europe.org], free of charge, and open to companies, associations, small businesses and public bodies alike.
+
+== The five commitments ==
+
+The charter states each commitment in the first person plural, which binds the signing organisation rather than describing a general intention.
+
+; Environment
+: « We are committed to optimising digital tools to limit their impact and consumption. »
+; Accessibility
+: « We are committed to the development of digital services that are accessible to all, inclusive and sustainable. »
+; Ethics
+: « We are committed to ethical and responsible digital practices. »
+; Resilience
+: « We are committed towards a Sustainable IT, that is essential for the resilience of organisations. »
+; Values
+: « We are committed to fostering the emergence of new behaviours and values. »
+
+== What it is for ==
+
+The charter is an entry point. It requires neither prior measurement nor audit. It asks for an explicit, public commitment, from which verifiable actions then follow, and it presses the signatory to assess and improve itself continuously.
+
+That order is deliberate. An organisation that starts with measurement often stops there. An organisation that commits first holds an internal mandate to act.
+
+The text refers to performance and compliance indicators tied to corporate responsibility objectives, without prescribing a particular method.
+
+== What it is not ==
+
+It is neither a certification nor a label. Nothing is audited and no score is awarded. For a structured assessment the Institute runs a label scored out of 1000; for a measurement of the information system's footprint, the WeNR campaign.
+
+Treating a charter as a label invites a fair charge of [[Greenwashing|greenwashing]]. Signing states a principle of action, not a result.
+
+== A note on the English term ==
+
+The French ''numérique responsable'' is rendered in English as '''sustainable IT''', not as « responsible IT ». The charter follows that usage, as does this wiki.
+
+== See also ==
+
+* [[Sustainable IT]] · [[Responsible AI Charter]] · [[Digital sobriety]] · [[Ecodesign]] · [[Digital accessibility]]
+
+[[de:Charta für verantwortungsvolle Digitalisierung]]
+[[es:Carta de TI Responsable]]
+[[fr:Charte Numérique Responsable]]
+[[nl:Duurzame IT Charter]]

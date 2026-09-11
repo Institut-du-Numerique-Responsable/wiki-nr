@@ -1,0 +1,15 @@
+La '''régression''' est une méthode statistique qui prédit une valeur numérique à partir d’autres variables : consommation attendue, durée de vie estimée, coût prévisionnel.
+
+Elle s’oppose à la classification, qui prédit une catégorie plutôt qu’une quantité.
+
+== Pourquoi la citer ==
+
+La régression linéaire est l’une des méthodes les plus anciennes et les plus légères. Elle reste pertinente pour de nombreux besoins d’entreprise, et présente deux avantages sur des modèles plus lourds : ses coefficients s’interprètent directement, et son coût de calcul est négligeable.
+
+Recourir à un réseau de neurones là où une régression suffit revient à payer en énergie et en opacité ce qu’on ne gagne pas en précision.
+
+== Voir aussi ==
+
+* [[Apprentissage_automatique|Apprentissage automatique]] · [[Analyse_prédictive|Analyse prédictive]] · [[Forêts_aléatoires|Forêts aléatoires]] · [[Explicabilité]] · [[Sobriété_Numérique|Sobriété Numérique]]
+
+[[Catégorie:Intelligence artificielle]]

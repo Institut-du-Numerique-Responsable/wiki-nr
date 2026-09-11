@@ -1,0 +1,18 @@
+L’'''IT for Green''' désigne l’usage du numérique pour résoudre des problématiques environnementales : pilotage énergétique, optimisation logistique, agriculture de précision, suivi de la biodiversité, modélisation climatique.
+
+C’est le miroir du [[Green_IT|Green IT]] : l’un réduit l’impact du numérique, l’autre met le numérique au service de la réduction d’autres impacts.
+
+== Condition de validité ==
+
+Un projet IT for Green n’est justifié que si le gain environnemental dépasse le coût de la solution numérique elle-même. Cette comparaison est rarement produite, et deux effets viennent en outre éroder les gains annoncés :
+
+* l’'''[[Effet_Rebond|effet rebond]]''' : la ressource économisée est réaffectée ailleurs ;
+* l’'''effet d’aubaine''' : la solution numérique est retenue là où un changement d’organisation ou de comportement aurait suffi, pour un coût moindre.
+
+L’[[AI_for_Green|AI for Green]] est la déclinaison de cette démarche à l’[[Intelligence_Artificielle|intelligence artificielle]], où le paradoxe est le plus marqué.
+
+== Voir aussi ==
+
+* [[Green_IT|Green IT]] · [[AI_for_Green|AI for Green]] · [[Numérique_Responsable|Numérique Responsable]] · [[Effet_Rebond|Effet Rebond]] · [[Paradoxe_de_Jevons|Paradoxe de Jevons]] · [[Green_Washing|Green Washing]]
+
+[[Catégorie:Concepts]]

@@ -1,0 +1,43 @@
+La '''Carta de TI Responsable''' (''Sustainable IT Charter'') es un compromiso público propuesto por el [[Instituto de TI Responsable]] a las organizaciones que desean situar sus prácticas digitales en una trayectoria de sostenibilidad.
+
+Está disponible en varios idiomas y de forma gratuita en [https://charter.isit-europe.org/charte-numerique-responsable/ charter.isit-europe.org], y la pueden firmar empresas, asociaciones, pymes y entidades públicas.
+
+== Los cinco compromisos ==
+
+La carta formula cada compromiso en primera persona del plural, lo que vincula a la organización firmante en lugar de describir una intención general.
+
+; Medio ambiente
+: optimizar las herramientas digitales para limitar su impacto y su consumo.
+; Accesibilidad
+: desarrollar servicios digitales accesibles a todas las personas, inclusivos y sostenibles.
+; Ética
+: adoptar prácticas digitales éticas y responsables.
+; Resiliencia
+: avanzar hacia una TI sostenible, condición de la resiliencia de las organizaciones.
+; Valores
+: favorecer la aparición de nuevos comportamientos y valores.
+
+== Para qué sirve ==
+
+La carta es un punto de entrada. No exige medición previa ni auditoría: pide un compromiso explícito y público, del que se derivan después acciones verificables, e insta a la organización firmante a evaluarse y mejorar de forma continua.
+
+Este orden es deliberado. Una organización que empieza por la medición se detiene a menudo en ella. Una organización que se compromete primero dispone de un mandato interno para actuar.
+
+El texto remite a indicadores de desempeño y de conformidad vinculados a los objetivos de responsabilidad social, sin imponer un método concreto.
+
+== Lo que la carta no es ==
+
+No es una certificación ni una etiqueta. No se controla y no otorga puntuación. Para una evaluación estructurada existe la etiqueta del Instituto, con puntuación sobre 1000, y para una medición de la huella del sistema de información, la campaña WeNR.
+
+Confundir una carta con una etiqueta expone a una crítica legítima de blanqueo ecológico: la firma es un principio de acción, no un resultado.
+
+== Véase también ==
+
+* [[Instituto de TI Responsable]] · [[TI Responsable]] · [[Carta de IA Responsable]] · [[Ecodiseño]]
+
+[[Categoría:Referenciales]]
+
+[[de:Charta für verantwortungsvolle Digitalisierung]]
+[[en:Sustainable IT Charter]]
+[[fr:Charte Numérique Responsable]]
+[[nl:Duurzame IT Charter]]

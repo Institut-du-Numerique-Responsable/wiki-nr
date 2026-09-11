@@ -1,0 +1,38 @@
+La '''economía circular''' sustituye el modelo lineal de extraer, producir, consumir y desechar por un modelo en el que los recursos permanecen en uso el mayor tiempo posible.
+
+El modelo lineal descansa sobre el principio, hoy obsoleto, de la abundancia de los recursos naturales.
+
+== Aplicada a lo digital ==
+
+El sector digital acumula dos características que lo sitúan en el centro del tema: una [[Fabricación|fabricación]] muy intensiva en materiales, y tasas de renovación elevadas.
+
+Las palancas, por orden de eficacia decreciente:
+
+# '''Alargar la duración de uso''', que evita una fabricación completa.
+# '''[[Reutilización|Reutilizar]]''' y '''[[Reacondicionamiento|reacondicionar]]''', que amortizan una fabricación ya realizada.
+# '''Reparar''', lo que supone disponibilidad de piezas y de documentación.
+# '''Reciclar''', que solo recupera una fracción de los materiales.
+
+El orden importa: el reciclaje llega en último lugar porque su rendimiento es bajo para los metales críticos, presentes en cantidades diminutas y aleados con otros.
+
+== La regla de las 5R ==
+
+Rechazar, reducir, reutilizar, reciclar, devolver a la tierra. Las dos primeras acciones, las más eficaces, son también las menos visibles: no producen ninguna actividad económica medible.
+
+== Marco legal francés ==
+
+La ley de 10 de febrero de 2020 relativa a la lucha contra el desperdicio y a la economía circular establece varias medidas aplicables a lo digital: [[Índice de Reparabilidad|índice de reparabilidad]], fondos de reparación y reúso, y prohibición de las técnicas que restringen la reparación.
+
+== Una objeción ==
+
+Circular no significa sostenible. Un flujo circular de gran volumen consume energía en cada ciclo de recogida, transporte y transformación. La circularidad reduce la extracción; no dispensa de reducir el volumen.
+
+== Véase también ==
+
+* [[Reutilización]] · [[Reacondicionamiento]] · [[Fin de Vida]] · [[Obsolescencia Programada]] · [[Sobriedad Digital]]
+
+[[Categoría:Conceptos]]
+
+[[fr:Economie_Circulaire]]
+[[en:Circular_economy]]
+[[de:Kreislaufwirtschaft]]

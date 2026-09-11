@@ -1,0 +1,37 @@
+== Définition ==
+Les terres rares font partie des [[ressources primaires]] nécessaires à la fabrication des "produits" du numérique (c'est à dire l'ensemble des objets qui servent à  créer, partager, consommer des informations). La conséquence de nos besoins et pratiques sans cesse croissants, est que ces matériaux deviennent de facto des ressources stratégiques. Les terres rares sont associés à deux problématiques :    
+
+* socio-politique, liée à leur origine géographique,   
+* environnementale, liée à leur exploitation   
+
+L'extraction de ces métaux est rendue difficile de par leur faible teneur dans le sol. Celle-ci oblige la mise en œuvre de nombreux et complexes procédés de filtrage, de nettoyage, de purification qui imposent l'usage de substances chimiques dangereuses et polluantes ainsi que la consommation de très grandes quantités d'eau qui deviendront contaminées.  
+
+== Les terres rares et leurs enjeux géopolitiques ==
+Les ressources en terres rares se concentrent dans quelques lointaines régions du monde. La Chine représente 90% du marché et détient la moitié des réserves de ces terres. Le reste est réparti entre la Russie, l'Amérique du Nord, l'Australie, le Brésil et l'Afrique de l'Est. 
+
+== Quels sont ces métaux qui constituent les terres rares ? ==
+Les terres rares regroupent 17 métaux : le scandium, l'yttrium, et les quinze lanthanides (Lanthane, Cérium, Praséodyme, Néodyme, Prométhium, Samarium, Europium, Gadolinium, Terbium, Dysprosium, Holmium, Erbium, Thulium, Ytterbium, et Lutécium)
+
+== Pourquoi le nom de "terres rares" ?  ==
+Contrairement à ce qu'on pourrait croire, ces matériaux sont encore abondants aujourd'hui dans les sols. Le terme "rare" qualifie leur caractère disséminé, qui nécessite d'extraire de très gros volumes de matières pour obtenir au final une quantité faible de terres rares. A titre d'illustration, il faut extraire: 
+
+* 8,5 tonnes de roches pour extraire 1kg de Vanadium 
+* 16 tonnes pour 1kg de Célium
+* ou pire encore 50 tonnes pour 1kg de Gallium 
+
+== Voir aussi ==
+
+=== Références ===
+
+* [https://multimedia.ademe.fr/infographies/infographie-terres-rares-ademe/ ADEME - Infographies sur les métaux et les terres rares]
+* Sénat - 19 mai 2016 - "Les enjeux stratégiques des terres rares et des matières premières stratégiques et critiques" - [https://www.senat.fr/rap/r15-617-1/r15-617-1.html Lire le rapport du Senat]
+
+=== Articles connexes ===
+
+* [[Abiotique]]
+
+=== Liens externes ===
+
+* [https://fr.wikipedia.org/wiki/Terre_rare Wikipédia - Définition]
+* Florian Gallo, "Changement climatique et industrie minière - étude de cas: l'exposition des gisement de terres rare au risque climatique", Carbone 4, 2019 ( [http://www.carbone4.com/publication-changement-climatique-industrie-miniere/ Lire])
+* Guillaume Pitron "La guerre des métaux rares - La face cachée de la transition énergétique et numérique" ISBN : 979-10-209-0574-1

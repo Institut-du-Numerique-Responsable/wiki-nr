@@ -1,0 +1,22 @@
+The '''rebound effect''' is the phenomenon whereby a gain in technical efficiency leads to increased overall consumption, cancelling part or all of the expected saving.
+
+== Mechanism ==
+
+Efficiency lowers the cost of a use. A cheaper use is used more: more often, by more people, for longer, or for purposes that did not previously exist.
+
+In digital technology the effect is systematic. Faster networks encourage heavier formats. Cheaper storage removes the incentive to delete. Cloud elasticity removes the constraint that used to force sizing discipline.
+
+== Consequence ==
+
+Efficiency alone does not reduce impact. It must be paired with a limit, which is the role of [[Digital sobriety|digital sobriety]]: questioning the need rather than only the means.
+
+The [[Jevons paradox]] is the historical formulation of the same observation.
+
+== See also ==
+
+* [[Digital sobriety]] · [[Jevons paradox]] · [[IT for Green]] · [[Sustainable IT]]
+
+[[Category:Concepts]]
+[[de:Rebound-Effekt]]
+[[es:Efecto Rebote]]
+[[fr:Effet Rebond]]

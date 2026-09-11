@@ -1,0 +1,39 @@
+El '''CUE''' (''Carbon Usage Effectiveness'') mide las emisiones de carbono de un [[Centro de Datos|centro de datos]] por unidad de energía destinada a sus equipos informáticos. Se expresa en kilogramos equivalentes de CO₂ por kilovatio-hora.
+
+== Lo que determina su valor ==
+
+El CUE depende sobre todo del '''mix eléctrico local'''. Un mismo centro, con la misma eficiencia, obtiene un CUE muy distinto según se alimente de una red descarbonizada o de una red basada en el carbón.
+
+Esta sensibilidad lo convierte en un buen indicador de elección de emplazamiento y en un mal indicador de rendimiento operativo: un CUE excelente puede reflejar únicamente una geografía favorable, sin ningún esfuerzo de sobriedad.
+
+== Dos limitaciones adicionales ==
+
+* El recurso a '''certificados de origen renovable''' puede mejorar el CUE declarado sin modificar la electricidad físicamente consumida.
+* Como el [[Power Usage Effectiveness|PUE]], el CUE solo cubre la fase de uso e ignora las emisiones ligadas a la [[Fabricación|fabricación]] de los equipos, mayoritarias en el ciclo de vida.
+
+El CUE se lee, por tanto, junto a una [[Huella de Carbono|huella de carbono]] completa, que integra los tres alcances.
+
+== En el marco de la TI responsable ==
+
+El CUE traduce el consumo eléctrico de un centro de datos en emisiones reales. Sin él, la eficiencia energética sigue siendo una magnitud abstracta: dos instalaciones con el mismo [[Power Usage Effectiveness|PUE]] pueden tener huellas climáticas separadas por un factor diez según la red que las alimente.
+
+Su interés para la [[TI Responsable|TI responsable]] se sitúa en tres planos:
+
+* '''Conecta la infraestructura con los objetivos climáticos.''' El CUE es la bisagra entre los indicadores técnicos de explotación y la contabilidad carbono de la organización, que se apoya en la [[Huella de Carbono|huella de carbono]] y sus tres alcances.
+* '''Orienta las decisiones de emplazamiento y de horario.''' Como depende del mix eléctrico, incita a alojar y a planificar las cargas de trabajo allí y cuando la electricidad está descarbonizada, una palanca a menudo más eficaz que la optimización marginal del rendimiento.
+* '''Permite detectar el maquillaje verde.''' Distinguir el CUE basado en el mix físico local del CUE mejorado mediante certificados de origen renovable revela lo que un anuncio de «centro de datos neutro en carbono» recubre realmente.
+
+Sus límites orientan igualmente la lectura: el CUE ignora la [[Fabricación|fabricación]] de los equipos, mayoritaria en el ciclo de vida, así como su [[Fin de Vida|fin de vida]]. Un CUE excelente no compensa una renovación acelerada del parque de servidores. Por eso se lee junto al [[Análisis del Ciclo de Vida|análisis del ciclo de vida]] y a los indicadores de duración de uso.
+
+== Normas de referencia ==
+
+* ISO/IEC 30134-8:2022, ''Information technology — Data centres key performance indicators — Part 8: Carbon usage effectiveness (CUE)''
+* The Green Grid, ''Carbon Usage Effectiveness (CUE): A Green Grid Data Center Sustainability Metric'', 2010
+
+== Véase también ==
+
+* [[Centro de Datos]] · [[Power Usage Effectiveness]] · [[Water Usage Effectiveness]] · [[Huella de Carbono]]
+
+[[Categoría:Medición]]
+
+[[fr:Carbon_Usage_Effectiveness]]

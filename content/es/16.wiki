@@ -1,0 +1,38 @@
+La '''IA responsable''' designa una práctica de la inteligencia artificial que integra sus efectos ambientales, sociales y éticos desde el diseño, y no como corrección posterior.
+
+== Cuatro exigencias ==
+
+; Utilidad demostrada
+: la primera pregunta no es cómo construir el modelo, sino si el problema requiere uno. Una regla explícita o una consulta a una base resuelven muchos casos con un coste sin comparación.
+; Sobriedad
+: el entrenamiento concentra un coste visible, pero el uso acumulado lo supera con rapidez cuando el servicio se generaliza. Un modelo más pequeño y ajustado a la tarea suele bastar.
+; Transparencia
+: saber con qué datos se entrenó el modelo, qué sabe hacer y, sobre todo, qué no sabe hacer.
+; Supervisión humana
+: situada '''antes''' de la acción cuando el sistema actúa por sí mismo, no después.
+
+== Los riesgos que trata ==
+
+* El '''sesgo algorítmico''', que reproduce y amplifica las desigualdades presentes en los datos de entrenamiento.
+* La '''alucinación''': un modelo generativo produce enunciados plausibles y falsos, sin señal que los distinga.
+* La '''opacidad''', que impide explicar una decisión a la persona afectada.
+* El '''Shadow AI''': el uso no declarado de herramientas externas, que expone datos internos a terceros.
+
+== Marco normativo ==
+
+El [[AI Act]] europeo clasifica los usos por nivel de riesgo y hace recaer obligaciones documentales sobre los modelos de uso general. Los sistemas que intervienen en decisiones relativas a personas quedan generalmente en la categoría de riesgo alto.
+
+== Una tensión que conviene nombrar ==
+
+La IA se presenta a la vez como palanca ambiental y como fuente de consumo. Ambas afirmaciones pueden ser ciertas para casos distintos. Lo que falta casi siempre es la comparación: el ahorro obtenido frente al coste del sistema que lo produce. Sin esa medición, el discurso no se puede verificar.
+
+== Véase también ==
+
+* [[TI Responsable]] · [[AI Act]] · [[Sobriedad Digital]] · [[Carta de IA Responsable]]
+
+[[Categoría:Inteligencia artificial]]
+
+[[fr:IA_Responsable]]
+[[en:Responsible_AI]]
+[[de:Verantwortungsvolle KI]]
+[[nl:Verantwoorde AI]]

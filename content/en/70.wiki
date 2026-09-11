@@ -1,0 +1,32 @@
+A '''black box''' is a system whose internal operation is difficult for an observer to understand. In AI, the difficulty may come from model complexity, restricted access to the implementation or missing information about data and development choices. These are different obstacles and require different responses.
+
+A large neural network can be hard to interpret even when its code and weights are available. Conversely, an organisation may conceal a simple rule. Publishing source code therefore does not settle the question of whether users can understand a decision.
+
+== Explanations for a particular audience ==
+
+A developer investigating an error needs different information from a person challenging a decision. A global explanation describes patterns across a model's behaviour; a local explanation concerns a particular output.
+
+NIST proposes four principles: provide an explanation, make it meaningful to its audience, ensure that it reflects the system's process, and recognise the system's knowledge limits.<ref>Phillips et al. (2021), [https://www.nist.gov/publications/four-principles-explainable-artificial-intelligence Four Principles of Explainable Artificial Intelligence], NISTIR 8312.</ref>
+
+An explanation should help someone check the result. A fluent account produced by a language model can sound convincing without faithfully describing how the original decision arose. Feature-importance scores also need interpretation: an association in a model is not, on its own, evidence of a causal relationship.
+
+== Example: reviewing a rejected application ==
+
+A reviewer needs to know which input records the service used, whether those records were correct, how the model contributed to the outcome and who can reconsider it. A generic statement that the applicant received a low score does little to support correction or appeal.
+
+Keeping input versions, model versions and decision logs can make an investigation possible. The organisation should determine what it needs to retain and who can access those records.
+
+== Legal scope ==
+
+Article 13 of the EU [[AI Act]] addresses transparency and instructions for deployers of high-risk systems. Article 86 sets a right to explanations for certain decisions based on specified high-risk systems, with conditions and exceptions. These provisions do not amount to a blanket requirement that every AI model reveal all its internal operations.<ref>European Commission, [https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-13 AI Act, Article 13] and [https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-86 Article 86].</ref>
+
+== See also ==
+* [[Responsible AI]] · [[AI governance]] · [[Algorithmic bias]] · [[Artificial intelligence model]]
+
+== References ==
+<references />
+
+[[Category:Artificial intelligence]]
+[[fr:Boîte noire]]
+[[es:Caja negra]]
+[[de:Blackbox]]

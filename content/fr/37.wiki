@@ -1,0 +1,14 @@
+== Définition ==
+Ensemble des produits énergétiques non transformés, exploités directement ou importés. Ce sont principalement le pétrole brut, les schistes bitumineux, le gaz naturel, les combustibles minéraux solides, la biomasse, le rayonnement solaire, l’énergie hydraulique, l’énergie du vent, la géothermie et l’énergie tirée de la fission de l’uranium. L’énergie primaire est la source d’énergie à partir de laquelle on fabrique l’[[Energie finale]] (exemple l’électricité).
+
+== Voir aussi ==
+
+=== Références ===
+
+* Agence Internationale de l’Énergie - Indicateur de production sur les EP à l'échelle mondiale: https://www.iea.org/
+* Données de l'électricité en temps réel - Rte - https://www.rte-france.com/eco2mix
+* Les chiffres clés de l’énergie – http://reseaux-chaleur.cerema.fr/category/donnees-et-statistiques/data_lab
+
+=== Liens externes ===
+
+* Wikipédia - [https://fr.wikipedia.org/wiki/%C3%89nergie_primaire Energie Primaire]

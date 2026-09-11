@@ -1,0 +1,41 @@
+'''Duurzame IT''' (Frans ''numérique responsable'', Engels ''sustainable IT'') staat voor een manier van ontwerpen, inkopen, gebruiken en afdanken van digitale systemen die rekening houdt met de ecologische, sociale en economische gevolgen over de hele levenscyclus.
+
+== Waarom het onderwerp bestaat ==
+
+Digitaal is niet immaterieel. Een computer van twee kilo vergt bij de fabricage honderden kilo's mineralen. Die fase bundelt het grootste deel van de impact: vrijwel de volledige uitputting van abiotische grondstoffen, een fors aandeel van het zoetwaterverbruik en een groot deel van de broeikasgasuitstoot van de sector.
+
+Daaruit volgt het leidende principe van het vakgebied: '''apparatuur langer laten meegaan weegt zwaarder dan het stroomverbruik verlagen'''.
+
+== Drie dimensies ==
+
+; Ecologisch
+: fabricage, gebruik en einde levensduur van apparatuur en diensten.
+; Sociaal
+: toegankelijkheid, inclusie, arbeidsomstandigheden in de toeleveringsketen, bescherming van persoonsgegevens.
+; Economisch en ethisch
+: soevereiniteit, afhankelijkheid van leveranciers, navolgbaarheid van algoritmen.
+
+De meest voorkomende versimpeling is duurzame IT terugbrengen tot de CO₂-component. Toegankelijkheid en de omstandigheden van mijnbouw horen tot hetzelfde veld.
+
+== Hoe het in praktijk gaat ==
+
+* '''Ecodesign''' van digitale diensten, geleid door kaders als de [[RGESN]].
+* '''Verantwoord inkopen''', met voorrang voor duurzaamheid, repareerbaarheid en refurbishment.
+* '''[[Digitale soberheid]]''': de behoefte bevragen voordat de oplossing wordt geoptimaliseerd.
+* '''Meten''' via levenscyclusanalyse of CO₂-voetafdruk, om intuïtie te vervangen door gegevens.
+
+== Een terugkerende valkuil ==
+
+Efficiëntiewinst verlaagt niet vanzelf de totale impact. Het rebound-effect beschrijft hoe de besparing terugvloeit in meer gebruik. Een aanpak die alleen optimaliseert zonder de volumes te bevragen, verlaagt mogelijk niets.
+
+== Zie ook ==
+
+* [[Digitale soberheid]] · [[Digitale soevereiniteit]] · [[Verantwoorde AI]] · [[RGESN]]
+
+[[fr:Numérique_Responsable]]
+[[en:Sustainable_IT]]
+[[es:TI_Responsable]]
+[[de:Verantwortungsvolle_Digitalisierung]]
+
+== Cyberbeveiliging en levensduur ==
+[[Cyberbeveiliging]] beïnvloedt onderhoud, gegevensbewaring, back-ups en hergebruik van apparatuur. IT-teams kunnen ongebruikte functies en verlaten systemen verwijderen met behoud van de noodzakelijke bescherming. Het [https://ecoresponsable.numerique.gouv.fr/publications/ecoconception-securite/ MiNumEco-verslag over ecodesign, cyberbeveiliging en gegevensbescherming] (2022, in het Frans), waaraan het INR deelnam, onderzoekt deze samenhang. Het afzonderlijke artikel behandelt praktische afwegingen met een voorbeeld van dienstherstel en operationele bronnen.

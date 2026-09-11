@@ -1,0 +1,33 @@
+== Définition ==
+L’empreinte écologique mesure la quantité de surface terrestre bio-productive (exprimée en hectares ou en “planètes”) nécessaire pour produire les biens et services que nous consommons et absorber les déchets que nous produisons. Elle mesure donc la “pression” exercée sur l’environnement par une personne, une organisation, une activité, un État...
+
+== L’empreinte écologique du numérique ==
+
+Le numérique n’est pas une activité immatérielle : son empreinte écologique se compose principalement de la [[Fabrication|fabrication]] des équipements, très loin devant leur consommation électrique en usage.
+
+Selon l’étude conduite par l’[[Agence_de_la_Transition_Écologique|ADEME]] et l’[[Arcep]] sur l’empreinte environnementale du numérique en France, les '''terminaux des utilisateurs''' concentrent l’essentiel des impacts, devant les [[DataCenter|centres de données]] et les réseaux. Cette répartition est constante d’une étude à l’autre, et contredit l’intuition courante qui désigne les centres de données comme le principal poste.
+
+L’empreinte du numérique est par ailleurs '''multicritère''' : elle ne se réduit ni au carbone ni à l’énergie. Elle mobilise de l’[[Empreinte_Eau|eau]], des [[Empreinte_Matière|matières]] et des surfaces, et contribue à l’épuisement de ressources [[Abiotique|abiotiques]].
+
+=== Le cas de l’intelligence artificielle ===
+
+L’[[Intelligence_Artificielle|intelligence artificielle]] amplifie ces postes sans en créer de nouveaux :
+
+* l’'''entraînement''' des modèles concentre une consommation de calcul intense sur une période courte ;
+* l’'''[[Inférence|inférence]]''' répétée finit, pour un service en production, par dépasser le coût de l’entraînement ;
+* l’'''[[Infrastructure_d'IA|infrastructure]]''' repose sur des processeurs spécialisés à durée d’usage courte, dont la [[Fabrication|fabrication]] pèse lourd ;
+* le '''refroidissement''' de ces équipements sollicite l’[[Empreinte_Eau|eau]], dans des proportions qui dépendent des technologies employées.
+
+La [[Chaîne_de_valeur_de_l'IA|chaîne de valeur de l’IA]] répartit ces impacts entre plusieurs pays : extraction minière ici, annotation des [[Données_d'entraînement|données]] là, calcul ailleurs. Une évaluation limitée au périmètre de l’organisation utilisatrice en manque donc l’essentiel.
+
+Le levier principal reste le choix du modèle : recourir à un [[SLM|modèle plus petit]] adapté au besoin réduit l’empreinte de chaque requête, sans rien changer à l’usage.
+
+== Voir aussi ==
+
+=== Références ===
+
+* JORF n°0162 du 13 juillet 2012 - [https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000026175617 Vocabulaire de l'environnement (liste de termes, expressions et définitions adoptés)]
+
+=== Liens externe ===
+
+* WWF - [https://www.wwf.fr/sites/default/files/doc-2017-09/14_rapport_lpr2014.pdf Rapport Planète Vivante 2014]

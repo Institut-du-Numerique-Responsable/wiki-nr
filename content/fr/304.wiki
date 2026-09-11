@@ -1,0 +1,19 @@
+Un '''smartphone''' est un [[Terminal|terminal]] mobile combinant téléphonie, accès aux réseaux de données et exécution d’applications.
+
+== Un concentré d’impacts ==
+
+Le smartphone illustre la structure d’impact du numérique : l’essentiel se joue à la [[Fabrication|fabrication]], très loin devant l’usage.
+
+Un appareil concentre plusieurs dizaines de métaux, dont des [[Terres_Rares|terres rares]] et des métaux critiques présents en quantités infimes, dont l’extraction déplace des volumes de roche sans rapport avec la masse de l’objet (voir [[Empreinte_Matière|empreinte matière]]).
+
+== Durée d’usage ==
+
+Le levier principal reste la durée de conservation. Elle dépend de la réparabilité, de la disponibilité des pièces, et surtout de la '''durée de support logiciel''' : un appareil en parfait état devient inutilisable lorsqu’il cesse de recevoir des mises à jour de sécurité.
+
+C’est ce que l’[[Indice_de_réparabilité|indice de durabilité]] intègre désormais, là où l’indice de réparabilité s’en tenait à la capacité de réparation.
+
+== Voir aussi ==
+
+* [[Terminal]] · [[Fabrication]] · [[Terres_Rares|Terres rares]] · [[Réemploi]] · [[Reconditionnement]] · [[Indice_de_réparabilité|Indice de réparabilité]] · [[Bring_Your_Own_Device|BYOD]]
+
+[[Catégorie:Concepts]]

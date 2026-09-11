@@ -1,0 +1,32 @@
+== Définition ==
+WUE ou '''W'''ater '''U'''sage '''E'''ffectiveness est un indicateur qui permet de déterminer la quantité d’eau directe consommée par un site ( le plus souvent un [[DataCenter]]) par kilowattheure consommé par les équipements informatiques. Cet indicateur est fortement lié aux conditions climatiques et aux technologies utilisées pour la climatisation du site. 
+
+== Règle de calcul du WUE ==
+WUE Directe <blockquote>WUE direct = consommation en eau directe du [[DataCenter]] / énergie des équipements IT</blockquote>WUE Sources<blockquote>WUE source = ( consommation en eau directe du Data Center + consommation d’eau liée à la production de l’électricité totale consommée par le Data center ) / énergie des équipements IT</blockquote>
+
+== Les autres indicateurs pour l'eau ==
+
+* WUE directe
+* WUE Source
+* Water Usage Factor
+* Water Reuse
+
+== Portée et limites ==
+
+Le WUE éclaire un angle mort du [[Power_Usage_Effectiveness|PUE]] : le refroidissement évaporatif permet d’abaisser la consommation électrique en consommant de l’eau. Optimiser le seul PUE peut donc dégrader le WUE, sans que le bilan global s’améliore.
+
+Le chiffre se lit avec deux précautions :
+
+* le '''WUE direct''' ne compte que l’eau consommée sur le site ; le '''WUE source''' y ajoute l’eau mobilisée pour produire l’électricité consommée, notamment par les centrales thermiques et nucléaires. Les deux valeurs peuvent différer d’un ordre de grandeur ;
+* l’eau n’est pas un enjeu global mais '''local''' : un mètre cube prélevé en zone de stress hydrique n’équivaut pas à un mètre cube prélevé en région abondante. Un WUE brut ne dit rien de la tension exercée sur la ressource.
+
+Voir [[Empreinte_Eau|Empreinte Eau]] pour la vision cycle de vie complète.
+
+== Voir aussi ==
+
+* [[Empreinte_Eau|Empreinte Eau]]
+* [[Power_Usage_Effectiveness|Power Usage Effectiveness]]
+* [[Carbon_Usage_Effectiveness|Carbon Usage Effectiveness]]
+* [[DataCenter]]
+* [[Free_Cooling|Free Cooling]]
+[[es:Water Usage Effectiveness]]

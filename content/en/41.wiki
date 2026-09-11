@@ -1,0 +1,23 @@
+'''Reversibility''' is the ability to change supplier, solution or hosting without prohibitive cost or difficulty.
+
+It is not established by a contract clause. It is established by testing.
+
+== Conditions ==
+
+* '''open, documented formats''' for data and configuration ;
+* '''complete export''': data, metadata, history and permissions, not only the primary records ;
+* '''no adhesion''' to supplier-specific services in application code ;
+* '''a real test''': an untested reversibility clause is worth little ;
+* '''internal skills''' sufficient to take over.
+
+== Why it matters ==
+
+Reversibility is the practical counter to [[Vendor lock-in|vendor lock-in]] and a precondition for [[Digital sovereignty|sovereignty]]. It is also a matter of [[Digital resilience|resilience]]: a supplier may disappear, raise prices or change terms.
+
+It must be built before signing. Afterwards it is generally too late.
+
+== See also ==
+
+* [[Vendor lock-in]] · [[Digital sovereignty]] · [[Digital resilience]] · [[Robustness]]
+
+[[Category:Concepts]]

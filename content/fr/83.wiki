@@ -1,0 +1,22 @@
+== Définition ==
+Ce terme est dérivé de l'anglais '''bloatware'''<ref name=":0">https://fr.wikipedia.org/wiki/Bloatware</ref>.  Il est utilisé dans le domaine des logiciels afin de qualifier :
+
+* une conception impliquant un empilement de briques logicielles aboutissant à l’utilisation excessive de ressources
+* de nombreuses fonctionnalités disparates au sein du même logiciel par manque d’exigence qualitative
+* les mises à jour logicielles aboutissant aux problèmes cités ci-dessus.
+
+Par extension, les logiciels préinstallés sur du matériel neuf sont également qualifiés de bloatware<ref>https://www.kaspersky.fr/resource-center/definitions/what-is-bloatware</ref>, d'inflagiciel ou de logiciel mémorivore<ref>http://gdt.oqlf.gouv.qc.ca/ficheOqlf.aspx?Id_Fiche=8370690</ref>.
+
+== Dans le cadre du numérique responsable ==
+Une démarche d’[[ecoconception|écoconception]] de services numériques doit permettre de réduire les ressources informatiques nécessaires au fonctionnement du logiciel.  Les obésiciels sont le résultat d’une démarche qui ne répond pas aux impératifs d’ergonomie, d’accessibilité, d’adéquation aux besoins des consommateurs/utilisateurs (règle des [[Utile Utilisable Utilisé|3U]]). L’un des buts de la conception numérique responsable reste de repousser l’obsolescence du matériel.
+
+== Voir aussi ==
+
+=== Références ===
+
+* <ref name=":0" />Wikipédia - [https://fr.wikipedia.org/wiki/Bloatware Bloatware]
+* Frédéric Bordage, ''Sobriété numérique - Les clés pour agir - Définition de Obésiciel'', Editions Buchet Chastel, 2019 (<nowiki>ISBN 9782283032152</nowiki>)
+
+=== Liens externes ===
+
+* Cambridge Dictionary - [https://dictionary.cambridge.org/fr/dictionnaire/anglais/bloatware Bloatware]

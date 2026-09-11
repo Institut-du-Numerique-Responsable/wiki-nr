@@ -1,0 +1,32 @@
+La '''résilience numérique''' est la capacité d’une organisation à maintenir ses activités essentielles malgré une perturbation affectant son système d’information : panne, cyberattaque, rupture d’approvisionnement, défaillance d’un fournisseur, contrainte énergétique.
+
+== Ce qu’elle recouvre ==
+
+* '''anticipation''' : identifier les activités critiques et les dépendances qui les portent ;
+* '''résistance''' : limiter la probabilité et l’ampleur de l’interruption ;
+* '''reprise''' : restaurer dans un délai compatible avec l’activité ;
+* '''adaptation''' : tirer parti de l’incident pour réduire la vulnérabilité suivante.
+
+== Lien avec la sobriété ==
+
+Résilience et [[Sobriété_Numérique|sobriété]] convergent plus souvent qu’elles ne s’opposent. Un système plus simple comporte moins de points de défaillance, se comprend et se répare. Les compétences internes maintenues permettent d’intervenir sans dépendre d’un tiers.
+
+L’étude publiée en 2026 par le Cigref, l’[[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]] et Futuribles présente l’approche [[Low_Tech|low tech]] comme un levier de résilience numérique. Elle invite à « passer d’une logique de performance par la puissance technologique à une logique de performance par la robustesse ».
+
+Elles s’opposent en revanche sur la redondance : dupliquer coûte des ressources. L’arbitrage se fait activité par activité, selon la criticité réelle.
+
+== Une notion à distinguer de la robustesse ==
+
+Le livre blanc ''Voyage vers la robustesse'' (Infogreen Factory, 2025) propose une convention utile : la '''résilience''' qualifie le numérique, la '''[[Robustesse_numérique|robustesse]]''' qualifie l’organisation.
+
+La distinction n’est pas terminologique. Elle repose sur un constat : le numérique dépend de ressources et d’infrastructures qu’il ne maîtrise pas, composants, métaux, énergie, chaînes logistiques. Il peut donc être conçu pour encaisser et se relever, mais non pour être insensible aux fluctuations.
+
+La résilience numérique est ainsi un moyen ; la robustesse de l’organisation est la finalité.
+
+L’étude fournit deux outils pour structurer la démarche : une '''matrice de criticité''' croisant la dépendance au numérique et la criticité métier, et une '''spirale progressive''' en quatre tours, qui commence par sécuriser les processus vitaux avant d’interroger l’utilité des autres.
+
+== Voir aussi ==
+
+* [[Robustesse_numérique|Robustesse numérique]] · [[Souveraineté_numérique|Souveraineté numérique]] · [[Low_Tech|Low Tech]] · [[Cybersécurité]] · [[Autonomie_stratégique|Autonomie stratégique]] · [[Réversibilité]] · [[Résilience]]
+
+[[Catégorie:Concepts]]

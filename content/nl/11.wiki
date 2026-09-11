@@ -1,0 +1,34 @@
+De '''RGESN''' (''Référentiel général d'écoconception de services numériques'') is het Franse referentiekader voor ecodesign van digitale diensten.
+
+Het bestaat uit criteria in vraagvorm, die het team dat verantwoordelijk is voor een dienst beantwoordt om zijn aanpak te beoordelen. Het kader is niet bindend. Het biedt een gemeenschappelijke grondslag, zowel voor het ontwerpen van een nieuwe dienst als voor het verbeteren van een bestaande.
+
+== Herkomst ==
+
+De RGESN komt voort uit de Franse wet van 15 november 2021 ter vermindering van de milieuvoetafdruk van digitale technologie, kortweg '''REEN-wet'''. Een tweede versie, gepubliceerd door toezichthouder Arcep, heeft de criteria opnieuw geordend en aangescherpt.
+
+== De logica ==
+
+Het kader grijpt aan bij de belangrijkste oorzaken van impact, in deze volgorde:
+
+# de '''fabricage van eindapparatuur''', die de levenscyclus domineert;
+# de '''belasting van gebruikersapparatuur''', omdat een zware dienst de vervanging versnelt van een apparaat dat nog werkt;
+# het '''datavolume''' dat wordt uitgewisseld en opgeslagen.
+
+Die volgorde verklaart een aanbeveling die verrast wie prestatie-advies verwacht: een dienst laten draaien op oude hardware weegt zwaarder dan het stroomverbruik verlagen.
+
+== Verschil met de GR491 ==
+
+De RGESN is een publiek kader, beperkt tot ecodesign. De GR491 is een gids van het Instituut voor Duurzame IT, ruimer opgezet, die verder reikt dan het milieu en het hele veld van duurzame IT bestrijkt. Het eerste dient als toetsingsraster, het tweede levert de operationele uitwerking.
+
+== Beperking ==
+
+Een referentiekader meet de overeenstemming met goede praktijk, niet de werkelijke impact van een dienst. De meeste criteria afvinken bewijst geen verlaging van de voetafdruk. Dat bewijst alleen een meting.
+
+== Zie ook ==
+
+* [[Duurzame IT]] · [[Digitale soberheid]]
+
+[[fr:RGESN]]
+[[en:RGESN]]
+[[es:RGESN]]
+[[de:RGESN]]

@@ -1,0 +1,29 @@
+== Définition ==
+Le réemploi peu se définir comme “toute opération par laquelle des substances, matières ou produits qui ne sont pas des déchets sont utilisés de nouveau pour un usage identique à celui pour lequel ils avaient été conçus. »
+
+Cette notion est par ailleurs  définie dans l’article L541-1-1 du Code de l’environnement. 
+
+Le réemploi s'applique donc également aux équipements numériquse et c'est un élément important de l'économie circulaire. On estime à ce jour que 54 à 113 millions de smartphones dorment dans les placards alors qu'ils sont encore en état de fonctionnement et donc de remploi possible<ref>La face cachée du numérique - Ademe[https://librairie.ademe.fr/cadic/2351/guide-pratique-face-cachee-numerique.pdf?modal=false]</ref>
+
+== Le réemploi au sein de la feuille route Numérique et Environnement ==
+La feuille de route numérique et environnement est nouvelle politique publique centrée sur la nécessité de faire converger transitions écologique et numérique. Son objectif est de permettre à l’ensemble des acteurs des sphères publique et privée, comme des citoyens, de s’inscrire dans une démarche de soutien à un numérique plus responsable. Cette politique publique concilie exigences environnementales et objectifs économiques de compétitivité des entreprises ainsi que d’emplois sur le territoire français.<ref>Feuille de route Numérique et Environnement - 2020 - Fr[https://www.ecologie.gouv.fr/numerique-et-environnement-feuille-route]</ref>
+
+Cette feuille de route décrit plusieurs axe pour
+
+# '''Connaitre pour agir''' : développer la connaissance de l’empreinte environnementale numérique.
+# '''Soutenir un numérique plus sobre''' : réduire l’empreinte environnementale du numérique, liée à la fabrication des équipements et au développement des usages.
+# '''Innover''' : faire du numérique un levier de la transition écologique.
+
+chaque axes proposant alors une séries d'action 
+
+Le 2e axe – Soutenir un numérique plus sobre: réduire l’empreinte environnementale du numérique propose ainsi Action 5: Soutenir le développement d’une filière française du réemploi et du reconditionnement <ref>[https://librairie.ademe.fr/cadic/6700/impact-environnemental-numerique_rapport1.pdf EVALUATION DE L’IMPACT ENVIRONNEMENTAL DU NUMERIQUE EN FRANCE ET ANALYSE PROSPECTIVE]</ref>
+
+== Le réemploi et la loi AGEC ==
+La loi AGEC a renforcé l’atteinte des objectifs chiffrés en matière de réemploi, de réparation, de réutilisation et surtout d’écoconception des produits et a modifié le régime de sanction pesant sur les éco-organismes. Les filières à Responsabilités élargie des producteurs dites REP doivent financer des fonds de remploi et de réparation via leur éco-organisme ou leur système individuel. 
+
+=== Fonds remploi ===
+Le '''fonds réemploi''' a pour objectif de soutenir les acteurs de l’économie sociale et solidaire (ESS) qui donnent une seconde vie aux produits. Cette mesure favorise l’emploi, l’insertion et la transition écologique. Les filières concernées doivent contribuer à ce fonds a minima à hauteur de 5 % de leur contribution à la filière REP. Les éco-organismes et producteurs des systèmes individuels sont en charge de la mise en œuvre et du pilotage de ces fonds. Les conditions de mise en œuvre seront déterminées par décret.<ref>Filière à Responsabilité élargie des producteurs (REP) - ADEME [https://expertises.ademe.fr/economie-circulaire/dechets/elements-contexte/filieres-a-responsabilite-elargie-producteurs-rep]</ref>
+
+
+== Liens externes ==
+[[es:Reutilización]]

@@ -1,0 +1,22 @@
+Le '''débiaisage''' regroupe les méthodes visant à identifier et réduire les [[Biais_algorithmique|biais]] d’un système d’[[Intelligence_Artificielle|intelligence artificielle]].
+
+== Trois moments d’intervention ==
+
+; Avant l’entraînement
+: rééquilibrage des [[Données_d'entraînement|données]], correction des sous-représentations, documentation des manques
+; Pendant l’entraînement
+: contraintes d’équité intégrées à la fonction d’optimisation
+; Après l’entraînement
+: ajustement des seuils de décision par sous-population, filtrage des sorties
+
+== Limite ==
+
+Il n’existe pas de définition unique de l’équité, et plusieurs définitions raisonnables sont mathématiquement incompatibles entre elles. Égaliser les taux d’erreur entre groupes et égaliser la valeur prédictive ne peuvent pas être obtenus simultanément, sauf cas particulier.
+
+Débiaiser suppose donc de choisir explicitement quelle équité l’on vise, un arbitrage politique, que la technique ne tranche pas.
+
+== Voir aussi ==
+
+* [[Biais_algorithmique|Biais algorithmique]] · [[Données_d'entraînement|Données d'entraînement]] · [[Explicabilité]] · [[Gouvernance_de_l'IA|Gouvernance de l'IA]] · [[Inclusion]]
+
+[[Catégorie:Intelligence artificielle]]

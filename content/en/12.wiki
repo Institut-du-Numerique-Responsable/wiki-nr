@@ -1,0 +1,45 @@
+'''Ecodesign''' of digital services consists of integrating environmental impact into design choices, from initial specification through to decommissioning.
+
+== Why design decides ==
+
+Most of a service's impact is fixed at design time. Once a service assumes a recent device, a fast connection and constant data exchange, no later optimisation recovers what those assumptions cost.
+
+The most consequential decision is rarely technical. It is the decision about scope: which features exist at all.
+
+== Main levers, in order of effect ==
+
+# '''Reduce the functional scope''' to what is actually used. Measured usage almost always shows a long tail of features used by nobody.
+# '''Preserve compatibility''' with older devices. A service that still works on a six-year-old phone delays its replacement, which is the largest environmental gain available to a software team.
+# '''Limit data transferred and stored''': image formats and sizes, autoplay, prefetching, retention periods.
+# '''Avoid constant network activity''', which drains batteries and keeps infrastructure busy.
+# '''Measure''' before and after, rather than assuming.
+
+== Common misconception ==
+
+Ecodesign is frequently reduced to page weight. Weight matters, but the dominant effect of a heavy service is that it accelerates device replacement, not that it consumes bandwidth. The target is the device, not the network.
+
+== Frameworks ==
+
+The [[RGESN]] provides 78 criteria structured for assessment. The [[GR491]] provides a broader set of recommendations, including social and ethical aspects. Both can be used together.
+
+== International standardisation ==
+
+ISO lists '''ISO/IEC JTC 1/SC 39/WG 4''', ''Digital Services and Software Sustainability'', as a working group within SC 39, ''Sustainability, IT and data centres''.<ref>ISO, [https://www.iso.org/committee/654019.html ISO/IEC JTC 1/SC 39], working-group listing.</ref>
+
+The published reference is '''[[ISO/IEC TS 20125|ISO/IEC TS 20125-1:2026]]''', a Technical Specification on digital-service ecodesign. It covers environmental practices throughout the service lifecycle. Its scope does not cover all social or inclusion aspects of sustainable IT.<ref>ISO, [https://www.iso.org/standard/86105.html ISO/IEC TS 20125-1:2026], catalogue entry and scope.</ref>
+
+== Relationship with accessibility ==
+
+An ecodesigned service and an accessible service share most of their properties: structured content, no dependence on the latest browser, usable on modest hardware and poor connections. The two disciplines reinforce each other more often than they compete.
+
+== See also ==
+
+* [[ISO/IEC TS 20125]] · [[RGESN]] · [[GR491]] · [[Digital sobriety]] · [[Digital accessibility]] · [[Life cycle assessment]] · [[Sustainable IT]]
+
+== References ==
+<references />
+
+[[Category:Concepts]]
+[[de:Ökodesign]]
+[[es:Ecodiseño]]
+[[fr:Ecoconception]]

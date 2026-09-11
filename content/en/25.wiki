@@ -1,0 +1,33 @@
+The '''AI Act''' is Regulation (EU) 2024/1689 on artificial intelligence. Obligations depend on an organisation's role, the model or system and its intended use. An IT department buying access to an API, integrating a model into a product or supplying its own system should first establish which role it occupies.
+
+== Assess the use case ==
+The regulation prohibits certain practices and classifies some uses, including certain recruitment tools, as high-risk. Other systems face transparency requirements. Conditions and exceptions matter: the commercial label 'AI assistant' does not establish the classification. The Commission provides an [https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai overview and implementation timeline].
+
+For a candidate-screening application, IT and HR teams should document the purpose, affected people, data, supplier responsibilities and proposed human oversight. An internal document assistant involves a different assessment, but data protection and security requirements still need attention.
+
+== Application dates ==
+The regulation entered into force on 1 August 2024. Initial prohibitions and AI literacy provisions applied from February 2025; general-purpose model obligations from August 2025, subject to transitional arrangements. The general application date was 2 August 2026.
+
+Following the 2026 amendments, the Commission identifies 2 December 2027 for Annex III high-risk uses and 2 August 2028 for relevant systems embedded in regulated products. Check the [https://eur-lex.europa.eu/eli/reg/2024/1689/oj European legislation and consolidated versions] before setting a compliance deadline. Sources checked on 11 September 2026.
+
+== Work for an IT department ==
+* Inventory uses, models, versions, suppliers and accountable owners.
+* Retain evidence supporting classification and operating decisions.
+* Plan contextual testing, effective oversight and incident handling.
+* Train people according to their tasks and exposure to risk.
+
+These activities organise implementation; they are not a complete compliance test. A supplier contract does not remove the need to examine the customer's responsibilities.
+
+== Sustainable IT implications ==
+[[AI codes of conduct and practice]] encompass different instruments. Article 95 includes voluntary environmental and inclusive-design objectives. An IT team might measure energy demand, compare a simpler solution and test accessibility. Keep such commitments distinct from the legal duties applying to the specific system.
+
+== See also ==
+* [[Responsible AI]]
+* [[Cybersecurity]]
+* [[Data Act]]
+* [[Sustainable IT]]
+
+[[Category:Artificial intelligence]]
+[[Category:Regulation]]
+[[nl:AI Act]]
+[[fr:AI Act]]

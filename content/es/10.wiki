@@ -1,0 +1,30 @@
+La '''obsolescencia programada''' designa el conjunto de técnicas mediante las cuales quien introduce un producto en el mercado reduce deliberadamente su vida útil para aumentar su tasa de reemplazo. En Francia constituye un delito castigado por la ley desde 2015.
+
+== Sus formas ==
+
+; Técnica
+: componente fragilizado, batería no extraíble, pieza de repuesto indisponible.
+; Lógica
+: actualización de software que degrada el rendimiento de un equipo antiguo, o fin del soporte que lo expone a fallos de seguridad.
+; Cultural
+: renovación por efecto de moda, sin fallo del producto ni carencia funcional.
+
+La forma lógica es la más determinante en lo digital. Un teléfono que funciona perfectamente se vuelve inutilizable cuando deja de recibir parches de seguridad.
+
+== Respuestas normativas ==
+
+El [[Índice de Reparabilidad|índice de reparabilidad]] francés, vigente desde enero de 2021, puntúa la facilidad de reparación. Le sucede un índice de durabilidad, que integra la fiabilidad y la duración del soporte lógico.
+
+La ley francesa contra el desperdicio y por la economía circular prohíbe además las técnicas, en particular las de software, que restringen la reparación de un aparato o impiden instalar el sistema operativo elegido una vez pasada la garantía. Promueve también el [[Reutilización|reúso]] de los equipos informáticos públicos.
+
+== Un debate abierto ==
+
+Probar la intención deliberada es difícil, lo que explica el reducido número de condenas. Varias asociaciones sostienen que el problema real reside menos en el complot industrial que en un modelo económico que hace la reparación más cara que la sustitución. Actuar sobre los precios relativos tendría entonces más efecto que perseguir la intención.
+
+== Véase también ==
+
+* [[Índice de Reparabilidad]] · [[Economía Circular]] · [[Reutilización]] · [[Reacondicionamiento]] · [[Fin de Vida]]
+
+[[Categoría:Conceptos]]
+[[de:Geplante Obsoleszenz]]
+[[fr:Obsolescence Programmée]]

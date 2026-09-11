@@ -1,0 +1,21 @@
+El '''ajuste fino''' (''fine-tuning'') consiste en continuar el entrenamiento de un [[Modelo de inteligencia artificial|modelo]] existente con un conjunto de [[Datos de entrenamiento|datos]] específico para adaptarlo a un ámbito o a un uso.
+
+Evita partir de cero: el modelo conserva sus capacidades generales y se especializa por una fracción del coste de un entrenamiento completo.
+
+== Alternativas ==
+
+Antes de ajustar un modelo, conviene probar dos enfoques menos costosos:
+
+* el '''[[Prompting contextual|prompting contextual]]''', que proporciona instrucciones y ejemplos en el momento de la consulta;
+* la '''[[RAG|RAG]]''', que busca información en una base documental en lugar de incorporarla a los parámetros del modelo.
+
+El ajuste fino se justifica cuando se busca adquirir un '''estilo''' o un '''formato''' constante. Para transmitir '''conocimientos''' que cambian, es preferible la RAG: la actualización se realiza en la base documental, sin reentrenamiento.
+
+== Véase también ==
+
+* [[RAG|RAG]] · [[Prompting contextual|Prompting contextual]] · [[Modelo de inteligencia artificial|Modelo de inteligencia artificial]] · [[SLM|SLM]] · [[:fr:Inférence|Inferencia (FR)]]
+
+[[Categoría:Inteligencia artificial]]
+[[fr:Fine-tuning]]
+[[en:Fine-tuning]]
+[[de:Fine-Tuning]]

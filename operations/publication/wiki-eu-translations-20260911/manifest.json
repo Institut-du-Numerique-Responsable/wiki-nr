@@ -1,0 +1,30 @@
+[
+  {
+    "lang": "es",
+    "title": "AI Act",
+    "stem": "0",
+    "base_revid": 0,
+    "sha256": "52a0820ed14ca8b849b8aaba9e193b5528911a5ef8ca051f685a6a458017e57a"
+  },
+  {
+    "lang": "de",
+    "title": "AI Act",
+    "stem": "1",
+    "base_revid": 0,
+    "sha256": "e2d34d6de2e018879d52efb559ddf30d407e165f7f713fbe57027b7e03f006d5"
+  },
+  {
+    "lang": "es",
+    "title": "Códigos de conducta y de buenas prácticas de IA",
+    "stem": "2",
+    "base_revid": 0,
+    "sha256": "a2a334269ed8880ab050089e12c0f80627e951cd521a8fa203138a1af1d86ea8"
+  },
+  {
+    "lang": "de",
+    "title": "Verhaltenskodizes und Praxisleitfäden für KI",
+    "stem": "3",
+    "base_revid": 0,
+    "sha256": "740650d3aa8883b6170df2f59989f9de1688f60548d9175dcf110db8cd1e2d43"
+  }
+]

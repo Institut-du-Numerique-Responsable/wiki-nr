@@ -1,0 +1,16 @@
+Un '''agent conversationnel''', ou ''chatbot'', est un programme capable de dialoguer avec un utilisateur en langage naturel.
+
+Les premiers reposaient sur des règles et des mots-clés. Les générations actuelles s’appuient sur des [[LLM|modèles de langage]], ce qui élargit le champ des échanges possibles mais introduit le risque d’[[Hallucination|hallucination]] : la réponse est fluide, pas nécessairement exacte.
+
+== Points de vigilance ==
+
+* '''Informer''' l’utilisateur qu’il s’adresse à une machine : obligation de transparence de l’[[AI_Act|AI Act]] ;
+* '''Prévoir une sortie''' vers un interlocuteur humain, notamment pour les demandes sensibles ;
+* '''Encadrer les données''' saisies dans la conversation, souvent personnelles sans que l’utilisateur y prenne garde ;
+* '''Mesurer l’utilité''' : un agent conversationnel qui allonge le parcours pour éviter un formulaire de trois champs dégrade le service tout en consommant des [[Inférence|inférences]].
+
+== Voir aussi ==
+
+* [[LLM]] · [[IA_générative|IA générative]] · [[Hallucination]] · [[Interface]] · [[AI_Act|AI Act]] · [[Accessibilité_Numérique|Accessibilité Numérique]]
+
+[[Catégorie:Intelligence artificielle]]

@@ -1,0 +1,26 @@
+The '''circular economy''' is an economic model that seeks to keep materials in use rather than extracting, using and discarding them.
+
+== Applied to digital equipment ==
+
+The hierarchy of options runs from most to least desirable:
+
+# '''Reduce''': do not acquire what is not needed ;
+# '''Reuse and refurbish''': the only route that avoids manufacturing a new device ;
+# '''Repair''': extend useful life by replacing components ;
+# '''Recycle''': recover materials, with substantial losses ;
+# '''Recover energy''' or dispose.
+
+The order matters. Recycling is often presented as the answer, but it sits fourth: it recovers only part of the material, and does so at an energy cost.
+
+== Obstacles specific to digital equipment ==
+
+Glued assemblies, soldered components and limited spare part availability restrict repair. Software support duration frequently ends before the hardware fails, which makes a functioning device unusable. Secure data erasure conditions whether reuse is possible at all.
+
+== See also ==
+
+* [[End of life]] · [[Manufacturing]] · [[Sustainable IT]] · [[Digital sobriety]]
+
+[[Category:Concepts]]
+[[de:Kreislaufwirtschaft]]
+[[es:Economía Circular]]
+[[fr:Economie Circulaire]]

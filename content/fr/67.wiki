@@ -1,0 +1,18 @@
+== Acronyme(s) ==
+'''IA''' est l'acronyme pour '''I'''ntelligence '''A'''rtificielle ou '''A'''rtificial '''I'''ntelligence ('''AI''') en langue anglaise.
+
+== Historique ==
+Ce terme fut inventé par Marvin Minsky, professeur au MIT, qui le définit comme "la construction de programmes informatiques capables d'accomplir des tâches qui sont, pour l'instant, accomplies de façon plus satisfaisante par des êtres humains". Il est utilisé pour la première fois lors d'un colloque scientifique organisé à l'été 1956, sur le campus de l'Université de Dartmouth, dans le New Hampshire (États-Unis).
+
+L'IA n'est pas simplement une technologie servant à effectuer des tâches répétitives mais a pour but d'apprendre automatiquement et continuellement à partir des informations disponibles et de ses expériences.
+
+== Intelligence artificielle faible ou forte ==
+'''L'IA faible ou restreinte''' caractérise l'IA existante : ce sont des machines capables d'exécuter certaines tâches précises de manière autonome mais sans conscience, dans un cadre défini par l'homme et à la suite de décisions prises par lui seul. 
+
+'''L'IA forte ou générale''' serait une machine dotée de conscience et de sensibilité, capable d'apporter une solution à tout type de problème : à ce jour, c'est une pure fiction. (source : [https://fr.unesco.org/courier/2018-3/glossaire-lintelligence-artificielle UNESCO] )
+
+== Voir aussi ==
+
+=== Références ===
+* UNESCO - [https://fr.unesco.org/courier/2018-3/glossaire-lintelligence-artificielle Glossaire de l'Intelligence Artificielle]
+* Benoît Georges, "[https://www.cairn.info/revue-constructif-2019-3-page-5.htm Intelligence artificielle: de quoi parle-t-on?]", revue Constructif n°54 (2019)

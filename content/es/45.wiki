@@ -1,0 +1,19 @@
+El '''prompting contextual''' consiste en enriquecer un [[:fr:Prompt|prompt (FR)]] con elementos de contexto, como el rol esperado, las restricciones, el formato de salida y los ejemplos, para mejorar la pertinencia de la respuesta.
+
+Es la alternativa menos costosa al [[Ajuste fino|ajuste fino]]: no requiere reentrenamiento, permite una modificación inmediata y suele ofrecer un resultado suficiente.
+
+== Qué funciona ==
+
+* '''Precisar el formato''' esperado en lugar de corregirlo después;
+* '''Proporcionar ejemplos''' de lo que se espera, más eficaces que una instrucción abstracta;
+* '''Explicitar las restricciones''': longitud, tono y elementos que no deben producirse;
+* '''Dar el contexto necesario''' sin ampliarlo innecesariamente: un contexto largo aumenta el coste de cada [[:fr:Inférence|inferencia (FR)]].
+
+== Véase también ==
+
+* [[:fr:Prompt|Prompt (FR)]] · [[Ajuste fino|Ajuste fino]] · [[RAG|RAG]] · [[:fr:LLM|LLM (FR)]] · [[:fr:Inférence|Inferencia (FR)]]
+
+[[Categoría:Inteligencia artificial]]
+[[fr:Prompting contextuel]]
+[[en:Contextual prompting]]
+[[de:Kontextuelles Prompting]]

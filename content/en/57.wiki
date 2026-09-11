@@ -1,0 +1,43 @@
+'''WeNR''' is a self-assessment and measurement tool developed by the Institute for Sustainable IT (ISIT), which lets an organisation assess the maturity of its [[Sustainable IT|sustainable IT]] practices.
+
+== What it does ==
+
+WeNR helps an organisation situate its practices, measure the footprint of its information system, and compare itself with similar structures. Three bodies carry the project jointly: the Institut du Numérique Responsable in France, ISIT-BE in Belgium and ISIT-CH in Switzerland.
+
+Its academic partners are La Rochelle Université and UCLouvain. The work is supported by the French environment agency ADEME and by DINUM, the French interministerial digital directorate.
+
+== Method ==
+
+The method builds on the doctoral work of Guillaume Bourgeois at La Rochelle Université and has undergone an independent critical review.
+
+The assessment rests on a questionnaire completed by the organisation itself, covering qualitative aspects (governance, internal policies, awareness) alongside quantitative ones (equipment inventory, length of use, hosting arrangements).
+
+Self-declaration is both the strength and the limit of the exercise. It makes participation cheap and comparison possible; it does not verify the figures.
+
+== Three levels ==
+
+; MyImpact
+: a quick calculator for personal digital impact, open all year and available in several languages.
+; WeNR Standard
+: the full qualitative and quantitative assessment, designed to allow comparison across organisations.
+; WeNR Higher Education
+: a version adapted to higher education institutions, currently in development.
+
+== How a campaign runs ==
+
+Participation is open to any organisation. During a campaign window the organisation downloads a spreadsheet, completes it and submits it through the portal; each submission is timestamped and renamed after the organisation.
+
+The 2026 campaign opens in June and introduces new indicators covering the impact of [[Responsible AI|artificial intelligence]] on digital practice. A comparative report sets the results of successive campaigns side by side; the report for the 2021 edition is freely available in English and French.
+
+== See also ==
+
+* [[Sustainable IT]] · [[Sustainable IT Charter]] · [[Carbon footprint]] · [[Life cycle assessment]] · [[Ecodesign]]
+
+== External reference ==
+
+* [https://wenr.isit-europe.org/ WeNR — Institute for Sustainable IT]
+
+[[fr:WeNR]]
+[[de:WeNR]]
+[[nl:WeNR]]
+[[es:WeNR]]

@@ -1,0 +1,30 @@
+Der '''CO₂-Fußabdruck''' schätzt die Menge an Treibhausgasen, die ausgestoßen wird, um den Verbrauch einer Person, einer Bevölkerung, eines Gebiets oder einer Tätigkeit zu decken: Güter, Dienstleistungen und Nutzung von Infrastruktur. Die Berechnung bezieht die Emissionen aus Ein- und Ausfuhren ein, unabhängig vom Ort der Produktion.
+
+Er wird in '''Tonnen CO₂-Äquivalent''' angegeben, einer Einheit, die verschiedene Gase nach ihrer Treibhauswirkung zusammenfasst.
+
+== Die drei Bereiche ==
+
+; Scope 1
+: direkte Emissionen aus Quellen, die die Organisation besitzt oder kontrolliert.
+; Scope 2
+: indirekte Emissionen aus eingekaufter Energie, vor allem Strom.
+; Scope 3
+: alle übrigen indirekten Emissionen, vor- und nachgelagert: Einkäufe, Reisen, Nutzung der verkauften Produkte, [[Lebensende]].
+
+In einer Organisation macht Scope 3 den größten Teil aus. Für die IT-Landschaft bildet die [[Herstellung]] der eingekauften Geräte in der Regel den dominierenden Posten. Eine Bilanz, die bei Scope 1 und 2 endet, verfehlt das Problem.
+
+== Rahmenwerke ==
+
+Das GHG Protocol setzt die internationale Referenzmethode. Die Norm ISO 14064 macht sie prüfbar. In Frankreich setzt der ''Bilan Carbone'' sie in ein Werkzeug um, und das BEGES macht sie für bestimmte Organisationen zur gesetzlichen Pflicht. Diese Rahmen widersprechen einander nicht, sie überlagern sich.
+
+== Was der CO₂-Fußabdruck nicht zeigt ==
+
+Wer die Umweltbetrachtung auf CO₂ verengt, blendet Rohstoffverbrauch, Wasserverbrauch und Toxizität aus. Eine mehrkriterielle [[Ökobilanz]] vermeidet diese Verzerrung.
+
+== Siehe auch ==
+
+* [[Ökobilanz]] · [[Rechenzentrum]] · [[Herstellung]] · [[Verantwortungsvolle Digitalisierung]] · [[WeNR]]
+
+[[fr:Empreinte_Carbone]]
+[[en:Carbon_footprint]]
+[[es:Huella_de_Carbono]]

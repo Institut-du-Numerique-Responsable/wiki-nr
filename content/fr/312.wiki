@@ -1,0 +1,53 @@
+== Définition ==
+L’'''AFNOR SPEC 2201''' est un document de référence publié en '''avril 2022''' par l’[[Agence Française de NORmalisation|AFNOR]] sous le titre ''Écoconception des services numériques''. Il fournit des lignes directrices et des recommandations concrètes aux organisations, publiques comme privées, souhaitant engager une démarche d’[[Ecoconception|écoconception]] sur l’ensemble du cycle de vie d’un [[Service numérique|service numérique]].
+
+Une AFNOR SPEC n’est pas une norme homologuée : c’est un document de référence élaboré rapidement et de façon consensuelle par un collectif d’acteurs volontaires, sans passer par l’ensemble du processus de normalisation. Elle ne se substitue à aucune obligation légale ou réglementaire.
+
+== Élaboration ==
+Le document a été élaboré entre juin 2021 et mars 2022 à partir des contributions d’une trentaine d’organisations participantes — administrations, grandes entreprises, ESN, cabinets de conseil, laboratoires de recherche et associations spécialisées — dont l’[[Institut du Numérique Responsable]], l’ADEME, la Direction interministérielle du numérique, Boavizta, GreenIT.fr, Designers Éthiques et le Pôle Éco-conception. L’animation des travaux a été assurée par Vincent Courboulay (INR).
+
+Sa rédaction est volontairement simple et accessible, afin de ne pas réserver sa compréhension aux seuls profils techniques.
+
+== Structure ==
+Le document découpe le cycle de vie d’un service numérique en '''six étapes''' :
+
+# Expression, définition et hiérarchisation des besoins
+# Conception
+# Réalisation
+# Utilisation et exploitation
+# Maintenance
+# Décommissionnement
+
+Chaque étape regroupe de quatre à sept '''fiches de bonnes pratiques''', pour un total de '''32 fiches'''. Chaque fiche suit une trame identique : description de la pratique, objectifs et impacts, éléments de contrôle et indicateurs (qualitatifs ou quantitatifs) rendant la pratique actionnable, périmètres concernés et remarques complémentaires.
+
+Huit '''périmètres''' permettent une lecture transversale du référentiel selon le métier concerné : stratégie, contenus, spécifications, expérience et interface utilisateur, architecture, ''frontend'' (côté client), ''backend'' (côté serveur) et hébergement.
+
+Deux annexes complètent le document : un tableau de sources et correspondances renvoyant, pour chaque fiche, vers d’autres référentiels ([[RGESN]], [[GR491]], bonnes pratiques GreenIT.fr, guide Designers Éthiques, code de conduite européen sur les centres de données…), ainsi qu’un glossaire.
+
+== Périmètre et limites ==
+La SPEC se concentre sur la '''dimension environnementale''' des impacts du numérique ; les dimensions sociales et éthiques ne sont pas traitées directement. L’écoconception du matériel lui-même est hors périmètre, mais la consommation raisonnée des ressources informatiques et la réduction de l’[[Obsolescence Programmée|obsolescence]] induite sur les équipements sont prises en compte dans les fiches.
+
+Le document introduit également plusieurs notions structurantes : le triptyque [[Utile Utilisable Utilisé|utile / utilisable / utilisé]], l’écosystème du service numérique (ressources externes consommées par le service) et l’[[Effet Rebond|effet rebond]].
+
+== Postérité ==
+L’AFNOR SPEC 2201 a servi de base aux travaux internationaux menés au sein du sous-comité ISO/IEC JTC 1/SC 39. En février 2026, elle est devenue une spécification technique internationale sous la référence [[ISO/IEC TS 20125|ISO/IEC TS 20125-1:2026]], ''Digital services ecodesign — Part 1: Ecopractices for life cycle stages'', qui en reprend la structure en six étapes et la décline en 73 exigences et 177 recommandations.
+
+Elle s’inscrit dans un paysage français dense en la matière, aux côtés du [[RGESN]] — d’application réglementaire, issu de l’article 16 de la loi du 15 novembre 2021 visant à réduire l’empreinte environnementale du numérique — et du [[GR491]] de l’[[Institut du Numérique Responsable|INR]].
+
+== Voir aussi ==
+=== Articles connexes ===
+* [[ISO/IEC TS 20125]]
+* [[Ecoconception]]
+* [[RGESN]]
+* [[GR491]]
+* [[Service numérique]]
+* [[Sobriété Numérique]]
+* [[Institut du Numérique Responsable]]
+* [[Numérique Responsable]]
+
+=== Références externes ===
+* [https://www.afnor.org/actualites/climat-et-decarbonation/guide-reference-ecoconcevoir-services-numeriques/ Un guide de référence pour écoconcevoir des services numériques, AFNOR]
+* [https://gr491.isit-europe.org/ GR491, Institut du Numérique Responsable]
+* [https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/ Référentiel général d’écoconception de services numériques (RGESN)]
+
+[[Catégorie:Référentiels et méthodes]]

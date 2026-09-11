@@ -1,0 +1,14 @@
+== Définition ==
+'''GES''' est l'acronyme pour '''G'''az à '''E'''ffet de '''S'''erre. Les GES sont des gaz d’origine naturelle (vapeur d’eau) ou anthropique (liée aux activités humaines) absorbant et réémettant une partie des rayons solaires (rayonnement infrarouge), phénomènes à l’origine de l’effet de serre. Les principaux GES liés aux activités humaines sont le dioxyde de carbone (CO2), le méthane (CH4), l’oxyde nitreux ou protoxyde d’azote (N2O) et des gaz fluorés : hydrofluorocarbure (HFC), perfluorocarbure (PFC), hexafluorure de soufre (SF6) et le trifluorure d’azote (NF3).
+
+== Dans le cadre du numérique responsable ==
+Le rapport du Shift Project de 2018 <ref name=":0">https://theshiftproject.org/wp-content/uploads/2018/11/Rapport-final-v8-WEB.pdf</ref> indique que la part du numérique dans les émissions de gaz à effet de serre passerait de 2 ,5% en 2013 à 4% d’ici 2020 (basé sur des estimations utilisant des chiffres de 2015).  A titre indicatif la part du transport aérien civil en 2018 était estimé à environ 2%.  Ces émissions de GES dans le cadre du numérique sont à relier directement à la production d'[[Energie finale|énergie finale]].
+
+== Voir aussi ==
+
+=== Références ===
+<ref name=":0" /> The Shift Project - [https://theshiftproject.org/wp-content/uploads/2018/11/Rapport-final-v8-WEB.pdf Lean ICT - pour une sobriété numérique].
+
+=== Liens externes ===
+
+* [https://ree.developpement-durable.gouv.fr/ Ministère de la Transition Ecologique]

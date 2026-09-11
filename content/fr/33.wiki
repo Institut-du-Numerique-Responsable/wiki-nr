@@ -1,0 +1,94 @@
+== Définition ==
+Un '''dark pattern''' — en français « interface trompeuse » ou « design trompeur » — est un choix de conception délibéré qui pousse l’utilisateur à faire quelque chose qui sert l’intérêt du service, mais pas nécessairement le sien. L’intention de tromper, de masquer ou de compliquer est au cœur de la définition : il ne s’agit pas d’une maladresse d’ergonomie, mais d’une manipulation conçue comme telle.
+
+Les objectifs poursuivis sont variés : faire dépenser davantage, faire rester plus longtemps sur un service, faire accepter des conditions d’utilisation ou un traçage que l’utilisateur aurait refusés s’ils lui avaient été présentés clairement.
+
+Le terme a été popularisé en 2010 par le spécialiste britannique de l’expérience utilisateur Harry Brignull, qui en a établi la première classification. La littérature récente et les textes réglementaires emploient de plus en plus l’expression ''deceptive design'' (design trompeur), jugée plus explicite et moins connotée.
+
+== Typologie ==
+Les classifications varient, mais on retrouve un noyau stable de familles.
+
+=== Dissimulation ===
+* '''Coûts cachés''' (''hidden costs'') : frais de service, de dossier ou de livraison révélés à la dernière étape du paiement.
+* '''Tarification au goutte-à-goutte''' (''drip pricing'') : le prix annoncé ne devient complet qu’après plusieurs écrans.
+* '''Ajout furtif au panier''' (''sneak into basket'') : option, assurance ou abonnement préajouté que l’utilisateur doit penser à retirer.
+
+=== Urgence et rareté artificielles ===
+* Comptes à rebours qui se réinitialisent, mentions « plus que 2 en stock » ou « 14 personnes regardent cette page » non vérifiables.
+* Exploitation du biais de rareté et de la peur de manquer ([[Fear Of Missing Out|FOMO]]).
+
+=== Détournement d’attention et culpabilisation ===
+* '''Misdirection''' : hiérarchie visuelle qui met en avant l’option favorable au service et efface l’autre — bouton coloré contre lien gris minuscule.
+* '''Confirmshaming''' : formuler le refus de manière culpabilisante (« Non merci, je préfère payer le prix fort »).
+* '''Questions pièges''' (''trick questions'') : double négation, case à cocher dont le sens s’inverse d’une ligne à l’autre.
+
+=== Obstruction ===
+* '''Roach motel''' : souscrire en deux clics, résilier en huit étapes, un appel téléphonique et un courrier. C’est le motif le plus explicitement visé par les régulateurs.
+* '''Nagging''' : sollicitations répétées (notifications, fenêtres modales) jusqu’à obtention de l’accord.
+
+=== Contrainte et confidentialité ===
+* '''Action forcée''' : création de compte imposée pour un acte anodin, autorisation demandée sans rapport avec la fonction.
+* '''''Privacy Zuckering''''' : conception qui conduit à partager plus de [[Donnée personnelle|données personnelles]] que voulu, réglages protecteurs enfouis et désactivés par défaut.
+* '''Présélection''' : cases pré-cochées valant consentement.
+* '''Publicité déguisée''' : contenu commercial présenté comme éditorial ou comme élément d’interface.
+
+== Mécanismes exploités ==
+Les dark patterns ne créent pas de nouveaux comportements : ils exploitent des biais cognitifs bien documentés.
+
+* '''Biais de rareté et aversion à la perte''' : la crainte de perdre une occasion pèse plus lourd que la perspective d’un gain équivalent.
+* '''Effet d’ancrage''' : un tarif élevé affiché en premier rend acceptable celui qui suit.
+* '''Coût de l’effort''' : au-delà de quelques étapes, l’utilisateur abandonne — c’est précisément le calcul de l’obstruction.
+* '''Effet de défaut''' : l’option préréglée est retenue dans la grande majorité des cas, quel que soit son contenu.
+* '''Charge attentionnelle''' : une interface dense et pressante dégrade la qualité de la décision, ce qui relève de l’[[Economie de l'attention|économie de l’attention]].
+
+== Le cas des bannières de consentement ==
+Les bandeaux cookies constituent le terrain d’observation le plus courant : bouton « Tout accepter » proéminent contre refus relégué dans un sous-menu, formulations orientées, réaffichage à chaque visite. La [[Commission Nationale de l'Informatique et des Libertés|CNIL]] a posé dès ses délibérations de 2022 une exigence simple : '''refuser doit être aussi facile qu’accepter''', avec un bouton de refus visible au premier niveau.
+
+== Cadre réglementaire ==
+* '''[[Règlement Général sur la Protection des Données|RGPD]]''' : le consentement doit être libre, spécifique, éclairé et univoque. Une case pré-cochée, un refus rendu coûteux ou un consentement obtenu par lassitude ne satisfont pas cette exigence.
+* '''Règlement sur les services numériques (DSA)''', article 25 : interdiction des interfaces qui trompent, manipulent ou altèrent l’autonomie de décision des utilisateurs. En décembre 2025, la Commission européenne a prononcé sa première amende au titre du DSA — 120 millions d’euros contre la plateforme X, notamment pour la conception trompeuse de sa certification.
+* '''Règlement sur les marchés numériques (DMA)''' : encadre les interfaces des contrôleurs d’accès, notamment les écrans de choix et les consentements croisés entre services.
+* '''Droit français de la consommation''' : les dark patterns relèvent, selon les cas, des pratiques commerciales trompeuses ou agressives.
+
+== Enjeux pour le numérique responsable ==
+Le sujet est souvent rangé du côté de l’éthique seule ; il touche aussi directement la sobriété.
+
+* '''Consommation de ressources.''' Un parcours artificiellement allongé, des sollicitations répétées et des fonctionnalités de captation multiplient les requêtes, les écrans chargés et le temps d’usage — donc l’énergie consommée par les terminaux, les réseaux et les serveurs.
+* '''Durée d’usage subie.''' Les mécaniques d’engagement prolongent l’usage sans créer de valeur pour l’utilisateur : c’est l’inverse du principe [[Utile Utilisable Utilisé|utile / utilisable / utilisé]] qui structure l’[[Ecoconception|écoconception]] des services numériques.
+* '''Convergence avec l’accessibilité.''' Une interface trompeuse est d’abord une interface illisible. Les personnes en situation de handicap, en difficulté avec le numérique ou peu à l’aise avec la langue en subissent les effets en premier — ce qui rejoint les enjeux d’[[Accessibilité Numérique|accessibilité numérique]] et d’[[Inclusion|inclusion]].
+* '''Cadres de référence.''' L’[[AFNOR SPEC 2201]] et l’[[ISO/IEC TS 20125]] demandent explicitement d’écarter les fonctionnalités de captation et les biais de conception qui trompent l’utilisateur ou allongent artificiellement sa durée d’utilisation. Le [[GR491]] traite le sujet dans ses familles stratégie et UX/UI.
+
+== Concevoir sans dark patterns ==
+* '''Symétrie des choix.''' Accepter et refuser doivent demander le même nombre d’actions et bénéficier du même traitement visuel.
+* '''Défaut protecteur.''' L’option préréglée est celle qui préserve l’utilisateur : pas de case pré-cochée, pas de partage de données par défaut.
+* '''Friction désirable.''' Toute friction n’est pas mauvaise : ralentir volontairement une action irréversible ou coûteuse, c’est protéger l’utilisateur. La friction manipulatrice, elle, entrave ce qu’il veut faire ; la friction désirable l’aide à décider.
+* '''Langage clair.''' Pas de double négation, pas de vocabulaire orienté, un prix complet affiché au plus tôt.
+* '''Symétrie d’entrée et de sortie.''' Résilier, supprimer son compte ou exporter ses données doit être aussi accessible que s’inscrire.
+* '''Revue éthique et tests utilisateurs.''' Faire relire les parcours par des personnes extérieures au projet, avec une question simple : l’utilisateur informé aurait-il fait le même choix ?
+
+Le guide ''Concevoir sans dark patterns'' de [https://designersethiques.org/ Designers Éthiques] propose une méthode complète, du cadrage du besoin au modèle économique, en passant par l’évaluation des parcours.
+
+== Voir aussi ==
+=== Articles connexes ===
+* [[Economie de l'attention]]
+* [[Fear Of Missing Out]]
+* [[Éthique]]
+* [[Accessibilité Numérique]]
+* [[Règlement Général sur la Protection des Données]]
+* [[Donnée personnelle]]
+* [[Ecoconception]]
+* [[GR491]]
+* [[Sobriété Numérique]]
+* [[Numérique Responsable]]
+
+=== Références externes ===
+* [https://designersethiques.org/fr/thematiques/design-persuasif/concevoir-sans-dark-patterns Concevoir sans dark patterns, Designers Éthiques]
+* [https://www.cnil.fr/fr/cookies-et-autres-traceurs Cookies et autres traceurs, CNIL]
+* [https://design.cnil.fr/ Données & Design, LINC — CNIL]
+* [https://www.deceptive.design/ Deceptive Design (Harry Brignull)]
+
+[[Catégorie:Concepts]]
+
+[[de:Dark Pattern]]
+[[en:Dark pattern]]
+[[es:Dark pattern]]

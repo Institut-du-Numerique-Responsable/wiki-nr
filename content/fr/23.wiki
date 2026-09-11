@@ -1,0 +1,34 @@
+== Définition ==
+
+'''CUE''' est un acronyme qui signifie '''C'''arbon '''U'''sage '''E'''ffectiveness. C'est un indicateur environnemental fréquemment utilisé en parallèle des [[Power Usage Effectiveness|PUE]] ( plus connu ) et des [[Water Usage Effectiveness|WUE]]. Le CUE rapporte la quantité totale de gaz à effet de serre (exprimée en kg de CO2) résultante de l’activité du datacenter, divisée par la quantité d'énergie utilisée par les équipements informatiques (en kWh).  
+ CUE = Émissions de CO2 causées par l'énergie totale du centre de données / Energie des équipement IT
+
+== Dans le cadre du Numérique Responsable ==
+L’objectif principal de cet indicateur est de prendre en compte l’impact de l’activité du datacenter sur l’environnement afin de choisir les technologies les moins émettrices de CO2. Pour le calculer, il faut connaître le mix énergétique de son approvisionnement. 
+
+== Portée et limites ==
+
+Le CUE dépend directement du '''mix électrique''' du lieu où se trouve le centre de données. Un même matériel, exploité de la même façon, affichera un CUE très différent selon qu’il est installé dans un pays à électricité fortement décarbonée ou dans un pays dépendant du charbon.
+
+Cette sensibilité en fait un bon indicateur de choix d’implantation, mais un mauvais indicateur de performance d’exploitation : un CUE excellent peut refléter uniquement une géographie favorable, sans aucun effort de sobriété.
+
+Le CUE souffre par ailleurs de deux limites :
+
+* le recours à des '''certificats d’origine renouvelable''' peut améliorer le CUE affiché sans modifier l’électricité physiquement consommée (voir [[Renewable_Energy_Factor|REF]]) ;
+* comme le [[Power_Usage_Effectiveness|PUE]], le CUE ne porte que sur la phase d’usage et ignore les émissions liées à la [[Fabrication|fabrication]] des équipements, souvent majoritaires sur le cycle de vie.
+
+Le CUE se lit donc utilement à côté d’un [[Bilan_Carbone|Bilan Carbone]] complet, qui intègre les trois scopes.
+
+== Voir aussi ==
+
+* [[Power_Usage_Effectiveness|Power Usage Effectiveness]]
+* [[Water_Usage_Effectiveness|Water Usage Effectiveness]]
+* [[Renewable_Energy_Factor|Renewable Energy Factor]]
+* [[DataCenter]]
+* [[Bilan_Carbone|Bilan Carbone]]
+* [[Empreinte_Carbone|Empreinte Carbone]]
+* [[Gaz_à_Effet_de_Serre|Gaz à Effet de Serre]]
+
+== Lien externe ==
+NETALIS - [https://www.netalis.fr/wp-content/uploads/2016/04/Carbon-Usage-Effectiveness-White-Paper_v3.pdf Livre Blanc - Carbon Usage Effectiveness (V3)]
+[[es:Carbon Usage Effectiveness]]

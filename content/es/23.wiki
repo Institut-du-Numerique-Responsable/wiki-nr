@@ -1,0 +1,24 @@
+La '''huella de agua''' de un servicio digital reúne el agua consumida en todas las etapas de su [[Análisis del Ciclo de Vida|ciclo de vida]]: extracción y refinado de los metales, fabricación de los componentes, refrigeración durante el uso y producción de la electricidad consumida.
+
+== Tres fuentes ==
+
+; La [[Fabricación|fabricación]]
+: el refinado de los metales y la producción de semiconductores consumen grandes volúmenes de agua ultrapura. Esta partida domina la huella de un terminal.
+; La refrigeración
+: parte de los [[Centro de Datos|centros de datos]] recurre a la refrigeración adiabática o evaporativa, que consume agua para evitar consumir electricidad. Existe por tanto un '''arbitraje entre agua y energía''': un centro con un excelente [[Power Usage Effectiveness|PUE]] puede deberlo a un consumo de agua elevado. El [[Water Usage Effectiveness|WUE]] mide ese arbitraje.
+; La producción de electricidad
+: la electricidad consumida moviliza a su vez agua, principalmente para refrigerar las centrales térmicas y nucleares. Esta parte no aparece en el consumo directo de un emplazamiento.
+
+== Una cuestión de localización ==
+
+El agua no se comporta como el carbono. Una tonelada de CO₂ tiene el mismo efecto se emita donde se emita; un metro cúbico de agua no tiene el mismo peso según la situación hídrica de la cuenca de la que procede.
+
+Evaluar una huella de agua sin situarla geográficamente conduce a conclusiones erróneas: un centro sobrio en zona de estrés hídrico puede ejercer más presión que un centro derrochador en región abundante.
+
+== Véase también ==
+
+* [[Water Usage Effectiveness]] · [[Centro de Datos]] · [[Análisis del Ciclo de Vida]] · [[Fabricación]] · [[Huella de Carbono]]
+
+[[Categoría:Medición]]
+
+[[fr:Empreinte_Eau]]
