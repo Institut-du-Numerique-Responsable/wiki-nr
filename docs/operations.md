@@ -34,3 +34,11 @@ Ne pas committer LocalSettings.php, mots de passe, clés, fichiers d’environne
 ## GitHub et production
 
 Aucun déploiement automatique n’est configuré. Mettre à jour GitHub et publier sur MediaWiki sont deux opérations distinctes. Après une publication, refaire un export public, vérifier ses empreintes et examiner le diff avant commit.
+
+## Nettoyage du serveur — 11 septembre 2026
+
+Après vérification du commit GitHub et des 116 fichiers wikitexte archivés, les copies serveur `wiki-drafts`, les deux lots réglementaires initiaux et les cinq exports intermédiaires ont été supprimés. Les commandes historiques des README de lots nécessitent désormais de restaurer le lot depuis GitHub avant utilisation ; ne pas les relancer pour republier des versions anciennes.
+
+L’archive d’installation MediaWiki 1.43.9 et le cache de paquets APT ont également été supprimés. Les données applicatives, configurations, sauvegardes SQL et journaux binaires MySQL sont conservés. La carte `.Codex` reste sur le serveur.
+
+La rotation nginx échouait parce que le compte `www-data` ne pouvait pas créer les archives dans `/var/log/nginx`, propriété de `root:adm`. La règle de rotation de ce seul répertoire utilise désormais `su root adm`, avec sauvegarde de l’ancienne configuration dans `/root/maintenance-backups-20260911/`. Le service logrotate s’est terminé avec succès. Les règles des autres sites n’ont pas été modifiées.
