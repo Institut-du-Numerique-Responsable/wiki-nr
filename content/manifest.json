@@ -6,7 +6,7 @@
     "namespace": 0,
     "revision": 234,
     "timestamp": "2022-09-06T15:19:25Z",
-    "file": "fr/115.wiki",
+    "file": "fr/3P.wiki",
     "sha256": "acdfbd230480ad915ef70ec0f00499b840d68255682f5b1af76ddfae13441bd5",
     "url": "https://fr.wiki.isit-europe.org/nr/3P"
   },
@@ -17,7 +17,7 @@
     "namespace": 0,
     "revision": 236,
     "timestamp": "2022-09-06T15:19:25Z",
-    "file": "fr/116.wiki",
+    "file": "fr/3U.wiki",
     "sha256": "be5e29885aec0265da375188c55038594e101b062448777adfa4c0048ac978d6",
     "url": "https://fr.wiki.isit-europe.org/nr/3U"
   },
@@ -28,7 +28,7 @@
     "namespace": 0,
     "revision": 8,
     "timestamp": "2022-09-06T15:17:57Z",
-    "file": "fr/4.wiki",
+    "file": "fr/5G.wiki",
     "sha256": "50754ef974455caac794cd4d0e382e795a4513edf7206426f20d7fe375c24463",
     "url": "https://fr.wiki.isit-europe.org/nr/5G"
   },
@@ -39,7 +39,7 @@
     "namespace": 0,
     "revision": 479,
     "timestamp": "2023-12-30T14:15:45Z",
-    "file": "fr/5.wiki",
+    "file": "fr/5R.wiki",
     "sha256": "80597eb8575e5b9166ddf14fd2acc574017e261eb07d582023121a775ca565b2",
     "url": "https://fr.wiki.isit-europe.org/nr/5R"
   },
@@ -50,7 +50,7 @@
     "namespace": 0,
     "revision": 803,
     "timestamp": "2026-08-06T06:28:48Z",
-    "file": "fr/193.wiki",
+    "file": "fr/A11Y.wiki",
     "sha256": "67266ff24b37a3523ee591b6e08ca4699494f1c000c4a1f5da9515357340f4ab",
     "url": "https://fr.wiki.isit-europe.org/nr/A11Y"
   },
@@ -61,7 +61,7 @@
     "namespace": 0,
     "revision": 238,
     "timestamp": "2022-09-06T15:19:25Z",
-    "file": "fr/117.wiki",
+    "file": "fr/ACV.wiki",
     "sha256": "f136eb3264c04341e4abf6e436f2d0f1d25887d8a2dee1e3992448c2275da24d",
     "url": "https://fr.wiki.isit-europe.org/nr/ACV"
   },
@@ -72,7 +72,7 @@
     "namespace": 0,
     "revision": 240,
     "timestamp": "2022-09-06T15:19:25Z",
-    "file": "fr/118.wiki",
+    "file": "fr/ADEME.wiki",
     "sha256": "97e24ec32df9b4dd4f079adead69bff4512ecf75c85944ea19b08ae2d51fa653",
     "url": "https://fr.wiki.isit-europe.org/nr/ADEME"
   },
@@ -83,7 +83,7 @@
     "namespace": 0,
     "revision": 242,
     "timestamp": "2022-09-06T15:19:25Z",
-    "file": "fr/119.wiki",
+    "file": "fr/ADP.wiki",
     "sha256": "0500fd7e1fb638b656e8c019612cf2b0908c799a8e8529bad3d4beea28fd13b9",
     "url": "https://fr.wiki.isit-europe.org/nr/ADP"
   },
@@ -94,7 +94,7 @@
     "namespace": 0,
     "revision": 244,
     "timestamp": "2022-09-06T15:19:25Z",
-    "file": "fr/120.wiki",
+    "file": "fr/AFNOR.wiki",
     "sha256": "80f34e5d5ff32394c98eb3c63209d6a7dcbf6555d224f2ec3a9001a100ec6e6a",
     "url": "https://fr.wiki.isit-europe.org/nr/AFNOR"
   },
@@ -105,7 +105,7 @@
     "namespace": 0,
     "revision": 865,
     "timestamp": "2026-08-08T09:31:28Z",
-    "file": "fr/312.wiki",
+    "file": "fr/AFNOR SPEC 2201.wiki",
     "sha256": "1f3aa72cbfb5fdd37f651b77e0a6712889ae7dd6ae9aefb0c20809f0bdea1676",
     "url": "https://fr.wiki.isit-europe.org/nr/AFNOR_SPEC_2201"
   },
@@ -116,7 +116,7 @@
     "namespace": 0,
     "revision": 246,
     "timestamp": "2022-09-06T15:19:25Z",
-    "file": "fr/121.wiki",
+    "file": "fr/AIPD.wiki",
     "sha256": "d2265b0050ceb5bd1b2a7a960da3f2dfaf564335ce347a5bbd7e239ec324d77c",
     "url": "https://fr.wiki.isit-europe.org/nr/AIPD"
   },
@@ -127,7 +127,7 @@
     "namespace": 0,
     "revision": 887,
     "timestamp": "2026-09-11T08:08:34Z",
-    "file": "fr/194.wiki",
+    "file": "fr/AI Act.wiki",
     "sha256": "cdb95aab1178bbc79ad88886b27c885691154a54bb69075793c695ffa959973c",
     "url": "https://fr.wiki.isit-europe.org/nr/AI_Act"
   },
@@ -138,7 +138,7 @@
     "namespace": 0,
     "revision": 665,
     "timestamp": "2026-08-05T22:33:31Z",
-    "file": "fr/206.wiki",
+    "file": "fr/AI for Good.wiki",
     "sha256": "4d9484b07a8a1cc0d909704e7e1f9c081622cf23024f6f3d8882e8d2c6a35bef",
     "url": "https://fr.wiki.isit-europe.org/nr/AI_for_Good"
   },
@@ -149,7 +149,7 @@
     "namespace": 0,
     "revision": 774,
     "timestamp": "2026-08-06T06:08:22Z",
-    "file": "fr/207.wiki",
+    "file": "fr/AI for Green.wiki",
     "sha256": "cd6b51c10336eab0d935db7b356f8c60d96123499d148195f2c885f6d6b69cb5",
     "url": "https://fr.wiki.isit-europe.org/nr/AI_for_Green"
   },
@@ -160,7 +160,7 @@
     "namespace": 0,
     "revision": 248,
     "timestamp": "2022-09-06T15:19:25Z",
-    "file": "fr/122.wiki",
+    "file": "fr/APD.wiki",
     "sha256": "0500fd7e1fb638b656e8c019612cf2b0908c799a8e8529bad3d4beea28fd13b9",
     "url": "https://fr.wiki.isit-europe.org/nr/APD"
   },
@@ -171,7 +171,7 @@
     "namespace": 0,
     "revision": 624,
     "timestamp": "2026-08-05T22:08:25Z",
-    "file": "fr/287.wiki",
+    "file": "fr/ARCEP - 287.wiki",
     "sha256": "8dfbb5ad2e9d193c3ed083e36543719631299f22d2db8a1fad74718886ce07d8",
     "url": "https://fr.wiki.isit-europe.org/nr/ARCEP"
   },
@@ -182,7 +182,7 @@
     "namespace": 0,
     "revision": 250,
     "timestamp": "2022-09-06T15:19:25Z",
-    "file": "fr/123.wiki",
+    "file": "fr/ASCV.wiki",
     "sha256": "c56adbe7b32f2caf5af78ed2397abb4b327751ceabdb5749a3a0ece0bb5defcf",
     "url": "https://fr.wiki.isit-europe.org/nr/ASCV"
   },
@@ -193,7 +193,7 @@
     "namespace": 0,
     "revision": 252,
     "timestamp": "2022-09-06T15:19:25Z",
-    "file": "fr/124.wiki",
+    "file": "fr/ASHRAE.wiki",
     "sha256": "6b972431e9c9cda5c1bdcf113a1c3099048cead64fc493918a320986dd2988bd",
     "url": "https://fr.wiki.isit-europe.org/nr/ASHRAE"
   },
@@ -204,7 +204,7 @@
     "namespace": 0,
     "revision": 828,
     "timestamp": "2026-08-06T18:33:12Z",
-    "file": "fr/13.wiki",
+    "file": "fr/Abiotique.wiki",
     "sha256": "bfb9c2bcd86c41a1b3128435711d63ec317658b3707befaec8e0505338390c6d",
     "url": "https://fr.wiki.isit-europe.org/nr/Abiotique"
   },
@@ -215,7 +215,7 @@
     "namespace": 0,
     "revision": 790,
     "timestamp": "2026-08-06T06:09:34Z",
-    "file": "fr/188.wiki",
+    "file": "fr/Académie NR.wiki",
     "sha256": "ee1c9ad2e9ffff40e43e2553597334cd4ffb3359c8d657f0a1cfcd2cbc8fb4ba",
     "url": "https://fr.wiki.isit-europe.org/nr/Acad%C3%A9mie_NR"
   },
@@ -226,7 +226,7 @@
     "namespace": 0,
     "revision": 668,
     "timestamp": "2026-08-05T22:33:32Z",
-    "file": "fr/204.wiki",
+    "file": "fr/Acceptabilité.wiki",
     "sha256": "c0735992123e144611d76cbf79753731bf1eda50634c71fe26296369f3b3415c",
     "url": "https://fr.wiki.isit-europe.org/nr/Acceptabilit%C3%A9"
   },
@@ -237,7 +237,7 @@
     "namespace": 0,
     "revision": 884,
     "timestamp": "2026-09-10T18:08:02Z",
-    "file": "fr/14.wiki",
+    "file": "fr/Accessibilité Numérique.wiki",
     "sha256": "20b22f5cbe971e1ca8166b8077fd3d387ed565766f78a08a82f6a0aef2755f26",
     "url": "https://fr.wiki.isit-europe.org/nr/Accessibilit%C3%A9_Num%C3%A9rique"
   },
@@ -248,7 +248,7 @@
     "namespace": 0,
     "revision": 869,
     "timestamp": "2026-08-08T09:37:20Z",
-    "file": "fr/1.wiki",
+    "file": "fr/Accueil.wiki",
     "sha256": "52220edcf13629b85b4b569c5ff6a7e0cf3262b94d8a0cfa75668bd38fb33021",
     "url": "https://fr.wiki.isit-europe.org/nr/Accueil"
   },
@@ -259,7 +259,7 @@
     "namespace": 0,
     "revision": 457,
     "timestamp": "2023-12-05T10:07:40Z",
-    "file": "fr/9.wiki",
+    "file": "fr/Agence Française de NORmalisation.wiki",
     "sha256": "512b35c20362a97c9f41a24958a9dbba080aadd26e5ac63dc25cac5cf3b08629",
     "url": "https://fr.wiki.isit-europe.org/nr/Agence_Fran%C3%A7aise_de_NORmalisation"
   },
@@ -270,7 +270,7 @@
     "namespace": 0,
     "revision": 796,
     "timestamp": "2026-08-06T06:28:47Z",
-    "file": "fr/7.wiki",
+    "file": "fr/Agence de la Transition Écologique.wiki",
     "sha256": "a34c7ec393ab698034fbf9d46f99eafe2c5796ce1fbb3732bc668b92bf7622b2",
     "url": "https://fr.wiki.isit-europe.org/nr/Agence_de_la_Transition_%C3%89cologique"
   },
@@ -281,7 +281,7 @@
     "namespace": 0,
     "revision": 671,
     "timestamp": "2026-08-05T22:33:34Z",
-    "file": "fr/227.wiki",
+    "file": "fr/Agent conversationnel.wiki",
     "sha256": "480e3b6bb1e47beabe62ddc79bbdd1c19a79712a190a3ed3e62499c4bdc346c1",
     "url": "https://fr.wiki.isit-europe.org/nr/Agent_conversationnel"
   },
@@ -292,7 +292,7 @@
     "namespace": 0,
     "revision": 555,
     "timestamp": "2026-08-05T21:53:33Z",
-    "file": "fr/224.wiki",
+    "file": "fr/Agent intelligent.wiki",
     "sha256": "d498b985a14235cc5a54574bda26188cbaa5de6af223c08fa548d05376f4611f",
     "url": "https://fr.wiki.isit-europe.org/nr/Agent_intelligent"
   },
@@ -303,7 +303,7 @@
     "namespace": 0,
     "revision": 672,
     "timestamp": "2026-08-05T22:33:34Z",
-    "file": "fr/228.wiki",
+    "file": "fr/Algorithme.wiki",
     "sha256": "c2a87e14246f12b4118719ebe226c40f6f27767089e6eeebee9a9565628893ea",
     "url": "https://fr.wiki.isit-europe.org/nr/Algorithme"
   },
@@ -314,7 +314,7 @@
     "namespace": 0,
     "revision": 26,
     "timestamp": "2022-09-06T15:17:57Z",
-    "file": "fr/12.wiki",
+    "file": "fr/American Society of Heating, Refrigerating and Air-Conditioning Engineers.wiki",
     "sha256": "2985d635167b6d589dbf1628dae243b53f90c8d952ca5d8a712ef4c2f8d25372",
     "url": "https://fr.wiki.isit-europe.org/nr/American_Society_of_Heating%2C_Refrigerating_and_Air-Conditioning_Engineers"
   },
@@ -325,7 +325,7 @@
     "namespace": 0,
     "revision": 821,
     "timestamp": "2026-08-06T06:51:57Z",
-    "file": "fr/11.wiki",
+    "file": "fr/Analyse Sociale du Cycle de Vie.wiki",
     "sha256": "c4cb9b7099248515a442285bfb551b5463e2fd8de8f9d8053f1815ff4e753413",
     "url": "https://fr.wiki.isit-europe.org/nr/Analyse_Sociale_du_Cycle_de_Vie"
   },
@@ -336,7 +336,7 @@
     "namespace": 0,
     "revision": 830,
     "timestamp": "2026-08-06T18:33:12Z",
-    "file": "fr/6.wiki",
+    "file": "fr/Analyse du Cycle de Vie.wiki",
     "sha256": "d03f0ff2b294b5be950a0241d00f0e10edbe300f63780e107c473b900e2448ff",
     "url": "https://fr.wiki.isit-europe.org/nr/Analyse_du_Cycle_de_Vie"
   },
@@ -347,7 +347,7 @@
     "namespace": 0,
     "revision": 609,
     "timestamp": "2026-08-05T22:08:21Z",
-    "file": "fr/272.wiki",
+    "file": "fr/Analyse du Cycle de Vie (ACV).wiki",
     "sha256": "eab695b6c092367d35e11b9829afbee293cacc12201edc49b31ef9518d28344c",
     "url": "https://fr.wiki.isit-europe.org/nr/Analyse_du_Cycle_de_Vie_%28ACV%29"
   },
@@ -358,7 +358,7 @@
     "namespace": 0,
     "revision": 802,
     "timestamp": "2026-08-06T06:28:48Z",
-    "file": "fr/10.wiki",
+    "file": "fr/Analyse d’Impact relative à la Protection des Données.wiki",
     "sha256": "43193843f3b0583970d59309680b496f4a912aed5cb30294c78d183bc6b43d6c",
     "url": "https://fr.wiki.isit-europe.org/nr/Analyse_d%E2%80%99Impact_relative_%C3%A0_la_Protection_des_Donn%C3%A9es"
   },
@@ -369,7 +369,7 @@
     "namespace": 0,
     "revision": 767,
     "timestamp": "2026-08-05T22:36:42Z",
-    "file": "fr/229.wiki",
+    "file": "fr/Analyse prédictive.wiki",
     "sha256": "bd5dea366caddfa4bdb9b40b56755b59fd417d0fddd5a01a4aa7b43e68881203",
     "url": "https://fr.wiki.isit-europe.org/nr/Analyse_pr%C3%A9dictive"
   },
@@ -380,7 +380,7 @@
     "namespace": 0,
     "revision": 675,
     "timestamp": "2026-08-05T22:33:36Z",
-    "file": "fr/208.wiki",
+    "file": "fr/Apprentissage automatique.wiki",
     "sha256": "37482339b086bbf7f8cf19eeff2b48d42f6d2f79e911491592de7d92df9e3adf",
     "url": "https://fr.wiki.isit-europe.org/nr/Apprentissage_automatique"
   },
@@ -391,7 +391,7 @@
     "namespace": 0,
     "revision": 676,
     "timestamp": "2026-08-05T22:33:36Z",
-    "file": "fr/209.wiki",
+    "file": "fr/Apprentissage profond.wiki",
     "sha256": "2200b3e932fb949cf9c6113e7eaa61510bf78046a6bdea44bcaedd0079d5c3d2",
     "url": "https://fr.wiki.isit-europe.org/nr/Apprentissage_profond"
   },
@@ -402,7 +402,7 @@
     "namespace": 0,
     "revision": 677,
     "timestamp": "2026-08-05T22:33:37Z",
-    "file": "fr/268.wiki",
+    "file": "fr/Arcep.wiki",
     "sha256": "a4baf13ab1f30f748b6ffcff76c419aa931fffac33ee823766e15f0d1962132a",
     "url": "https://fr.wiki.isit-europe.org/nr/Arcep"
   },
@@ -413,7 +413,7 @@
     "namespace": 0,
     "revision": 678,
     "timestamp": "2026-08-05T22:33:37Z",
-    "file": "fr/197.wiki",
+    "file": "fr/Association pour la transition Bas Carbone.wiki",
     "sha256": "c8d12070b413106cbeb2dc24de06781d09d00ec900aa344ee188a6c1a0e23cf5",
     "url": "https://fr.wiki.isit-europe.org/nr/Association_pour_la_transition_Bas_Carbone"
   },
@@ -424,7 +424,7 @@
     "namespace": 0,
     "revision": 679,
     "timestamp": "2026-08-05T22:33:38Z",
-    "file": "fr/230.wiki",
+    "file": "fr/Autonomie stratégique.wiki",
     "sha256": "eaa685703ce1b5b782aee04c9e910e480366b5d1f718f9cced7a21d711f5eaef",
     "url": "https://fr.wiki.isit-europe.org/nr/Autonomie_strat%C3%A9gique"
   },
@@ -435,7 +435,7 @@
     "namespace": 0,
     "revision": 22,
     "timestamp": "2022-09-06T15:17:57Z",
-    "file": "fr/8.wiki",
+    "file": "fr/Autorité de Protection des Données.wiki",
     "sha256": "f8c487d5ccaced6efafed902e7e175f6606807843ea42f9c0c6fc55a03554e49",
     "url": "https://fr.wiki.isit-europe.org/nr/Autorit%C3%A9_de_Protection_des_Donn%C3%A9es"
   },
@@ -446,7 +446,7 @@
     "namespace": 0,
     "revision": 32,
     "timestamp": "2022-09-06T15:17:57Z",
-    "file": "fr/15.wiki",
+    "file": "fr/BATHX.wiki",
     "sha256": "b2c8228e9875372c409b4b646ac8a4b5a153836d365c363a80f6a3af3fd25970",
     "url": "https://fr.wiki.isit-europe.org/nr/BATHX"
   },
@@ -457,7 +457,7 @@
     "namespace": 0,
     "revision": 254,
     "timestamp": "2022-09-06T15:19:25Z",
-    "file": "fr/125.wiki",
+    "file": "fr/BCR.wiki",
     "sha256": "e7e146ff34759b2faf732087253967ec6ceeac407b7b595e9c2b99be9e1ad62a",
     "url": "https://fr.wiki.isit-europe.org/nr/BCR"
   },
@@ -468,7 +468,7 @@
     "namespace": 0,
     "revision": 256,
     "timestamp": "2022-09-06T15:19:25Z",
-    "file": "fr/126.wiki",
+    "file": "fr/BDAT.wiki",
     "sha256": "68adc905274f23a0e6c6ef0a333063e3905aac8983e62fadd527dff77568d158",
     "url": "https://fr.wiki.isit-europe.org/nr/BDAT"
   },
@@ -479,7 +479,7 @@
     "namespace": 0,
     "revision": 258,
     "timestamp": "2022-09-06T15:19:25Z",
-    "file": "fr/127.wiki",
+    "file": "fr/BEGES.wiki",
     "sha256": "44f7235af1a620fe67d070065b89106e6f2c62d4c58aa07248e79109d2ebb80b",
     "url": "https://fr.wiki.isit-europe.org/nr/BEGES"
   },
@@ -490,7 +490,7 @@
     "namespace": 0,
     "revision": 475,
     "timestamp": "2023-12-30T14:02:32Z",
-    "file": "fr/19.wiki",
+    "file": "fr/BLUE ANGEL.wiki",
     "sha256": "89a97b5a5b6da93c8b463d6491d3e8fe8088aa2e3dd57d50d528c3d6fb540016",
     "url": "https://fr.wiki.isit-europe.org/nr/BLUE_ANGEL"
   },
@@ -501,7 +501,7 @@
     "namespace": 0,
     "revision": 260,
     "timestamp": "2022-09-06T15:19:25Z",
-    "file": "fr/128.wiki",
+    "file": "fr/BYOD.wiki",
     "sha256": "ccf22affb4850e46fedc0337ba3f7b2235d1d84a79bb39ce22aa5ccfc893c3d5",
     "url": "https://fr.wiki.isit-europe.org/nr/BYOD"
   },
@@ -512,7 +512,7 @@
     "namespace": 0,
     "revision": 766,
     "timestamp": "2026-08-05T22:36:41Z",
-    "file": "fr/17.wiki",
+    "file": "fr/Base de Données d'Analyse des Terres.wiki",
     "sha256": "ab15b77d5b739f13c695680f65d2fdfe43f285c4388d278efadbf2c87df43d2b",
     "url": "https://fr.wiki.isit-europe.org/nr/Base_de_Donn%C3%A9es_d%27Analyse_des_Terres"
   },
@@ -523,7 +523,7 @@
     "namespace": 0,
     "revision": 595,
     "timestamp": "2026-08-05T22:01:22Z",
-    "file": "fr/262.wiki",
+    "file": "fr/Biais (IA).wiki",
     "sha256": "d300e736032e4f7c3918263c647eef48a2c5a10afd81a788919399023124148a",
     "url": "https://fr.wiki.isit-europe.org/nr/Biais_%28IA%29"
   },
@@ -534,7 +534,7 @@
     "namespace": 0,
     "revision": 680,
     "timestamp": "2026-08-05T22:33:39Z",
-    "file": "fr/210.wiki",
+    "file": "fr/Biais algorithmique.wiki",
     "sha256": "110bff3b1702232368689cb0a2342d071c6507b18708d0dc5016e2c5572ee529",
     "url": "https://fr.wiki.isit-europe.org/nr/Biais_algorithmique"
   },
@@ -545,7 +545,7 @@
     "namespace": 0,
     "revision": 681,
     "timestamp": "2026-08-05T22:33:39Z",
-    "file": "fr/196.wiki",
+    "file": "fr/Bilan Carbone.wiki",
     "sha256": "c399be0cd868bf2ed0f3d675fa2156a8e919036f35c2f1e26edc7f1e8662d14f",
     "url": "https://fr.wiki.isit-europe.org/nr/Bilan_Carbone"
   },
@@ -556,7 +556,7 @@
     "namespace": 0,
     "revision": 682,
     "timestamp": "2026-08-05T22:33:40Z",
-    "file": "fr/18.wiki",
+    "file": "fr/Bilan des Émissions des Gaz à Effet de Serre.wiki",
     "sha256": "7f1379e17572153ffa483617431a07340d45caa0d1856d6005d664e6634d51a0",
     "url": "https://fr.wiki.isit-europe.org/nr/Bilan_des_%C3%89missions_des_Gaz_%C3%A0_Effet_de_Serre"
   },
@@ -567,7 +567,7 @@
     "namespace": 0,
     "revision": 820,
     "timestamp": "2026-08-06T06:36:02Z",
-    "file": "fr/16.wiki",
+    "file": "fr/Binding Corporate Rules.wiki",
     "sha256": "31e9782300b67fa1c4eafa88afb81dc01a0b960d6224e0f4c7ddfdc1e085f779",
     "url": "https://fr.wiki.isit-europe.org/nr/Binding_Corporate_Rules"
   },
@@ -578,7 +578,7 @@
     "namespace": 0,
     "revision": 683,
     "timestamp": "2026-08-05T22:33:40Z",
-    "file": "fr/231.wiki",
+    "file": "fr/Boîte noire.wiki",
     "sha256": "98c7355765ed0ed8fe70a0e30680ccf7d02a0ab4645159a1d433c7806ec841ae",
     "url": "https://fr.wiki.isit-europe.org/nr/Bo%C3%AEte_noire"
   },
@@ -589,7 +589,7 @@
     "namespace": 0,
     "revision": 809,
     "timestamp": "2026-08-06T06:35:59Z",
-    "file": "fr/20.wiki",
+    "file": "fr/Bring Your Own Device.wiki",
     "sha256": "e2de0443132b5cf87aa0b47d1b3aec21ae49b5c865eeca5560817529b4fb7b68",
     "url": "https://fr.wiki.isit-europe.org/nr/Bring_Your_Own_Device"
   },
@@ -600,7 +600,7 @@
     "namespace": 0,
     "revision": 262,
     "timestamp": "2022-09-06T15:19:25Z",
-    "file": "fr/129.wiki",
+    "file": "fr/CMDB.wiki",
     "sha256": "bd63c3700f9004880afe6f6898c2c2666be4678ebf41b97dbeec97218a84ead3",
     "url": "https://fr.wiki.isit-europe.org/nr/CMDB"
   },
@@ -611,7 +611,7 @@
     "namespace": 0,
     "revision": 270,
     "timestamp": "2022-09-06T15:19:25Z",
-    "file": "fr/133.wiki",
+    "file": "fr/CNIL.wiki",
     "sha256": "dbf2f782c3fe3d39198c229d2839e8b5afadbcaed0a99461f1ba092baa2cc4ee",
     "url": "https://fr.wiki.isit-europe.org/nr/CNIL"
   },
@@ -622,7 +622,7 @@
     "namespace": 0,
     "revision": 264,
     "timestamp": "2022-09-06T15:19:25Z",
-    "file": "fr/130.wiki",
+    "file": "fr/COPE.wiki",
     "sha256": "f54122617ff5f3035d34bfd9991fcf0e7bf1143aed8ad9f10242120dbb61bd9e",
     "url": "https://fr.wiki.isit-europe.org/nr/COPE"
   },
@@ -633,7 +633,7 @@
     "namespace": 0,
     "revision": 885,
     "timestamp": "2026-09-10T18:08:03Z",
-    "file": "fr/200.wiki",
+    "file": "fr/CSRD.wiki",
     "sha256": "fac748b6f63a2fedd8ce2775d4a4333be0ae948630a3acbe41d7340003e59b28",
     "url": "https://fr.wiki.isit-europe.org/nr/CSRD"
   },
@@ -644,7 +644,7 @@
     "namespace": 0,
     "revision": 266,
     "timestamp": "2022-09-06T15:19:25Z",
-    "file": "fr/131.wiki",
+    "file": "fr/CUE.wiki",
     "sha256": "9a21ae78fdbaebe49b2c1023ad2606b733dae97c8b2153d44e2a773cebb9d173",
     "url": "https://fr.wiki.isit-europe.org/nr/CUE"
   },
@@ -655,7 +655,7 @@
     "namespace": 0,
     "revision": 862,
     "timestamp": "2026-08-08T09:24:25Z",
-    "file": "fr/134.wiki",
+    "file": "fr/CWCUD.wiki",
     "sha256": "54701164c8906dbabd3109519472c017cb2e20f0ff9edb4ec8207c5bd219f8e4",
     "url": "https://fr.wiki.isit-europe.org/nr/CWCUD"
   },
@@ -666,7 +666,7 @@
     "namespace": 0,
     "revision": 268,
     "timestamp": "2022-09-06T15:19:25Z",
-    "file": "fr/132.wiki",
+    "file": "fr/CYOD.wiki",
     "sha256": "bda2dbc18c2191467414e948838b933509079cd7996afdc034073d26be18cd2a",
     "url": "https://fr.wiki.isit-europe.org/nr/CYOD"
   },
@@ -677,7 +677,7 @@
     "namespace": 0,
     "revision": 831,
     "timestamp": "2026-08-06T18:33:13Z",
-    "file": "fr/23.wiki",
+    "file": "fr/Carbon Usage Effectiveness.wiki",
     "sha256": "76e803ee70edf86db9bef5938e165faff45479c1b1450f50d02b677d30a7d7f5",
     "url": "https://fr.wiki.isit-europe.org/nr/Carbon_Usage_Effectiveness"
   },
@@ -688,7 +688,7 @@
     "namespace": 0,
     "revision": 611,
     "timestamp": "2026-08-05T22:08:21Z",
-    "file": "fr/274.wiki",
+    "file": "fr/Centre de données.wiki",
     "sha256": "72ebc7558d1b9d3349553790ff3d34e58a93fa16824318eaf8d6f2d0aa6a0af8",
     "url": "https://fr.wiki.isit-europe.org/nr/Centre_de_donn%C3%A9es"
   },
@@ -699,7 +699,7 @@
     "namespace": 0,
     "revision": 872,
     "timestamp": "2026-08-08T09:51:34Z",
-    "file": "fr/313.wiki",
+    "file": "fr/Charte IA Responsable.wiki",
     "sha256": "8ba8099114b02342939423d48ccd6b4b52dc2702139508c725ade100e2907ee2",
     "url": "https://fr.wiki.isit-europe.org/nr/Charte_IA_Responsable"
   },
@@ -710,7 +710,7 @@
     "namespace": 0,
     "revision": 875,
     "timestamp": "2026-08-08T09:52:18Z",
-    "file": "fr/186.wiki",
+    "file": "fr/Charte Numérique Responsable.wiki",
     "sha256": "c0d80ae5ce7b9713498bd5d756a5c33fcb8627647d6acf38b9fb082dda852d5d",
     "url": "https://fr.wiki.isit-europe.org/nr/Charte_Num%C3%A9rique_Responsable"
   },
@@ -721,7 +721,7 @@
     "namespace": 0,
     "revision": 594,
     "timestamp": "2026-08-05T22:01:22Z",
-    "file": "fr/261.wiki",
+    "file": "fr/Chatbot.wiki",
     "sha256": "d014f76617ec557ec0e7313edf436a257fe98cf623ce3c829fd086a4a4a58aad",
     "url": "https://fr.wiki.isit-europe.org/nr/Chatbot"
   },
@@ -732,7 +732,7 @@
     "namespace": 0,
     "revision": 687,
     "timestamp": "2026-08-05T22:33:42Z",
-    "file": "fr/211.wiki",
+    "file": "fr/Chaîne de valeur de l'IA.wiki",
     "sha256": "1cc9860a488f9adc9a21067ac728959314331520a3c3c57888ea97e375a72526",
     "url": "https://fr.wiki.isit-europe.org/nr/Cha%C3%AEne_de_valeur_de_l%27IA"
   },
@@ -743,7 +743,7 @@
     "namespace": 0,
     "revision": 789,
     "timestamp": "2026-08-06T06:08:26Z",
-    "file": "fr/24.wiki",
+    "file": "fr/Choose Your Own Device.wiki",
     "sha256": "2afdbf58cf7a794c1481795e42814ff3bc09f4ffe82a7a389022563f4fe2598a",
     "url": "https://fr.wiki.isit-europe.org/nr/Choose_Your_Own_Device"
   },
@@ -754,7 +754,7 @@
     "namespace": 0,
     "revision": 652,
     "timestamp": "2026-08-05T22:30:12Z",
-    "file": "fr/300.wiki",
+    "file": "fr/Clausier NR.wiki",
     "sha256": "bde99fd45aac630f5b9fd269ef7b45fa784b1a68cde547e95ec0db11fb10f53f",
     "url": "https://fr.wiki.isit-europe.org/nr/Clausier_NR"
   },
@@ -765,7 +765,7 @@
     "namespace": 0,
     "revision": 653,
     "timestamp": "2026-08-05T22:30:12Z",
-    "file": "fr/301.wiki",
+    "file": "fr/Clausier numérique responsable.wiki",
     "sha256": "bde99fd45aac630f5b9fd269ef7b45fa784b1a68cde547e95ec0db11fb10f53f",
     "url": "https://fr.wiki.isit-europe.org/nr/Clausier_num%C3%A9rique_responsable"
   },
@@ -776,7 +776,7 @@
     "namespace": 0,
     "revision": 688,
     "timestamp": "2026-08-05T22:33:43Z",
-    "file": "fr/299.wiki",
+    "file": "fr/Clausier numérique écoresponsable.wiki",
     "sha256": "c07b9a2d353e798a3ea1f66486ed3ad682c8dc1b24be4a5307c8963c6c9c3289",
     "url": "https://fr.wiki.isit-europe.org/nr/Clausier_num%C3%A9rique_%C3%A9coresponsable"
   },
@@ -787,7 +787,7 @@
     "namespace": 0,
     "revision": 689,
     "timestamp": "2026-08-05T22:33:43Z",
-    "file": "fr/232.wiki",
+    "file": "fr/Cloud computing.wiki",
     "sha256": "f3444622834efa52106c7d7a09d24b2f1e3234ea3e941734184c22838e925a5b",
     "url": "https://fr.wiki.isit-europe.org/nr/Cloud_computing"
   },
@@ -798,7 +798,7 @@
     "namespace": 0,
     "revision": 690,
     "timestamp": "2026-08-05T22:33:44Z",
-    "file": "fr/245.wiki",
+    "file": "fr/Cloud hybride.wiki",
     "sha256": "8cf4a96c507469e32150ed22ac9e9d62c570ef3b6fc02d0e6cb38b824a259251",
     "url": "https://fr.wiki.isit-europe.org/nr/Cloud_hybride"
   },
@@ -809,7 +809,7 @@
     "namespace": 0,
     "revision": 691,
     "timestamp": "2026-08-05T22:33:44Z",
-    "file": "fr/233.wiki",
+    "file": "fr/Clustering.wiki",
     "sha256": "f1a1061271fac90294c802ec22681d71dcbb1b7d0ddb47e028b609dafbf66d18",
     "url": "https://fr.wiki.isit-europe.org/nr/Clustering"
   },
@@ -820,7 +820,7 @@
     "namespace": 0,
     "revision": 888,
     "timestamp": "2026-09-11T08:08:35Z",
-    "file": "fr/318.wiki",
+    "file": "fr/Codes de conduite et de bonnes pratiques IA.wiki",
     "sha256": "6f9f82bed00e14069a2daedda03896b6be8527050680a2566d3e619e80196c98",
     "url": "https://fr.wiki.isit-europe.org/nr/Codes_de_conduite_et_de_bonnes_pratiques_IA"
   },
@@ -831,7 +831,7 @@
     "namespace": 0,
     "revision": 692,
     "timestamp": "2026-08-05T22:33:44Z",
-    "file": "fr/234.wiki",
+    "file": "fr/Colocation.wiki",
     "sha256": "c3210a40d9c574da2e52aca9f29b8eb3096d79a0811e28422d7a645d2fbad6fc",
     "url": "https://fr.wiki.isit-europe.org/nr/Colocation"
   },
@@ -842,7 +842,7 @@
     "namespace": 0,
     "revision": 693,
     "timestamp": "2026-08-05T22:33:45Z",
-    "file": "fr/25.wiki",
+    "file": "fr/Commission Nationale de l'Informatique et des Libertés.wiki",
     "sha256": "c8b663aa16f49e2409770b422aa02d39a00294c3016cfe876c832f25ab694f10",
     "url": "https://fr.wiki.isit-europe.org/nr/Commission_Nationale_de_l%27Informatique_et_des_Libert%C3%A9s"
   },
@@ -853,7 +853,7 @@
     "namespace": 0,
     "revision": 876,
     "timestamp": "2026-08-18T10:23:59Z",
-    "file": "fr/314.wiki",
+    "file": "fr/Commun numérique.wiki",
     "sha256": "a695aa62a2f955a2f496f967ed5a5a40b5a3502a995440efde51eeedc49f8032",
     "url": "https://fr.wiki.isit-europe.org/nr/Commun_num%C3%A9rique"
   },
@@ -864,7 +864,7 @@
     "namespace": 0,
     "revision": 799,
     "timestamp": "2026-08-06T06:28:47Z",
-    "file": "fr/26.wiki",
+    "file": "fr/Compensation.wiki",
     "sha256": "e38848b7476684274695126c1306b11dd460156a2e3b3fa21f072f5f8cce3a94",
     "url": "https://fr.wiki.isit-europe.org/nr/Compensation"
   },
@@ -875,7 +875,7 @@
     "namespace": 0,
     "revision": 472,
     "timestamp": "2023-12-05T10:37:47Z",
-    "file": "fr/27.wiki",
+    "file": "fr/Comptabilité environnementale.wiki",
     "sha256": "39eaa48207bcb500735a052bfa9297ee140acead7edefee1469f2d7d77440560",
     "url": "https://fr.wiki.isit-europe.org/nr/Comptabilit%C3%A9_environnementale"
   },
@@ -886,7 +886,7 @@
     "namespace": 0,
     "revision": 401,
     "timestamp": "2022-10-23T16:45:09Z",
-    "file": "fr/21.wiki",
+    "file": "fr/Configuration Management DataBase.wiki",
     "sha256": "d12a08da71b5c00d68f0b9b3b0e2cffbb8900ae93e093eb4523c7ae1b58386f3",
     "url": "https://fr.wiki.isit-europe.org/nr/Configuration_Management_DataBase"
   },
@@ -897,7 +897,7 @@
     "namespace": 0,
     "revision": 402,
     "timestamp": "2022-10-23T16:47:29Z",
-    "file": "fr/22.wiki",
+    "file": "fr/Corporate Owned, Personally Enabled.wiki",
     "sha256": "cafba72a842e07428428862a20a5809f72633a6a973f2fe71128e06acde6be95",
     "url": "https://fr.wiki.isit-europe.org/nr/Corporate_Owned%2C_Personally_Enabled"
   },
@@ -908,7 +908,7 @@
     "namespace": 0,
     "revision": 694,
     "timestamp": "2026-08-05T22:33:46Z",
-    "file": "fr/258.wiki",
+    "file": "fr/Coût total de possession.wiki",
     "sha256": "41cf93aeadc6fe76aab01139408d22163de79aca90cad55c2cce5337579f663a",
     "url": "https://fr.wiki.isit-europe.org/nr/Co%C3%BBt_total_de_possession"
   },
@@ -919,7 +919,7 @@
     "namespace": 0,
     "revision": 889,
     "timestamp": "2026-09-11T08:08:36Z",
-    "file": "fr/319.wiki",
+    "file": "fr/Cyber Resilience Act.wiki",
     "sha256": "81e7d27694d9212e74e24dafb151f9a91ba4872a86e313f587e2464ca630a156",
     "url": "https://fr.wiki.isit-europe.org/nr/Cyber_Resilience_Act"
   },
@@ -930,7 +930,7 @@
     "namespace": 0,
     "revision": 860,
     "timestamp": "2026-08-08T09:22:30Z",
-    "file": "fr/309.wiki",
+    "file": "fr/Cyber World Clean Up Day.wiki",
     "sha256": "54701164c8906dbabd3109519472c017cb2e20f0ff9edb4ec8207c5bd219f8e4",
     "url": "https://fr.wiki.isit-europe.org/nr/Cyber_World_Clean_Up_Day"
   },
@@ -941,7 +941,7 @@
     "namespace": 0,
     "revision": 881,
     "timestamp": "2026-09-10T18:00:48Z",
-    "file": "fr/212.wiki",
+    "file": "fr/Cybersécurité.wiki",
     "sha256": "09202e2e7daafbd9bdbe2af3cae74158de8effec9521e0c6d93d0f1c020a54c9",
     "url": "https://fr.wiki.isit-europe.org/nr/Cybers%C3%A9curit%C3%A9"
   },
@@ -952,7 +952,7 @@
     "namespace": 0,
     "revision": 608,
     "timestamp": "2026-08-05T22:08:21Z",
-    "file": "fr/271.wiki",
+    "file": "fr/Cycle de vie.wiki",
     "sha256": "eab695b6c092367d35e11b9829afbee293cacc12201edc49b31ef9518d28344c",
     "url": "https://fr.wiki.isit-europe.org/nr/Cycle_de_vie"
   },
@@ -963,7 +963,7 @@
     "namespace": 0,
     "revision": 696,
     "timestamp": "2026-08-05T22:33:47Z",
-    "file": "fr/235.wiki",
+    "file": "fr/Cycle de vie de l'IA.wiki",
     "sha256": "25411ba4191ae58f65d25b58a0ad8ae11527c4312d3886763b90ba003d2cdcbf",
     "url": "https://fr.wiki.isit-europe.org/nr/Cycle_de_vie_de_l%27IA"
   },
@@ -974,7 +974,7 @@
     "namespace": 0,
     "revision": 274,
     "timestamp": "2022-09-06T15:19:25Z",
-    "file": "fr/135.wiki",
+    "file": "fr/DC.wiki",
     "sha256": "df982e6b99e91dded393f986c2d7d7581f46594c95022b427d3f368e3ff03c34",
     "url": "https://fr.wiki.isit-europe.org/nr/DC"
   },
@@ -985,7 +985,7 @@
     "namespace": 0,
     "revision": 280,
     "timestamp": "2022-09-06T15:19:25Z",
-    "file": "fr/138.wiki",
+    "file": "fr/DD.wiki",
     "sha256": "ad41338c6ae53227c1f1e4476c5fe60ffdd90cff58d8c6456d9a40a71f4f80ef",
     "url": "https://fr.wiki.isit-europe.org/nr/DD"
   },
@@ -996,7 +996,7 @@
     "namespace": 0,
     "revision": 276,
     "timestamp": "2022-09-06T15:19:25Z",
-    "file": "fr/136.wiki",
+    "file": "fr/DEEE.wiki",
     "sha256": "513d1829b18f455e2a144d814bffcffe7d72a2affc7ec82f9ea98778154c7599",
     "url": "https://fr.wiki.isit-europe.org/nr/DEEE"
   },
@@ -1007,7 +1007,7 @@
     "namespace": 0,
     "revision": 278,
     "timestamp": "2022-09-06T15:19:25Z",
-    "file": "fr/137.wiki",
+    "file": "fr/DPD.wiki",
     "sha256": "26a6aa369762ecbafb3ad6e873edcd25b065b312a1ad4d0ab5f46d5c1340f846",
     "url": "https://fr.wiki.isit-europe.org/nr/DPD"
   },
@@ -1018,7 +1018,7 @@
     "namespace": 0,
     "revision": 556,
     "timestamp": "2026-08-05T21:53:33Z",
-    "file": "fr/225.wiki",
+    "file": "fr/DPO.wiki",
     "sha256": "ceffa2bb0928dd5e41d501c42010171ae852cbdd8b4545d6e5320ee3536701a5",
     "url": "https://fr.wiki.isit-europe.org/nr/DPO"
   },
@@ -1029,7 +1029,7 @@
     "namespace": 0,
     "revision": 413,
     "timestamp": "2022-10-23T17:30:06Z",
-    "file": "fr/32.wiki",
+    "file": "fr/Dark Data.wiki",
     "sha256": "7f47a21ba18adaa729c72ec01e65ae885f43af060391e45f5f95558951873fcc",
     "url": "https://fr.wiki.isit-europe.org/nr/Dark_Data"
   },
@@ -1040,7 +1040,7 @@
     "namespace": 0,
     "revision": 871,
     "timestamp": "2026-08-08T09:48:06Z",
-    "file": "fr/33.wiki",
+    "file": "fr/Dark pattern.wiki",
     "sha256": "70601fa13dab82e791f8e54795a15e510274b6ba304d32649a475572d0ad82c8",
     "url": "https://fr.wiki.isit-europe.org/nr/Dark_pattern"
   },
@@ -1051,7 +1051,7 @@
     "namespace": 0,
     "revision": 832,
     "timestamp": "2026-08-06T18:33:13Z",
-    "file": "fr/29.wiki",
+    "file": "fr/DataCenter.wiki",
     "sha256": "738cf9c0b007616e0bb1011bffd078a65ce91a61c6cda3efc06dea005d0129fc",
     "url": "https://fr.wiki.isit-europe.org/nr/DataCenter"
   },
@@ -1062,7 +1062,7 @@
     "namespace": 0,
     "revision": 891,
     "timestamp": "2026-09-11T08:08:38Z",
-    "file": "fr/321.wiki",
+    "file": "fr/Data Act.wiki",
     "sha256": "06bd2d2917327412c6ea4b45721eaa6fd4f896b42ae4707dd1ec5448f934b33b",
     "url": "https://fr.wiki.isit-europe.org/nr/Data_Act"
   },
@@ -1073,7 +1073,7 @@
     "namespace": 0,
     "revision": 554,
     "timestamp": "2026-08-05T21:53:33Z",
-    "file": "fr/223.wiki",
+    "file": "fr/Deep Learning.wiki",
     "sha256": "5a0659ba5121d9c890d10cff05fdb1a67ca475c781f1cc1d4eb98d0955dff841",
     "url": "https://fr.wiki.isit-europe.org/nr/Deep_Learning"
   },
@@ -1084,7 +1084,7 @@
     "namespace": 0,
     "revision": 697,
     "timestamp": "2026-08-05T22:33:48Z",
-    "file": "fr/213.wiki",
+    "file": "fr/Deepfake interne.wiki",
     "sha256": "23d30b23cdf1ac75ba576f5e7cef32b6685eecbcec3c753bbfe238737972546c",
     "url": "https://fr.wiki.isit-europe.org/nr/Deepfake_interne"
   },
@@ -1095,7 +1095,7 @@
     "namespace": 0,
     "revision": 698,
     "timestamp": "2026-08-05T22:33:48Z",
-    "file": "fr/237.wiki",
+    "file": "fr/Dette technique.wiki",
     "sha256": "51f2cb199188f75194831fcc9f684636e97ddc40ca085cfabf3783d1f077672c",
     "url": "https://fr.wiki.isit-europe.org/nr/Dette_technique"
   },
@@ -1106,7 +1106,7 @@
     "namespace": 0,
     "revision": 861,
     "timestamp": "2026-08-08T09:24:13Z",
-    "file": "fr/28.wiki",
+    "file": "fr/Digital Cleanup Day.wiki",
     "sha256": "ca539b11250a328ae0d01706e7c9c99e501e18d4f268225c6328b8ebe38801ae",
     "url": "https://fr.wiki.isit-europe.org/nr/Digital_Cleanup_Day"
   },
@@ -1117,7 +1117,7 @@
     "namespace": 0,
     "revision": 415,
     "timestamp": "2022-10-23T17:33:20Z",
-    "file": "fr/34.wiki",
+    "file": "fr/Donnée personnelle.wiki",
     "sha256": "0ceed5ca39ec238e02999ee6011f58aeb8b9db36e828f1d850095505eb5ffd23",
     "url": "https://fr.wiki.isit-europe.org/nr/Donn%C3%A9e_personnelle"
   },
@@ -1128,7 +1128,7 @@
     "namespace": 0,
     "revision": 776,
     "timestamp": "2026-08-06T06:08:22Z",
-    "file": "fr/214.wiki",
+    "file": "fr/Données d'entraînement.wiki",
     "sha256": "02f49aa7dcc7f6b754d3060d945eb49b2c98a8ff6866052d206a6c57b4b27a6f",
     "url": "https://fr.wiki.isit-europe.org/nr/Donn%C3%A9es_d%27entra%C3%AEnement"
   },
@@ -1139,7 +1139,7 @@
     "namespace": 0,
     "revision": 700,
     "timestamp": "2026-08-05T22:33:49Z",
-    "file": "fr/238.wiki",
+    "file": "fr/Données sensibles.wiki",
     "sha256": "a6cc80bd42e64416fe8bc56272bd1220b388ba630aea2a73a00844405a2ed57c",
     "url": "https://fr.wiki.isit-europe.org/nr/Donn%C3%A9es_sensibles"
   },
@@ -1150,7 +1150,7 @@
     "namespace": 0,
     "revision": 701,
     "timestamp": "2026-08-05T22:33:50Z",
-    "file": "fr/236.wiki",
+    "file": "fr/Débiaisage.wiki",
     "sha256": "7439ebbeed8fc7b4d0e1c872b7a5a4ba433e5a5df726977aa3aeb88d3bb3db0d",
     "url": "https://fr.wiki.isit-europe.org/nr/D%C3%A9biaisage"
   },
@@ -1161,7 +1161,7 @@
     "namespace": 0,
     "revision": 466,
     "timestamp": "2023-12-05T10:32:48Z",
-    "file": "fr/30.wiki",
+    "file": "fr/Déchets d’Équipements Électriques et Électroniques.wiki",
     "sha256": "5bb802801782e091c6f6695c9b188b4065d614d8c4b8a1ba3b946d6a369e4842",
     "url": "https://fr.wiki.isit-europe.org/nr/D%C3%A9chets_d%E2%80%99%C3%89quipements_%C3%89lectriques_et_%C3%89lectroniques"
   },
@@ -1172,7 +1172,7 @@
     "namespace": 0,
     "revision": 412,
     "timestamp": "2022-10-23T17:28:04Z",
-    "file": "fr/31.wiki",
+    "file": "fr/Délégué à la Protection des Données.wiki",
     "sha256": "354b31621676d6988ddce61ccf00250933ef3d61d223745987a791479a150e77",
     "url": "https://fr.wiki.isit-europe.org/nr/D%C3%A9l%C3%A9gu%C3%A9_%C3%A0_la_Protection_des_Donn%C3%A9es"
   },
@@ -1183,7 +1183,7 @@
     "namespace": 0,
     "revision": 801,
     "timestamp": "2026-08-06T06:28:48Z",
-    "file": "fr/35.wiki",
+    "file": "fr/Développement durable.wiki",
     "sha256": "bca2e231ee5262cb5dad4035649b4a43ceafa0146d5ad804fb55de40daf7d85a",
     "url": "https://fr.wiki.isit-europe.org/nr/D%C3%A9veloppement_durable"
   },
@@ -1194,7 +1194,7 @@
     "namespace": 0,
     "revision": 282,
     "timestamp": "2022-09-06T15:19:25Z",
-    "file": "fr/139.wiki",
+    "file": "fr/ECF.wiki",
     "sha256": "4d2b0795ddda54c706d087c6991df5aba8a7053ea9eb14f0ef874f6baed28f37",
     "url": "https://fr.wiki.isit-europe.org/nr/ECF"
   },
@@ -1205,7 +1205,7 @@
     "namespace": 0,
     "revision": 623,
     "timestamp": "2026-08-05T22:08:24Z",
-    "file": "fr/286.wiki",
+    "file": "fr/EEE.wiki",
     "sha256": "c9ff35516e93bd60d4beca708bfde16eac9298f59f06a93ee2a36489f647547b",
     "url": "https://fr.wiki.isit-europe.org/nr/EEE"
   },
@@ -1216,7 +1216,7 @@
     "namespace": 0,
     "revision": 493,
     "timestamp": "2025-03-17T16:13:02Z",
-    "file": "fr/166.wiki",
+    "file": "fr/EF.wiki",
     "sha256": "92249c82e9e40582668dbda43da08dbdf1431b87e6dce37794ad8dd87968df86",
     "url": "https://fr.wiki.isit-europe.org/nr/EF"
   },
@@ -1227,7 +1227,7 @@
     "namespace": 0,
     "revision": 481,
     "timestamp": "2023-12-30T14:32:18Z",
-    "file": "fr/140.wiki",
+    "file": "fr/EP.wiki",
     "sha256": "d98201ca51c74b66d73e8fa2b85e7852f54bcde3d5ff43bd22a9a680170e15c8",
     "url": "https://fr.wiki.isit-europe.org/nr/EP"
   },
@@ -1238,7 +1238,7 @@
     "namespace": 0,
     "revision": 290,
     "timestamp": "2022-09-06T15:19:26Z",
-    "file": "fr/143.wiki",
+    "file": "fr/EPEAT.wiki",
     "sha256": "849d8d54c70a7a5f18fe77be3afa89887b8fee8044269cd562b80477982b2117",
     "url": "https://fr.wiki.isit-europe.org/nr/EPEAT"
   },
@@ -1249,7 +1249,7 @@
     "namespace": 0,
     "revision": 484,
     "timestamp": "2023-12-30T14:56:59Z",
-    "file": "fr/141.wiki",
+    "file": "fr/ERC.wiki",
     "sha256": "dc5327e417fb8936d158aae377690520f21e634446122a7961786ba14a5b0e77",
     "url": "https://fr.wiki.isit-europe.org/nr/ERC"
   },
@@ -1260,7 +1260,7 @@
     "namespace": 0,
     "revision": 478,
     "timestamp": "2023-12-30T14:06:56Z",
-    "file": "fr/142.wiki",
+    "file": "fr/ESS.wiki",
     "sha256": "daa43d4f260bec14debf37d4d83b69bf443d495b3f6d4024bf14f3f47135129c",
     "url": "https://fr.wiki.isit-europe.org/nr/ESS"
   },
@@ -1271,7 +1271,7 @@
     "namespace": 0,
     "revision": 462,
     "timestamp": "2023-12-05T10:21:39Z",
-    "file": "fr/175.wiki",
+    "file": "fr/Eco Conception.wiki",
     "sha256": "161a516cb2e6194eb5e1827b1a7d5bf22102f90c4637a389163e8bda3d43e997",
     "url": "https://fr.wiki.isit-europe.org/nr/Eco_Conception"
   },
@@ -1282,7 +1282,7 @@
     "namespace": 0,
     "revision": 866,
     "timestamp": "2026-08-08T09:37:16Z",
-    "file": "fr/40.wiki",
+    "file": "fr/Ecoconception.wiki",
     "sha256": "8ec9c132447fc0030210efa6f2e1780c5e63ac4d7bff9361866cc4fc6bf70ef7",
     "url": "https://fr.wiki.isit-europe.org/nr/Ecoconception"
   },
@@ -1293,7 +1293,7 @@
     "namespace": 0,
     "revision": 224,
     "timestamp": "2022-09-06T15:18:01Z",
-    "file": "fr/111.wiki",
+    "file": "fr/Ecocontribution.wiki",
     "sha256": "1f9d592f6beef81e7bf0d86b35f4e5714e8fafff91f22fb3d42b58244d449b75",
     "url": "https://fr.wiki.isit-europe.org/nr/Ecocontribution"
   },
@@ -1304,7 +1304,7 @@
     "namespace": 0,
     "revision": 84,
     "timestamp": "2022-09-06T15:17:58Z",
-    "file": "fr/41.wiki",
+    "file": "fr/Ecolabel.wiki",
     "sha256": "2d21db9fd236312a59ea8740df5537fc687a69c17bac549bd57a4a22ce955858",
     "url": "https://fr.wiki.isit-europe.org/nr/Ecolabel"
   },
@@ -1315,7 +1315,7 @@
     "namespace": 0,
     "revision": 834,
     "timestamp": "2026-08-06T18:33:14Z",
-    "file": "fr/42.wiki",
+    "file": "fr/Economie Circulaire.wiki",
     "sha256": "141d605279758469cd88fbd8d5f42a14aba53d7951c41a6b99e6cffd066b8721",
     "url": "https://fr.wiki.isit-europe.org/nr/Economie_Circulaire"
   },
@@ -1326,7 +1326,7 @@
     "namespace": 0,
     "revision": 471,
     "timestamp": "2023-12-05T10:37:08Z",
-    "file": "fr/39.wiki",
+    "file": "fr/Economie Sociale et Solidaire.wiki",
     "sha256": "187e1d158f0607865c9ed279d0d2c10e263f4491d9098034b33799bf3812393d",
     "url": "https://fr.wiki.isit-europe.org/nr/Economie_Sociale_et_Solidaire"
   },
@@ -1337,7 +1337,7 @@
     "namespace": 0,
     "revision": 88,
     "timestamp": "2022-09-06T15:17:58Z",
-    "file": "fr/43.wiki",
+    "file": "fr/Economie Verte.wiki",
     "sha256": "b4a84eeb8234ef2ac9eb4da2706053a96a67ddabbcb2253ca3bbcadf8ff8cb29",
     "url": "https://fr.wiki.isit-europe.org/nr/Economie_Verte"
   },
@@ -1348,7 +1348,7 @@
     "namespace": 0,
     "revision": 772,
     "timestamp": "2026-08-05T22:37:19Z",
-    "file": "fr/112.wiki",
+    "file": "fr/Economie de l'attention.wiki",
     "sha256": "11d65743ec2680af641d11bdeca09afeb74934dbf3e6a2f57686a6374c273328",
     "url": "https://fr.wiki.isit-europe.org/nr/Economie_de_l%27attention"
   },
@@ -1359,7 +1359,7 @@
     "namespace": 0,
     "revision": 787,
     "timestamp": "2026-08-06T06:08:25Z",
-    "file": "fr/44.wiki",
+    "file": "fr/Edge Computing.wiki",
     "sha256": "721681e2b93dac3593e6c699123cd3b8550c73a37472eb5edddcde01a5c3abae",
     "url": "https://fr.wiki.isit-europe.org/nr/Edge_Computing"
   },
@@ -1370,7 +1370,7 @@
     "namespace": 0,
     "revision": 835,
     "timestamp": "2026-08-06T18:33:15Z",
-    "file": "fr/45.wiki",
+    "file": "fr/Effet Rebond.wiki",
     "sha256": "13472f825b89dd0656de2c020f99115a933aee2de68d1daea17d48f7b14161f9",
     "url": "https://fr.wiki.isit-europe.org/nr/Effet_Rebond"
   },
@@ -1381,7 +1381,7 @@
     "namespace": 0,
     "revision": 702,
     "timestamp": "2026-08-05T22:33:52Z",
-    "file": "fr/215.wiki",
+    "file": "fr/Effet de substitution.wiki",
     "sha256": "4cdb53c3fb5079d396166ef45f03cb5ac02ef98fae0d02cfb8c77bd4fe72ff2c",
     "url": "https://fr.wiki.isit-europe.org/nr/Effet_de_substitution"
   },
@@ -1392,7 +1392,7 @@
     "namespace": 0,
     "revision": 416,
     "timestamp": "2022-10-23T17:34:50Z",
-    "file": "fr/46.wiki",
+    "file": "fr/Efficacité énergétique.wiki",
     "sha256": "1a90a4034767c217bd2bfbae3ea7d51defc197c75d81cb0ab548e349c8f874b6",
     "url": "https://fr.wiki.isit-europe.org/nr/Efficacit%C3%A9_%C3%A9nerg%C3%A9tique"
   },
@@ -1403,7 +1403,7 @@
     "namespace": 0,
     "revision": 476,
     "timestamp": "2023-12-30T14:02:55Z",
-    "file": "fr/52.wiki",
+    "file": "fr/Electronic Product Environmental Assessment Tool.wiki",
     "sha256": "d78877e4092f82d2eabc950380e2af71ab205d9148d1d2c1c051fb3200afb343",
     "url": "https://fr.wiki.isit-europe.org/nr/Electronic_Product_Environmental_Assessment_Tool"
   },
@@ -1414,7 +1414,7 @@
     "namespace": 0,
     "revision": 74,
     "timestamp": "2022-09-06T15:17:58Z",
-    "file": "fr/36.wiki",
+    "file": "fr/Elemental Chlorine Free.wiki",
     "sha256": "eadf115a73442ba7653ecee4564406c386049ceee129f1ab9c31320d68f78676",
     "url": "https://fr.wiki.isit-europe.org/nr/Elemental_Chlorine_Free"
   },
@@ -1425,7 +1425,7 @@
     "namespace": 0,
     "revision": 858,
     "timestamp": "2026-08-06T19:21:05Z",
-    "file": "fr/47.wiki",
+    "file": "fr/Empreinte Carbone.wiki",
     "sha256": "ec490228750ff8d6a3dee822e988cabe3f50a18fd7c3c38df12cbf084d38c7b5",
     "url": "https://fr.wiki.isit-europe.org/nr/Empreinte_Carbone"
   },
@@ -1436,7 +1436,7 @@
     "namespace": 0,
     "revision": 837,
     "timestamp": "2026-08-06T18:33:15Z",
-    "file": "fr/48.wiki",
+    "file": "fr/Empreinte Eau.wiki",
     "sha256": "65c3d412905110e38feb3b00b817ca1106252e74b5a8fe2d6232b4e234bedb3d",
     "url": "https://fr.wiki.isit-europe.org/nr/Empreinte_Eau"
   },
@@ -1447,7 +1447,7 @@
     "namespace": 0,
     "revision": 704,
     "timestamp": "2026-08-05T22:33:53Z",
-    "file": "fr/50.wiki",
+    "file": "fr/Empreinte Matière.wiki",
     "sha256": "5eb4df19d1112506cba0732f3c02f91f29a9535af70311591fc38c21c1b857b4",
     "url": "https://fr.wiki.isit-europe.org/nr/Empreinte_Mati%C3%A8re"
   },
@@ -1458,7 +1458,7 @@
     "namespace": 0,
     "revision": 638,
     "timestamp": "2026-08-05T22:17:55Z",
-    "file": "fr/49.wiki",
+    "file": "fr/Empreinte Écologique.wiki",
     "sha256": "be4896f4bfa25cfd260b7a0bbf710c1706bb64cdf2028915009a20d20bbf9540",
     "url": "https://fr.wiki.isit-europe.org/nr/Empreinte_%C3%89cologique"
   },
@@ -1469,7 +1469,7 @@
     "namespace": 0,
     "revision": 76,
     "timestamp": "2022-09-06T15:17:58Z",
-    "file": "fr/37.wiki",
+    "file": "fr/Energie Primaire.wiki",
     "sha256": "3f7cfd4025a24c5d5cb7e667b7f8e16463c4c672885e5d9b41cd36254e5eca76",
     "url": "https://fr.wiki.isit-europe.org/nr/Energie_Primaire"
   },
@@ -1480,7 +1480,7 @@
     "namespace": 0,
     "revision": 228,
     "timestamp": "2022-09-06T15:18:01Z",
-    "file": "fr/113.wiki",
+    "file": "fr/Energie fatale.wiki",
     "sha256": "318713c5c58ab453bab5c5193944061cc0471dfafe12b7203a2a05260792b942",
     "url": "https://fr.wiki.isit-europe.org/nr/Energie_fatale"
   },
@@ -1491,7 +1491,7 @@
     "namespace": 0,
     "revision": 482,
     "timestamp": "2023-12-30T14:33:16Z",
-    "file": "fr/51.wiki",
+    "file": "fr/Energie finale.wiki",
     "sha256": "758344cbd90a6b98643cd23599c45291d03fe03b5a45badafe8056f288febac6",
     "url": "https://fr.wiki.isit-europe.org/nr/Energie_finale"
   },
@@ -1502,7 +1502,7 @@
     "namespace": 0,
     "revision": 612,
     "timestamp": "2026-08-05T22:08:22Z",
-    "file": "fr/275.wiki",
+    "file": "fr/Epeat - 275.wiki",
     "sha256": "c7b798127b5ca92d94ada7fc79d34caaecc4a8000184e2fd35e7c67f2bd58463",
     "url": "https://fr.wiki.isit-europe.org/nr/Epeat"
   },
@@ -1513,7 +1513,7 @@
     "namespace": 0,
     "revision": 230,
     "timestamp": "2022-09-06T15:18:01Z",
-    "file": "fr/114.wiki",
+    "file": "fr/Equivalent carbone.wiki",
     "sha256": "6be0554584d4b96b3dfb44a333e2c010c3b2b6cb5a7d4f144e59633f0fc816fa",
     "url": "https://fr.wiki.isit-europe.org/nr/Equivalent_carbone"
   },
@@ -1524,7 +1524,7 @@
     "namespace": 0,
     "revision": 108,
     "timestamp": "2022-09-06T15:17:59Z",
-    "file": "fr/53.wiki",
+    "file": "fr/Etude d'Impact.wiki",
     "sha256": "870b74d5c6e5840f444771c2d92860688389e0f484c9be90d0b9275f9d5246aa",
     "url": "https://fr.wiki.isit-europe.org/nr/Etude_d%27Impact"
   },
@@ -1535,7 +1535,7 @@
     "namespace": 0,
     "revision": 78,
     "timestamp": "2022-09-06T15:17:58Z",
-    "file": "fr/38.wiki",
+    "file": "fr/Eviter Réduire Compenser.wiki",
     "sha256": "093d350023bebc43e063279bcd696e4b175454675be5bb4ed4243d94143f5a91",
     "url": "https://fr.wiki.isit-europe.org/nr/Eviter_R%C3%A9duire_Compenser"
   },
@@ -1546,7 +1546,7 @@
     "namespace": 0,
     "revision": 705,
     "timestamp": "2026-08-05T22:33:55Z",
-    "file": "fr/240.wiki",
+    "file": "fr/Explicabilité.wiki",
     "sha256": "570f9b570314f9068a34891260a633e5232bd1c0b6f95080f0634cb122dd0a46",
     "url": "https://fr.wiki.isit-europe.org/nr/Explicabilit%C3%A9"
   },
@@ -1557,7 +1557,7 @@
     "namespace": 0,
     "revision": 762,
     "timestamp": "2026-08-05T22:36:40Z",
-    "file": "fr/305.wiki",
+    "file": "fr/Extraction.wiki",
     "sha256": "ea0adf57b276229cc8dbbfa9d762ee30c7daa138221902f7d1ce33a0e3d543fd",
     "url": "https://fr.wiki.isit-europe.org/nr/Extraction"
   },
@@ -1568,7 +1568,7 @@
     "namespace": 0,
     "revision": 292,
     "timestamp": "2022-09-06T15:19:26Z",
-    "file": "fr/144.wiki",
+    "file": "fr/FOMO.wiki",
     "sha256": "721390cacd9c4e029fafc8e78c13868133b54369565117dd88ce77ddde27b2da",
     "url": "https://fr.wiki.isit-europe.org/nr/FOMO"
   },
@@ -1579,7 +1579,7 @@
     "namespace": 0,
     "revision": 294,
     "timestamp": "2022-09-06T15:19:26Z",
-    "file": "fr/145.wiki",
+    "file": "fr/FSC.wiki",
     "sha256": "e507222e8eeae5a67e34677d88c6ffeee45669da5454bd630c11ad60b35a02cb",
     "url": "https://fr.wiki.isit-europe.org/nr/FSC"
   },
@@ -1590,7 +1590,7 @@
     "namespace": 0,
     "revision": 614,
     "timestamp": "2026-08-05T22:08:22Z",
-    "file": "fr/277.wiki",
+    "file": "fr/FSC Forest Standard Council.wiki",
     "sha256": "8400df3a14b6aee32cda8169077336e7baf9101dd0cfe9a487d3839f5b9be355",
     "url": "https://fr.wiki.isit-europe.org/nr/FSC_Forest_Standard_Council"
   },
@@ -1601,7 +1601,7 @@
     "namespace": 0,
     "revision": 855,
     "timestamp": "2026-08-06T18:48:13Z",
-    "file": "fr/56.wiki",
+    "file": "fr/Fabrication.wiki",
     "sha256": "2e305c5f124a393da0137fa637e35364ad22f3470791ddc2e815d259c036687f",
     "url": "https://fr.wiki.isit-europe.org/nr/Fabrication"
   },
@@ -1612,7 +1612,7 @@
     "namespace": 0,
     "revision": 116,
     "timestamp": "2022-09-06T15:17:59Z",
-    "file": "fr/57.wiki",
+    "file": "fr/Facteur 4.wiki",
     "sha256": "cfada08cd1c05e09a99cdeac5efb6ff992ee0dba0629b3fcd8e9c73942aa24dd",
     "url": "https://fr.wiki.isit-europe.org/nr/Facteur_4"
   },
@@ -1623,7 +1623,7 @@
     "namespace": 0,
     "revision": 706,
     "timestamp": "2026-08-05T22:33:56Z",
-    "file": "fr/54.wiki",
+    "file": "fr/Fear Of Missing Out.wiki",
     "sha256": "e06fcb285735c0aedc9d89c49f12617c333e1c5a0c83a0a359d6450d1a9bc740",
     "url": "https://fr.wiki.isit-europe.org/nr/Fear_Of_Missing_Out"
   },
@@ -1634,7 +1634,7 @@
     "namespace": 0,
     "revision": 856,
     "timestamp": "2026-08-06T18:56:53Z",
-    "file": "fr/58.wiki",
+    "file": "fr/Fin de Vie.wiki",
     "sha256": "fc9614bb2b54443f90b0c253ac18ee4e1e73d5f780d1495dbc67ba61bf11d06e",
     "url": "https://fr.wiki.isit-europe.org/nr/Fin_de_Vie"
   },
@@ -1645,7 +1645,7 @@
     "namespace": 0,
     "revision": 708,
     "timestamp": "2026-08-05T22:33:57Z",
-    "file": "fr/241.wiki",
+    "file": "fr/Fine-tuning.wiki",
     "sha256": "30f8f4dffa3eaf5547c46623b65e9ccb067cdfdbc237bfa929b0cc5dae7283be",
     "url": "https://fr.wiki.isit-europe.org/nr/Fine-tuning"
   },
@@ -1656,7 +1656,7 @@
     "namespace": 0,
     "revision": 385,
     "timestamp": "2022-09-29T09:55:45Z",
-    "file": "fr/173.wiki",
+    "file": "fr/Forest Standard Council.wiki",
     "sha256": "d3759436d5509e656edab4fcaf18c970be20f1748545353ae66571bc113d24e3",
     "url": "https://fr.wiki.isit-europe.org/nr/Forest_Standard_Council"
   },
@@ -1667,7 +1667,7 @@
     "namespace": 0,
     "revision": 477,
     "timestamp": "2023-12-30T14:04:18Z",
-    "file": "fr/55.wiki",
+    "file": "fr/Forest Stewardship Council.wiki",
     "sha256": "06f83630c08c83a0b8cedf2d04a32f649315152243456d334fef57499b6f0712",
     "url": "https://fr.wiki.isit-europe.org/nr/Forest_Stewardship_Council"
   },
@@ -1678,7 +1678,7 @@
     "namespace": 0,
     "revision": 709,
     "timestamp": "2026-08-05T22:33:57Z",
-    "file": "fr/242.wiki",
+    "file": "fr/Forêts aléatoires.wiki",
     "sha256": "65cc51f558cc0007eb20103ced1b25e9049ce060533de584c5e0fc7e7c9c4180",
     "url": "https://fr.wiki.isit-europe.org/nr/For%C3%AAts_al%C3%A9atoires"
   },
@@ -1689,7 +1689,7 @@
     "namespace": 0,
     "revision": 120,
     "timestamp": "2022-09-06T15:17:59Z",
-    "file": "fr/59.wiki",
+    "file": "fr/Fracture Numérique.wiki",
     "sha256": "cf256322141ea7a6df90f3b9f7f39185f1b88a698f492779a11a6ffd4ebe2a3d",
     "url": "https://fr.wiki.isit-europe.org/nr/Fracture_Num%C3%A9rique"
   },
@@ -1700,7 +1700,7 @@
     "namespace": 0,
     "revision": 387,
     "timestamp": "2022-09-29T09:59:28Z",
-    "file": "fr/60.wiki",
+    "file": "fr/Fragilité Numérique.wiki",
     "sha256": "f289ef5e01c7bf2b614392e73f62386ab3b6b92e4dda85f9c9e0a848ba3f5561",
     "url": "https://fr.wiki.isit-europe.org/nr/Fragilit%C3%A9_Num%C3%A9rique"
   },
@@ -1711,7 +1711,7 @@
     "namespace": 0,
     "revision": 388,
     "timestamp": "2022-09-29T10:00:21Z",
-    "file": "fr/61.wiki",
+    "file": "fr/Free Cooling.wiki",
     "sha256": "cad8bfd7b08f265a4b1fad6cefc60f8985eb8c443e74a40320908a18c3a1eebd",
     "url": "https://fr.wiki.isit-europe.org/nr/Free_Cooling"
   },
@@ -1722,7 +1722,7 @@
     "namespace": 0,
     "revision": 389,
     "timestamp": "2022-09-29T10:01:21Z",
-    "file": "fr/62.wiki",
+    "file": "fr/Fresque du numérique.wiki",
     "sha256": "de8c1c050803ff0c4bbaa8b64e9d197afe23ad3025ace831cdb094c4c02e3b3c",
     "url": "https://fr.wiki.isit-europe.org/nr/Fresque_du_num%C3%A9rique"
   },
@@ -1733,7 +1733,7 @@
     "namespace": 0,
     "revision": 390,
     "timestamp": "2022-09-29T10:02:21Z",
-    "file": "fr/63.wiki",
+    "file": "fr/GAFAM.wiki",
     "sha256": "95cfdb4b1453167b3da4b5300f7ed0dec3cd665c176b2e6858986da83b439d10",
     "url": "https://fr.wiki.isit-europe.org/nr/GAFAM"
   },
@@ -1744,7 +1744,7 @@
     "namespace": 0,
     "revision": 296,
     "timestamp": "2022-09-06T15:19:26Z",
-    "file": "fr/146.wiki",
+    "file": "fr/GANR.wiki",
     "sha256": "a30d0875b5ac5ac53607e411bf198ab5d955f4b817164db2f426bcbd3ee9ae4f",
     "url": "https://fr.wiki.isit-europe.org/nr/GANR"
   },
@@ -1755,7 +1755,7 @@
     "namespace": 0,
     "revision": 613,
     "timestamp": "2026-08-05T22:08:22Z",
-    "file": "fr/276.wiki",
+    "file": "fr/GDPR.wiki",
     "sha256": "4662fac810ee784b91fde35246ee45f2656c4e254c87dda2faf0e80b6c5807d4",
     "url": "https://fr.wiki.isit-europe.org/nr/GDPR"
   },
@@ -1766,7 +1766,7 @@
     "namespace": 0,
     "revision": 437,
     "timestamp": "2022-11-02T21:31:32Z",
-    "file": "fr/147.wiki",
+    "file": "fr/GES.wiki",
     "sha256": "619f4d70be19814cf81483216b8f0f6ae5ed91d5c41c3bedc879f4ac4a931c63",
     "url": "https://fr.wiki.isit-europe.org/nr/GES"
   },
@@ -1777,7 +1777,7 @@
     "namespace": 0,
     "revision": 710,
     "timestamp": "2026-08-05T22:33:58Z",
-    "file": "fr/198.wiki",
+    "file": "fr/GHG Protocol.wiki",
     "sha256": "e8b9f712941ece7e1fb3e5445eb608629bd378097d0702c1b304cb9b6cf030c3",
     "url": "https://fr.wiki.isit-europe.org/nr/GHG_Protocol"
   },
@@ -1788,7 +1788,7 @@
     "namespace": 0,
     "revision": 868,
     "timestamp": "2026-08-08T09:37:17Z",
-    "file": "fr/181.wiki",
+    "file": "fr/GR491.wiki",
     "sha256": "d33f9575ccbc66f124983525e8d96f88eaa1fe1ecd87f3a109371ca0cb7117e8",
     "url": "https://fr.wiki.isit-europe.org/nr/GR491"
   },
@@ -1799,7 +1799,7 @@
     "namespace": 0,
     "revision": 712,
     "timestamp": "2026-08-05T22:33:59Z",
-    "file": "fr/243.wiki",
+    "file": "fr/Garbage in, garbage out.wiki",
     "sha256": "a70a36cb6815fd9efac8276c626b9d658c866ce89af679f4a7b87882d1236830",
     "url": "https://fr.wiki.isit-europe.org/nr/Garbage_in%2C_garbage_out"
   },
@@ -1810,7 +1810,7 @@
     "namespace": 0,
     "revision": 393,
     "timestamp": "2022-09-29T10:04:48Z",
-    "file": "fr/65.wiki",
+    "file": "fr/Gaz à Effet de Serre.wiki",
     "sha256": "550d086155c861df9e3920ae0789c10200e3e218d041b006e51b128af72a053d",
     "url": "https://fr.wiki.isit-europe.org/nr/Gaz_%C3%A0_Effet_de_Serre"
   },
@@ -1821,7 +1821,7 @@
     "namespace": 0,
     "revision": 610,
     "timestamp": "2026-08-05T22:08:21Z",
-    "file": "fr/273.wiki",
+    "file": "fr/Gaz à Effets de Serre.wiki",
     "sha256": "86fab1ca5ab4363a2d5e8619cff069aea85467b3995ab90747877f69082b460c",
     "url": "https://fr.wiki.isit-europe.org/nr/Gaz_%C3%A0_Effets_de_Serre"
   },
@@ -1832,7 +1832,7 @@
     "namespace": 0,
     "revision": 713,
     "timestamp": "2026-08-05T22:34:00Z",
-    "file": "fr/216.wiki",
+    "file": "fr/Gouvernance de l'IA.wiki",
     "sha256": "4f69c9eb19d949a59746c0ab25ff35ac8c1dc7f5adffefbeffe3cb5a8ab0ebd4",
     "url": "https://fr.wiki.isit-europe.org/nr/Gouvernance_de_l%27IA"
   },
@@ -1843,7 +1843,7 @@
     "namespace": 0,
     "revision": 643,
     "timestamp": "2026-08-05T22:17:57Z",
-    "file": "fr/298.wiki",
+    "file": "fr/GreenIT.wiki",
     "sha256": "7af364ec8b1fa2661d1e3e9bee93e12e2e496c0c38e6fee3e3c826bbd66cedef",
     "url": "https://fr.wiki.isit-europe.org/nr/GreenIT"
   },
@@ -1854,7 +1854,7 @@
     "namespace": 0,
     "revision": 873,
     "timestamp": "2026-08-08T09:51:58Z",
-    "file": "fr/288.wiki",
+    "file": "fr/Green IT.wiki",
     "sha256": "8bfafd1e75f26ecb998d94d5721a88e4b8f8d29eb85dfbadcbfcc1cac3a2bced",
     "url": "https://fr.wiki.isit-europe.org/nr/Green_IT"
   },
@@ -1865,7 +1865,7 @@
     "namespace": 0,
     "revision": 134,
     "timestamp": "2022-09-06T15:17:59Z",
-    "file": "fr/66.wiki",
+    "file": "fr/Green Washing.wiki",
     "sha256": "d1fcc7d6222cd595f5b7b0d159d0df8058a357738ab2e584927c34a59e1735e2",
     "url": "https://fr.wiki.isit-europe.org/nr/Green_Washing"
   },
@@ -1876,7 +1876,7 @@
     "namespace": 0,
     "revision": 391,
     "timestamp": "2022-09-29T10:03:15Z",
-    "file": "fr/64.wiki",
+    "file": "fr/Guide des Achats Numériques Responsables.wiki",
     "sha256": "eadd8fb62eb989edde6eaec1f7164014c6e9f7cc9ad0d86feb086566f21ff9b9",
     "url": "https://fr.wiki.isit-europe.org/nr/Guide_des_Achats_Num%C3%A9riques_Responsables"
   },
@@ -1887,7 +1887,7 @@
     "namespace": 0,
     "revision": 715,
     "timestamp": "2026-08-05T22:34:01Z",
-    "file": "fr/244.wiki",
+    "file": "fr/Hallucination.wiki",
     "sha256": "66f9131f0845ef3a1b3249a2d056a590e1a41a9675cf772a8fa9e53839fea9d9",
     "url": "https://fr.wiki.isit-europe.org/nr/Hallucination"
   },
@@ -1898,7 +1898,7 @@
     "namespace": 0,
     "revision": 716,
     "timestamp": "2026-08-05T22:34:01Z",
-    "file": "fr/290.wiki",
+    "file": "fr/Human for IT.wiki",
     "sha256": "df1256ea418ea31a2b5bd5b2822eb89eeb2bff2a80a978c4802ece663051fab9",
     "url": "https://fr.wiki.isit-europe.org/nr/Human_for_IT"
   },
@@ -1909,7 +1909,7 @@
     "namespace": 0,
     "revision": 300,
     "timestamp": "2022-09-06T15:19:26Z",
-    "file": "fr/148.wiki",
+    "file": "fr/IA.wiki",
     "sha256": "0bf10b4f8f505438c18b6ee4580f0fd4eb12840f410aa0c27e89d31ee88655ca",
     "url": "https://fr.wiki.isit-europe.org/nr/IA"
   },
@@ -1920,7 +1920,7 @@
     "namespace": 0,
     "revision": 840,
     "timestamp": "2026-08-06T18:33:17Z",
-    "file": "fr/185.wiki",
+    "file": "fr/IA Responsable.wiki",
     "sha256": "78d68078ae69bac03c6fc337383adb050b7e4c07c69aa5e6ba7c0c8c1dc4bb7c",
     "url": "https://fr.wiki.isit-europe.org/nr/IA_Responsable"
   },
@@ -1931,7 +1931,7 @@
     "namespace": 0,
     "revision": 778,
     "timestamp": "2026-08-06T06:08:23Z",
-    "file": "fr/205.wiki",
+    "file": "fr/IA agentique.wiki",
     "sha256": "a4da123a1a8286faae266cdd91d104350cc36de02558a76fca5dfb77c43bb450",
     "url": "https://fr.wiki.isit-europe.org/nr/IA_agentique"
   },
@@ -1942,7 +1942,7 @@
     "namespace": 0,
     "revision": 719,
     "timestamp": "2026-08-05T22:34:03Z",
-    "file": "fr/217.wiki",
+    "file": "fr/IA générative.wiki",
     "sha256": "ad01c6eeb0426ffc06d7ac3507474d218dc335d26fd39de05a8a3364f099594b",
     "url": "https://fr.wiki.isit-europe.org/nr/IA_g%C3%A9n%C3%A9rative"
   },
@@ -1953,7 +1953,7 @@
     "namespace": 0,
     "revision": 302,
     "timestamp": "2022-09-06T15:19:26Z",
-    "file": "fr/149.wiki",
+    "file": "fr/INR.wiki",
     "sha256": "90fcaecc4494dc2ec65131660fc7087074c7221bc4d4f5c2020616bb97dd6434",
     "url": "https://fr.wiki.isit-europe.org/nr/INR"
   },
@@ -1964,7 +1964,7 @@
     "namespace": 0,
     "revision": 863,
     "timestamp": "2026-08-08T09:31:26Z",
-    "file": "fr/310.wiki",
+    "file": "fr/ISO-IEC TS 20125.wiki",
     "sha256": "644ee3fcbc322125c53826a3e5791a44b734146bf6a1c54c93329d26b5a5ecdf",
     "url": "https://fr.wiki.isit-europe.org/nr/ISO%2FIEC_TS_20125"
   },
@@ -1975,7 +1975,7 @@
     "namespace": 0,
     "revision": 720,
     "timestamp": "2026-08-05T22:34:03Z",
-    "file": "fr/199.wiki",
+    "file": "fr/ISO 14064.wiki",
     "sha256": "756084c0f3af52d4848c84f6a01ed84307cca131940aad908c6a62f18beed083",
     "url": "https://fr.wiki.isit-europe.org/nr/ISO_14064"
   },
@@ -1986,7 +1986,7 @@
     "namespace": 0,
     "revision": 864,
     "timestamp": "2026-08-08T09:31:27Z",
-    "file": "fr/311.wiki",
+    "file": "fr/ISO 20125.wiki",
     "sha256": "6658e063fe62e4d74a628f17a378174ce1b6e5c3c9ad94d233272f0cb6812fd7",
     "url": "https://fr.wiki.isit-europe.org/nr/ISO_20125"
   },
@@ -1997,7 +1997,7 @@
     "namespace": 0,
     "revision": 721,
     "timestamp": "2026-08-05T22:34:03Z",
-    "file": "fr/289.wiki",
+    "file": "fr/IT for Green.wiki",
     "sha256": "023245a5df685ff197661e3fe2e2f0e3f39f837e98a4c4aa0d10c84499a44a38",
     "url": "https://fr.wiki.isit-europe.org/nr/IT_for_Green"
   },
@@ -2008,7 +2008,7 @@
     "namespace": 0,
     "revision": 722,
     "timestamp": "2026-08-05T22:34:04Z",
-    "file": "fr/291.wiki",
+    "file": "fr/IT for Human.wiki",
     "sha256": "a965870d1a65f2bb662b72956dbb1e582904c9d95425e6c623ee7439c8a2a50c",
     "url": "https://fr.wiki.isit-europe.org/nr/IT_for_Human"
   },
@@ -2019,7 +2019,7 @@
     "namespace": 0,
     "revision": 641,
     "timestamp": "2026-08-05T22:17:56Z",
-    "file": "fr/296.wiki",
+    "file": "fr/IT for Social.wiki",
     "sha256": "a275c619dc1b2c032854dad000489891ec0cc07ab326bb0248b5017280865fef",
     "url": "https://fr.wiki.isit-europe.org/nr/IT_for_Social"
   },
@@ -2030,7 +2030,7 @@
     "namespace": 0,
     "revision": 140,
     "timestamp": "2022-09-06T15:17:59Z",
-    "file": "fr/69.wiki",
+    "file": "fr/Illectronisme.wiki",
     "sha256": "511179c9da1815dc9c1a64c88ebef743dc3417606665e16654a2d55fe3e77d53",
     "url": "https://fr.wiki.isit-europe.org/nr/Illectronisme"
   },
@@ -2041,7 +2041,7 @@
     "namespace": 0,
     "revision": 142,
     "timestamp": "2022-09-06T15:17:59Z",
-    "file": "fr/70.wiki",
+    "file": "fr/Imprim'Vert.wiki",
     "sha256": "de98099e176a306f9c66de502758bea7358b9a12dfc3bd193318f35d79354aed",
     "url": "https://fr.wiki.isit-europe.org/nr/Imprim%27Vert"
   },
@@ -2052,7 +2052,7 @@
     "namespace": 0,
     "revision": 788,
     "timestamp": "2026-08-06T06:08:25Z",
-    "file": "fr/71.wiki",
+    "file": "fr/Inclusion.wiki",
     "sha256": "aabc0f78f8fbbda25da2123bbd7eaf14e06500d4ccb599269d8be2d56c9bb9ed",
     "url": "https://fr.wiki.isit-europe.org/nr/Inclusion"
   },
@@ -2063,7 +2063,7 @@
     "namespace": 0,
     "revision": 841,
     "timestamp": "2026-08-06T18:33:17Z",
-    "file": "fr/72.wiki",
+    "file": "fr/Indice de réparabilité.wiki",
     "sha256": "9e9460cd5e04d4657d04ede38d883b89873b65a2e49ce8daeeded2ff8c644788",
     "url": "https://fr.wiki.isit-europe.org/nr/Indice_de_r%C3%A9parabilit%C3%A9"
   },
@@ -2074,7 +2074,7 @@
     "namespace": 0,
     "revision": 870,
     "timestamp": "2026-08-08T09:37:55Z",
-    "file": "fr/73.wiki",
+    "file": "fr/Infobésité.wiki",
     "sha256": "910b031eba9877e5250cd8ca53d62a69136f7b0fe8e693e4c16dd74012b4b034",
     "url": "https://fr.wiki.isit-europe.org/nr/Infob%C3%A9sit%C3%A9"
   },
@@ -2085,7 +2085,7 @@
     "namespace": 0,
     "revision": 724,
     "timestamp": "2026-08-05T22:34:05Z",
-    "file": "fr/246.wiki",
+    "file": "fr/Infrastructure d'IA.wiki",
     "sha256": "c4e43e7b3c37bec96391f87a739305739c3780593c38b916ef8b0ded858fa192",
     "url": "https://fr.wiki.isit-europe.org/nr/Infrastructure_d%27IA"
   },
@@ -2096,7 +2096,7 @@
     "namespace": 0,
     "revision": 725,
     "timestamp": "2026-08-05T22:34:06Z",
-    "file": "fr/218.wiki",
+    "file": "fr/Inférence.wiki",
     "sha256": "c3e8f9e5fa8b99ec1c5150fb97313031b783f97484b1ef4151a627fd2febf24e",
     "url": "https://fr.wiki.isit-europe.org/nr/Inf%C3%A9rence"
   },
@@ -2107,7 +2107,7 @@
     "namespace": 0,
     "revision": 819,
     "timestamp": "2026-08-06T06:36:01Z",
-    "file": "fr/68.wiki",
+    "file": "fr/Institut du Numérique Responsable.wiki",
     "sha256": "075cab97f9bc0f098c45dc18179f3714f09778a5c7a5fa27af6040197e751066",
     "url": "https://fr.wiki.isit-europe.org/nr/Institut_du_Num%C3%A9rique_Responsable"
   },
@@ -2118,7 +2118,7 @@
     "namespace": 0,
     "revision": 136,
     "timestamp": "2022-09-06T15:17:59Z",
-    "file": "fr/67.wiki",
+    "file": "fr/Intelligence Artificielle.wiki",
     "sha256": "88734c0228896a654fa22621b8dd0658072f9dc160fec4edd12bba93650f6bc2",
     "url": "https://fr.wiki.isit-europe.org/nr/Intelligence_Artificielle"
   },
@@ -2129,7 +2129,7 @@
     "namespace": 0,
     "revision": 779,
     "timestamp": "2026-08-06T06:08:23Z",
-    "file": "fr/247.wiki",
+    "file": "fr/Interface.wiki",
     "sha256": "b87a1d07d25479a118786e460d8c1fac70e693700c6b67b90c8337fd792eb475",
     "url": "https://fr.wiki.isit-europe.org/nr/Interface"
   },
@@ -2140,7 +2140,7 @@
     "namespace": 0,
     "revision": 853,
     "timestamp": "2026-08-06T18:33:22Z",
-    "file": "fr/74.wiki",
+    "file": "fr/Internet of Things.wiki",
     "sha256": "d54ebfeed626daaba085f7fe35dba6304da7dba522eee5eb3530fbb83c7ae588",
     "url": "https://fr.wiki.isit-europe.org/nr/Internet_of_Things"
   },
@@ -2151,7 +2151,7 @@
     "namespace": 0,
     "revision": 304,
     "timestamp": "2022-09-06T15:19:26Z",
-    "file": "fr/150.wiki",
+    "file": "fr/IoT.wiki",
     "sha256": "6ce5fd7a19c76217a73d043c792539e11f98dde217da26e980fff9e663a52ef6",
     "url": "https://fr.wiki.isit-europe.org/nr/IoT"
   },
@@ -2162,7 +2162,7 @@
     "namespace": 0,
     "revision": 615,
     "timestamp": "2026-08-05T22:08:22Z",
-    "file": "fr/278.wiki",
+    "file": "fr/IoTs (Internet of Things).wiki",
     "sha256": "669601138d61a102b6f4bf13522064070c7d9b655d24c3828b63dc1947de2d87",
     "url": "https://fr.wiki.isit-europe.org/nr/IoTs_%28Internet_of_Things%29"
   },
@@ -2173,7 +2173,7 @@
     "namespace": 0,
     "revision": 727,
     "timestamp": "2026-08-05T22:34:07Z",
-    "file": "fr/248.wiki",
+    "file": "fr/K-means.wiki",
     "sha256": "c6b649831c0df431112310d35457c427ced953ca2296cd8d7a394ae7aad4d45c",
     "url": "https://fr.wiki.isit-europe.org/nr/K-means"
   },
@@ -2184,7 +2184,7 @@
     "namespace": 0,
     "revision": 728,
     "timestamp": "2026-08-05T22:34:07Z",
-    "file": "fr/249.wiki",
+    "file": "fr/LLM.wiki",
     "sha256": "018d48ffd353652c6b790519a9c24945c0884db17419bdb9726bd840cc582439",
     "url": "https://fr.wiki.isit-europe.org/nr/LLM"
   },
@@ -2195,7 +2195,7 @@
     "namespace": 0,
     "revision": 306,
     "timestamp": "2022-09-06T15:19:26Z",
-    "file": "fr/151.wiki",
+    "file": "fr/LNR.wiki",
     "sha256": "56f35e95889b7a325d07129f4bb5b909fc26aeab06eb5598086f156bd90ec657",
     "url": "https://fr.wiki.isit-europe.org/nr/LNR"
   },
@@ -2206,7 +2206,7 @@
     "namespace": 0,
     "revision": 729,
     "timestamp": "2026-08-05T22:34:08Z",
-    "file": "fr/75.wiki",
+    "file": "fr/Label NR.wiki",
     "sha256": "d27e1b09738a499e3e24c34bed7cab306975da7a4a257fe56b18da5c30704dc0",
     "url": "https://fr.wiki.isit-europe.org/nr/Label_NR"
   },
@@ -2217,7 +2217,7 @@
     "namespace": 0,
     "revision": 599,
     "timestamp": "2026-08-05T22:01:23Z",
-    "file": "fr/265.wiki",
+    "file": "fr/Large Language Model.wiki",
     "sha256": "1d55ccebfa1c3638e3f5a388ecad9b348389e3b42343062a742c647de2d16529",
     "url": "https://fr.wiki.isit-europe.org/nr/Large_Language_Model"
   },
@@ -2228,7 +2228,7 @@
     "namespace": 0,
     "revision": 426,
     "timestamp": "2022-10-23T17:52:19Z",
-    "file": "fr/76.wiki",
+    "file": "fr/Low Code.wiki",
     "sha256": "5d15d0106cc63850ee53c31cd1f988e373bb1d7aea243c1e072cfa909aef3ee2",
     "url": "https://fr.wiki.isit-europe.org/nr/Low_Code"
   },
@@ -2239,7 +2239,7 @@
     "namespace": 0,
     "revision": 883,
     "timestamp": "2026-09-10T18:08:02Z",
-    "file": "fr/77.wiki",
+    "file": "fr/Low Tech.wiki",
     "sha256": "c40709f18b8ab2226541c85fed3d467b5149516077dd7cc1be8e419085825477",
     "url": "https://fr.wiki.isit-europe.org/nr/Low_Tech"
   },
@@ -2250,7 +2250,7 @@
     "namespace": 0,
     "revision": 308,
     "timestamp": "2022-09-06T15:19:26Z",
-    "file": "fr/152.wiki",
+    "file": "fr/MIPS.wiki",
     "sha256": "7983357035cb028e043f130ee66f219fdc4f74dca8aeefa141d786fd9683456b",
     "url": "https://fr.wiki.isit-europe.org/nr/MIPS"
   },
@@ -2261,7 +2261,7 @@
     "namespace": 0,
     "revision": 553,
     "timestamp": "2026-08-05T21:53:33Z",
-    "file": "fr/222.wiki",
+    "file": "fr/Machine Learning.wiki",
     "sha256": "09691eeb69cfa2656858dcfeb1d92aa6be2890003e59953f0cbfbcaccd9c7ad1",
     "url": "https://fr.wiki.isit-europe.org/nr/Machine_Learning"
   },
@@ -2272,7 +2272,7 @@
     "namespace": 0,
     "revision": 158,
     "timestamp": "2022-09-06T15:18:00Z",
-    "file": "fr/78.wiki",
+    "file": "fr/Matières Indispensables Par unité de Service.wiki",
     "sha256": "56643b60d40829f19e4c5bbc1fddd0320605cf911d42359763f8fa679952f535",
     "url": "https://fr.wiki.isit-europe.org/nr/Mati%C3%A8res_Indispensables_Par_unit%C3%A9_de_Service"
   },
@@ -2283,7 +2283,7 @@
     "namespace": 0,
     "revision": 617,
     "timestamp": "2026-08-05T22:08:23Z",
-    "file": "fr/280.wiki",
+    "file": "fr/Microgrid.wiki",
     "sha256": "a1ae3b666ab4653d8ed03be50bedbc79e66386d52e4bda7d223695bef377c079",
     "url": "https://fr.wiki.isit-europe.org/nr/Microgrid"
   },
@@ -2294,7 +2294,7 @@
     "namespace": 0,
     "revision": 731,
     "timestamp": "2026-08-05T22:34:09Z",
-    "file": "fr/219.wiki",
+    "file": "fr/Modèle d'intelligence artificielle.wiki",
     "sha256": "35d551d3b442f7a31fa08a0aa7c0accd556a12288abc47271546e415015938ee",
     "url": "https://fr.wiki.isit-europe.org/nr/Mod%C3%A8le_d%27intelligence_artificielle"
   },
@@ -2305,7 +2305,7 @@
     "namespace": 0,
     "revision": 890,
     "timestamp": "2026-09-11T08:08:37Z",
-    "file": "fr/320.wiki",
+    "file": "fr/NIS2.wiki",
     "sha256": "c0f20b9949c967798874f6c5d2295490d14c735ec1974ebf3e2b3995994bd8ae",
     "url": "https://fr.wiki.isit-europe.org/nr/NIS2"
   },
@@ -2316,7 +2316,7 @@
     "namespace": 0,
     "revision": 310,
     "timestamp": "2022-09-06T15:19:26Z",
-    "file": "fr/153.wiki",
+    "file": "fr/NR.wiki",
     "sha256": "95b1adab2e533f7680d230d4e989c7dccf527dd97b5b1a54075eac2c45c8cea3",
     "url": "https://fr.wiki.isit-europe.org/nr/NR"
   },
@@ -2327,7 +2327,7 @@
     "namespace": 0,
     "revision": 428,
     "timestamp": "2022-10-23T17:56:47Z",
-    "file": "fr/80.wiki",
+    "file": "fr/No code.wiki",
     "sha256": "f29d188cc4b3eedb73e297c0927dedb0a9840956d23382efaab5710678912914",
     "url": "https://fr.wiki.isit-europe.org/nr/No_code"
   },
@@ -2338,7 +2338,7 @@
     "namespace": 0,
     "revision": 882,
     "timestamp": "2026-09-10T18:00:50Z",
-    "file": "fr/79.wiki",
+    "file": "fr/Numérique Responsable.wiki",
     "sha256": "096dd8524844aed5c59b7d7e3222cfaa7c17de3fcbc4c514e31e8508c04e9d45",
     "url": "https://fr.wiki.isit-europe.org/nr/Num%C3%A9rique_Responsable"
   },
@@ -2349,7 +2349,7 @@
     "namespace": 0,
     "revision": 312,
     "timestamp": "2022-09-06T15:19:26Z",
-    "file": "fr/154.wiki",
+    "file": "fr/ODD.wiki",
     "sha256": "0b6e78478d87b2a6c4fa50d2259ad1c85999cd1698cb91f50d2fb27094603c23",
     "url": "https://fr.wiki.isit-europe.org/nr/ODD"
   },
@@ -2360,7 +2360,7 @@
     "namespace": 0,
     "revision": 340,
     "timestamp": "2022-09-06T15:23:09Z",
-    "file": "fr/81.wiki",
+    "file": "fr/Objectif du Développement Durable.wiki",
     "sha256": "f2e0dfb6fe62abc2be2ee00a20f0ba0704d93bf008e91341a221965a240fb7ac",
     "url": "https://fr.wiki.isit-europe.org/nr/Objectif_du_D%C3%A9veloppement_Durable"
   },
@@ -2371,7 +2371,7 @@
     "namespace": 0,
     "revision": 616,
     "timestamp": "2026-08-05T22:08:23Z",
-    "file": "fr/279.wiki",
+    "file": "fr/Objets connectés.wiki",
     "sha256": "669601138d61a102b6f4bf13522064070c7d9b655d24c3828b63dc1947de2d87",
     "url": "https://fr.wiki.isit-europe.org/nr/Objets_connect%C3%A9s"
   },
@@ -2382,7 +2382,7 @@
     "namespace": 0,
     "revision": 843,
     "timestamp": "2026-08-06T18:33:18Z",
-    "file": "fr/82.wiki",
+    "file": "fr/Obsolescence Programmée.wiki",
     "sha256": "a49d76111686da41e9b66b649a232797ba08e783040f577e21fcae360a1ad957",
     "url": "https://fr.wiki.isit-europe.org/nr/Obsolescence_Programm%C3%A9e"
   },
@@ -2393,7 +2393,7 @@
     "namespace": 0,
     "revision": 463,
     "timestamp": "2023-12-05T10:24:57Z",
-    "file": "fr/83.wiki",
+    "file": "fr/Obésiciel.wiki",
     "sha256": "17dddc45a9bc45f732ec88b0e28bf786591cbfc0e8c6fef950b8814fb24c9b80",
     "url": "https://fr.wiki.isit-europe.org/nr/Ob%C3%A9siciel"
   },
@@ -2404,7 +2404,7 @@
     "namespace": 0,
     "revision": 732,
     "timestamp": "2026-08-05T22:34:10Z",
-    "file": "fr/250.wiki",
+    "file": "fr/On-premise.wiki",
     "sha256": "37b6edc803566e6526d5674839aa2aa51192db1b6caa12b3253b7292cfed0c25",
     "url": "https://fr.wiki.isit-europe.org/nr/On-premise"
   },
@@ -2415,7 +2415,7 @@
     "namespace": 0,
     "revision": 430,
     "timestamp": "2022-10-23T18:08:49Z",
-    "file": "fr/84.wiki",
+    "file": "fr/Open Data.wiki",
     "sha256": "3f3e26ad694c4eeb14e82a1b31fee2343de127f0d49edad14f4ce45c959d1165",
     "url": "https://fr.wiki.isit-europe.org/nr/Open_Data"
   },
@@ -2426,7 +2426,7 @@
     "namespace": 0,
     "revision": 314,
     "timestamp": "2022-09-06T15:19:26Z",
-    "file": "fr/155.wiki",
+    "file": "fr/PEFC.wiki",
     "sha256": "85b850267902e0fe0469d858985944c53595caf488478c8b6a6263f6a89d6185",
     "url": "https://fr.wiki.isit-europe.org/nr/PEFC"
   },
@@ -2437,7 +2437,7 @@
     "namespace": 0,
     "revision": 316,
     "timestamp": "2022-09-06T15:19:26Z",
-    "file": "fr/156.wiki",
+    "file": "fr/PUE.wiki",
     "sha256": "bd91491be1eb47893390f8e715c41cc1e27fdc4318bf349cbe043089656b7fbe",
     "url": "https://fr.wiki.isit-europe.org/nr/PUE"
   },
@@ -2448,7 +2448,7 @@
     "namespace": 0,
     "revision": 431,
     "timestamp": "2022-10-23T18:09:23Z",
-    "file": "fr/85.wiki",
+    "file": "fr/Pan European Forest Certification.wiki",
     "sha256": "6454a32ad9ffcd0d5a38d9a1c163f632969f1138a47a918f66d3f386c24e0939",
     "url": "https://fr.wiki.isit-europe.org/nr/Pan_European_Forest_Certification"
   },
@@ -2459,7 +2459,7 @@
     "namespace": 0,
     "revision": 806,
     "timestamp": "2026-08-06T06:35:58Z",
-    "file": "fr/87.wiki",
+    "file": "fr/Paradoxe de Jevons.wiki",
     "sha256": "935239b173f5cdaed2ce4dcbcd4779230a055c047c357ab4a5c13630d3baf619",
     "url": "https://fr.wiki.isit-europe.org/nr/Paradoxe_de_Jevons"
   },
@@ -2470,7 +2470,7 @@
     "namespace": 0,
     "revision": 373,
     "timestamp": "2022-09-29T08:48:19Z",
-    "file": "fr/2.wiki",
+    "file": "fr/People Planet Profit.wiki",
     "sha256": "fe47a397d856b85a7ea256d7328b3605d68d29d7d4a44fdc2b718c1415b42544",
     "url": "https://fr.wiki.isit-europe.org/nr/People_Planet_Profit"
   },
@@ -2481,7 +2481,7 @@
     "namespace": 0,
     "revision": 857,
     "timestamp": "2026-08-06T19:05:22Z",
-    "file": "fr/86.wiki",
+    "file": "fr/Power Usage Effectiveness.wiki",
     "sha256": "10a4c8375d032a81ad0d74b0e676d7592ba17f24e30d145df4a7658d4949a36f",
     "url": "https://fr.wiki.isit-europe.org/nr/Power_Usage_Effectiveness"
   },
@@ -2492,7 +2492,7 @@
     "namespace": 0,
     "revision": 734,
     "timestamp": "2026-08-05T22:34:12Z",
-    "file": "fr/251.wiki",
+    "file": "fr/Prompt.wiki",
     "sha256": "e89bc72c4331eb10c021e85d007c9bfeb476d89fdbc0203ee26d56b8022e4b16",
     "url": "https://fr.wiki.isit-europe.org/nr/Prompt"
   },
@@ -2503,7 +2503,7 @@
     "namespace": 0,
     "revision": 735,
     "timestamp": "2026-08-05T22:34:12Z",
-    "file": "fr/220.wiki",
+    "file": "fr/Prompt injection.wiki",
     "sha256": "087ee5b18827c009d7d726afd75c64374172c77f7fe519a408116e35d343d61e",
     "url": "https://fr.wiki.isit-europe.org/nr/Prompt_injection"
   },
@@ -2514,7 +2514,7 @@
     "namespace": 0,
     "revision": 736,
     "timestamp": "2026-08-05T22:34:13Z",
-    "file": "fr/252.wiki",
+    "file": "fr/Prompting contextuel.wiki",
     "sha256": "a1a6d3d07de39c0dee3319c7ea69718fa9746ae5a2b7e86139218ae648737add",
     "url": "https://fr.wiki.isit-europe.org/nr/Prompting_contextuel"
   },
@@ -2525,7 +2525,7 @@
     "namespace": 0,
     "revision": 318,
     "timestamp": "2022-09-06T15:19:26Z",
-    "file": "fr/157.wiki",
+    "file": "fr/QVT.wiki",
     "sha256": "7ff588ccc88f362d8b694075b9a31d7470b1d3d0f65f6693e23cec3391217117",
     "url": "https://fr.wiki.isit-europe.org/nr/QVT"
   },
@@ -2536,7 +2536,7 @@
     "namespace": 0,
     "revision": 800,
     "timestamp": "2026-08-06T06:28:48Z",
-    "file": "fr/88.wiki",
+    "file": "fr/Qualité de Vie au Travail.wiki",
     "sha256": "26237ae6145a95e781c407e8651a2daba22a382223707f807e831711a979a210",
     "url": "https://fr.wiki.isit-europe.org/nr/Qualit%C3%A9_de_Vie_au_Travail"
   },
@@ -2547,7 +2547,7 @@
     "namespace": 0,
     "revision": 737,
     "timestamp": "2026-08-05T22:34:13Z",
-    "file": "fr/253.wiki",
+    "file": "fr/RAG.wiki",
     "sha256": "8fefe5ac9ca5d2f9e36cf51b00250365c639f0f11941d2baddad9c33444796b1",
     "url": "https://fr.wiki.isit-europe.org/nr/RAG"
   },
@@ -2558,7 +2558,7 @@
     "namespace": 0,
     "revision": 480,
     "timestamp": "2023-12-30T14:17:18Z",
-    "file": "fr/89.wiki",
+    "file": "fr/REEEBOOT.wiki",
     "sha256": "a61b7b16912bc602f1e9eaf71c9e6baa33168bc7105329fa891e9e83d04cc900",
     "url": "https://fr.wiki.isit-europe.org/nr/REEEBOOT"
   },
@@ -2569,7 +2569,7 @@
     "namespace": 0,
     "revision": 320,
     "timestamp": "2022-09-06T15:19:26Z",
-    "file": "fr/158.wiki",
+    "file": "fr/REF.wiki",
     "sha256": "368d534d6532621a3dae740f908c625593cf256e540b33bda60ba085f35a7422",
     "url": "https://fr.wiki.isit-europe.org/nr/REF"
   },
@@ -2580,7 +2580,7 @@
     "namespace": 0,
     "revision": 738,
     "timestamp": "2026-08-05T22:34:14Z",
-    "file": "fr/191.wiki",
+    "file": "fr/RGAA.wiki",
     "sha256": "932e71a3ce2c0457d493411a1ea01cb5229109b96f38833895a40c884c6c837b",
     "url": "https://fr.wiki.isit-europe.org/nr/RGAA"
   },
@@ -2591,7 +2591,7 @@
     "namespace": 0,
     "revision": 867,
     "timestamp": "2026-08-08T09:37:17Z",
-    "file": "fr/180.wiki",
+    "file": "fr/RGESN.wiki",
     "sha256": "bc93309f3fb6349de7dc010a5c237d0d0b1c72a633a6e22294b4d9447dd03e23",
     "url": "https://fr.wiki.isit-europe.org/nr/RGESN"
   },
@@ -2602,7 +2602,7 @@
     "namespace": 0,
     "revision": 322,
     "timestamp": "2022-09-06T15:19:26Z",
-    "file": "fr/159.wiki",
+    "file": "fr/RGPD.wiki",
     "sha256": "91c779c596ab4e19ef2b68be03e60ceddb2fd658068dce7505af7297dc704be7",
     "url": "https://fr.wiki.isit-europe.org/nr/RGPD"
   },
@@ -2613,7 +2613,7 @@
     "namespace": 0,
     "revision": 324,
     "timestamp": "2022-09-06T15:19:26Z",
-    "file": "fr/160.wiki",
+    "file": "fr/RSE.wiki",
     "sha256": "9802dbe93fbc3564a85dbe96a3b718d105d06240d04aa6da095f2865ae6a3d57",
     "url": "https://fr.wiki.isit-europe.org/nr/RSE"
   },
@@ -2624,7 +2624,7 @@
     "namespace": 0,
     "revision": 810,
     "timestamp": "2026-08-06T06:35:59Z",
-    "file": "fr/221.wiki",
+    "file": "fr/RSSI.wiki",
     "sha256": "151e0590cf2a2a845d08a479d7b75a4bbf20a4c1e9a0f5c59602603eb927395a",
     "url": "https://fr.wiki.isit-europe.org/nr/RSSI"
   },
@@ -2635,7 +2635,7 @@
     "namespace": 0,
     "revision": 597,
     "timestamp": "2026-08-05T22:01:23Z",
-    "file": "fr/264.wiki",
+    "file": "fr/Random Forests.wiki",
     "sha256": "9ca3f487abb98afa9486d1425e2ec98387db472b68228b991246cab5778fe31c",
     "url": "https://fr.wiki.isit-europe.org/nr/Random_Forests"
   },
@@ -2646,7 +2646,7 @@
     "namespace": 0,
     "revision": 846,
     "timestamp": "2026-08-06T18:33:19Z",
-    "file": "fr/93.wiki",
+    "file": "fr/Reconditionnement.wiki",
     "sha256": "1a02937beef8e1095667b64f2b6497230b4bbaf44c84b5edff178c3519a4bb00",
     "url": "https://fr.wiki.isit-europe.org/nr/Reconditionnement"
   },
@@ -2657,7 +2657,7 @@
     "namespace": 0,
     "revision": 470,
     "timestamp": "2023-12-05T10:36:27Z",
-    "file": "fr/94.wiki",
+    "file": "fr/Recyclage des déchets.wiki",
     "sha256": "e313ab0f0d53b2bb9a30e1645d4f6509b67e48f6fe2ee76698870bf9359289a7",
     "url": "https://fr.wiki.isit-europe.org/nr/Recyclage_des_d%C3%A9chets"
   },
@@ -2668,7 +2668,7 @@
     "namespace": 0,
     "revision": 780,
     "timestamp": "2026-08-06T06:08:23Z",
-    "file": "fr/90.wiki",
+    "file": "fr/Renewable Energy Factor.wiki",
     "sha256": "d8e906129767bbe1b3e055178404fd4b0503e64706bfd5359626eb7c8f8b9f61",
     "url": "https://fr.wiki.isit-europe.org/nr/Renewable_Energy_Factor"
   },
@@ -2679,7 +2679,7 @@
     "namespace": 0,
     "revision": 186,
     "timestamp": "2022-09-06T15:18:00Z",
-    "file": "fr/92.wiki",
+    "file": "fr/Responsabilité Sociétale des Entreprises.wiki",
     "sha256": "4650893f297b44def7ef3d91b6a7f709e5672b8a70d7c08fe3764bc7bf98ce50",
     "url": "https://fr.wiki.isit-europe.org/nr/Responsabilit%C3%A9_Soci%C3%A9tale_des_Entreprises"
   },
@@ -2690,7 +2690,7 @@
     "namespace": 0,
     "revision": 804,
     "timestamp": "2026-08-06T06:35:57Z",
-    "file": "fr/95.wiki",
+    "file": "fr/Ressources Halieutiques.wiki",
     "sha256": "d390d776b63b4a8a3b9ee7449441db2f98abdefab2d699397903c572269b5843",
     "url": "https://fr.wiki.isit-europe.org/nr/Ressources_Halieutiques"
   },
@@ -2701,7 +2701,7 @@
     "namespace": 0,
     "revision": 436,
     "timestamp": "2022-10-23T18:21:42Z",
-    "file": "fr/96.wiki",
+    "file": "fr/Ressources primaires.wiki",
     "sha256": "58c89f74065cd98a2b31da5e63d87dc8e876d08487f671386c12bf2776d38b60",
     "url": "https://fr.wiki.isit-europe.org/nr/Ressources_primaires"
   },
@@ -2712,7 +2712,7 @@
     "namespace": 0,
     "revision": 196,
     "timestamp": "2022-09-06T15:18:01Z",
-    "file": "fr/97.wiki",
+    "file": "fr/Restriction of Hazardous Substances.wiki",
     "sha256": "b5fad66563f53ca589b2697fe432e995a2522fc21277242a0c48eec41b30a207",
     "url": "https://fr.wiki.isit-europe.org/nr/Restriction_of_Hazardous_Substances"
   },
@@ -2723,7 +2723,7 @@
     "namespace": 0,
     "revision": 601,
     "timestamp": "2026-08-05T22:01:24Z",
-    "file": "fr/267.wiki",
+    "file": "fr/Retrieval-Augmented Generation.wiki",
     "sha256": "11c16a62b9ad5084cf20c92fe396c9e85a88590089949b46b26542d4da618e72",
     "url": "https://fr.wiki.isit-europe.org/nr/Retrieval-Augmented_Generation"
   },
@@ -2734,7 +2734,7 @@
     "namespace": 0,
     "revision": 326,
     "timestamp": "2022-09-06T15:19:26Z",
-    "file": "fr/161.wiki",
+    "file": "fr/RoHS.wiki",
     "sha256": "d53a4c925c215877ad228911a5ecf391e8d85e6e8bd2bc54e5c2b9864616b21c",
     "url": "https://fr.wiki.isit-europe.org/nr/RoHS"
   },
@@ -2745,7 +2745,7 @@
     "namespace": 0,
     "revision": 786,
     "timestamp": "2026-08-06T06:08:25Z",
-    "file": "fr/293.wiki",
+    "file": "fr/Robustesse numérique.wiki",
     "sha256": "4f70582ad3a7b0b7adad0e4c6429d2bd703d3a89afb64fe6a796dc38cdcc85b3",
     "url": "https://fr.wiki.isit-europe.org/nr/Robustesse_num%C3%A9rique"
   },
@@ -2756,7 +2756,7 @@
     "namespace": 0,
     "revision": 184,
     "timestamp": "2022-09-06T15:18:00Z",
-    "file": "fr/91.wiki",
+    "file": "fr/Règlement Général sur la Protection des Données.wiki",
     "sha256": "79e1cbfcbf3865e9972ce012e9bb14e4a2d231ee992f5f3b305c2fe870a2a36c",
     "url": "https://fr.wiki.isit-europe.org/nr/R%C3%A8glement_G%C3%A9n%C3%A9ral_sur_la_Protection_des_Donn%C3%A9es"
   },
@@ -2767,7 +2767,7 @@
     "namespace": 0,
     "revision": 847,
     "timestamp": "2026-08-06T18:33:19Z",
-    "file": "fr/98.wiki",
+    "file": "fr/Réemploi.wiki",
     "sha256": "db3d3d043c43778229a97f1195533ff25e987fcbeccbfce98529572fc1081f97",
     "url": "https://fr.wiki.isit-europe.org/nr/R%C3%A9emploi"
   },
@@ -2778,7 +2778,7 @@
     "namespace": 0,
     "revision": 743,
     "timestamp": "2026-08-05T22:34:17Z",
-    "file": "fr/254.wiki",
+    "file": "fr/Régression.wiki",
     "sha256": "f483623986ccba08142e40e86a42a1bd22d992289deeed4aa3664ea912e807e6",
     "url": "https://fr.wiki.isit-europe.org/nr/R%C3%A9gression"
   },
@@ -2789,7 +2789,7 @@
     "namespace": 0,
     "revision": 760,
     "timestamp": "2026-08-05T22:36:39Z",
-    "file": "fr/303.wiki",
+    "file": "fr/Réseau.wiki",
     "sha256": "67567983cac513e678654ab6c7ed8cb80ac1b2cdb333aeec4dd2d8ea38a770ad",
     "url": "https://fr.wiki.isit-europe.org/nr/R%C3%A9seau"
   },
@@ -2800,7 +2800,7 @@
     "namespace": 0,
     "revision": 765,
     "timestamp": "2026-08-05T22:36:41Z",
-    "file": "fr/308.wiki",
+    "file": "fr/Réseaux.wiki",
     "sha256": "8ebdccf4d835a1404f3da2f124d8474b3bed3cca9d66e1b6745c2f02c13ae013",
     "url": "https://fr.wiki.isit-europe.org/nr/R%C3%A9seaux"
   },
@@ -2811,7 +2811,7 @@
     "namespace": 0,
     "revision": 886,
     "timestamp": "2026-09-10T18:08:03Z",
-    "file": "fr/99.wiki",
+    "file": "fr/Résilience.wiki",
     "sha256": "887f4cf2d1ddb96745d872d52d6bfbf44c50207f1cc10ecb0ee9c2280eec7bf3",
     "url": "https://fr.wiki.isit-europe.org/nr/R%C3%A9silience"
   },
@@ -2822,7 +2822,7 @@
     "namespace": 0,
     "revision": 814,
     "timestamp": "2026-08-06T06:36:00Z",
-    "file": "fr/292.wiki",
+    "file": "fr/Résilience numérique.wiki",
     "sha256": "8d711bfd1e1630c1dcc9cfc7d62db7572fdc194c7c80143a2428381bb53ac879",
     "url": "https://fr.wiki.isit-europe.org/nr/R%C3%A9silience_num%C3%A9rique"
   },
@@ -2833,7 +2833,7 @@
     "namespace": 0,
     "revision": 745,
     "timestamp": "2026-08-05T22:34:18Z",
-    "file": "fr/255.wiki",
+    "file": "fr/Réversibilité.wiki",
     "sha256": "b2049a6f6b44acf5ce3f6243a05569fcce079e2505147e492f461327b7ddd765",
     "url": "https://fr.wiki.isit-europe.org/nr/R%C3%A9versibilit%C3%A9"
   },
@@ -2844,7 +2844,7 @@
     "namespace": 0,
     "revision": 746,
     "timestamp": "2026-08-05T22:34:19Z",
-    "file": "fr/256.wiki",
+    "file": "fr/SLM.wiki",
     "sha256": "0b533abfbd5c9294929a67854880ea859e39a3918155996069e4d96048e5b854",
     "url": "https://fr.wiki.isit-europe.org/nr/SLM"
   },
@@ -2855,7 +2855,7 @@
     "namespace": 0,
     "revision": 328,
     "timestamp": "2022-09-06T15:19:26Z",
-    "file": "fr/162.wiki",
+    "file": "fr/SME.wiki",
     "sha256": "22abbcce7e62cea8edd7e99ab494125fb2ae81fc564fa4e783081b72c65ba0f7",
     "url": "https://fr.wiki.isit-europe.org/nr/SME"
   },
@@ -2866,7 +2866,7 @@
     "namespace": 0,
     "revision": 596,
     "timestamp": "2026-08-05T22:01:23Z",
-    "file": "fr/263.wiki",
+    "file": "fr/Scalabilité.wiki",
     "sha256": "d7487a24e0d36028f3cc187768e42adc34f32f472573e5d745736649e923a5bf",
     "url": "https://fr.wiki.isit-europe.org/nr/Scalabilit%C3%A9"
   },
@@ -2877,7 +2877,7 @@
     "namespace": 0,
     "revision": 204,
     "timestamp": "2022-09-06T15:18:01Z",
-    "file": "fr/101.wiki",
+    "file": "fr/Service numérique.wiki",
     "sha256": "e61b03726db6a59246f8dab218c622827974e0764b216ac8f6ff560a8ed7e065",
     "url": "https://fr.wiki.isit-europe.org/nr/Service_num%C3%A9rique"
   },
@@ -2888,7 +2888,7 @@
     "namespace": 0,
     "revision": 747,
     "timestamp": "2026-08-05T22:34:19Z",
-    "file": "fr/202.wiki",
+    "file": "fr/Shadow AI.wiki",
     "sha256": "278ab85c8639c0b12466063a1bf478e3c16ca17f787979a800510dd5bc36be70",
     "url": "https://fr.wiki.isit-europe.org/nr/Shadow_AI"
   },
@@ -2899,7 +2899,7 @@
     "namespace": 0,
     "revision": 600,
     "timestamp": "2026-08-05T22:01:24Z",
-    "file": "fr/266.wiki",
+    "file": "fr/Small Language Model.wiki",
     "sha256": "73e3a07fed1496719717d2434843e3fdc46641031ec0da17a2d6773e595cc119",
     "url": "https://fr.wiki.isit-europe.org/nr/Small_Language_Model"
   },
@@ -2910,7 +2910,7 @@
     "namespace": 0,
     "revision": 206,
     "timestamp": "2022-09-06T15:18:01Z",
-    "file": "fr/102.wiki",
+    "file": "fr/Smart grid.wiki",
     "sha256": "b0c4830d7c8a90d4fb276c7ec6f36864c053223537b9c2b20b87a8d48dbea88c",
     "url": "https://fr.wiki.isit-europe.org/nr/Smart_grid"
   },
@@ -2921,7 +2921,7 @@
     "namespace": 0,
     "revision": 761,
     "timestamp": "2026-08-05T22:36:40Z",
-    "file": "fr/304.wiki",
+    "file": "fr/Smartphone.wiki",
     "sha256": "c438524b872d48be08aeaf05b94b388886c9d54ac7bc3d9175b28011937df52d",
     "url": "https://fr.wiki.isit-europe.org/nr/Smartphone"
   },
@@ -2932,7 +2932,7 @@
     "namespace": 0,
     "revision": 848,
     "timestamp": "2026-08-06T18:33:20Z",
-    "file": "fr/103.wiki",
+    "file": "fr/Sobriété Numérique.wiki",
     "sha256": "c2015566bcd35b43bda87138880f62d9dc4953e5646261e395c80364adfdbf17",
     "url": "https://fr.wiki.isit-europe.org/nr/Sobri%C3%A9t%C3%A9_Num%C3%A9rique"
   },
@@ -2943,7 +2943,7 @@
     "namespace": 0,
     "revision": 640,
     "timestamp": "2026-08-05T22:17:56Z",
-    "file": "fr/295.wiki",
+    "file": "fr/Social IT.wiki",
     "sha256": "2ae7b5b3416012b7758fbd1ac44f06b2435881b42c78f81bb61b7ed6e9c56029",
     "url": "https://fr.wiki.isit-europe.org/nr/Social_IT"
   },
@@ -2954,7 +2954,7 @@
     "namespace": 0,
     "revision": 849,
     "timestamp": "2026-08-06T18:33:20Z",
-    "file": "fr/294.wiki",
+    "file": "fr/Souveraineté numérique.wiki",
     "sha256": "970b2190f83324dd15bc7ab9cb59d00badf53ea0931ecd105dfbd27973ccda0f",
     "url": "https://fr.wiki.isit-europe.org/nr/Souverainet%C3%A9_num%C3%A9rique"
   },
@@ -2965,7 +2965,7 @@
     "namespace": 0,
     "revision": 749,
     "timestamp": "2026-08-05T22:34:20Z",
-    "file": "fr/257.wiki",
+    "file": "fr/Surface d'attaque.wiki",
     "sha256": "9b653435d21e86deb4749b3bf6a05ab34c8e27918b25f530a339775f43c1c4be",
     "url": "https://fr.wiki.isit-europe.org/nr/Surface_d%27attaque"
   },
@@ -2976,7 +2976,7 @@
     "namespace": 0,
     "revision": 642,
     "timestamp": "2026-08-05T22:17:56Z",
-    "file": "fr/297.wiki",
+    "file": "fr/Sustainable IT.wiki",
     "sha256": "de98c51e33f31788cb18412d4a089a5a2203af9117df1fd70240c0f5a1acffe9",
     "url": "https://fr.wiki.isit-europe.org/nr/Sustainable_IT"
   },
@@ -2987,7 +2987,7 @@
     "namespace": 0,
     "revision": 620,
     "timestamp": "2026-08-05T22:08:24Z",
-    "file": "fr/283.wiki",
+    "file": "fr/Système d'Information - 283.wiki",
     "sha256": "df1bae1b9c9139a01fc2276c53596874ee40fa2ae8041a8543d7bf535387ae02",
     "url": "https://fr.wiki.isit-europe.org/nr/Syst%C3%A8me_d%27Information"
   },
@@ -2998,7 +2998,7 @@
     "namespace": 0,
     "revision": 750,
     "timestamp": "2026-08-05T22:34:21Z",
-    "file": "fr/269.wiki",
+    "file": "fr/Système d'information.wiki",
     "sha256": "d0f7a87a333d13ab71b5a5358556904423f6b71b9186376514032c67c7125c23",
     "url": "https://fr.wiki.isit-europe.org/nr/Syst%C3%A8me_d%27information"
   },
@@ -3009,7 +3009,7 @@
     "namespace": 0,
     "revision": 202,
     "timestamp": "2022-09-06T15:18:01Z",
-    "file": "fr/100.wiki",
+    "file": "fr/Système de Management Environnemental.wiki",
     "sha256": "e759ecb3d6395ea262df791d58b375f05b111d8bf58868ac0a7c0efc5e91281c",
     "url": "https://fr.wiki.isit-europe.org/nr/Syst%C3%A8me_de_Management_Environnemental"
   },
@@ -3020,7 +3020,7 @@
     "namespace": 0,
     "revision": 619,
     "timestamp": "2026-08-05T22:08:23Z",
-    "file": "fr/282.wiki",
+    "file": "fr/Systèmes d'Information.wiki",
     "sha256": "df1bae1b9c9139a01fc2276c53596874ee40fa2ae8041a8543d7bf535387ae02",
     "url": "https://fr.wiki.isit-europe.org/nr/Syst%C3%A8mes_d%27Information"
   },
@@ -3031,7 +3031,7 @@
     "namespace": 0,
     "revision": 210,
     "timestamp": "2022-09-06T15:18:01Z",
-    "file": "fr/104.wiki",
+    "file": "fr/Systémique.wiki",
     "sha256": "b22002234e8efcbdfa6a841c2a8b6889586dfd9a28811e208731892025e9977a",
     "url": "https://fr.wiki.isit-europe.org/nr/Syst%C3%A9mique"
   },
@@ -3042,7 +3042,7 @@
     "namespace": 0,
     "revision": 455,
     "timestamp": "2023-12-05T09:34:12Z",
-    "file": "fr/163.wiki",
+    "file": "fr/TCF.wiki",
     "sha256": "47b851c08ffc8881bc2d9b253229d29bc4fa8b9574e10b595a600b5d433058cb",
     "url": "https://fr.wiki.isit-europe.org/nr/TCF"
   },
@@ -3053,7 +3053,7 @@
     "namespace": 0,
     "revision": 598,
     "timestamp": "2026-08-05T22:01:23Z",
-    "file": "fr/164.wiki",
+    "file": "fr/TCO.wiki",
     "sha256": "0b81188f69a5a6182a447591bf4938e92045153388fc6d125fd288a29921d099",
     "url": "https://fr.wiki.isit-europe.org/nr/TCO"
   },
@@ -3064,7 +3064,7 @@
     "namespace": 0,
     "revision": 214,
     "timestamp": "2022-09-06T15:18:01Z",
-    "file": "fr/106.wiki",
+    "file": "fr/TCO Certified.wiki",
     "sha256": "de9bf8654725430cefe215c27eeaa15e5b03c8ffeeae76bb316993467b942e6b",
     "url": "https://fr.wiki.isit-europe.org/nr/TCO_Certified"
   },
@@ -3075,7 +3075,7 @@
     "namespace": 0,
     "revision": 751,
     "timestamp": "2026-08-05T22:34:22Z",
-    "file": "fr/270.wiki",
+    "file": "fr/TIC.wiki",
     "sha256": "dbed32177baf17b848aa8be997f7845f1046c39c447cdfa06b4aa0bc87dc7170",
     "url": "https://fr.wiki.isit-europe.org/nr/TIC"
   },
@@ -3086,7 +3086,7 @@
     "namespace": 0,
     "revision": 621,
     "timestamp": "2026-08-05T22:08:24Z",
-    "file": "fr/284.wiki",
+    "file": "fr/TIC (Technologie de l'Information et des Communications).wiki",
     "sha256": "d6d331e0fc53587c8009dadd186a4090bd710b324e4e1bf0df92aa7a16a9fc02",
     "url": "https://fr.wiki.isit-europe.org/nr/TIC_%28Technologie_de_l%27Information_et_des_Communications%29"
   },
@@ -3097,7 +3097,7 @@
     "namespace": 0,
     "revision": 622,
     "timestamp": "2026-08-05T22:08:24Z",
-    "file": "fr/285.wiki",
+    "file": "fr/Technologie de l'Information et des Communications.wiki",
     "sha256": "d6d331e0fc53587c8009dadd186a4090bd710b324e4e1bf0df92aa7a16a9fc02",
     "url": "https://fr.wiki.isit-europe.org/nr/Technologie_de_l%27Information_et_des_Communications"
   },
@@ -3108,7 +3108,7 @@
     "namespace": 0,
     "revision": 759,
     "timestamp": "2026-08-05T22:36:39Z",
-    "file": "fr/302.wiki",
+    "file": "fr/Terminal.wiki",
     "sha256": "f9f72d69735db8da4c6fbd8a3b4ffbf8f3f9195059b6c68ca6d6ab47c22b7e42",
     "url": "https://fr.wiki.isit-europe.org/nr/Terminal"
   },
@@ -3119,7 +3119,7 @@
     "namespace": 0,
     "revision": 764,
     "timestamp": "2026-08-05T22:36:41Z",
-    "file": "fr/307.wiki",
+    "file": "fr/Terminaux.wiki",
     "sha256": "a3afcc21324b3efc96c435cf31891ef32c27090a68de0a4be1c3c574b7f3f4a3",
     "url": "https://fr.wiki.isit-europe.org/nr/Terminaux"
   },
@@ -3130,7 +3130,7 @@
     "namespace": 0,
     "revision": 216,
     "timestamp": "2022-09-06T15:18:01Z",
-    "file": "fr/107.wiki",
+    "file": "fr/Terres Rares.wiki",
     "sha256": "9b467e12eb77ac24cb5ef3f45d9423da7ff287072e9b08a7fc4456bd33404b79",
     "url": "https://fr.wiki.isit-europe.org/nr/Terres_Rares"
   },
@@ -3141,7 +3141,7 @@
     "namespace": 0,
     "revision": 444,
     "timestamp": "2023-07-27T06:40:40Z",
-    "file": "fr/105.wiki",
+    "file": "fr/Totally Chlorine Free.wiki",
     "sha256": "b4c55b817fe5bab7b345a745a800527b1934129a2471cba7ef8ee56748143f12",
     "url": "https://fr.wiki.isit-europe.org/nr/Totally_Chlorine_Free"
   },
@@ -3152,7 +3152,7 @@
     "namespace": 0,
     "revision": 752,
     "timestamp": "2026-08-05T22:34:22Z",
-    "file": "fr/259.wiki",
+    "file": "fr/Transparence.wiki",
     "sha256": "a2986afc578179947af85d6f7920a78eba56f933b769d6f868161d16872fcdc9",
     "url": "https://fr.wiki.isit-europe.org/nr/Transparence"
   },
@@ -3163,7 +3163,7 @@
     "namespace": 0,
     "revision": 791,
     "timestamp": "2026-08-06T06:28:45Z",
-    "file": "fr/108.wiki",
+    "file": "fr/Triman.wiki",
     "sha256": "fb6e29bb796b6304d8630e647cd767f562aec7b2fa7a9e92a6f35c27ff9ab395",
     "url": "https://fr.wiki.isit-europe.org/nr/Triman"
   },
@@ -3174,7 +3174,7 @@
     "namespace": 0,
     "revision": 850,
     "timestamp": "2026-08-06T18:33:21Z",
-    "file": "fr/3.wiki",
+    "file": "fr/Utile Utilisable Utilisé.wiki",
     "sha256": "bfb80078194d62aa649a85e7a3b25d6989a4139512c1623a89fc8589ab82bcef",
     "url": "https://fr.wiki.isit-europe.org/nr/Utile_Utilisable_Utilis%C3%A9"
   },
@@ -3185,7 +3185,7 @@
     "namespace": 0,
     "revision": 753,
     "timestamp": "2026-08-05T22:34:23Z",
-    "file": "fr/195.wiki",
+    "file": "fr/VSME.wiki",
     "sha256": "d365dd2d45e39da2e1357acb247fa114c421a4ae09339d5e4b607e8ff937bfb7",
     "url": "https://fr.wiki.isit-europe.org/nr/VSME"
   },
@@ -3196,7 +3196,7 @@
     "namespace": 0,
     "revision": 220,
     "timestamp": "2022-09-06T15:18:01Z",
-    "file": "fr/109.wiki",
+    "file": "fr/Valorisation.wiki",
     "sha256": "e19301030fedac1ccd9fb0926a90dac1304b3f987bb3beb84a5397c152091726",
     "url": "https://fr.wiki.isit-europe.org/nr/Valorisation"
   },
@@ -3207,7 +3207,7 @@
     "namespace": 0,
     "revision": 754,
     "timestamp": "2026-08-05T22:34:24Z",
-    "file": "fr/260.wiki",
+    "file": "fr/Vendor lock-in.wiki",
     "sha256": "1905b811f57cfbfeb858c055179f88b603fa1882d424e9d691f34a710bd5b1d0",
     "url": "https://fr.wiki.isit-europe.org/nr/Vendor_lock-in"
   },
@@ -3218,7 +3218,7 @@
     "namespace": 0,
     "revision": 755,
     "timestamp": "2026-08-05T22:34:24Z",
-    "file": "fr/192.wiki",
+    "file": "fr/WCAG.wiki",
     "sha256": "bbd645f2c7d9ba49d3ccbe61ec5de575e90e78c06c4fe67256c4d3ca2cd6d477",
     "url": "https://fr.wiki.isit-europe.org/nr/WCAG"
   },
@@ -3229,7 +3229,7 @@
     "namespace": 0,
     "revision": 334,
     "timestamp": "2022-09-06T15:19:26Z",
-    "file": "fr/165.wiki",
+    "file": "fr/WUE.wiki",
     "sha256": "80ff644865e029807029185a06bf81de41d0b926e798d280b4775254ca8003c2",
     "url": "https://fr.wiki.isit-europe.org/nr/WUE"
   },
@@ -3240,7 +3240,7 @@
     "namespace": 0,
     "revision": 851,
     "timestamp": "2026-08-06T18:33:21Z",
-    "file": "fr/110.wiki",
+    "file": "fr/Water Usage Effectiveness.wiki",
     "sha256": "8a3adce809b9d44e42af6da76ac8513e2fb3269f238abcb988bd06456f687ef4",
     "url": "https://fr.wiki.isit-europe.org/nr/Water_Usage_Effectiveness"
   },
@@ -3251,7 +3251,7 @@
     "namespace": 0,
     "revision": 826,
     "timestamp": "2026-08-06T18:22:48Z",
-    "file": "fr/187.wiki",
+    "file": "fr/WeNR.wiki",
     "sha256": "c60e025e6a3047aa403bab19ccf80ae5c684028f16f6c46eb9b65850ef18875e",
     "url": "https://fr.wiki.isit-europe.org/nr/WeNR"
   },
@@ -3262,7 +3262,7 @@
     "namespace": 0,
     "revision": 618,
     "timestamp": "2026-08-05T22:08:23Z",
-    "file": "fr/281.wiki",
+    "file": "fr/Économie Sociale et Solidaire.wiki",
     "sha256": "8174f0c642f073904fd54e8c956ff2740b46cd85a875fbd43c15197be985b308",
     "url": "https://fr.wiki.isit-europe.org/nr/%C3%89conomie_Sociale_et_Solidaire"
   },
@@ -3273,7 +3273,7 @@
     "namespace": 0,
     "revision": 763,
     "timestamp": "2026-08-05T22:36:40Z",
-    "file": "fr/306.wiki",
+    "file": "fr/Éthique.wiki",
     "sha256": "f390d1529485d5523d73cd4d1b0296b357e6ec048f01e382bfdde25252fd0904",
     "url": "https://fr.wiki.isit-europe.org/nr/%C3%89thique"
   },
@@ -3284,7 +3284,7 @@
     "namespace": 0,
     "revision": 777,
     "timestamp": "2026-08-06T06:08:23Z",
-    "file": "fr/239.wiki",
+    "file": "fr/Évolutivité.wiki",
     "sha256": "ad0c84956578490d835bfd75517e449fd0ec4989ba78386b6839861087046c6c",
     "url": "https://fr.wiki.isit-europe.org/nr/%C3%89volutivit%C3%A9"
   },
@@ -3295,7 +3295,7 @@
     "namespace": 14,
     "revision": 507,
     "timestamp": "2026-08-05T21:34:58Z",
-    "file": "fr/189.wiki",
+    "file": "fr/Catégorie-Accessibilité.wiki",
     "sha256": "eeb8063a08033f8ea764be9345949915ffae0af3c422d5f9d93041e1c9cf81fa",
     "url": "https://fr.wiki.isit-europe.org/nr/Cat%C3%A9gorie%3AAccessibilit%C3%A9"
   },
@@ -3306,7 +3306,7 @@
     "namespace": 14,
     "revision": 337,
     "timestamp": "2022-09-06T15:21:14Z",
-    "file": "fr/167.wiki",
+    "file": "fr/Catégorie-Acteurs.wiki",
     "sha256": "9b3b3dd1af33e17800ddbd9a81d62e55f369fa7ec4d35845354bcacadcc705f6",
     "url": "https://fr.wiki.isit-europe.org/nr/Cat%C3%A9gorie%3AActeurs"
   },
@@ -3317,7 +3317,7 @@
     "namespace": 14,
     "revision": 559,
     "timestamp": "2026-08-05T22:01:13Z",
-    "file": "fr/226.wiki",
+    "file": "fr/Catégorie-Concepts.wiki",
     "sha256": "371a8822a161899961a9180560265c8d1440b7a245a11d1a75569d9734e48d50",
     "url": "https://fr.wiki.isit-europe.org/nr/Cat%C3%A9gorie%3AConcepts"
   },
@@ -3328,7 +3328,7 @@
     "namespace": 14,
     "revision": 520,
     "timestamp": "2026-08-05T21:41:30Z",
-    "file": "fr/201.wiki",
+    "file": "fr/Catégorie-Cycle de vie des équipements.wiki",
     "sha256": "9afd1f9df1025011ba5455b6e7f7e36190d84d67ae39f3cd7e6aaa8659958d9b",
     "url": "https://fr.wiki.isit-europe.org/nr/Cat%C3%A9gorie%3ACycle_de_vie_des_%C3%A9quipements"
   },
@@ -3339,7 +3339,7 @@
     "namespace": 14,
     "revision": 500,
     "timestamp": "2026-08-05T21:28:04Z",
-    "file": "fr/184.wiki",
+    "file": "fr/Catégorie-Formation et sensibilisation.wiki",
     "sha256": "7a8d216ad85eb4599910232645b1bc482c5503183f88492cb1ceb82db6c77bed",
     "url": "https://fr.wiki.isit-europe.org/nr/Cat%C3%A9gorie%3AFormation_et_sensibilisation"
   },
@@ -3350,7 +3350,7 @@
     "namespace": 14,
     "revision": 499,
     "timestamp": "2026-08-05T21:28:03Z",
-    "file": "fr/183.wiki",
+    "file": "fr/Catégorie-Intelligence artificielle.wiki",
     "sha256": "619b769668c06b49af5c9aa186729f68621a4dc2606513e986fc31f47e8daea0",
     "url": "https://fr.wiki.isit-europe.org/nr/Cat%C3%A9gorie%3AIntelligence_artificielle"
   },
@@ -3361,7 +3361,7 @@
     "namespace": 14,
     "revision": 338,
     "timestamp": "2022-09-06T15:21:35Z",
-    "file": "fr/168.wiki",
+    "file": "fr/Catégorie-Labels et certifications.wiki",
     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "url": "https://fr.wiki.isit-europe.org/nr/Cat%C3%A9gorie%3ALabels_et_certifications"
   },
@@ -3372,7 +3372,7 @@
     "namespace": 14,
     "revision": 498,
     "timestamp": "2026-08-05T21:22:10Z",
-    "file": "fr/182.wiki",
+    "file": "fr/Catégorie-Référentiels et méthodes.wiki",
     "sha256": "9882d546c3b834482e9b15a97007f41a067e7dc54594363009607b094450dadc",
     "url": "https://fr.wiki.isit-europe.org/nr/Cat%C3%A9gorie%3AR%C3%A9f%C3%A9rentiels_et_m%C3%A9thodes"
   },
@@ -3383,7 +3383,7 @@
     "namespace": 14,
     "revision": 508,
     "timestamp": "2026-08-05T21:34:59Z",
-    "file": "fr/190.wiki",
+    "file": "fr/Catégorie-Réglementation.wiki",
     "sha256": "b729d79fe801d172b7b95cc2c0f8f0e59d84f38f3ec44381215ea29a1b5474a3",
     "url": "https://fr.wiki.isit-europe.org/nr/Cat%C3%A9gorie%3AR%C3%A9glementation"
   },
@@ -3394,7 +3394,7 @@
     "namespace": 14,
     "revision": 533,
     "timestamp": "2026-08-05T21:53:27Z",
-    "file": "fr/203.wiki",
+    "file": "fr/Catégorie-Sécurité.wiki",
     "sha256": "6265523eb04f0f2593574df1cd95f265f7307f81f27bd3bd257227c5e382574f",
     "url": "https://fr.wiki.isit-europe.org/nr/Cat%C3%A9gorie%3AS%C3%A9curit%C3%A9"
   },
@@ -3405,7 +3405,7 @@
     "namespace": 0,
     "revision": 159,
     "timestamp": "2026-09-11T08:08:35Z",
-    "file": "en/25.wiki",
+    "file": "en/AI Act.wiki",
     "sha256": "47649413bc0cb8f91646f32d7cd20932a11c941e85641195b69b4421be4052a5",
     "url": "https://en.wiki.isit-europe.org/nr/AI_Act"
   },
@@ -3416,7 +3416,7 @@
     "namespace": 0,
     "revision": 160,
     "timestamp": "2026-09-11T08:08:35Z",
-    "file": "en/75.wiki",
+    "file": "en/AI codes of conduct and practice.wiki",
     "sha256": "8490e7fac5a8a391890de5e4f5a564e8c9ba08e005f7fe3218b12bc5e0607de3",
     "url": "https://en.wiki.isit-europe.org/nr/AI_codes_of_conduct_and_practice"
   },
@@ -3427,7 +3427,7 @@
     "namespace": 0,
     "revision": 64,
     "timestamp": "2026-08-06T05:37:13Z",
-    "file": "en/51.wiki",
+    "file": "en/AI governance.wiki",
     "sha256": "67805ee7310e701409ae877c3444446bff2a67fbf23366c7898dd3b5628fbe2e",
     "url": "https://en.wiki.isit-europe.org/nr/AI_governance"
   },
@@ -3438,7 +3438,7 @@
     "namespace": 0,
     "revision": 145,
     "timestamp": "2026-09-10T17:38:32Z",
-    "file": "en/65.wiki",
+    "file": "en/Algorithm.wiki",
     "sha256": "1ccc345a41d45507c84881534816457ad3de4037ee77216454598ff696409663",
     "url": "https://en.wiki.isit-europe.org/nr/Algorithm"
   },
@@ -3449,7 +3449,7 @@
     "namespace": 0,
     "revision": 63,
     "timestamp": "2026-08-06T05:37:13Z",
-    "file": "en/50.wiki",
+    "file": "en/Algorithmic bias.wiki",
     "sha256": "f18ba26ec996ddd921a4aad936a4c3c77fb16837a5e9fc14e6963885274a18d5",
     "url": "https://en.wiki.isit-europe.org/nr/Algorithmic_bias"
   },
@@ -3460,7 +3460,7 @@
     "namespace": 0,
     "revision": 129,
     "timestamp": "2026-09-10T17:22:40Z",
-    "file": "en/68.wiki",
+    "file": "en/Artificial intelligence model.wiki",
     "sha256": "f7005a4d3499b0266397326651455dfa8507fdea7237ec2a1e6ded559a357461",
     "url": "https://en.wiki.isit-europe.org/nr/Artificial_intelligence_model"
   },
@@ -3471,7 +3471,7 @@
     "namespace": 0,
     "revision": 35,
     "timestamp": "2026-08-06T05:21:45Z",
-    "file": "en/29.wiki",
+    "file": "en/Bilan Carbone.wiki",
     "sha256": "0f5beed4b816a1cd91ef5590c34f32402a494e401d32fd2967d710f006d73b25",
     "url": "https://en.wiki.isit-europe.org/nr/Bilan_Carbone"
   },
@@ -3482,7 +3482,7 @@
     "namespace": 0,
     "revision": 131,
     "timestamp": "2026-09-10T17:22:41Z",
-    "file": "en/70.wiki",
+    "file": "en/Black box.wiki",
     "sha256": "d04e3d3cfc4bc31177f5aded5dd9ee6b2b5f996ec37c83a11f3555e0781385f4",
     "url": "https://en.wiki.isit-europe.org/nr/Black_box"
   },
@@ -3493,7 +3493,7 @@
     "namespace": 0,
     "revision": 157,
     "timestamp": "2026-09-10T18:08:03Z",
-    "file": "en/53.wiki",
+    "file": "en/CSRD.wiki",
     "sha256": "098beb9ee6fa90ff4858c9d9723cab2f79a117976e693a1d7a6975c5fcf5321a",
     "url": "https://en.wiki.isit-europe.org/nr/CSRD"
   },
@@ -3504,7 +3504,7 @@
     "namespace": 0,
     "revision": 147,
     "timestamp": "2026-09-10T17:38:33Z",
-    "file": "en/13.wiki",
+    "file": "en/Carbon footprint.wiki",
     "sha256": "3ab5ee5039a7ea23ef1ebbc946410c34574eefaf16d6c2385096b42f75b3cfdf",
     "url": "https://en.wiki.isit-europe.org/nr/Carbon_footprint"
   },
@@ -3515,7 +3515,7 @@
     "namespace": 0,
     "revision": 81,
     "timestamp": "2026-08-06T18:33:00Z",
-    "file": "en/45.wiki",
+    "file": "en/Circular economy.wiki",
     "sha256": "f5e5eb67ad865d5e5fd9a2b19d4886df9d0f06fd1df42b72c859f5a99c63830d",
     "url": "https://en.wiki.isit-europe.org/nr/Circular_economy"
   },
@@ -3526,7 +3526,7 @@
     "namespace": 0,
     "revision": 133,
     "timestamp": "2026-09-10T17:22:41Z",
-    "file": "en/72.wiki",
+    "file": "en/Contextual prompting.wiki",
     "sha256": "a1175b169b7661a6bbbcd70f9178e4d40aeb351c1d3f658b273aa7e1feb8a8c3",
     "url": "https://en.wiki.isit-europe.org/nr/Contextual_prompting"
   },
@@ -3537,7 +3537,7 @@
     "namespace": 0,
     "revision": 161,
     "timestamp": "2026-09-11T08:08:36Z",
-    "file": "en/76.wiki",
+    "file": "en/Cyber Resilience Act.wiki",
     "sha256": "1f2a9a6f9c519b921d814931b17c9f0626fcc995521ac2c2d68343a5bfd1651c",
     "url": "https://en.wiki.isit-europe.org/nr/Cyber_Resilience_Act"
   },
@@ -3548,7 +3548,7 @@
     "namespace": 0,
     "revision": 154,
     "timestamp": "2026-09-10T18:00:48Z",
-    "file": "en/43.wiki",
+    "file": "en/Cybersecurity.wiki",
     "sha256": "a2c08fd1cd02a195150667c8b80c89aa9ffd9b7586474ae23b01a574e45557e4",
     "url": "https://en.wiki.isit-europe.org/nr/Cybersecurity"
   },
@@ -3559,7 +3559,7 @@
     "namespace": 0,
     "revision": 106,
     "timestamp": "2026-08-08T09:48:07Z",
-    "file": "en/60.wiki",
+    "file": "en/Dark pattern.wiki",
     "sha256": "7656dc67032d359bee1dc665e8fefeb066e62ea47ca59fc48c0f92b13f4296f4",
     "url": "https://en.wiki.isit-europe.org/nr/Dark_pattern"
   },
@@ -3570,7 +3570,7 @@
     "namespace": 0,
     "revision": 163,
     "timestamp": "2026-09-11T08:08:38Z",
-    "file": "en/78.wiki",
+    "file": "en/Data Act.wiki",
     "sha256": "0e28c96b225bf36cdcdcee90eba987545dc9c4bb8855037621bb01adff8cea2c",
     "url": "https://en.wiki.isit-europe.org/nr/Data_Act"
   },
@@ -3581,7 +3581,7 @@
     "namespace": 0,
     "revision": 152,
     "timestamp": "2026-09-10T17:48:00Z",
-    "file": "en/35.wiki",
+    "file": "en/Data centre.wiki",
     "sha256": "398879f59d85b42f657c61ece98bbfc9edd73a3564194fd41c798eb31c6b846c",
     "url": "https://en.wiki.isit-europe.org/nr/Data_centre"
   },
@@ -3592,7 +3592,7 @@
     "namespace": 0,
     "revision": 146,
     "timestamp": "2026-09-10T17:38:32Z",
-    "file": "en/67.wiki",
+    "file": "en/Deep learning.wiki",
     "sha256": "854b7dd6b5d23f5443b3d1feba51388f5ca56981591eb7d19503774e86c0cda2",
     "url": "https://en.wiki.isit-europe.org/nr/Deep_learning"
   },
@@ -3603,7 +3603,7 @@
     "namespace": 0,
     "revision": 83,
     "timestamp": "2026-08-06T18:33:01Z",
-    "file": "en/23.wiki",
+    "file": "en/Digital accessibility.wiki",
     "sha256": "d6fcec6cfd54cbefa3e430e1382d69a75f334b6098d9d868d6be8ad20931a317",
     "url": "https://en.wiki.isit-europe.org/nr/Digital_accessibility"
   },
@@ -3614,7 +3614,7 @@
     "namespace": 0,
     "revision": 111,
     "timestamp": "2026-08-18T10:27:54Z",
-    "file": "en/61.wiki",
+    "file": "en/Digital commons.wiki",
     "sha256": "148929342cacba3f5a5b61c72c98dbffcf8be3374ca48cac0a42cebe15eef0f4",
     "url": "https://en.wiki.isit-europe.org/nr/Digital_commons"
   },
@@ -3625,7 +3625,7 @@
     "namespace": 0,
     "revision": 58,
     "timestamp": "2026-08-06T05:35:01Z",
-    "file": "en/46.wiki",
+    "file": "en/Digital divide.wiki",
     "sha256": "e066452c7a34d5529e70df59aea25f1b0b77e1846997e29a34d90800a1f14490",
     "url": "https://en.wiki.isit-europe.org/nr/Digital_divide"
   },
@@ -3636,7 +3636,7 @@
     "namespace": 0,
     "revision": 158,
     "timestamp": "2026-09-10T18:08:04Z",
-    "file": "en/38.wiki",
+    "file": "en/Digital resilience.wiki",
     "sha256": "87102b1d4b0b46f0ee4c6032415451b75cb9306a88f5a685903bf3d2a3cd12f7",
     "url": "https://en.wiki.isit-europe.org/nr/Digital_resilience"
   },
@@ -3647,7 +3647,7 @@
     "namespace": 0,
     "revision": 141,
     "timestamp": "2026-09-10T17:32:59Z",
-    "file": "en/11.wiki",
+    "file": "en/Digital sobriety.wiki",
     "sha256": "ca3129625bf86e15dcc0b3c41b2097e8fff14ff70ee36d3e5035be5528632cd4",
     "url": "https://en.wiki.isit-europe.org/nr/Digital_sobriety"
   },
@@ -3658,7 +3658,7 @@
     "namespace": 0,
     "revision": 85,
     "timestamp": "2026-08-06T18:33:02Z",
-    "file": "en/40.wiki",
+    "file": "en/Digital sovereignty.wiki",
     "sha256": "51ca5d5fbf3f0878808b852adf6ad1736b3574303701638915904827dcfec740",
     "url": "https://en.wiki.isit-europe.org/nr/Digital_sovereignty"
   },
@@ -3669,7 +3669,7 @@
     "namespace": 0,
     "revision": 144,
     "timestamp": "2026-09-10T17:34:57Z",
-    "file": "en/12.wiki",
+    "file": "en/Ecodesign.wiki",
     "sha256": "b28087225735e09c91a81b76b893d791af2ba42ea86b53b4b5f1e24695c4b53f",
     "url": "https://en.wiki.isit-europe.org/nr/Ecodesign"
   },
@@ -3680,7 +3680,7 @@
     "namespace": 0,
     "revision": 99,
     "timestamp": "2026-08-06T18:56:52Z",
-    "file": "en/31.wiki",
+    "file": "en/End of life.wiki",
     "sha256": "5b5624dd7b25660323aa7bb964447388dfec9ee77c23aa98ffd234feca9d0dc6",
     "url": "https://en.wiki.isit-europe.org/nr/End_of_life"
   },
@@ -3691,7 +3691,7 @@
     "namespace": 0,
     "revision": 132,
     "timestamp": "2026-09-10T17:22:41Z",
-    "file": "en/71.wiki",
+    "file": "en/Fine-tuning.wiki",
     "sha256": "a6c8932b2bb86f2829dbb0ffe4f728602ec6551d36053252100e5d92b7268d94",
     "url": "https://en.wiki.isit-europe.org/nr/Fine-tuning"
   },
@@ -3702,7 +3702,7 @@
     "namespace": 0,
     "revision": 153,
     "timestamp": "2026-09-10T17:53:20Z",
-    "file": "en/27.wiki",
+    "file": "en/GHG Protocol.wiki",
     "sha256": "19bc2aa0c786828e5325a0f51bb75f8966ea47746617b4733c1b5220baa63e79",
     "url": "https://en.wiki.isit-europe.org/nr/GHG_Protocol"
   },
@@ -3713,7 +3713,7 @@
     "namespace": 0,
     "revision": 105,
     "timestamp": "2026-08-08T09:37:18Z",
-    "file": "en/16.wiki",
+    "file": "en/GR491.wiki",
     "sha256": "d6e54647a59911b92b25db37554d621c93d723c73c0e8700dbd8a8f53b0a9ab0",
     "url": "https://en.wiki.isit-europe.org/nr/GR491"
   },
@@ -3724,7 +3724,7 @@
     "namespace": 0,
     "revision": 60,
     "timestamp": "2026-08-06T05:37:12Z",
-    "file": "en/47.wiki",
+    "file": "en/Generative AI.wiki",
     "sha256": "25f5d8dce763c4a4524e7d2a7da39e4632f0bf74c89659ec5e54b73014930bad",
     "url": "https://en.wiki.isit-europe.org/nr/Generative_AI"
   },
@@ -3735,7 +3735,7 @@
     "namespace": 0,
     "revision": 150,
     "timestamp": "2026-09-10T17:48:00Z",
-    "file": "en/17.wiki",
+    "file": "en/Green IT.wiki",
     "sha256": "6c38bc9ec2f353ecabe4474d2b67fbdec186f4d2efb13ff1fdf9b67b998be7ec",
     "url": "https://en.wiki.isit-europe.org/nr/Green_IT"
   },
@@ -3746,7 +3746,7 @@
     "namespace": 0,
     "revision": 39,
     "timestamp": "2026-08-06T05:21:46Z",
-    "file": "en/33.wiki",
+    "file": "en/Greenwashing.wiki",
     "sha256": "efb553f9138ba92317ece1048e94aa95a97aaeb39164e9a9f00ca7f74ebaca5c",
     "url": "https://en.wiki.isit-europe.org/nr/Greenwashing"
   },
@@ -3757,7 +3757,7 @@
     "namespace": 0,
     "revision": 62,
     "timestamp": "2026-08-06T05:37:13Z",
-    "file": "en/49.wiki",
+    "file": "en/Hallucination.wiki",
     "sha256": "272117cbc99b26a1c08986fd656060f031be1e216238a2d7b73fb3aab26be4b3",
     "url": "https://en.wiki.isit-europe.org/nr/Hallucination"
   },
@@ -3768,7 +3768,7 @@
     "namespace": 0,
     "revision": 24,
     "timestamp": "2026-08-06T05:19:30Z",
-    "file": "en/19.wiki",
+    "file": "en/Human for IT.wiki",
     "sha256": "266abd675a54bd92a6915761816495d422ad6a665a73191a053f688da06b95b2",
     "url": "https://en.wiki.isit-europe.org/nr/Human_for_IT"
   },
@@ -3779,7 +3779,7 @@
     "namespace": 0,
     "revision": 101,
     "timestamp": "2026-08-08T09:31:27Z",
-    "file": "en/58.wiki",
+    "file": "en/ISO-IEC TS 20125.wiki",
     "sha256": "21133d744389a94b5082423f320e7c56e42260a1906c2f1ce958dfef288976fd",
     "url": "https://en.wiki.isit-europe.org/nr/ISO%2FIEC_TS_20125"
   },
@@ -3790,7 +3790,7 @@
     "namespace": 0,
     "revision": 34,
     "timestamp": "2026-08-06T05:21:44Z",
-    "file": "en/28.wiki",
+    "file": "en/ISO 14064.wiki",
     "sha256": "338f1b392813f666443d4f3f3a7aec5fa74c421fa88bbc44fa41974848c42ccb",
     "url": "https://en.wiki.isit-europe.org/nr/ISO_14064"
   },
@@ -3801,7 +3801,7 @@
     "namespace": 0,
     "revision": 102,
     "timestamp": "2026-08-08T09:31:27Z",
-    "file": "en/59.wiki",
+    "file": "en/ISO 20125.wiki",
     "sha256": "6658e063fe62e4d74a628f17a378174ce1b6e5c3c9ad94d233272f0cb6812fd7",
     "url": "https://en.wiki.isit-europe.org/nr/ISO_20125"
   },
@@ -3812,7 +3812,7 @@
     "namespace": 0,
     "revision": 151,
     "timestamp": "2026-09-10T17:48:00Z",
-    "file": "en/18.wiki",
+    "file": "en/IT for Green.wiki",
     "sha256": "d7cceb532b7b26b234583df254036d30c422e033013c7c7a8d16410158f76bc6",
     "url": "https://en.wiki.isit-europe.org/nr/IT_for_Green"
   },
@@ -3823,7 +3823,7 @@
     "namespace": 0,
     "revision": 25,
     "timestamp": "2026-08-06T05:19:31Z",
-    "file": "en/20.wiki",
+    "file": "en/IT for Human.wiki",
     "sha256": "d49655b3d225a0e0a44cd2c6a48b3efee4d5439c4e9408a4ad7464ca03c3f863",
     "url": "https://en.wiki.isit-europe.org/nr/IT_for_Human"
   },
@@ -3834,7 +3834,7 @@
     "namespace": 0,
     "revision": 148,
     "timestamp": "2026-09-10T17:38:33Z",
-    "file": "en/48.wiki",
+    "file": "en/Inference.wiki",
     "sha256": "3b8714e683c48df25a3b05b1c4f0ffde643079d3e66bff2df47ade34cf59d6ca",
     "url": "https://en.wiki.isit-europe.org/nr/Inference"
   },
@@ -3845,7 +3845,7 @@
     "namespace": 0,
     "revision": 38,
     "timestamp": "2026-08-06T05:21:45Z",
-    "file": "en/32.wiki",
+    "file": "en/Jevons paradox.wiki",
     "sha256": "7b1c7b1baecfff7934ded36d25adf8de5e2875e390ba4b4e07d33259f9647bea",
     "url": "https://en.wiki.isit-europe.org/nr/Jevons_paradox"
   },
@@ -3856,7 +3856,7 @@
     "namespace": 0,
     "revision": 56,
     "timestamp": "2026-08-06T05:35:01Z",
-    "file": "en/44.wiki",
+    "file": "en/LLM.wiki",
     "sha256": "2cd209c5a7142e4595e1e092fc5b976b239e4730cb2df1b73074e0c24154207d",
     "url": "https://en.wiki.isit-europe.org/nr/LLM"
   },
@@ -3867,7 +3867,7 @@
     "namespace": 0,
     "revision": 149,
     "timestamp": "2026-09-10T17:47:59Z",
-    "file": "en/14.wiki",
+    "file": "en/Life cycle assessment.wiki",
     "sha256": "9d4137c92110716aca7435c983ad147401486620f5826735a4fb3fa1787b5cc5",
     "url": "https://en.wiki.isit-europe.org/nr/Life_cycle_assessment"
   },
@@ -3878,7 +3878,7 @@
     "namespace": 0,
     "revision": 156,
     "timestamp": "2026-09-10T18:08:02Z",
-    "file": "en/22.wiki",
+    "file": "en/Low tech.wiki",
     "sha256": "cbe3fecaa181e92936813fed68a5b2ef311427928ebe18209c9dee348fbd78f8",
     "url": "https://en.wiki.isit-europe.org/nr/Low_tech"
   },
@@ -3889,7 +3889,7 @@
     "namespace": 0,
     "revision": 127,
     "timestamp": "2026-09-10T17:22:39Z",
-    "file": "en/66.wiki",
+    "file": "en/Machine learning.wiki",
     "sha256": "27d9f18862b8f17a309f94d69656e7eb0f6ef1d576ed1e550493bb025210f19a",
     "url": "https://en.wiki.isit-europe.org/nr/Machine_learning"
   },
@@ -3900,7 +3900,7 @@
     "namespace": 0,
     "revision": 77,
     "timestamp": "2026-08-06T18:14:59Z",
-    "file": "en/1.wiki",
+    "file": "en/Main Page.wiki",
     "sha256": "129262823e8061ea49d810c18a3041a3c45163dd88085024f05317852b5b527b",
     "url": "https://en.wiki.isit-europe.org/nr/Main_Page"
   },
@@ -3911,7 +3911,7 @@
     "namespace": 0,
     "revision": 98,
     "timestamp": "2026-08-06T18:48:13Z",
-    "file": "en/30.wiki",
+    "file": "en/Manufacturing.wiki",
     "sha256": "f2550491b73d1044308a999412d541bcae7bfc732d3f037f8c1b166c51915ced",
     "url": "https://en.wiki.isit-europe.org/nr/Manufacturing"
   },
@@ -3922,7 +3922,7 @@
     "namespace": 0,
     "revision": 162,
     "timestamp": "2026-09-11T08:08:37Z",
-    "file": "en/77.wiki",
+    "file": "en/NIS2.wiki",
     "sha256": "dfa8f3fb6b51e4ce88abe17ad24c1e2a228c8647c613e6dc7c92a36242a6010b",
     "url": "https://en.wiki.isit-europe.org/nr/NIS2"
   },
@@ -3933,7 +3933,7 @@
     "namespace": 0,
     "revision": 100,
     "timestamp": "2026-08-06T19:05:21Z",
-    "file": "en/34.wiki",
+    "file": "en/Power Usage Effectiveness.wiki",
     "sha256": "5f0023f25efbc2e1b8e9bc4c957b395b258ded72b8b3a649ad671ab87f92fe9f",
     "url": "https://en.wiki.isit-europe.org/nr/Power_Usage_Effectiveness"
   },
@@ -3944,7 +3944,7 @@
     "namespace": 0,
     "revision": 65,
     "timestamp": "2026-08-06T05:37:13Z",
-    "file": "en/52.wiki",
+    "file": "en/Prompt injection.wiki",
     "sha256": "d276b343b1e3f11ce379b6a2099a4537794c3724a99f2c9c1c91c31c2c177520",
     "url": "https://en.wiki.isit-europe.org/nr/Prompt_injection"
   },
@@ -3955,7 +3955,7 @@
     "namespace": 0,
     "revision": 134,
     "timestamp": "2026-09-10T17:22:42Z",
-    "file": "en/73.wiki",
+    "file": "en/RAG.wiki",
     "sha256": "3e9c4ecdf673ce18587f7728fae1c1b17ac73af8c8eee4d4a9e11c01a9d8d5b0",
     "url": "https://en.wiki.isit-europe.org/nr/RAG"
   },
@@ -3966,7 +3966,7 @@
     "namespace": 0,
     "revision": 42,
     "timestamp": "2026-08-06T05:21:46Z",
-    "file": "en/36.wiki",
+    "file": "en/RGAA.wiki",
     "sha256": "d0657c1f35579314a3c698ea0c2180b4e9fb312e3a6fa874d7ba08f2e33c4908",
     "url": "https://en.wiki.isit-europe.org/nr/RGAA"
   },
@@ -3977,7 +3977,7 @@
     "namespace": 0,
     "revision": 104,
     "timestamp": "2026-08-08T09:37:18Z",
-    "file": "en/15.wiki",
+    "file": "en/RGESN.wiki",
     "sha256": "1eec7acfcae42609c3d3d3ecb4527f7cf1279da4b8ffebda4f9c1d4b0aa933ba",
     "url": "https://en.wiki.isit-europe.org/nr/RGESN"
   },
@@ -3988,7 +3988,7 @@
     "namespace": 0,
     "revision": 92,
     "timestamp": "2026-08-06T18:33:05Z",
-    "file": "en/21.wiki",
+    "file": "en/Rebound effect.wiki",
     "sha256": "65c1f08604988c2a64f058aee18e163a77781b412bb03153aac72bbec98f57a9",
     "url": "https://en.wiki.isit-europe.org/nr/Rebound_effect"
   },
@@ -3999,7 +3999,7 @@
     "namespace": 0,
     "revision": 142,
     "timestamp": "2026-09-10T17:32:59Z",
-    "file": "en/4.wiki",
+    "file": "en/Responsible AI.wiki",
     "sha256": "c0eaa28cb0efd6e17450a30760390f28f180e6166ac1ec3a8d13594846a64843",
     "url": "https://en.wiki.isit-europe.org/nr/Responsible_AI"
   },
@@ -4010,7 +4010,7 @@
     "namespace": 0,
     "revision": 109,
     "timestamp": "2026-08-08T09:52:01Z",
-    "file": "en/54.wiki",
+    "file": "en/Responsible AI Charter.wiki",
     "sha256": "44d351ef55b567ca25532dafa8c161062832ee0fb31870bae56265e67adc7faf",
     "url": "https://en.wiki.isit-europe.org/nr/Responsible_AI_Charter"
   },
@@ -4021,7 +4021,7 @@
     "namespace": 0,
     "revision": 74,
     "timestamp": "2026-08-06T18:14:58Z",
-    "file": "en/56.wiki",
+    "file": "en/Responsible IT Charter.wiki",
     "sha256": "70d9de3d6003562aa9852582a8d7949b93730e04e1a5d2667678a51a81e94e40",
     "url": "https://en.wiki.isit-europe.org/nr/Responsible_IT_Charter"
   },
@@ -4032,7 +4032,7 @@
     "namespace": 0,
     "revision": 53,
     "timestamp": "2026-08-06T05:35:00Z",
-    "file": "en/41.wiki",
+    "file": "en/Reversibility.wiki",
     "sha256": "a83612b338b4904595e719b81850b266193aec2b470729777e28602e79e85e3a",
     "url": "https://en.wiki.isit-europe.org/nr/Reversibility"
   },
@@ -4043,7 +4043,7 @@
     "namespace": 0,
     "revision": 51,
     "timestamp": "2026-08-06T05:34:59Z",
-    "file": "en/39.wiki",
+    "file": "en/Robustness.wiki",
     "sha256": "f18604de42a34101c538ebabf0faf81e8c591394fb0440c95fcc96a71f49c8bb",
     "url": "https://en.wiki.isit-europe.org/nr/Robustness"
   },
@@ -4054,7 +4054,7 @@
     "namespace": 0,
     "revision": 135,
     "timestamp": "2026-09-10T17:22:42Z",
-    "file": "en/74.wiki",
+    "file": "en/SLM.wiki",
     "sha256": "d7c33ddacdf6ac6b71bb49cd94325050fffb5f48d7a1cbd109aae5e61993ab5c",
     "url": "https://en.wiki.isit-europe.org/nr/SLM"
   },
@@ -4065,7 +4065,7 @@
     "namespace": 0,
     "revision": 31,
     "timestamp": "2026-08-06T05:19:32Z",
-    "file": "en/26.wiki",
+    "file": "en/Shadow AI.wiki",
     "sha256": "b219e806d42622283193a76fb6d3abc3e7d36a258b0ed02d9cbc36f27a96158b",
     "url": "https://en.wiki.isit-europe.org/nr/Shadow_AI"
   },
@@ -4076,7 +4076,7 @@
     "namespace": 0,
     "revision": 155,
     "timestamp": "2026-09-10T18:01:54Z",
-    "file": "en/10.wiki",
+    "file": "en/Sustainable IT.wiki",
     "sha256": "3560737f039258c45714abd52f98dd7af0eee14f0fd4fd96a7e9a911f8e476d7",
     "url": "https://en.wiki.isit-europe.org/nr/Sustainable_IT"
   },
@@ -4087,7 +4087,7 @@
     "namespace": 0,
     "revision": 110,
     "timestamp": "2026-08-08T09:52:03Z",
-    "file": "en/55.wiki",
+    "file": "en/Sustainable IT Charter.wiki",
     "sha256": "ce3eb2c08cbd405ec800b3efffcb6d6b57b0694ff850ebefd9c25500bb1bd691",
     "url": "https://en.wiki.isit-europe.org/nr/Sustainable_IT_Charter"
   },
@@ -4098,7 +4098,7 @@
     "namespace": 0,
     "revision": 130,
     "timestamp": "2026-09-10T17:22:40Z",
-    "file": "en/69.wiki",
+    "file": "en/Training data.wiki",
     "sha256": "1828126fa3a499e2710f97582e66a1422baed8c3f7957e3d2d565117f62ef5aa",
     "url": "https://en.wiki.isit-europe.org/nr/Training_data"
   },
@@ -4109,7 +4109,7 @@
     "namespace": 0,
     "revision": 54,
     "timestamp": "2026-08-06T05:35:00Z",
-    "file": "en/42.wiki",
+    "file": "en/Vendor lock-in.wiki",
     "sha256": "ef6d46ce1222f877e633ff63d460d70eb71fdee0f04701e69891d1b7ad3bc100",
     "url": "https://en.wiki.isit-europe.org/nr/Vendor_lock-in"
   },
@@ -4120,7 +4120,7 @@
     "namespace": 0,
     "revision": 29,
     "timestamp": "2026-08-06T05:19:32Z",
-    "file": "en/24.wiki",
+    "file": "en/WCAG.wiki",
     "sha256": "7ab75648cab18590fe1b69766b398daba76f00980df82e988896f34cee41b5ec",
     "url": "https://en.wiki.isit-europe.org/nr/WCAG"
   },
@@ -4131,7 +4131,7 @@
     "namespace": 0,
     "revision": 78,
     "timestamp": "2026-08-06T18:22:22Z",
-    "file": "en/57.wiki",
+    "file": "en/WeNR.wiki",
     "sha256": "5ce031320206c08c9495a9985a00eae8914535a49a70dda43fe8d1fb43f3bc99",
     "url": "https://en.wiki.isit-europe.org/nr/WeNR"
   },
@@ -4142,7 +4142,7 @@
     "namespace": 14,
     "revision": 12,
     "timestamp": "2026-08-06T05:19:27Z",
-    "file": "en/7.wiki",
+    "file": "en/Category-Accessibility.wiki",
     "sha256": "56ac6bfeca04eac3f05a5e9ac9d47d8a0b1c1bc4a787c61722d18b7a0cb53000",
     "url": "https://en.wiki.isit-europe.org/nr/Category%3AAccessibility"
   },
@@ -4153,7 +4153,7 @@
     "namespace": 14,
     "revision": 13,
     "timestamp": "2026-08-06T05:19:28Z",
-    "file": "en/8.wiki",
+    "file": "en/Category-Artificial intelligence.wiki",
     "sha256": "36b110eab18864c8d91e9eda6d6dbe4ed8fc7d684ea4a7c37175df714dd69c11",
     "url": "https://en.wiki.isit-europe.org/nr/Category%3AArtificial_intelligence"
   },
@@ -4164,7 +4164,7 @@
     "namespace": 14,
     "revision": 10,
     "timestamp": "2026-08-06T05:19:27Z",
-    "file": "en/5.wiki",
+    "file": "en/Category-Concepts.wiki",
     "sha256": "8beecff534a5c47611f51677935433770aaaeabb242f900e74354ddfbc8d1356",
     "url": "https://en.wiki.isit-europe.org/nr/Category%3AConcepts"
   },
@@ -4175,7 +4175,7 @@
     "namespace": 14,
     "revision": 11,
     "timestamp": "2026-08-06T05:19:27Z",
-    "file": "en/6.wiki",
+    "file": "en/Category-Frameworks and methods.wiki",
     "sha256": "7a2917cf4ca2e5ab55b51341e62137e56083dd1c6b44b939b4b913024dc2a992",
     "url": "https://en.wiki.isit-europe.org/nr/Category%3AFrameworks_and_methods"
   },
@@ -4186,7 +4186,7 @@
     "namespace": 14,
     "revision": 14,
     "timestamp": "2026-08-06T05:19:28Z",
-    "file": "en/9.wiki",
+    "file": "en/Category-Regulation.wiki",
     "sha256": "13b0c5f79fa91d14ed3172d8928f6db80287598db3041a98f404dd9e0ed83dc8",
     "url": "https://en.wiki.isit-europe.org/nr/Category%3ARegulation"
   },
@@ -4197,7 +4197,7 @@
     "namespace": 0,
     "revision": 84,
     "timestamp": "2026-09-11T08:08:47Z",
-    "file": "es/49.wiki",
+    "file": "es/AI Act.wiki",
     "sha256": "10591a6183262e44d865406f97b4b2e72873e4540431e054e787f8d394ad2ef8",
     "url": "https://es.wiki.isit-europe.org/nr/AI_Act"
   },
@@ -4208,7 +4208,7 @@
     "namespace": 0,
     "revision": 21,
     "timestamp": "2026-08-06T17:35:55Z",
-    "file": "es/19.wiki",
+    "file": "es/Abiótico.wiki",
     "sha256": "f45abef71f084781ecd993cec563272ca2f30c684d86048ae3c31484f0011d1f",
     "url": "https://es.wiki.isit-europe.org/nr/Abi%C3%B3tico"
   },
@@ -4219,7 +4219,7 @@
     "namespace": 0,
     "revision": 78,
     "timestamp": "2026-09-10T17:15:15Z",
-    "file": "es/44.wiki",
+    "file": "es/Ajuste fino.wiki",
     "sha256": "ef3b29e7a990f664521ff312578c8d4a7d9f5bbd874af95a000dc1e66f6689f3",
     "url": "https://es.wiki.isit-europe.org/nr/Ajuste_fino"
   },
@@ -4230,7 +4230,7 @@
     "namespace": 0,
     "revision": 72,
     "timestamp": "2026-09-10T17:15:13Z",
-    "file": "es/38.wiki",
+    "file": "es/Algoritmo.wiki",
     "sha256": "ff33d73e74cba0e106f5d1fa1fcb42a7579219ebb44cbbf66103aac8343b9495",
     "url": "https://es.wiki.isit-europe.org/nr/Algoritmo"
   },
@@ -4241,7 +4241,7 @@
     "namespace": 0,
     "revision": 35,
     "timestamp": "2026-08-06T18:33:06Z",
-    "file": "es/3.wiki",
+    "file": "es/Análisis del Ciclo de Vida.wiki",
     "sha256": "5c96635942e393090a4cda77d0f72f77b7e1a6d31fc6804727da5de978138d2c",
     "url": "https://es.wiki.isit-europe.org/nr/An%C3%A1lisis_del_Ciclo_de_Vida"
   },
@@ -4252,7 +4252,7 @@
     "namespace": 0,
     "revision": 73,
     "timestamp": "2026-09-10T17:15:13Z",
-    "file": "es/39.wiki",
+    "file": "es/Aprendizaje automático.wiki",
     "sha256": "9b4d6b29c8fe59bca47e7fcc5fed523065f7aae0b6b09a23f716d8cfc0a87dea",
     "url": "https://es.wiki.isit-europe.org/nr/Aprendizaje_autom%C3%A1tico"
   },
@@ -4263,7 +4263,7 @@
     "namespace": 0,
     "revision": 74,
     "timestamp": "2026-09-10T17:15:13Z",
-    "file": "es/40.wiki",
+    "file": "es/Aprendizaje profundo.wiki",
     "sha256": "c8193df1309f382377fa129865ca30c281e8168210fa9df336cda7cc72286afe",
     "url": "https://es.wiki.isit-europe.org/nr/Aprendizaje_profundo"
   },
@@ -4274,7 +4274,7 @@
     "namespace": 0,
     "revision": 67,
     "timestamp": "2026-08-18T10:39:03Z",
-    "file": "es/34.wiki",
+    "file": "es/Bien común digital.wiki",
     "sha256": "a1f67dd723a875e8eb21b434f80aa414079bf20e3bb74dbd2f5316abafa92127",
     "url": "https://es.wiki.isit-europe.org/nr/Bien_com%C3%BAn_digital"
   },
@@ -4285,7 +4285,7 @@
     "namespace": 0,
     "revision": 77,
     "timestamp": "2026-09-10T17:15:14Z",
-    "file": "es/43.wiki",
+    "file": "es/Caja negra.wiki",
     "sha256": "84b456fc2691ed9440e12aebb68c33b0b39258a2b3b6890d081d0a20f60ae476",
     "url": "https://es.wiki.isit-europe.org/nr/Caja_negra"
   },
@@ -4296,7 +4296,7 @@
     "namespace": 0,
     "revision": 60,
     "timestamp": "2026-08-08T09:43:17Z",
-    "file": "es/20.wiki",
+    "file": "es/Carbon Usage Effectiveness.wiki",
     "sha256": "80d2b5f836921d150591f552acf933c98980ced4153bb519ca317001488bafb5",
     "url": "https://es.wiki.isit-europe.org/nr/Carbon_Usage_Effectiveness"
   },
@@ -4307,7 +4307,7 @@
     "namespace": 0,
     "revision": 66,
     "timestamp": "2026-08-08T09:52:19Z",
-    "file": "es/14.wiki",
+    "file": "es/Carta de IA Responsable.wiki",
     "sha256": "6795a160b194234d5b9dc920a63c680f867b71d70722e57287eee9cab8eb538f",
     "url": "https://es.wiki.isit-europe.org/nr/Carta_de_IA_Responsable"
   },
@@ -4318,7 +4318,7 @@
     "namespace": 0,
     "revision": 65,
     "timestamp": "2026-08-08T09:52:19Z",
-    "file": "es/15.wiki",
+    "file": "es/Carta de TI Responsable.wiki",
     "sha256": "5cef7d64ef833ddfb6b1c6c92e20255b3c139fc0777907603d0687f275a01b17",
     "url": "https://es.wiki.isit-europe.org/nr/Carta_de_TI_Responsable"
   },
@@ -4329,7 +4329,7 @@
     "namespace": 0,
     "revision": 36,
     "timestamp": "2026-08-06T18:33:06Z",
-    "file": "es/4.wiki",
+    "file": "es/Centro de Datos.wiki",
     "sha256": "755d5f3b3e8643417e4e6aa715b00bf40df67caf2453f0e417c65162ca4149ef",
     "url": "https://es.wiki.isit-europe.org/nr/Centro_de_Datos"
   },
@@ -4340,7 +4340,7 @@
     "namespace": 0,
     "revision": 82,
     "timestamp": "2026-09-10T18:00:49Z",
-    "file": "es/48.wiki",
+    "file": "es/Ciberseguridad.wiki",
     "sha256": "826d323fefc7bb273923f68aee54d6d612a7bf50bedaeb9c382e3ea938fc0433",
     "url": "https://es.wiki.isit-europe.org/nr/Ciberseguridad"
   },
@@ -4351,7 +4351,7 @@
     "namespace": 0,
     "revision": 85,
     "timestamp": "2026-09-11T08:08:48Z",
-    "file": "es/50.wiki",
+    "file": "es/Códigos de conducta y de buenas prácticas de IA.wiki",
     "sha256": "744da9306cbe47a795006fa78e60f6084a5ae034a641913b4ba6e9d8b7005e78",
     "url": "https://es.wiki.isit-europe.org/nr/C%C3%B3digos_de_conducta_y_de_buenas_pr%C3%A1cticas_de_IA"
   },
@@ -4362,7 +4362,7 @@
     "namespace": 0,
     "revision": 61,
     "timestamp": "2026-08-08T09:48:07Z",
-    "file": "es/32.wiki",
+    "file": "es/Dark pattern.wiki",
     "sha256": "5ac77ce3a0e852de5ee6b7e05bcff5716b2f2511b1e5eecf37994cd487c81407",
     "url": "https://es.wiki.isit-europe.org/nr/Dark_pattern"
   },
@@ -4373,7 +4373,7 @@
     "namespace": 0,
     "revision": 76,
     "timestamp": "2026-09-10T17:15:14Z",
-    "file": "es/42.wiki",
+    "file": "es/Datos de entrenamiento.wiki",
     "sha256": "1d6183950f8884207d03350b82b15e7e9267355956d14ade4d254f3c081264e4",
     "url": "https://es.wiki.isit-europe.org/nr/Datos_de_entrenamiento"
   },
@@ -4384,7 +4384,7 @@
     "namespace": 0,
     "revision": 57,
     "timestamp": "2026-08-08T09:37:20Z",
-    "file": "es/5.wiki",
+    "file": "es/Ecodiseño.wiki",
     "sha256": "36c6eca005f145533fbea8f635a77cab1e9857579f994253d008edf80ab6af5b",
     "url": "https://es.wiki.isit-europe.org/nr/Ecodise%C3%B1o"
   },
@@ -4395,7 +4395,7 @@
     "namespace": 0,
     "revision": 38,
     "timestamp": "2026-08-06T18:33:07Z",
-    "file": "es/21.wiki",
+    "file": "es/Economía Circular.wiki",
     "sha256": "666abf1b795578200f89d715a50677fad67b26a31f9099afa7e693fd9e57b775",
     "url": "https://es.wiki.isit-europe.org/nr/Econom%C3%ADa_Circular"
   },
@@ -4406,7 +4406,7 @@
     "namespace": 0,
     "revision": 39,
     "timestamp": "2026-08-06T18:33:07Z",
-    "file": "es/6.wiki",
+    "file": "es/Efecto Rebote.wiki",
     "sha256": "722927f25d22b46511ed08373802c0d129328497188e4808289ac89512a0dea9",
     "url": "https://es.wiki.isit-europe.org/nr/Efecto_Rebote"
   },
@@ -4417,7 +4417,7 @@
     "namespace": 0,
     "revision": 52,
     "timestamp": "2026-08-06T18:49:11Z",
-    "file": "es/22.wiki",
+    "file": "es/Fabricación.wiki",
     "sha256": "6a887f62228176d1f8bef54be539d6f6f3590fa724ea06fac1f6022c7684e74c",
     "url": "https://es.wiki.isit-europe.org/nr/Fabricaci%C3%B3n"
   },
@@ -4428,7 +4428,7 @@
     "namespace": 0,
     "revision": 53,
     "timestamp": "2026-08-06T18:56:52Z",
-    "file": "es/7.wiki",
+    "file": "es/Fin de Vida.wiki",
     "sha256": "a219c01d9825730ee7018f859ad089b007cf39e13cffef84c64b08dff98ecb65",
     "url": "https://es.wiki.isit-europe.org/nr/Fin_de_Vida"
   },
@@ -4439,7 +4439,7 @@
     "namespace": 0,
     "revision": 62,
     "timestamp": "2026-08-08T09:51:33Z",
-    "file": "es/33.wiki",
+    "file": "es/Green IT.wiki",
     "sha256": "d461a51f0ab62fd6c1d589c7b64599adce1dc29aa178e42cd47a92857baf02ad",
     "url": "https://es.wiki.isit-europe.org/nr/Green_IT"
   },
@@ -4450,7 +4450,7 @@
     "namespace": 0,
     "revision": 25,
     "timestamp": "2026-08-06T17:35:56Z",
-    "file": "es/23.wiki",
+    "file": "es/Huella de Agua.wiki",
     "sha256": "5a3602a47f1a24cfbed68964e9e9078fcd9e4dd54bdc396c9d4dffd1720620ad",
     "url": "https://es.wiki.isit-europe.org/nr/Huella_de_Agua"
   },
@@ -4461,7 +4461,7 @@
     "namespace": 0,
     "revision": 42,
     "timestamp": "2026-08-06T18:33:08Z",
-    "file": "es/8.wiki",
+    "file": "es/Huella de Carbono.wiki",
     "sha256": "64d387ec81098ad5a1551bcfa0f5bbac459b8b0670a88afd96c26e4100ab3f52",
     "url": "https://es.wiki.isit-europe.org/nr/Huella_de_Carbono"
   },
@@ -4472,7 +4472,7 @@
     "namespace": 0,
     "revision": 43,
     "timestamp": "2026-08-06T18:33:09Z",
-    "file": "es/16.wiki",
+    "file": "es/IA Responsable.wiki",
     "sha256": "951756608ef78e7806a80dbabc29146d0f26808a11ef7a2da40c595ed33993cb",
     "url": "https://es.wiki.isit-europe.org/nr/IA_Responsable"
   },
@@ -4483,7 +4483,7 @@
     "namespace": 0,
     "revision": 55,
     "timestamp": "2026-08-08T09:31:28Z",
-    "file": "es/30.wiki",
+    "file": "es/ISO-IEC TS 20125.wiki",
     "sha256": "cd9656b0fcb58a015b9c0cc85659af6bcbcb8bf798ab36a3f50676bb3bf0ee24",
     "url": "https://es.wiki.isit-europe.org/nr/ISO%2FIEC_TS_20125"
   },
@@ -4494,7 +4494,7 @@
     "namespace": 0,
     "revision": 56,
     "timestamp": "2026-08-08T09:31:28Z",
-    "file": "es/31.wiki",
+    "file": "es/ISO 20125.wiki",
     "sha256": "6658e063fe62e4d74a628f17a378174ce1b6e5c3c9ad94d233272f0cb6812fd7",
     "url": "https://es.wiki.isit-europe.org/nr/ISO_20125"
   },
@@ -4505,7 +4505,7 @@
     "namespace": 0,
     "revision": 9,
     "timestamp": "2026-08-06T12:47:53Z",
-    "file": "es/9.wiki",
+    "file": "es/Instituto de TI Responsable.wiki",
     "sha256": "6f09264ed56de52326a9552d0d3efcea88949948f249d2a0a4451cce3092753c",
     "url": "https://es.wiki.isit-europe.org/nr/Instituto_de_TI_Responsable"
   },
@@ -4516,7 +4516,7 @@
     "namespace": 0,
     "revision": 75,
     "timestamp": "2026-09-10T17:15:14Z",
-    "file": "es/41.wiki",
+    "file": "es/Modelo de inteligencia artificial.wiki",
     "sha256": "26b8073afd144d1340459342164f556e83c5a0dedb16d276c0eff23254e700bd",
     "url": "https://es.wiki.isit-europe.org/nr/Modelo_de_inteligencia_artificial"
   },
@@ -4527,7 +4527,7 @@
     "namespace": 0,
     "revision": 44,
     "timestamp": "2026-08-06T18:33:09Z",
-    "file": "es/10.wiki",
+    "file": "es/Obsolescencia Programada.wiki",
     "sha256": "ac96757b660ef0513ea7c2b566f8e4c9cf87faa3e3648ca3398881231b1633c8",
     "url": "https://es.wiki.isit-europe.org/nr/Obsolescencia_Programada"
   },
@@ -4538,7 +4538,7 @@
     "namespace": 0,
     "revision": 20,
     "timestamp": "2026-08-06T14:53:40Z",
-    "file": "es/1.wiki",
+    "file": "es/Portada.wiki",
     "sha256": "2ec913e8e3eeeec829dfaeb2d4aeac22a5bf9de39296520986be70d5add15d6d",
     "url": "https://es.wiki.isit-europe.org/nr/Portada"
   },
@@ -4549,7 +4549,7 @@
     "namespace": 0,
     "revision": 54,
     "timestamp": "2026-08-06T19:05:22Z",
-    "file": "es/25.wiki",
+    "file": "es/Power Usage Effectiveness.wiki",
     "sha256": "7cf18116b07ad591e4593bffc19e1dfb901b0328c402aca6e0d45436cd54f822",
     "url": "https://es.wiki.isit-europe.org/nr/Power_Usage_Effectiveness"
   },
@@ -4560,7 +4560,7 @@
     "namespace": 0,
     "revision": 79,
     "timestamp": "2026-09-10T17:15:15Z",
-    "file": "es/45.wiki",
+    "file": "es/Prompting contextual.wiki",
     "sha256": "d9176f89945b91d8d61f1b7598c27484071ee0eab57778b6ea9ba3ec8c810249",
     "url": "https://es.wiki.isit-europe.org/nr/Prompting_contextual"
   },
@@ -4571,7 +4571,7 @@
     "namespace": 0,
     "revision": 80,
     "timestamp": "2026-09-10T17:15:15Z",
-    "file": "es/46.wiki",
+    "file": "es/RAG.wiki",
     "sha256": "3e9b7c4b23f347452b94ddfc9b40f1e14826c11d6e26b7bef402ac3fd4a2ea93",
     "url": "https://es.wiki.isit-europe.org/nr/RAG"
   },
@@ -4582,7 +4582,7 @@
     "namespace": 0,
     "revision": 58,
     "timestamp": "2026-08-08T09:37:20Z",
-    "file": "es/17.wiki",
+    "file": "es/RGESN.wiki",
     "sha256": "c55ba7106b1f83d16439e1642015682cb72deaa58041911c89e5f6b54b0d884e",
     "url": "https://es.wiki.isit-europe.org/nr/RGESN"
   },
@@ -4593,7 +4593,7 @@
     "namespace": 0,
     "revision": 28,
     "timestamp": "2026-08-06T17:35:57Z",
-    "file": "es/26.wiki",
+    "file": "es/Reacondicionamiento.wiki",
     "sha256": "007420a46966eeaeed3c33919fd68842846096270554ddb675425d91ef2a5356",
     "url": "https://es.wiki.isit-europe.org/nr/Reacondicionamiento"
   },
@@ -4604,7 +4604,7 @@
     "namespace": 0,
     "revision": 29,
     "timestamp": "2026-08-06T17:35:57Z",
-    "file": "es/27.wiki",
+    "file": "es/Reutilización.wiki",
     "sha256": "332f03ec39c9f6cbad47f4b7b30f0b477d4aece7bf6835ae7a8d651b8f927d89",
     "url": "https://es.wiki.isit-europe.org/nr/Reutilizaci%C3%B3n"
   },
@@ -4615,7 +4615,7 @@
     "namespace": 0,
     "revision": 81,
     "timestamp": "2026-09-10T17:15:16Z",
-    "file": "es/47.wiki",
+    "file": "es/SLM.wiki",
     "sha256": "ff28b815ed97b1ba0415084750a7f483e1b444f52b4874ab4b7a886af4899021",
     "url": "https://es.wiki.isit-europe.org/nr/SLM"
   },
@@ -4626,7 +4626,7 @@
     "namespace": 0,
     "revision": 46,
     "timestamp": "2026-08-06T18:33:10Z",
-    "file": "es/18.wiki",
+    "file": "es/Soberanía Digital.wiki",
     "sha256": "1ce9ff2eae4ed0f0e74cabb69e6340a70677caef18c3a1688a7498f6b9701ddd",
     "url": "https://es.wiki.isit-europe.org/nr/Soberan%C3%ADa_Digital"
   },
@@ -4637,7 +4637,7 @@
     "namespace": 0,
     "revision": 47,
     "timestamp": "2026-08-06T18:33:10Z",
-    "file": "es/11.wiki",
+    "file": "es/Sobriedad Digital.wiki",
     "sha256": "fc4d7065131858854b8a3d0949d0ae44a506578c17643b7dfa25b0cf7eaae2ed",
     "url": "https://es.wiki.isit-europe.org/nr/Sobriedad_Digital"
   },
@@ -4648,7 +4648,7 @@
     "namespace": 0,
     "revision": 83,
     "timestamp": "2026-09-10T18:01:54Z",
-    "file": "es/12.wiki",
+    "file": "es/TI Responsable.wiki",
     "sha256": "8e46733c8378e139e509756053328bab88d8cb44e0e479dfd1795e621ba41e3b",
     "url": "https://es.wiki.isit-europe.org/nr/TI_Responsable"
   },
@@ -4659,7 +4659,7 @@
     "namespace": 0,
     "revision": 59,
     "timestamp": "2026-08-08T09:43:16Z",
-    "file": "es/28.wiki",
+    "file": "es/Water Usage Effectiveness.wiki",
     "sha256": "08d44384812defad62de7d379f8a2cd887b83b2184fe97fa21a5df559b1b418d",
     "url": "https://es.wiki.isit-europe.org/nr/Water_Usage_Effectiveness"
   },
@@ -4670,7 +4670,7 @@
     "namespace": 0,
     "revision": 34,
     "timestamp": "2026-08-06T18:22:22Z",
-    "file": "es/29.wiki",
+    "file": "es/WeNR.wiki",
     "sha256": "1899469625944c21949c7cd51fac6d13d16aa96002f5f8640feb07149fe2efd9",
     "url": "https://es.wiki.isit-europe.org/nr/WeNR"
   },
@@ -4681,7 +4681,7 @@
     "namespace": 0,
     "revision": 26,
     "timestamp": "2026-08-06T17:35:57Z",
-    "file": "es/24.wiki",
+    "file": "es/Índice de Reparabilidad.wiki",
     "sha256": "3469f64711a672a2c9152edca722392291bdd4c582fd6539cd885453e8522e08",
     "url": "https://es.wiki.isit-europe.org/nr/%C3%8Dndice_de_Reparabilidad"
   },
@@ -4692,7 +4692,7 @@
     "namespace": 0,
     "revision": 51,
     "timestamp": "2026-08-06T18:40:36Z",
-    "file": "de/2.wiki",
+    "file": "de/3U.wiki",
     "sha256": "7449897e32d5ca24835e2431fb3c483bffbccb1bd1ed3aa9a2c4da8d72b51fd6",
     "url": "https://de.wiki.isit-europe.org/nr/3U"
   },
@@ -4703,7 +4703,7 @@
     "namespace": 0,
     "revision": 19,
     "timestamp": "2026-08-06T18:09:01Z",
-    "file": "de/13.wiki",
+    "file": "de/3uHauptseite.wiki",
     "sha256": "e804ec6dba79a5cba7c581b4cb80737af290e8cfb0ea1ecadd0c3c51dbcb26c0",
     "url": "https://de.wiki.isit-europe.org/nr/3uHauptseite"
   },
@@ -4714,7 +4714,7 @@
     "namespace": 0,
     "revision": 94,
     "timestamp": "2026-09-11T08:08:48Z",
-    "file": "de/48.wiki",
+    "file": "de/AI Act.wiki",
     "sha256": "59f59a3ecb658f4a3d06b647f4f213524dd1b956397effafe697673e69420caf",
     "url": "https://de.wiki.isit-europe.org/nr/AI_Act"
   },
@@ -4725,7 +4725,7 @@
     "namespace": 0,
     "revision": 82,
     "timestamp": "2026-09-10T17:15:16Z",
-    "file": "de/37.wiki",
+    "file": "de/Algorithmus.wiki",
     "sha256": "3698621d8de604cfda27fde0c37c2d39ab7ccbf83f20372939215634ec4dab32",
     "url": "https://de.wiki.isit-europe.org/nr/Algorithmus"
   },
@@ -4736,7 +4736,7 @@
     "namespace": 0,
     "revision": 87,
     "timestamp": "2026-09-10T17:15:18Z",
-    "file": "de/42.wiki",
+    "file": "de/Blackbox.wiki",
     "sha256": "0cb1b066af7efdb8bbdc28aeb4daadf4098789cce2e6fc8ab960d6190b0ef89b",
     "url": "https://de.wiki.isit-europe.org/nr/Blackbox"
   },
@@ -4747,7 +4747,7 @@
     "namespace": 0,
     "revision": 56,
     "timestamp": "2026-08-06T18:40:38Z",
-    "file": "de/15.wiki",
+    "file": "de/CO₂-Fußabdruck.wiki",
     "sha256": "5822437b3187318bd24b6fe808defe01fbd4b988b033a3b0f1a3dab160bb8040",
     "url": "https://de.wiki.isit-europe.org/nr/CO%E2%82%82-Fu%C3%9Fabdruck"
   },
@@ -4758,7 +4758,7 @@
     "namespace": 0,
     "revision": 44,
     "timestamp": "2026-08-06T18:40:34Z",
-    "file": "de/26.wiki",
+    "file": "de/Charta der nachhaltigen IT.wiki",
     "sha256": "8a425ae0b81e2b8d90437e996a3c1c861d356a680c55a4177217f5cc5db6a103",
     "url": "https://de.wiki.isit-europe.org/nr/Charta_der_nachhaltigen_IT"
   },
@@ -4769,7 +4769,7 @@
     "namespace": 0,
     "revision": 46,
     "timestamp": "2026-08-06T18:40:34Z",
-    "file": "de/27.wiki",
+    "file": "de/Charta der verantwortungsvollen KI.wiki",
     "sha256": "1fc0bc18768e53b6ca11da0228fb5062f49085092bb6c40855657056afa54b10",
     "url": "https://de.wiki.isit-europe.org/nr/Charta_der_verantwortungsvollen_KI"
   },
@@ -4780,7 +4780,7 @@
     "namespace": 0,
     "revision": 76,
     "timestamp": "2026-08-08T09:52:03Z",
-    "file": "de/7.wiki",
+    "file": "de/Charta für verantwortungsvolle Digitalisierung.wiki",
     "sha256": "6f07032bc16ee170ff3695fecb380636b92b778a4dcb7c8d7f7858090cd0e586",
     "url": "https://de.wiki.isit-europe.org/nr/Charta_f%C3%BCr_verantwortungsvolle_Digitalisierung"
   },
@@ -4791,7 +4791,7 @@
     "namespace": 0,
     "revision": 92,
     "timestamp": "2026-09-10T18:00:49Z",
-    "file": "de/47.wiki",
+    "file": "de/Cybersicherheit.wiki",
     "sha256": "cfdbd26bc8efcd17e83de424f16a73cf37722079ac4250166f8a97e2c213bd3f",
     "url": "https://de.wiki.isit-europe.org/nr/Cybersicherheit"
   },
@@ -4802,7 +4802,7 @@
     "namespace": 0,
     "revision": 72,
     "timestamp": "2026-08-08T09:48:07Z",
-    "file": "de/31.wiki",
+    "file": "de/Dark Pattern.wiki",
     "sha256": "6d72705484c12d4072d913f9526f71c855d96264458495dc9db15b1441a2aa43",
     "url": "https://de.wiki.isit-europe.org/nr/Dark_Pattern"
   },
@@ -4813,7 +4813,7 @@
     "namespace": 0,
     "revision": 84,
     "timestamp": "2026-09-10T17:15:17Z",
-    "file": "de/39.wiki",
+    "file": "de/Deep Learning.wiki",
     "sha256": "6f9686c5969ef290956acb842df5b02c20bb1a7cd3fdb25322c89f0224ec8832",
     "url": "https://de.wiki.isit-europe.org/nr/Deep_Learning"
   },
@@ -4824,7 +4824,7 @@
     "namespace": 0,
     "revision": 63,
     "timestamp": "2026-08-06T18:41:29Z",
-    "file": "de/16.wiki",
+    "file": "de/Digitale Barrierefreiheit.wiki",
     "sha256": "5c871081296d5826392f81da28e4b50373fe4b33ff1cb0785574560796843206",
     "url": "https://de.wiki.isit-europe.org/nr/Digitale_Barrierefreiheit"
   },
@@ -4835,7 +4835,7 @@
     "namespace": 0,
     "revision": 77,
     "timestamp": "2026-08-18T10:28:01Z",
-    "file": "de/33.wiki",
+    "file": "de/Digitale Gemeingüter.wiki",
     "sha256": "db0028275c157850d26ac487bd459224c6e2e9056d155fd0fce30f035033602a",
     "url": "https://de.wiki.isit-europe.org/nr/Digitale_Gemeing%C3%BCter"
   },
@@ -4846,7 +4846,7 @@
     "namespace": 0,
     "revision": 52,
     "timestamp": "2026-08-06T18:40:36Z",
-    "file": "de/9.wiki",
+    "file": "de/Digitale Souveränität.wiki",
     "sha256": "2a57979e407e61b5ec08e4733594df4a23c90317e670bdc463c5af74e1c6cd29",
     "url": "https://de.wiki.isit-europe.org/nr/Digitale_Souver%C3%A4nit%C3%A4t"
   },
@@ -4857,7 +4857,7 @@
     "namespace": 0,
     "revision": 53,
     "timestamp": "2026-08-06T18:40:37Z",
-    "file": "de/10.wiki",
+    "file": "de/Digitale Suffizienz.wiki",
     "sha256": "5350c6e5cc58749522fdcf19b8aa0b93e0e494034895da99d32d723af78be636",
     "url": "https://de.wiki.isit-europe.org/nr/Digitale_Suffizienz"
   },
@@ -4868,7 +4868,7 @@
     "namespace": 0,
     "revision": 88,
     "timestamp": "2026-09-10T17:15:18Z",
-    "file": "de/43.wiki",
+    "file": "de/Fine-Tuning.wiki",
     "sha256": "b03430378cd149625043e9d67e1382952c73e3174a59cf532e9678e4edaca65c",
     "url": "https://de.wiki.isit-europe.org/nr/Fine-Tuning"
   },
@@ -4879,7 +4879,7 @@
     "namespace": 0,
     "revision": 58,
     "timestamp": "2026-08-06T18:40:39Z",
-    "file": "de/17.wiki",
+    "file": "de/Geplante Obsoleszenz.wiki",
     "sha256": "e6da28dce2578eb34b105935d3f888f6317ae169ade2ce20bceed46f4d5ef377",
     "url": "https://de.wiki.isit-europe.org/nr/Geplante_Obsoleszenz"
   },
@@ -4890,7 +4890,7 @@
     "namespace": 0,
     "revision": 74,
     "timestamp": "2026-08-08T09:51:33Z",
-    "file": "de/32.wiki",
+    "file": "de/Green IT.wiki",
     "sha256": "3d6d46cad1ea6c9098e415e459cae68bbec1219267004fc3ed1439ba5dedcaba",
     "url": "https://de.wiki.isit-europe.org/nr/Green_IT"
   },
@@ -4901,7 +4901,7 @@
     "namespace": 0,
     "revision": 64,
     "timestamp": "2026-08-06T18:41:29Z",
-    "file": "de/1.wiki",
+    "file": "de/Hauptseite.wiki",
     "sha256": "8dc99e76f5c1308330a059d0809141a7ae71e7a5b5d7f0dbcb8697273eeeb7c9",
     "url": "https://de.wiki.isit-europe.org/nr/Hauptseite"
   },
@@ -4912,7 +4912,7 @@
     "namespace": 0,
     "revision": 65,
     "timestamp": "2026-08-06T18:48:12Z",
-    "file": "de/18.wiki",
+    "file": "de/Herstellung.wiki",
     "sha256": "4c1c58413700b408ca428911426d56978f96c482cc426b84949f1245c95bbd73",
     "url": "https://de.wiki.isit-europe.org/nr/Herstellung"
   },
@@ -4923,7 +4923,7 @@
     "namespace": 0,
     "revision": 68,
     "timestamp": "2026-08-08T09:31:27Z",
-    "file": "de/29.wiki",
+    "file": "de/ISO-IEC TS 20125.wiki",
     "sha256": "034f01ee518f657ec7e36f31f91b2fc85c27144bf1c048c2278695966fc44b06",
     "url": "https://de.wiki.isit-europe.org/nr/ISO%2FIEC_TS_20125"
   },
@@ -4934,7 +4934,7 @@
     "namespace": 0,
     "revision": 69,
     "timestamp": "2026-08-08T09:31:28Z",
-    "file": "de/30.wiki",
+    "file": "de/ISO 20125.wiki",
     "sha256": "6658e063fe62e4d74a628f17a378174ce1b6e5c3c9ad94d233272f0cb6812fd7",
     "url": "https://de.wiki.isit-europe.org/nr/ISO_20125"
   },
@@ -4945,7 +4945,7 @@
     "namespace": 0,
     "revision": 75,
     "timestamp": "2026-08-08T09:52:01Z",
-    "file": "de/8.wiki",
+    "file": "de/KI-Charta.wiki",
     "sha256": "dd46c5d9866bfeb3766f6e50586cb15189bcde8dc82c3dd484f16228dfdb8166",
     "url": "https://de.wiki.isit-europe.org/nr/KI-Charta"
   },
@@ -4956,7 +4956,7 @@
     "namespace": 0,
     "revision": 85,
     "timestamp": "2026-09-10T17:15:17Z",
-    "file": "de/40.wiki",
+    "file": "de/KI-Modell.wiki",
     "sha256": "b449e8c44801f1c0f7ed0c6b3c15eabc56d3299a45ded69dd76c9a901a051c2b",
     "url": "https://de.wiki.isit-europe.org/nr/KI-Modell"
   },
@@ -4967,7 +4967,7 @@
     "namespace": 0,
     "revision": 89,
     "timestamp": "2026-09-10T17:15:19Z",
-    "file": "de/44.wiki",
+    "file": "de/Kontextuelles Prompting.wiki",
     "sha256": "2c557c18b88c70c20a5802ef4f87384d7f331b59216b0e04d039fabe42089ba3",
     "url": "https://de.wiki.isit-europe.org/nr/Kontextuelles_Prompting"
   },
@@ -4978,7 +4978,7 @@
     "namespace": 0,
     "revision": 29,
     "timestamp": "2026-08-06T18:27:12Z",
-    "file": "de/19.wiki",
+    "file": "de/Kreislaufwirtschaft.wiki",
     "sha256": "430f9782d9be584f226332b4e720c3e9b57ff07abe060526d1c57cce677e3773",
     "url": "https://de.wiki.isit-europe.org/nr/Kreislaufwirtschaft"
   },
@@ -4989,7 +4989,7 @@
     "namespace": 0,
     "revision": 66,
     "timestamp": "2026-08-06T18:56:51Z",
-    "file": "de/20.wiki",
+    "file": "de/Lebensende.wiki",
     "sha256": "9aaaa978ec7c99e25ef21ce060ce4bef6c46e2942bb0fe2c5bd5d8dc9a1e48c9",
     "url": "https://de.wiki.isit-europe.org/nr/Lebensende"
   },
@@ -5000,7 +5000,7 @@
     "namespace": 0,
     "revision": 83,
     "timestamp": "2026-09-10T17:15:16Z",
-    "file": "de/38.wiki",
+    "file": "de/Maschinelles Lernen.wiki",
     "sha256": "fa038857e24f0379d6566a7a8a6c6093cf74b5918723cb48ae28d37a2c98b503",
     "url": "https://de.wiki.isit-europe.org/nr/Maschinelles_Lernen"
   },
@@ -5011,7 +5011,7 @@
     "namespace": 0,
     "revision": 42,
     "timestamp": "2026-08-06T18:40:34Z",
-    "file": "de/25.wiki",
+    "file": "de/Nachhaltige IT.wiki",
     "sha256": "5e661782f5cd8cf1d155206f74221109d68406492da9032e42fa1d0f0ee113ff",
     "url": "https://de.wiki.isit-europe.org/nr/Nachhaltige_IT"
   },
@@ -5022,7 +5022,7 @@
     "namespace": 0,
     "revision": 67,
     "timestamp": "2026-08-06T19:05:21Z",
-    "file": "de/28.wiki",
+    "file": "de/Power Usage Effectiveness.wiki",
     "sha256": "cb05080018e8e657c2a590822cf26c7ebbd1f4cba7aba336154b17acb105a57b",
     "url": "https://de.wiki.isit-europe.org/nr/Power_Usage_Effectiveness"
   },
@@ -5033,7 +5033,7 @@
     "namespace": 0,
     "revision": 90,
     "timestamp": "2026-09-10T17:15:19Z",
-    "file": "de/45.wiki",
+    "file": "de/RAG.wiki",
     "sha256": "551300480edcb9460efe8b58ce082660b6868522d85fea9293083ebe056965a9",
     "url": "https://de.wiki.isit-europe.org/nr/RAG"
   },
@@ -5044,7 +5044,7 @@
     "namespace": 0,
     "revision": 71,
     "timestamp": "2026-08-08T09:37:19Z",
-    "file": "de/12.wiki",
+    "file": "de/RGESN.wiki",
     "sha256": "108e9fdb7e281ca1a3e36c863cfdf0ed5189b0bd004f90c2deb24233b276f033",
     "url": "https://de.wiki.isit-europe.org/nr/RGESN"
   },
@@ -5055,7 +5055,7 @@
     "namespace": 0,
     "revision": 62,
     "timestamp": "2026-08-06T18:40:41Z",
-    "file": "de/23.wiki",
+    "file": "de/Rebound-Effekt.wiki",
     "sha256": "e87c361c52d081d5e4c1204beba17cf9e2ce9cd03af35b0a69909d96bdec4f94",
     "url": "https://de.wiki.isit-europe.org/nr/Rebound-Effekt"
   },
@@ -5066,7 +5066,7 @@
     "namespace": 0,
     "revision": 34,
     "timestamp": "2026-08-06T18:27:14Z",
-    "file": "de/24.wiki",
+    "file": "de/Rechenzentrum.wiki",
     "sha256": "56160a59bd377354817f044de2cd051c20499efc53167e4deebfff6f5292dabe",
     "url": "https://de.wiki.isit-europe.org/nr/Rechenzentrum"
   },
@@ -5077,7 +5077,7 @@
     "namespace": 0,
     "revision": 91,
     "timestamp": "2026-09-10T17:15:19Z",
-    "file": "de/46.wiki",
+    "file": "de/SLM.wiki",
     "sha256": "ea2ea90aa31e729b05d37747c0276ec44725e93b2dc8184e5da43d96516c9fd9",
     "url": "https://de.wiki.isit-europe.org/nr/SLM"
   },
@@ -5088,7 +5088,7 @@
     "namespace": 0,
     "revision": 86,
     "timestamp": "2026-09-10T17:15:17Z",
-    "file": "de/41.wiki",
+    "file": "de/Trainingsdaten.wiki",
     "sha256": "59e80e87eb88515a6fdd6d47f71fb754c6099dcf64271082ca383aada3d28d5f",
     "url": "https://de.wiki.isit-europe.org/nr/Trainingsdaten"
   },
@@ -5099,7 +5099,7 @@
     "namespace": 0,
     "revision": 93,
     "timestamp": "2026-09-10T18:01:55Z",
-    "file": "de/11.wiki",
+    "file": "de/Verantwortungsvolle Digitalisierung.wiki",
     "sha256": "67df95d5d0e13115ee7059b99b1995ce8881c257fef96ee41f5f3ff26b93999c",
     "url": "https://de.wiki.isit-europe.org/nr/Verantwortungsvolle_Digitalisierung"
   },
@@ -5110,7 +5110,7 @@
     "namespace": 0,
     "revision": 40,
     "timestamp": "2026-08-06T18:32:59Z",
-    "file": "de/5.wiki",
+    "file": "de/Verantwortungsvolle KI.wiki",
     "sha256": "9d92d30c5d905e80a342fac428cb3dd7dfdb54c6eac857d28dc4111ced78d053",
     "url": "https://de.wiki.isit-europe.org/nr/Verantwortungsvolle_KI"
   },
@@ -5121,7 +5121,7 @@
     "namespace": 0,
     "revision": 95,
     "timestamp": "2026-09-11T08:08:49Z",
-    "file": "de/49.wiki",
+    "file": "de/Verhaltenskodizes und Praxisleitfäden für KI.wiki",
     "sha256": "2f828989d24ff24f8bb04f013cc12b4857039ad6857666daaad9ba2e1b60edc4",
     "url": "https://de.wiki.isit-europe.org/nr/Verhaltenskodizes_und_Praxisleitf%C3%A4den_f%C3%BCr_KI"
   },
@@ -5132,7 +5132,7 @@
     "namespace": 0,
     "revision": 55,
     "timestamp": "2026-08-06T18:40:38Z",
-    "file": "de/14.wiki",
+    "file": "de/WeNR.wiki",
     "sha256": "f2ce469ae5e962fc302615f1fc020c6fb6ba08336bc5fb4b914f90a067dfbbc9",
     "url": "https://de.wiki.isit-europe.org/nr/WeNR"
   },
@@ -5143,7 +5143,7 @@
     "namespace": 0,
     "revision": 60,
     "timestamp": "2026-08-06T18:40:40Z",
-    "file": "de/21.wiki",
+    "file": "de/Ökobilanz.wiki",
     "sha256": "75247ae14fcaca633b6be8c9e7769be85a50e20ec3f6f047491148b988d194af",
     "url": "https://de.wiki.isit-europe.org/nr/%C3%96kobilanz"
   },
@@ -5154,7 +5154,7 @@
     "namespace": 0,
     "revision": 70,
     "timestamp": "2026-08-08T09:37:19Z",
-    "file": "de/22.wiki",
+    "file": "de/Ökodesign.wiki",
     "sha256": "cf48caa435e79c3cf8f2aeca0df7665327c34f559ab8e2ed7028e1a79e44aefe",
     "url": "https://de.wiki.isit-europe.org/nr/%C3%96kodesign"
   },
@@ -5165,7 +5165,7 @@
     "namespace": 0,
     "revision": 23,
     "timestamp": "2026-08-06T18:19:40Z",
-    "file": "nl/14.wiki",
+    "file": "nl/AI Act.wiki",
     "sha256": "810c3e480a5df551eca400db3e0b6e4b241f6c826a03b865ce25336e88b063f7",
     "url": "https://nl.wiki.isit-europe.org/nr/AI_Act"
   },
@@ -5176,7 +5176,7 @@
     "namespace": 0,
     "revision": 36,
     "timestamp": "2026-09-10T18:00:49Z",
-    "file": "nl/20.wiki",
+    "file": "nl/Cyberbeveiliging.wiki",
     "sha256": "6f06f501acfdaafdc21001ff5b818072e969e5b91ced81bf901cae5057979bb6",
     "url": "https://nl.wiki.isit-europe.org/nr/Cyberbeveiliging"
   },
@@ -5187,7 +5187,7 @@
     "namespace": 0,
     "revision": 8,
     "timestamp": "2026-08-06T14:52:16Z",
-    "file": "nl/6.wiki",
+    "file": "nl/Digitale soberheid.wiki",
     "sha256": "96e4de1bdff7c0717b2bc9c26288f10ac79016391c469c86a2ebb51ef9e80abf",
     "url": "https://nl.wiki.isit-europe.org/nr/Digitale_soberheid"
   },
@@ -5198,7 +5198,7 @@
     "namespace": 0,
     "revision": 9,
     "timestamp": "2026-08-06T14:52:16Z",
-    "file": "nl/7.wiki",
+    "file": "nl/Digitale soevereiniteit.wiki",
     "sha256": "dba671f06e798b5ff82decf3b0e04036c8a81eb5180da4f11d10ab9643eaf996",
     "url": "https://nl.wiki.isit-europe.org/nr/Digitale_soevereiniteit"
   },
@@ -5209,7 +5209,7 @@
     "namespace": 0,
     "revision": 37,
     "timestamp": "2026-09-10T18:01:55Z",
-    "file": "nl/8.wiki",
+    "file": "nl/Duurzame IT.wiki",
     "sha256": "a8236997e3368190a31906e38bf24fd2d0e92dfca1d5f3553dec513d489065c5",
     "url": "https://nl.wiki.isit-europe.org/nr/Duurzame_IT"
   },
@@ -5220,7 +5220,7 @@
     "namespace": 0,
     "revision": 35,
     "timestamp": "2026-08-08T09:52:04Z",
-    "file": "nl/9.wiki",
+    "file": "nl/Duurzame IT Charter.wiki",
     "sha256": "7fd89d985d333eeb0a7e9c30c6b81ea0e3c2a4dd4fe71ca03de929026af8a664",
     "url": "https://nl.wiki.isit-europe.org/nr/Duurzame_IT_Charter"
   },
@@ -5231,7 +5231,7 @@
     "namespace": 0,
     "revision": 30,
     "timestamp": "2026-08-06T18:56:52Z",
-    "file": "nl/17.wiki",
+    "file": "nl/Einde levensduur.wiki",
     "sha256": "988d59b13b0d0d9b30f5cb626dec3d6665b0505faa4ed862d5bf2019c86fc974",
     "url": "https://nl.wiki.isit-europe.org/nr/Einde_levensduur"
   },
@@ -5242,7 +5242,7 @@
     "namespace": 0,
     "revision": 29,
     "timestamp": "2026-08-06T18:48:13Z",
-    "file": "nl/16.wiki",
+    "file": "nl/Fabricage.wiki",
     "sha256": "5e39198df5b174b4ca52b8b496830ebde321c4c584840ed99bf36d7d269ad0cd",
     "url": "https://nl.wiki.isit-europe.org/nr/Fabricage"
   },
@@ -5253,7 +5253,7 @@
     "namespace": 0,
     "revision": 33,
     "timestamp": "2026-08-08T09:51:33Z",
-    "file": "nl/19.wiki",
+    "file": "nl/Green IT.wiki",
     "sha256": "3349c4eb131c3d92f671ed1d51f8d6614b5876c549109627ec42cabacc839e3b",
     "url": "https://nl.wiki.isit-europe.org/nr/Green_IT"
   },
@@ -5264,7 +5264,7 @@
     "namespace": 0,
     "revision": 17,
     "timestamp": "2026-08-06T18:18:54Z",
-    "file": "nl/12.wiki",
+    "file": "nl/Handvest Duurzame IT.wiki",
     "sha256": "3e5b419915376bf3a8b8ca5dcf7baaf0a6f5e84a9e8ce2ccc11c99c4738f34c0",
     "url": "https://nl.wiki.isit-europe.org/nr/Handvest_Duurzame_IT"
   },
@@ -5275,7 +5275,7 @@
     "namespace": 0,
     "revision": 19,
     "timestamp": "2026-08-06T18:18:54Z",
-    "file": "nl/13.wiki",
+    "file": "nl/Handvest Verantwoorde AI.wiki",
     "sha256": "8a5c7c974c0edf5d2bf386b05749b5b71c92dc5250ba825e1cc49a07aa783fde",
     "url": "https://nl.wiki.isit-europe.org/nr/Handvest_Verantwoorde_AI"
   },
@@ -5286,7 +5286,7 @@
     "namespace": 0,
     "revision": 24,
     "timestamp": "2026-08-06T18:19:40Z",
-    "file": "nl/1.wiki",
+    "file": "nl/Hoofdpagina.wiki",
     "sha256": "bad6303bbca43f76b063d2a903b3616dab0c6f6902f12504537d18687a230d33",
     "url": "https://nl.wiki.isit-europe.org/nr/Hoofdpagina"
   },
@@ -5297,7 +5297,7 @@
     "namespace": 0,
     "revision": 31,
     "timestamp": "2026-08-06T19:05:22Z",
-    "file": "nl/18.wiki",
+    "file": "nl/Power Usage Effectiveness.wiki",
     "sha256": "3b433a914ba4de9338625829684f055b5dab9c2fb81c01a41ace0b13a3b704dd",
     "url": "https://nl.wiki.isit-europe.org/nr/Power_Usage_Effectiveness"
   },
@@ -5308,7 +5308,7 @@
     "namespace": 0,
     "revision": 13,
     "timestamp": "2026-08-06T14:52:17Z",
-    "file": "nl/11.wiki",
+    "file": "nl/RGESN.wiki",
     "sha256": "e760a6943f90a2667b5e6676111664f3c7df1280d98e5c23143eb8c6df8ccef9",
     "url": "https://nl.wiki.isit-europe.org/nr/RGESN"
   },
@@ -5319,7 +5319,7 @@
     "namespace": 0,
     "revision": 22,
     "timestamp": "2026-08-06T18:18:56Z",
-    "file": "nl/4.wiki",
+    "file": "nl/Verantwoorde AI.wiki",
     "sha256": "30c32caf2ed897decf9637ce6fc25b6f71b9678cf8692d27ddbbbf8787223bb0",
     "url": "https://nl.wiki.isit-europe.org/nr/Verantwoorde_AI"
   },
@@ -5330,7 +5330,7 @@
     "namespace": 0,
     "revision": 34,
     "timestamp": "2026-08-08T09:52:02Z",
-    "file": "nl/10.wiki",
+    "file": "nl/Verantwoorde AI Charter.wiki",
     "sha256": "f6fb374334f1ce29afc3c04563b6097747393f66abb19169d8602b30a548771b",
     "url": "https://nl.wiki.isit-europe.org/nr/Verantwoorde_AI_Charter"
   },
@@ -5341,7 +5341,7 @@
     "namespace": 0,
     "revision": 25,
     "timestamp": "2026-08-06T18:22:23Z",
-    "file": "nl/15.wiki",
+    "file": "nl/WeNR.wiki",
     "sha256": "8b90a21d2f9f7b7c3387e9f4587adee2b86d0108eebc061e9563993a9313af4a",
     "url": "https://nl.wiki.isit-europe.org/nr/WeNR"
   }

@@ -5,6 +5,7 @@ import json
 from pathlib import Path
 import urllib.parse
 import urllib.request
+from readable_layout import organize
 
 LANGUAGES = ('fr', 'en', 'es', 'de', 'nl')
 
@@ -42,6 +43,7 @@ def export(destination):
                 continuation = result['continue']
         print(lang, sum(p['language']==lang for p in manifest), flush=True)
     (destination/'manifest.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2)+'\n')
+    organize(destination)
     print('Export complete:', len(manifest), flush=True)
 
 if __name__ == '__main__':

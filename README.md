@@ -6,7 +6,9 @@ Le wiki en ligne reste la référence éditoriale. Ce dépôt conserve un instan
 
 ## Consulter les contenus
 
-Les fichiers `content/<langue>/<pageid>.wiki` contiennent le wikitexte original. `content/manifest.json` associe chaque fichier au titre, à l’URL publique, au numéro de révision, à la date de modification et à une empreinte SHA-256. Les identifiants évitent les collisions de noms et les problèmes de caractères dans les chemins.
+Les fichiers `content/<langue>/<titre>.wiki` contiennent le wikitexte original. `content/manifest.json` associe chaque fichier au titre, à l’URL publique, au numéro de révision, à la date de modification et à une empreinte SHA-256. Les noms reprennent les titres. Les caractères incompatibles avec les chemins sont remplacés ; un identifiant départage les éventuelles collisions. Les identifiants MediaWiki restent dans le manifeste.
+
+Parcourir les fiches : [Français](content/fr/README.md) · [English](content/en/README.md) · [Español](content/es/README.md) · [Deutsch](content/de/README.md) · [Nederlands](content/nl/README.md).
 
 Les exports incluent les redirections et les catégories, mais pas les historiques, comptes, médias binaires, modèles ou configurations du serveur. Ils ne constituent donc pas une sauvegarde complète de MediaWiki.
 
