@@ -1,5 +1,7 @@
 # Wiki du numérique responsable
 
+**[Consulter le Wiki du numérique responsable](https://fr.wiki.isit-europe.org/nr/Accueil)**
+
 Sources publiques du wiki de l’Institut du Numérique Responsable, en français, anglais, espagnol, allemand et néerlandais.
 
 Le wiki en ligne reste la référence éditoriale. Ce dépôt conserve un instantané de ses articles et catégories, les outils d’export et les lots de publication documentés. Un push GitHub ne modifie pas le wiki.
@@ -29,3 +31,9 @@ Choisir un nouveau répertoire pour chaque export. Comparer les manifestes et le
 Voir [la procédure](docs/operations.md). Les lots publiés sont archivés avec leurs outils de lecture ; leur mode d’écriture est désactivé dans cette copie. Aucun outil de publication n’est exécuté par GitHub Actions.
 
 Les contenus conservent les références et le régime de réutilisation indiqués par le wiki et les sources citées. Ce dépôt ne concède pas de droits supplémentaires sur les rapports externes, marques ou illustrations.
+
+## Licence et contributions
+
+Les contenus du wiki sont diffusés sous **CC0 1.0 Universal** : [texte de la licence](LICENSE) et [périmètre](docs/licensing.md).
+
+Pour corriger une fiche, proposer une traduction ou soumettre un article, consulter les [règles de contribution](CONTRIBUTING.md).
