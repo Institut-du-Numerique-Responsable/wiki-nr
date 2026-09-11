@@ -1,0 +1,20 @@
+La '''deuda técnica''' describe decisiones técnicas que generan trabajo adicional cuando un sistema necesita cambios. Una solución provisional puede ayudar a entregar un servicio, pero su mantenimiento posterior puede exigir soluciones alternativas, más pruebas o un rediseño. El [https://www.sei.cmu.edu/library/managing-technical-debt-in-complex-software-systems/ Software Engineering Institute de la Universidad Carnegie Mellon, en inglés,] recomienda hacer visible esta deuda e incorporarla a la planificación del proyecto.
+
+== Relación con las TI responsables ==
+Algunas formas de deuda pueden aumentar el uso de recursos: procesos duplicados, datos redundantes o componentes que nadie se atreve a retirar. Otras afectan sobre todo a la mantenibilidad. El equipo debe medir los efectos, sin suponer que cualquier refactorización reduce el consumo energético.
+
+El desconocimiento de las dependencias también puede retrasar la retirada de un servicio sin uso. Antes de apagarlo, identificar sus usuarios, tareas programadas y sistemas dependientes, y comprobar los requisitos de conservación de datos.
+
+== Ejemplo práctico ==
+Una aplicación de informes ejecuta dos importaciones nocturnas porque aún se utiliza una interfaz antigua. El equipo puede identificar a sus consumidores, migrarlos, eliminar la tarea duplicada y comparar el tiempo de ejecución y los datos transferidos antes y después. Estas medidas ayudan a decidir, pero no demuestran por sí solas una reducción de emisiones.
+
+Registrar cada elemento de deuda, sus consecuencias, la solución propuesta y una persona responsable. Priorizar según las necesidades del servicio, los riesgos y el beneficio esperado.
+
+== Véase también ==
+* [[Ecodiseño]]
+* [[Sobriedad Digital]]
+* [[TI Responsable]]
+
+[[Category:Conceptos]]
+[[fr:Dette technique]]
+[[en:Technical debt]]

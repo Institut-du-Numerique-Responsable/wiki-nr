@@ -1,0 +1,24 @@
+A '''digital service''' meets a user need through software, equipment and telecommunications, together with human intervention where needed. The service includes the resources required to perform the action, rather than just the interface visible on a screen. The French government's [https://ecoresponsable.numerique.gouv.fr/publications/ecoconception-securite/definitions/ sustainable IT programme defines this scope, in French].
+
+== Define the service boundary ==
+Sharing a file with colleagues can involve a user's device, a network, storage, authentication and the recipients' devices. To assess this service, describe the task, its frequency and the expected quality. Identify which infrastructure is shared with other services and explain how its impacts are allocated.
+
+This boundary helps avoid shifting impacts out of view. Moving storage to an external provider changes responsibilities, but the infrastructure remains part of the service being assessed.
+
+== Design for a real need ==
+Teams should consider environmental, social and economic requirements from the design stage. A lightweight interface still needs to be accessible and secure. Retention periods, availability and acceptable response times should follow user needs and applicable requirements.
+
+For an appointment service, assess whether people can complete the booking, including with assistive technology or a slow connection. Compare alternatives at an equivalent level of service before choosing an architecture.
+
+== Assess and improve ==
+Document the service boundary and assumptions, then measure resource use and user outcomes. The [[RGESN]] provides a framework for examining digital service ecodesign. Reassess the service when usage, suppliers or functionality change.
+
+== See also ==
+* [[Ecodesign]]
+* [[Life cycle assessment]]
+* [[Digital accessibility]]
+* [[Sustainable IT]]
+
+[[Category:Concepts]]
+[[fr:Service numérique]]
+[[es:Servicio digital]]

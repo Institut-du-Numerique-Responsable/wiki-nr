@@ -1,0 +1,23 @@
+'''Total cost of ownership''' ('''TCO''') estimates the expenses associated with an asset or service over a defined period. For IT equipment, this can include acquisition, deployment, operation, maintenance, updates, training, internal reuse and retirement.
+
+== Compare equivalent services ==
+Specify the period, number of users and required service level before comparing options. Include the costs borne by different teams and document assumptions about support, repairs and residual value. The European Commission's [https://green-forum.ec.europa.eu/green-business/green-public-procurement/life-cycle-costing_en guidance on life-cycle costing] explains how procurement decisions can consider costs beyond the purchase price. Some life-cycle costing methods also include monetised environmental externalities; state whether these are included in the calculation.
+
+== Sustainable IT implications ==
+A repairable device with longer support may cost less over its useful life even if its initial price is higher. Keeping a laptop for six years instead of replacing it after three can avoid a purchase, but the result depends on maintenance, security support, performance needs and energy use.
+
+TCO measures costs. It does not demonstrate that emissions fall by the same proportion. Assess environmental effects with a [[Life cycle assessment|life cycle assessment]] covering comparable functions and periods.
+
+== Practical use ==
+Compare a repair-and-upgrade scenario with replacement. Record purchase and repair costs, expected downtime, support dates and the planned destination of retired equipment. Test how the result changes if repairs or electricity prices differ from the estimate.
+
+TCO is distinct from TCO Certified, a sustainability certification for IT products.
+
+== See also ==
+* [[Circular economy]]
+* [[End of life]]
+* [[Sustainable IT]]
+
+[[Category:Concepts]]
+[[fr:Coût total de possession]]
+[[es:Coste total de propiedad]]

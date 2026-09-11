@@ -1,0 +1,23 @@
+La '''dette technique''' désigne l’accumulation de choix techniques provisoires ou sous-optimaux qui rendent les évolutions futures plus coûteuses.
+
+La métaphore est financière : le raccourci d’aujourd’hui se rembourse avec intérêts, sous forme de temps de développement, d’incidents et de contournements.
+
+== Lien avec l’empreinte ==
+
+Certaines formes de dette peuvent accroître la consommation de ressources : traitements redondants, données dupliquées ou composants conservés faute de connaître leurs dépendances. D’autres affectent surtout la maintenabilité. L’équipe doit mesurer les effets avant de conclure qu’une réduction de dette entraîne un gain énergétique.
+
+La dette est également un frein à la [[Fin_de_Vie|fin de vie]] applicative : un service dont plus personne ne comprend les usages reste allumé indéfiniment.
+
+L’[[Ecoconception|écoconception]] logicielle et la réduction de dette visent souvent les mêmes correctifs.
+
+== Agir dans une démarche NR ==
+
+Pour une application qui lance deux imports nocturnes, identifier les utilisateurs de l’ancienne interface, les migrer puis retirer la tâche redondante. Comparer ensuite les temps d’exécution et les volumes transférés. Ces mesures éclairent la décision ; elles ne suffisent pas à établir une réduction d’émissions.
+
+Consigner chaque élément de dette, ses conséquences, la correction proposée et un responsable. Le [https://www.sei.cmu.edu/library/managing-technical-debt-in-complex-software-systems/ Software Engineering Institute de Carnegie Mellon, en anglais,] recommande de rendre la dette visible et de l’intégrer à la planification. Prioriser selon les besoins du service, les risques et le bénéfice attendu.
+
+== Voir aussi ==
+
+* [[Ecoconception]] · [[Obésiciel]] · [[Dark_Data|Dark Data]] · [[Cycle_de_vie_de_l'IA|Cycle de vie de l'IA]] · [[Sobriété_Numérique|Sobriété Numérique]]
+
+[[Catégorie:Concepts]]

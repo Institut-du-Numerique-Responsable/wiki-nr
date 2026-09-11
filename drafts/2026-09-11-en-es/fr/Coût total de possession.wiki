@@ -1,0 +1,27 @@
+Le '''coût total de possession''' ('''TCO''', ''total cost of ownership'') est une estimation de l’ensemble des dépenses associées à un équipement ou à un service sur toute sa durée de détention.
+
+Il recense le prix d’achat, mais aussi le déploiement, l’exploitation, la maintenance, les mises à jour, la formation, le reconditionnement pour une seconde vie interne et le retrait.
+
+== Intérêt pour le numérique responsable ==
+
+Une comparaison en coût total peut mettre en évidence l’intérêt économique de plusieurs choix de numérique responsable, selon les hypothèses retenues :
+
+* les équipements '''réparables''' et durables, dont le coût annualisé baisse avec la durée d’usage ;
+* l’'''allongement de la durée de vie''', qui répartit l’investissement initial ;
+* le '''[[Réemploi|réemploi]] interne''' plutôt que le remplacement systématique.
+
+Conserver un poste six ans au lieu de le remplacer après trois ans peut éviter un achat. Le résultat dépend toutefois des réparations, du support de sécurité, des besoins de performance et de la consommation. Le TCO mesure des coûts : il ne démontre pas une baisse proportionnelle des émissions. Une [[Analyse du Cycle de Vie|analyse du cycle de vie]] doit comparer les effets environnementaux à fonction et période équivalentes.
+
+À ne pas confondre avec le label [[TCO_Certified|TCO Certified]], qui porte sur la certification environnementale et sociale des équipements.
+
+== Construire une comparaison utile ==
+
+Définir la durée étudiée, le nombre d’utilisateurs et le niveau de service. Comparer une réparation avec mise à niveau à un remplacement, en documentant coûts, indisponibilité, fin de support et destination des équipements retirés. Tester l’effet d’une variation des coûts de réparation ou d’électricité.
+
+La [https://green-forum.ec.europa.eu/green-business/green-public-procurement/life-cycle-costing_en Commission européenne présente le calcul des coûts du cycle de vie, en anglais,] pour éclairer les achats au-delà du prix initial. Certaines méthodes intègrent des externalités environnementales monétarisées ; préciser si elles entrent dans le calcul retenu.
+
+== Voir aussi ==
+
+* [[Guide_des_Achats_Numériques_Responsables|Guide des Achats Numériques Responsables]] · [[Fin_de_Vie|Fin de Vie]] · [[Réemploi]] · [[Indice_de_réparabilité|Indice de réparabilité]] · [[Comptabilité_environnementale|Comptabilité environnementale]] · [[TCO_Certified|TCO Certified]]
+
+[[Catégorie:Concepts]]

@@ -1,0 +1,23 @@
+Un '''servicio digital''' satisface una necesidad mediante programas, equipos y telecomunicaciones, con intervención humana cuando resulta necesaria. Incluye los recursos que permiten realizar la acción, más allá de la interfaz que aparece en pantalla. El programa francés de [https://ecoresponsable.numerique.gouv.fr/publications/ecoconception-securite/definitions/ informática ecorresponsable define este perímetro, en francés].
+
+== Definir el perímetro del servicio ==
+Compartir un archivo con compañeros puede requerir un dispositivo, una red, almacenamiento, autenticación y los equipos de los destinatarios. Para evaluar el servicio, describir la tarea, su frecuencia y la calidad esperada. Identificar las infraestructuras compartidas con otros servicios y explicar cómo se les asignan los impactos.
+
+Definir este perímetro ayuda a evitar que ciertos impactos queden fuera del análisis. Contratar el almacenamiento a un proveedor externo cambia las responsabilidades, pero la infraestructura sigue formando parte del servicio evaluado.
+
+== Diseñar para una necesidad real ==
+Los equipos deben considerar los requisitos ambientales, sociales y económicos desde el diseño. Una interfaz ligera también debe ser accesible y segura. Los períodos de conservación, la disponibilidad y los tiempos de respuesta aceptables deben responder a las necesidades de los usuarios y a los requisitos aplicables.
+
+En un servicio de citas, comprobar que las personas pueden completar la reserva, también con tecnologías de apoyo o una conexión lenta. Comparar alternativas con un nivel de servicio equivalente antes de elegir una arquitectura.
+
+== Evaluar y mejorar ==
+Documentar el perímetro y las hipótesis, y medir tanto el uso de recursos como los resultados para los usuarios. El [[RGESN]] ofrece un marco para examinar el ecodiseño de servicios digitales. Revisar la evaluación cuando cambien los usos, proveedores o funcionalidades.
+
+== Véase también ==
+* [[Ecodiseño]]
+* [[Análisis del Ciclo de Vida]]
+* [[TI Responsable]]
+
+[[Category:Conceptos]]
+[[fr:Service numérique]]
+[[en:Digital service]]
