@@ -1,6 +1,6 @@
 # Traductions espagnoles du cadre réglementaire européen
 
-Statut : préparé et prévisualisé le 11 septembre 2026, non publié.
+Statut : publié et vérifié le 11 septembre 2026. Les neuf révisions figurent dans `published.json` ; l’instantané `content/` est synchronisé.
 
 Trois nouvelles fiches : Cyber Resilience Act, NIS2 et Data Act. Les traductions conservent le lien avec les TI responsables : maintenance et durée de vie, continuité et ressources, réversibilité et évaluation des migrations. Les sources européennes sont indiquées dans chaque texte. Six modifications FR/EN ajoutent les liens réciproques vers les traductions espagnoles.
 

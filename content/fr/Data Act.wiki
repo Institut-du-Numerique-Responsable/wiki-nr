@@ -22,3 +22,4 @@ Documenter le scénario de sortie, ses coûts et ses ressources permet de compar
 
 [[Catégorie:Réglementation]]
 [[en:Data Act]]
+[[es:Data Act]]

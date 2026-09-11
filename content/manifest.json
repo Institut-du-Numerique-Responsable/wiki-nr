@@ -917,10 +917,10 @@
     "title": "Cyber Resilience Act",
     "pageid": 319,
     "namespace": 0,
-    "revision": 889,
-    "timestamp": "2026-09-11T08:08:36Z",
+    "revision": 895,
+    "timestamp": "2026-09-11T18:34:37Z",
     "file": "fr/Cyber Resilience Act.wiki",
-    "sha256": "81e7d27694d9212e74e24dafb151f9a91ba4872a86e313f587e2464ca630a156",
+    "sha256": "35eff6d4bfe45f61b821356a2457aaff2b098837aaeba0f3f8388e35209d2457",
     "url": "https://fr.wiki.isit-europe.org/nr/Cyber_Resilience_Act"
   },
   {
@@ -1060,10 +1060,10 @@
     "title": "Data Act",
     "pageid": 321,
     "namespace": 0,
-    "revision": 891,
-    "timestamp": "2026-09-11T08:08:38Z",
+    "revision": 897,
+    "timestamp": "2026-09-11T18:34:39Z",
     "file": "fr/Data Act.wiki",
-    "sha256": "06bd2d2917327412c6ea4b45721eaa6fd4f896b42ae4707dd1ec5448f934b33b",
+    "sha256": "ae720684b34bfb3dcaaeb36f970a19e5e89afab7a32d22bf6ea0612197908291",
     "url": "https://fr.wiki.isit-europe.org/nr/Data_Act"
   },
   {
@@ -2303,10 +2303,10 @@
     "title": "NIS2",
     "pageid": 320,
     "namespace": 0,
-    "revision": 890,
-    "timestamp": "2026-09-11T08:08:37Z",
+    "revision": 896,
+    "timestamp": "2026-09-11T18:34:38Z",
     "file": "fr/NIS2.wiki",
-    "sha256": "c0f20b9949c967798874f6c5d2295490d14c735ec1974ebf3e2b3995994bd8ae",
+    "sha256": "6844256be890ada559afa21219fdfc925c23f90edf1085a882b26cdb40c4cc32",
     "url": "https://fr.wiki.isit-europe.org/nr/NIS2"
   },
   {
@@ -3535,10 +3535,10 @@
     "title": "Cyber Resilience Act",
     "pageid": 76,
     "namespace": 0,
-    "revision": 161,
-    "timestamp": "2026-09-11T08:08:36Z",
+    "revision": 167,
+    "timestamp": "2026-09-11T18:34:37Z",
     "file": "en/Cyber Resilience Act.wiki",
-    "sha256": "1f2a9a6f9c519b921d814931b17c9f0626fcc995521ac2c2d68343a5bfd1651c",
+    "sha256": "e6c9b024f1f938961e637505bf6fb70d02ea32c72aa1d465646565b188e2c40f",
     "url": "https://en.wiki.isit-europe.org/nr/Cyber_Resilience_Act"
   },
   {
@@ -3568,10 +3568,10 @@
     "title": "Data Act",
     "pageid": 78,
     "namespace": 0,
-    "revision": 163,
-    "timestamp": "2026-09-11T08:08:38Z",
+    "revision": 169,
+    "timestamp": "2026-09-11T18:34:39Z",
     "file": "en/Data Act.wiki",
-    "sha256": "0e28c96b225bf36cdcdcee90eba987545dc9c4bb8855037621bb01adff8cea2c",
+    "sha256": "aedc77005de97b73b0caef534233bb2822a5c2f8f01b4269d142a5a7164ac546",
     "url": "https://en.wiki.isit-europe.org/nr/Data_Act"
   },
   {
@@ -3931,10 +3931,10 @@
     "title": "NIS2",
     "pageid": 77,
     "namespace": 0,
-    "revision": 162,
-    "timestamp": "2026-09-11T08:08:37Z",
+    "revision": 168,
+    "timestamp": "2026-09-11T18:34:38Z",
     "file": "en/NIS2.wiki",
-    "sha256": "dfa8f3fb6b51e4ce88abe17ad24c1e2a228c8647c613e6dc7c92a36242a6010b",
+    "sha256": "1e3cb018028250b48f6b61fe299b38bd8f28f5ffedc505f29c8acbe81cfffb3b",
     "url": "https://en.wiki.isit-europe.org/nr/NIS2"
   },
   {
@@ -4390,6 +4390,17 @@
   },
   {
     "language": "es",
+    "title": "Cyber Resilience Act",
+    "pageid": 54,
+    "namespace": 0,
+    "revision": 89,
+    "timestamp": "2026-09-11T18:34:37Z",
+    "file": "es/Cyber Resilience Act.wiki",
+    "sha256": "9c711023fcb637b509106aa804433c2c435b7587e926c61a299f20780eb4c6ab",
+    "url": "https://es.wiki.isit-europe.org/nr/Cyber_Resilience_Act"
+  },
+  {
+    "language": "es",
     "title": "Códigos de conducta y de buenas prácticas de IA",
     "pageid": 50,
     "namespace": 0,
@@ -4409,6 +4420,17 @@
     "file": "es/Dark pattern.wiki",
     "sha256": "5ac77ce3a0e852de5ee6b7e05bcff5716b2f2511b1e5eecf37994cd487c81407",
     "url": "https://es.wiki.isit-europe.org/nr/Dark_pattern"
+  },
+  {
+    "language": "es",
+    "title": "Data Act",
+    "pageid": 56,
+    "namespace": 0,
+    "revision": 91,
+    "timestamp": "2026-09-11T18:34:39Z",
+    "file": "es/Data Act.wiki",
+    "sha256": "b67930cdc5aa15cbe4d51870bc456f7e0c029d0026bc9ff1539641b39bd8197a",
+    "url": "https://es.wiki.isit-europe.org/nr/Data_Act"
   },
   {
     "language": "es",
@@ -4574,6 +4596,17 @@
     "file": "es/Modelo de inteligencia artificial.wiki",
     "sha256": "26b8073afd144d1340459342164f556e83c5a0dedb16d276c0eff23254e700bd",
     "url": "https://es.wiki.isit-europe.org/nr/Modelo_de_inteligencia_artificial"
+  },
+  {
+    "language": "es",
+    "title": "NIS2",
+    "pageid": 55,
+    "namespace": 0,
+    "revision": 90,
+    "timestamp": "2026-09-11T18:34:38Z",
+    "file": "es/NIS2.wiki",
+    "sha256": "ed4866f13ddc2986284317f9d286536c21c0206fb53a372c7afc85a9c0e3e26f",
+    "url": "https://es.wiki.isit-europe.org/nr/NIS2"
   },
   {
     "language": "es",

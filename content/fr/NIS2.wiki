@@ -22,3 +22,4 @@ Les choix de mutualisation se comparent à niveau de continuité et de protectio
 
 [[Catégorie:Réglementation]]
 [[en:NIS2]]
+[[es:NIS2]]

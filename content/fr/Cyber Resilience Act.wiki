@@ -22,3 +22,4 @@ Avant un achat de passerelles industrielles, associer exploitation, sécurité e
 
 [[Catégorie:Réglementation]]
 [[en:Cyber Resilience Act]]
+[[es:Cyber Resilience Act]]

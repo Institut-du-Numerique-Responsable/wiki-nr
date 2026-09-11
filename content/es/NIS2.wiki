@@ -1,0 +1,25 @@
+'''NIS2''' es la Directiva (UE) 2022/2555 sobre seguridad de las redes y los sistemas de información. Establece un marco europeo de gestión de riesgos y notificación de incidentes para las entidades incluidas en su ámbito. Su aplicación depende del sector, el tamaño, las excepciones y la transposición nacional. Consultar el [https://eur-lex.europa.eu/eli/dir/2022/2555/oj texto oficial].
+
+== Determinar el ámbito de aplicación ==
+Disponer de un departamento de TI no basta para que una organización quede sujeta a la directiva. Los responsables jurídicos y de seguridad deben examinar sus actividades y los criterios aplicables. Un proveedor también puede recibir exigencias contractuales de clientes sujetos a NIS2 sin adquirir por ello el mismo estatuto jurídico.
+
+La [https://digital-strategy.ec.europa.eu/en/policies/nis2-directive presentación de la Comisión Europea, en inglés,] explica el marco y los sectores afectados. El plazo de transposición venció el 17 de octubre de 2024; esa fecha no demuestra por sí sola qué normas nacionales están vigentes. Una ficha en español tampoco debe confundir el ámbito europeo con el derecho aplicable en todos los países hispanohablantes.
+
+== Trabajo operativo ==
+El artículo 21 contempla, entre otras materias, gestión de incidentes, continuidad, seguridad de la cadena de suministro, desarrollo y mantenimiento, control de accesos y evaluación de las medidas. El artículo 20 atribuye responsabilidades de aprobación y supervisión a los órganos de dirección.
+
+Un equipo de TI puede identificar servicios críticos y proveedores, asignar responsables, probar las copias de seguridad y definir cómo escalar un incidente. Para una aplicación alojada por un tercero, registrar los compromisos del proveedor, las pruebas de restauración y los contactos disponibles durante una interrupción.
+
+== Relación con las TI responsables ==
+Conocer los activos y mantenerlos ayuda tanto a la [[Ciberseguridad|ciberseguridad]] como a la gestión de recursos. Retirar un servicio abandonado puede reducir la exposición y liberar capacidad. Las copias de seguridad y la separación de entornos responden, sin embargo, a necesidades que una reducción del almacenamiento debe respetar.
+
+Comparar las opciones de consolidación con niveles equivalentes de continuidad y protección. Documentar el riesgo residual y los recursos necesarios permite explicar la decisión a los responsables del servicio. NIS2 no certifica el comportamiento ambiental de una organización. Fuentes consultadas el 11 de septiembre de 2026.
+
+== Véase también ==
+* [[Cyber Resilience Act]]
+* [[Sobriedad Digital]]
+* [[TI Responsable]]
+
+[[Category:Normativa]]
+[[fr:NIS2]]
+[[en:NIS2]]

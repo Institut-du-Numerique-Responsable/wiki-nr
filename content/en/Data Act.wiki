@@ -22,3 +22,4 @@ Document the exit scenario, costs and resources to compare options. The Data Act
 
 [[Category:Regulation]]
 [[fr:Data Act]]
+[[es:Data Act]]

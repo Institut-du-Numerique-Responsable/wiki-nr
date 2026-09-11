@@ -22,3 +22,4 @@ Before purchasing industrial gateways, involve operations, security and procurem
 
 [[Category:Regulation]]
 [[fr:Cyber Resilience Act]]
+[[es:Cyber Resilience Act]]

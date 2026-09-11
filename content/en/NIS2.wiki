@@ -22,3 +22,4 @@ Compare consolidation options at equivalent levels of continuity and protection.
 
 [[Category:Regulation]]
 [[fr:NIS2]]
+[[es:NIS2]]

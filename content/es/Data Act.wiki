@@ -1,0 +1,25 @@
+El '''Data Act''', Reglamento (UE) 2023/2854, regula, entre otras cuestiones, el acceso a los datos de productos conectados y el cambio de proveedor de servicios de tratamiento de datos. Su aplicación general comenzó el 12 de septiembre de 2025, con disposiciones transitorias específicas. Consultar el [https://eur-lex.europa.eu/eli/reg/2023/2854/oj texto oficial].
+
+== Dos cuestiones para los equipos de TI ==
+Los usuarios de productos conectados tienen derechos de acceso a los datos cubiertos por el reglamento y pueden solicitar que se compartan en las condiciones previstas. Esto puede facilitar la organización del mantenimiento de un equipo industrial. Deben comprobarse el perímetro y las salvaguardias: el derecho no comprende cualquier dato sin restricciones.
+
+Para los servicios cloud y otros servicios de tratamiento de datos incluidos, el reglamento aborda también los obstáculos al cambio de proveedor. La [https://digital-strategy.ec.europa.eu/en/factpages/data-act-explained explicación de la Comisión Europea, en inglés,] describe los requisitos contractuales, las interfaces y la exportación. Señala el 12 de enero de 2027 como fecha de eliminación de los cargos por cambio de proveedor, tras un período transitorio.
+
+== Preparar la salida de un servicio ==
+El departamento de TI puede inventariar datos exportables, metadatos, formatos y dependencias de las aplicaciones. Debe distinguir los elementos transferibles de los que exigen reconstrucción o adaptación. La protección de datos personales y de secretos comerciales sigue siendo necesaria.
+
+Antes de abandonar un proveedor SaaS, probar una exportación y su uso en el entorno de destino. Revisar archivos adjuntos, identificadores, permisos e historiales necesarios. Un botón de exportación no demuestra que el servicio pueda reanudarse en otra plataforma. Prever también la eliminación de copias residuales conforme a las obligaciones y compromisos aplicables.
+
+== Relación con las TI responsables ==
+La capacidad de cambiar de proveedor puede reducir la dependencia y favorecer la continuidad. Acceder a datos de funcionamiento puede ayudar a mantener equipos, pero los beneficios ambientales deben evaluarse. La propia migración genera transferencias y, a veces, un período de explotación duplicada.
+
+Documentar el escenario de salida, sus costes y recursos facilita la comparación de alternativas. El Data Act no sustituye la legislación de protección de datos ni un [[Análisis del Ciclo de Vida|análisis del ciclo de vida]]. Fuentes consultadas el 11 de septiembre de 2026.
+
+== Véase también ==
+* [[Soberanía Digital]]
+* [[TI Responsable]]
+* [[AI Act]]
+
+[[Category:Normativa]]
+[[fr:Data Act]]
+[[en:Data Act]]
