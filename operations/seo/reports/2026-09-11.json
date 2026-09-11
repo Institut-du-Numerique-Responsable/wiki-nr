@@ -1,0 +1,57 @@
+{
+  "checked_at": "2026-09-11T12:43:21.876634+00:00",
+  "sites": [
+    {
+      "language": "fr",
+      "checked_page": "https://fr.wiki.isit-europe.org/nr/Accueil",
+      "sitemap": "https://fr.wiki.isit-europe.org/sitemap/sitemap-index-wiki_fr-nrw_fr_.xml",
+      "urls": 217,
+      "sitemap_dates": [
+        "2026-09-11T12:41:53Z",
+        "2026-09-11T12:41:53Z"
+      ],
+      "cache_control": "max-age=3600"
+    },
+    {
+      "language": "en",
+      "checked_page": "https://en.wiki.isit-europe.org/nr/Sustainable_IT",
+      "sitemap": "https://en.wiki.isit-europe.org/sitemap/sitemap-index-wiki_en-nrw_en_.xml",
+      "urls": 73,
+      "sitemap_dates": [
+        "2026-09-11T12:41:53Z",
+        "2026-09-11T12:41:53Z"
+      ],
+      "cache_control": "max-age=3600"
+    },
+    {
+      "language": "de",
+      "checked_page": "https://de.wiki.isit-europe.org/nr/Green_IT",
+      "sitemap": "https://de.wiki.isit-europe.org/sitemap/sitemap-index-wiki_de-nrw_de_.xml",
+      "urls": 38,
+      "sitemap_dates": [
+        "2026-09-11T12:41:53Z"
+      ],
+      "cache_control": "max-age=3600"
+    },
+    {
+      "language": "es",
+      "checked_page": "https://es.wiki.isit-europe.org/nr/TI_Responsable",
+      "sitemap": "https://es.wiki.isit-europe.org/sitemap/sitemap-index-wiki_es-nrw_es_.xml",
+      "urls": 47,
+      "sitemap_dates": [
+        "2026-09-11T12:41:53Z"
+      ],
+      "cache_control": "max-age=3600"
+    },
+    {
+      "language": "nl",
+      "checked_page": "https://nl.wiki.isit-europe.org/nr/Duurzame_IT",
+      "sitemap": "https://nl.wiki.isit-europe.org/sitemap/sitemap-index-wiki_nl-nrw_nl_.xml",
+      "urls": 15,
+      "sitemap_dates": [
+        "2026-09-11T12:41:54Z"
+      ],
+      "cache_control": "max-age=3600"
+    }
+  ]
+}

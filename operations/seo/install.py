@@ -5,10 +5,11 @@ import os
 import shutil
 import subprocess
 
-assert os.geteuid() == 0, 'Run with sudo'
+if os.geteuid() != 0: raise SystemExit('Run with sudo')
+if not __debug__: raise SystemExit('Run without Python optimization')
 root = Path('/applis/wiki/www')
 backup = Path('/home/ggallon/wiki-seo-20260911/backups') / datetime.datetime.now(datetime.timezone.utc).strftime('%Y%m%dT%H%M%SZ')
-backup.mkdir(parents=True)
+backup.mkdir(parents=True, mode=0o700)
 settings = root / 'LocalSettings.php'
 original = settings.read_text()
 anchor = '\t// liens de langue -> hreflang, que MediaWiki n emet pas de lui-meme'
@@ -25,12 +26,12 @@ snippet = '''\t// SEO: include this language in the alternate-language cluster.
 '''
 assert '// SEO: include this language' not in original, 'Already installed'
 shutil.copy2(settings, backup / settings.name)
-candidate = settings.with_name('LocalSettings.seo-candidate.php')
+candidate = backup / 'LocalSettings.candidate.php'
 shutil.copy2(settings,candidate)
 candidate.write_text(original.replace(anchor,snippet+anchor))
 subprocess.run(['/usr/bin/php','-l',str(candidate)],check=True)
 os.chown(candidate,settings.stat().st_uid,settings.stat().st_gid)
-os.replace(candidate,settings)
+shutil.copyfile(candidate,settings)
 
 for lang in ['fr','en','es','de','nl']:
     path = root / ('robots_' + lang + '.txt')

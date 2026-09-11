@@ -37,3 +37,5 @@ Les contenus conservent les références et le régime de réutilisation indiqu�
 Les contenus du wiki sont diffusés sous **CC0 1.0 Universal** : [texte de la licence](LICENSE) et [périmètre](docs/licensing.md).
 
 Pour corriger une fiche, proposer une traduction ou soumettre un article, consulter les [règles de contribution](CONTRIBUTING.md).
+
+Les sitemaps des cinq langues sont actualisés toutes les heures. Voir [l’état SEO et les contrôles](docs/operations.md).

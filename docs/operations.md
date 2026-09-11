@@ -15,11 +15,17 @@ Chaque copie archivée propose `verify` (prévisualisation) et `verify-live` (co
 
 Les contrôles de rendu vérifient les liens internes d’articles et les erreurs de parsing. Ils ne prouvent pas l’exactitude juridique des textes ni la réciprocité de tous les liens de langues.
 
-## SEO : travaux préparés, non déployés
+## SEO : corrections déployées le 11 septembre 2026
 
-`operations/seo/` contient les propositions de correction : hreflang vers la langue courante, exclusions communes aux robots et génération horaire des sitemaps. Ces scripts ne doivent pas être lancés avant inspection de la configuration protégée actuelle et revue du plan de retour arrière.
+Les cinq sitemaps ont été régénérés. Une tâche cron les actualise à la minute 17 de chaque heure, avec verrouillage contre les exécutions simultanées et remplacement des fichiers générés complets. Le cache HTTP des sitemaps est limité à une heure.
 
-La validation de syntaxe PHP seule ne suffit pas. Après déploiement, vérifier les réponses HTTP, les liens canoniques et hreflang, robots.txt et les dates de sitemap pour les cinq langues. Les liens réciproques entre traductions restent à compléter. Une meilleure indexabilité ne garantit pas le classement ni la citation par les moteurs d’IA.
+Le hook SEO inclut désormais la langue de la page courante dans les liens hreflang. Les groupes de robots partagent les exclusions des URLs techniques et des variantes de requête. Les articles restent explorables.
+
+Le rapport `operations/seo/reports/2026-09-11.json` conserve les contrôles publics effectués après déploiement : une page par langue, URL canonique, hreflang propre, absence de noindex, règles robots et lecture des index et fichiers sitemap. Cela ne constitue pas un audit de chaque article. Les liens réciproques entre toutes les traductions restent à compléter.
+
+Sauvegardes de configuration protégées conservées sur le serveur sous `/home/ggallon/wiki-seo-20260911/backups/20260911T124153Z/`. Elles ne sont pas dans GitHub. Le script d’installation est une trace du déploiement ponctuel et refuse d’ajouter deux fois le même hook ; ne pas le relancer sans inspection de l’état courant. `verify.py` permet un contrôle public sans écriture.
+
+La syntaxe PHP et la configuration nginx ont été validées. Une meilleure indexabilité ne garantit ni classement ni citation par les moteurs d’IA. Aucun fichier spécifique aux IA n’est requis pour ces contrôles.
 
 ## Données exclues
 
