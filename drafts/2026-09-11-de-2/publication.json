@@ -1,0 +1,23 @@
+[
+  {
+    "language": "de",
+    "title": "CO₂-Fußabdruck",
+    "file": "de/CO₂-Fußabdruck.wiki",
+    "base_revision": 56,
+    "sha256": "4e1c54fb86db93f8a072c8c4d1add9e10cf5b85cfa5b125130f17f874467fdda"
+  },
+  {
+    "language": "de",
+    "title": "Verantwortungsvolle KI",
+    "file": "de/Verantwortungsvolle KI.wiki",
+    "base_revision": 40,
+    "sha256": "0c2c2856074e94560b7779a6d8a3179d3f260d60b29d7c0d6e94c36000094078"
+  },
+  {
+    "language": "de",
+    "title": "Ökodesign",
+    "file": "de/Ökodesign.wiki",
+    "base_revision": 70,
+    "sha256": "fb8dbe875aa52868b5ed0d85b1796592c9c3dd6380e61c5d4b53aae200c112a1"
+  }
+]

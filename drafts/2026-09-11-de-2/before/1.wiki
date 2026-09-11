@@ -1,0 +1,50 @@
+'''Verantwortungsvolle KI''' bezeichnet die Gestaltung, Bereitstellung und Nutzung von Systemen der künstlichen Intelligenz, die im Dienste des Menschen stehen, verlässlich, inklusiv, diskriminierungsfrei und umweltbewusst sind.
+
+== Definition ==
+
+Die rasche Verbreitung generativer KI hat diese Systeme in den Arbeitsalltag von Organisationen gebracht. Verantwortungsvolle KI setzt deshalb Anforderungen entlang des gesamten Lebenszyklus eines Systems: Wahl des Anwendungsfalls, Trainingsdaten, Transparenz, menschliche Aufsicht und ökologischer Fußabdruck.
+
+Das Institut du Numérique Responsable hat diesen Ansatz in seiner '''KI-Charta''' festgehalten. Sie ergänzt die Charta für verantwortungsvolle Digitalisierung und steht im Einklang mit der europäischen KI-Verordnung (''AI Act'').
+
+== Die vier Prinzipien der KI-Charta ==
+
+=== 1. KI im Dienste des Menschen ===
+
+* Eine KI entwickeln, die die zentrale Rolle der Mitarbeitenden stärkt und ihre Fähigkeiten erweitert
+* Die Anwendungen gemeinsam mit den Teams entwickeln, über den sozialen Dialog und Rückmeldungen
+* Das Personal im angemessenen Umgang mit KI und deren Auswirkungen schulen
+* Autonomie bei der Arbeit, Qualität der sozialen Beziehungen und Sinn der Arbeit respektieren
+* Die Einhaltung internationaler Abkommen zum Schutz der Menschenrechte, der Demokratie und der Rechtsstaatlichkeit in Ausschreibungen verankern
+
+=== 2. Eine inklusive und ethische KI ===
+
+* Gleichheit, Vielfalt und Diskriminierungsfreiheit achten
+* Mechanismen einführen, die Datenqualität sichern und Verzerrungen nach Geschlecht, Herkunft oder Religion vermeiden
+* Reaktionen auf Diskriminierungen organisieren, die aus verzerrten Daten entstehen
+* Digitale Dienste mit KI für Menschen mit Behinderung zugänglich machen
+
+=== 3. Eine verlässliche KI ===
+
+* Nutzerinnen und Nutzer darüber informieren, dass sie mit einem KI-System interagieren, und die Datenquellen offenlegen
+* Die Funktionsweise der Algorithmen klar und verständlich erklären
+* Menschliche Aufsicht bei risikoreichen Tätigkeiten sicherstellen
+* Die Robustheit der Systeme gegen Cyberangriffe stärken
+
+=== 4. Eine umweltbewusste und nachhaltige KI ===
+
+* Den tatsächlichen Nutzen des Anwendungsfalls vor jeder Einführung prüfen
+* Ressourcenschonende, '''sparsame KI-Modelle''' bevorzugen
+* Den ökologischen Fußabdruck über den gesamten Lebenszyklus bewerten und minimieren
+* Umweltbewusste Praktiken bei Training und Bereitstellung anwenden, etwa nach AFNOR SPEC 2314 INR RIA31
+
+== Unterzeichnung ==
+
+Die KI-Charta kann von jeder öffentlichen oder privaten Organisation unterzeichnet werden, allein oder zusammen mit der Charta für verantwortungsvolle Digitalisierung.
+
+== Externe Referenzen ==
+
+* [https://charter.isit-europe.org/charte-ia/?lang=de_DE KI-Charta — Institut du Numérique Responsable]
+[[en:Responsible AI]]
+[[es:IA Responsable]]
+[[fr:IA Responsable]]
+[[nl:Verantwoorde AI]]

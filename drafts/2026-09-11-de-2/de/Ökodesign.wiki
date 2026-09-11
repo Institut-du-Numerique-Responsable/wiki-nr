@@ -1,0 +1,28 @@
+'''Ökodesign''' berücksichtigt Umweltwirkungen bei der Gestaltung eines Produkts oder Dienstes. Der Ansatz betrachtet den Lebenszyklus und mehrere Wirkungskategorien. Eine Verbesserung beim Stromverbrauch kann mit zusätzlichem Materialbedarf verbunden sein; eine [[Ökobilanz]] hilft, solche Verschiebungen zu erkennen.
+
+== Mit dem Bedarf beginnen ==
+Für einen digitalen Dienst sollte das Team zunächst Nutzergruppen, Aufgabe und erwartetes Ergebnis beschreiben. Eine Funktion kann selten genutzt und dennoch notwendig sein, etwa für einen barrierefreien Zugang oder einen Notfall. Über ihre Entfernung entscheidet daher eine Bedarfsprüfung mit den Betroffenen.
+
+Die [[Digitale Suffizienz]] stellt Umfang und Art der Nutzung zur Diskussion. Das technische Design klärt anschließend, wie der benötigte Dienst mit angemessenen Ressourcen erbracht werden kann. Dazu gehören Endgeräte, Netze und [[Rechenzentrum|Rechenzentren]], auch wenn Teile von externen Anbietern betrieben werden.
+
+== Software und Endgeräte zusammen betrachten ==
+Hohe Anforderungen an Speicher, Prozessor oder Betriebssystem können die weitere Nutzung vorhandener Geräte erschweren. Ob daraus ein vorzeitiger Austausch entsteht, hängt auch von Support, Sicherheit und tatsächlichen Aufgaben ab. Das [https://www.umweltbundesamt.de/themen/digitalisierung/gruene-informationstechnik-green-it/software-umwelt Umweltbundesamt erläutert die Umweltwirkungen von Software] und die Kriterien für ressourcen- und energieeffiziente Softwareprodukte.
+
+Entwicklungsteams können typische Aufgaben auf älteren, weiterhin unterstützten Geräten testen. Übertragene Daten, Antwortzeiten und Ressourcenbedarf sollten bei vergleichbarer Funktion gemessen werden. Große Bilder, automatische Videos und unnötige Hintergrundabfragen sind mögliche Prüfstellen, keine pauschale Diagnose.
+
+== Referenzrahmen nutzen ==
+Der französische [https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/ RGESN 2024] enthält Kriterien für die Gestaltung digitaler Dienste, von Strategie und Spezifikation bis zu Architektur, Inhalten und Betrieb. Die deutsche Wiki-Fiche [[RGESN]] erläutert seine Einordnung. Anforderungen müssen auf den betrachteten Dienst bezogen und ihre Umsetzung dokumentiert werden.
+
+Die Erfüllung eines Kriterienkatalogs zeigt, welche Maßnahmen umgesetzt wurden. Eine bestimmte Emissionsminderung lässt sich daraus nicht ohne zusätzliche Bewertung ableiten. Der [[CO₂-Fußabdruck]] ist dabei nur einer der möglichen Umweltindikatoren.
+
+== Beispiel: ein Dokumentenportal überarbeiten ==
+Ein Team prüft, ob Beschäftigte Dokumente finden und mit unterschiedlichen Geräten lesen können. Es reduziert redundante Übertragungen, legt Bildgrößen am Zweck aus und plant Aufbewahrungsfristen mit den Fachbereichen. Tastaturbedienung, lesbare Struktur und geeignete Dokumentformate bleiben Teil der Anforderungen.
+
+Nach der Änderung vergleicht es dieselben Aufgaben hinsichtlich Nutzbarkeit und Ressourcenbedarf. Steigende Nutzung kann den absoluten Verbrauch trotz effizienterer Einzelvorgänge erhöhen; der [[Rebound-Effekt]] gehört deshalb in die Nachbetrachtung.
+
+== Zusammenhang mit verantwortungsvoller Digitalisierung ==
+[[Digitale Barrierefreiheit]] und [[Cybersicherheit]] müssen gemeinsam mit Umweltzielen entwickelt werden. Notwendige Schutzmaßnahmen oder zugängliche Alternativen dürfen nicht allein zur Verkleinerung einer Kennzahl entfallen. Diese Abwägung verbindet Ökodesign mit [[Green IT]] und der [[Verantwortungsvolle Digitalisierung|verantwortungsvollen Digitalisierung]].
+
+[[fr:Ecoconception]]
+[[en:Ecodesign]]
+[[es:Ecodiseño]]

@@ -1,0 +1,30 @@
+Der '''CO₂-Fußabdruck''' beschreibt die Treibhausgasemissionen innerhalb einer festgelegten Bilanzgrenze. Er kann sich auf eine Organisation, ein Produkt oder einen Dienst beziehen. Angegeben wird er in Kilogramm oder Tonnen CO₂-Äquivalenten; damit werden unterschiedliche Treibhausgase anhand ihrer Klimawirkung zusammengefasst. Eine nachvollziehbare Bilanz benennt Zeitraum, Methode und verwendete Faktoren.
+
+== Unternehmensbilanz und Produktbilanz unterscheiden ==
+Der [https://ghgprotocol.org/corporate-standard Corporate Standard des GHG Protocol, auf Englisch,] behandelt die Bilanzierung von Organisationen. Dabei unterscheidet man direkte Emissionen aus eigenen oder kontrollierten Quellen (Scope 1), Emissionen aus eingekaufter Energie (Scope 2) und weitere indirekte Emissionen der Wertschöpfungskette (Scope 3).
+
+Für die IT können beispielsweise Notstromaggregate zu Scope 1, eingekaufter Strom zum Betrieb eigener Infrastruktur zu Scope 2 und Gerätebeschaffung sowie eingekaufte Cloud-Dienste zu Scope 3 gehören. Die konkrete Zuordnung richtet sich nach Organisationsgrenze und Vertragsmodell. Welche Position überwiegt, muss die Bilanz zeigen; eine allgemeine Rangfolge gilt nicht für jeden IT-Betrieb.
+
+Die [https://ghgprotocol.org/sites/default/files/2023-03/GHGP-ICTSG%20-%20ALL%20Chapters.pdf ICT Sector Guidance des GHG Protocol, englisches PDF,] ergänzt dagegen den Product Standard für IT-Produkte und -Dienste über ihren Lebenszyklus. Sie hilft etwa, Geräte, Netze und [[Rechenzentrum|Rechenzentren]] innerhalb einer Dienstleistung abzugrenzen. Eine Produktbilanz und ein jährliches Unternehmensinventar beantworten unterschiedliche Fragen.
+
+== Daten für Entscheidungen erheben ==
+Ein IT-Team sollte Stückzahlen, Gerätemodelle, Beschaffungen, Betriebsenergie und bezogene Dienste erfassen. Zu jedem Emissionsfaktor gehören Quelle, Bezugsjahr, Einheit und geografischer Bezug. Angaben eines Herstellers sind auf ihre Bilanzgrenze zu prüfen: Ein bereits vollständiger Produktfußabdruck darf nicht ohne Prüfung mit denselben Lebensphasen erneut verrechnet werden.
+
+Für einen Cloud-Dienst sind Zeitraum, genutzte Region und die Zuordnung geteilter Infrastruktur relevant. Ein fehlender Messwert sollte als Datenlücke erscheinen. Schätzungen brauchen dokumentierte Annahmen, statt den Eindruck einer genauen Messung zu erwecken.
+
+== Beispiel: Geräte länger nutzen ==
+Vor einem Austausch vergleicht die Organisation die weitere Nutzung mit einem Ersatzgerät bei gleicher Aufgabe und gleichem Zeitraum. Reparaturen, verbleibender Support, Energie und [[Herstellung]] gehören in die Bewertung. Eine vermiedene Anschaffung ist eine Szenarioentscheidung; daraus folgt nicht automatisch eine prozentgleiche Senkung des gesamten Unternehmensinventars.
+
+Die [[Digitale Suffizienz]] unterstützt die Bedarfsprüfung. Ergebnisse sollten zusammen mit Unsicherheiten und Verantwortlichkeiten in die Beschaffungs- und Betriebsplanung eingehen.
+
+== Umweltwirkungen vollständig betrachten ==
+Ein Klimafußabdruck bildet Wasserbedarf, Ressourcenverbrauch und weitere Umweltwirkungen nicht vollständig ab. Eine mehrkriterielle [[Ökobilanz]] ergänzt die Betrachtung. Für die [[Verantwortungsvolle Digitalisierung|verantwortungsvolle Digitalisierung]] gehören außerdem Zugänglichkeit, Sicherheit und Nutzbarkeit zu einer tragfähigen Entscheidung.
+
+== Siehe auch ==
+* [[Green IT]]
+* [[Kreislaufwirtschaft]]
+* [[WeNR]]
+
+[[fr:Empreinte_Carbone]]
+[[en:Carbon_footprint]]
+[[es:Huella_de_Carbono]]
