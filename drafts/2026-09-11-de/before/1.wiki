@@ -1,0 +1,35 @@
+Ein '''Rechenzentrum''' ist eine physische Einrichtung, die das Gebäude, die IT-Ausstattung für Speicherung, Verarbeitung und Übertragung von Daten sowie die nicht-informatische Technik umfasst: Kühlung, Zutrittskontrolle, Stromversorgung mit Einspeisung, Notstrom und unterbrechungsfreier Versorgung.
+
+== Kennzahlen ==
+
+; PUE (''Power Usage Effectiveness'')
+: Verhältnis der gesamten verbrauchten Energie zu der von den IT-Geräten verbrauchten. Ein PUE von 1,2 bedeutet, dass 20 % der Energie auf alles entfällt, was nicht rechnet.
+; WUE (''Water Usage Effectiveness'')
+: verbrauchtes Wasser je Einheit IT-Energie. Sie deckt einen blinden Fleck des PUE auf, denn Verdunstungskühlung spart Strom, indem sie Wasser verbraucht.
+; CUE (''Carbon Usage Effectiveness'')
+: CO₂-Emissionen je Einheit IT-Energie. Sie hängt stark vom örtlichen Strommix ab.
+
+Alle drei teilen eine Grenze: Sie erfassen nur die Nutzungsphase. Die [[Herstellung]] der Server, die im Lebenszyklus überwiegt, taucht in keiner von ihnen auf.
+
+== Was ein guter PUE nicht beweist ==
+
+Ein Rechenzentrum in kaltem Klima erreicht mechanisch einen guten PUE, ohne jede Anstrengung zur Suffizienz. Und ein hervorragender PUE kann auf hohem Wasserverbrauch in einer Region mit Wasserstress beruhen. Eine einzelne Kennzahl führt in die Irre.
+
+== Betriebsmodelle ==
+
+; Eigenbetrieb
+: die Organisation besitzt und betreibt ihre Geräte.
+; Kolokation
+: sie mietet Fläche und Energie und behält ihre Server.
+; Cloud
+: sie bezieht einen Dienst, ohne unmittelbare Sicht auf die Hardware und deren Erneuerung.
+
+Die Cloud beseitigt die Wirkung nicht, sie verschiebt sie aus dem Messbereich der Organisation heraus. Im Scope 3 ihres [[CO₂-Fußabdruck|CO₂-Fußabdrucks]] taucht sie weiterhin auf.
+
+== Siehe auch ==
+
+* [[CO₂-Fußabdruck]] · [[Herstellung]] · [[Digitale Suffizienz]] · [[Digitale Souveränität]]
+
+[[fr:DataCenter]]
+[[en:Data_centre]]
+[[es:Centro_de_Datos]]

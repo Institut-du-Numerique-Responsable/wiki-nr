@@ -1,0 +1,30 @@
+'''Digitale Barrierefreiheit''' bedeutet, dass ein digitaler Dienst von allen genutzt werden kann, einschließlich Menschen mit Behinderung, mit vorübergehender Einschränkung oder in einer erschwerten Nutzungssituation.
+
+== Weit mehr als eine Prüfliste ==
+
+Automatisierte Tests erkennen nur einen Teil der Mängel, nach vorliegenden Untersuchungen etwa ein Drittel. Der Rest verlangt Urteilsvermögen: Trifft ein Alternativtext zu? Ist eine Beschriftung verständlich? Ist ein Bedienweg schlüssig? Ist die Sprache klar?
+
+Drei Vorgehensweisen wiegen schwerer als die Wahl des Werkzeugs:
+
+* '''mit''' betroffenen Menschen gestalten statt für sie;
+* klar schreiben, denn kognitive Barrierefreiheit wird am häufigsten übergangen;
+* mit echten Hilfsmitteln testen, nicht nur mit einem Prüfprogramm.
+
+== Warum sie zur verantwortungsvollen Digitalisierung gehört ==
+
+Ein Dienst, den ein Teil der Bevölkerung nicht nutzen kann, verfehlt seinen Zweck, wie sparsam er auch sei. Barrierefreiheit ist die soziale Dimension der [[Verantwortungsvolle Digitalisierung|verantwortungsvollen Digitalisierung]] und steht in der [[Charta für verantwortungsvolle Digitalisierung]] gleichrangig neben der ökologischen.
+
+Beide Ziele treffen sich häufiger, als man annimmt: eine leichte Seite mit klarer Struktur, die ohne aufwendige Skripte auskommt, ist zugleich zugänglicher und sparsamer.
+
+== Rechtlicher Rahmen ==
+
+Die europäische Richtlinie über den barrierefreien Zugang zu Websites öffentlicher Stellen und der European Accessibility Act stützen sich auf die '''WCAG''', den internationalen Referenzrahmen. Die Konformität wird erklärt und veröffentlicht.
+
+Eine Konformitätserklärung belegt jedoch keine tatsächliche Nutzbarkeit. Sie belegt die Übereinstimmung mit Kriterien.
+
+== Siehe auch ==
+
+* [[Verantwortungsvolle Digitalisierung]] · [[Ökodesign]] · [[Charta für verantwortungsvolle Digitalisierung]] · [[Verantwortungsvolle KI]]
+
+[[fr:Accessibilité_Numérique]]
+[[en:Digital_accessibility]]

@@ -1,0 +1,26 @@
+'''Digitale Barrierefreiheit''' ermöglicht Menschen mit Behinderungen die Nutzung digitaler Inhalte und Dienste. Dazu gehören Wahrnehmbarkeit, Bedienbarkeit, Verständlichkeit und technische Robustheit. Auch Menschen mit vorübergehenden Einschränkungen oder in erschwerten Nutzungssituationen können von zugänglicher Gestaltung profitieren.
+
+== Im Entwicklungsprozess prüfen ==
+Ein Team sollte Barrierefreiheit schon bei Anforderungen, Gestaltung und Beschaffung berücksichtigen. Die [https://www.w3.org/WAI/test-evaluate/ Web Accessibility Initiative des W3C, auf Englisch,] empfiehlt fortlaufende Bewertung und erklärt die Grenzen automatisierter Prüfwerkzeuge. Ein Werkzeug allein kann die Konformität einer Website nicht feststellen. Ein allgemeingültiger Prozentsatz automatisch erkennbarer Fehler lässt sich daraus nicht ableiten.
+
+Praktische Prüfungen umfassen Tastaturbedienung, sichtbaren Fokus, Vergrößerung, verständliche Beschriftungen und die Nutzung mit einem Screenreader. Ob ein Alternativtext die relevante Information vermittelt, erfordert eine inhaltliche Bewertung. Menschen mit Behinderungen sollten an Gestaltung und Tests beteiligt sein.
+
+== Verbindung zum digitalen Dienst ==
+Für ein internes Formular genügt es nicht, nur die Startseite zu prüfen. Anmeldung, Eingabe, Fehlermeldungen und Bestätigung müssen zusammen funktionieren. Die IT-Abteilung kann Verantwortliche für Komponenten benennen, Korrekturen priorisieren und wiederkehrende Prüfungen in die Wartung aufnehmen.
+
+Eine einfache Struktur und bedarfsgerechte Medien können sowohl [[Ökodesign]] als auch Zugänglichkeit unterstützen. Eine kleine Datei oder wenig JavaScript garantiert jedoch keine Barrierefreiheit. Umgekehrt dürfen Untertitel, zugängliche Alternativen oder erforderliche Hilfsmittel nicht aus Spargründen entfallen. Diese Abwägung gehört zur [[Verantwortungsvolle Digitalisierung|verantwortungsvollen Digitalisierung]] und zur [[Digitale Suffizienz|digitalen Suffizienz]].
+
+== Rechtlichen Anwendungsbereich klären ==
+In Deutschland erfasst das Barrierefreiheitsstärkungsgesetz bestimmte Produkte und Dienstleistungen, grundsätzlich seit dem 28. Juni 2025, mit Ausnahmen und Übergangsregelungen. Die [https://www.bundesfachstelle-barrierefreiheit.de/DE/Barrierefreiheitsstaerkungsgesetz/barrierefreiheitsstaerkungsgesetz Bundesfachstelle Barrierefreiheit erläutert den Anwendungsbereich]. Nicht jede Website fällt allein aufgrund ihrer Existenz darunter.
+
+Für öffentliche Stellen gelten andere beziehungsweise zusätzliche Vorgaben. Verantwortliche müssen Träger, Angebot und maßgebliches Recht bestimmen, bevor sie eine konkrete Pflicht formulieren. Technische Kriterien wie die WCAG unterstützen die Prüfung; ihre jeweilige rechtliche Bedeutung hängt von den anwendbaren Vorschriften und Standards ab.
+
+Eine Erklärung ersetzt weder Tests noch die Bearbeitung gemeldeter Probleme. Dokumentiert werden sollten geprüfte Abläufe, festgestellte Einschränkungen, Zuständigkeiten und ein zugänglicher Rückmeldeweg. Rechtsquellen geprüft am 11. September 2026.
+
+== Siehe auch ==
+* [[Charta für verantwortungsvolle Digitalisierung]]
+* [[Verantwortungsvolle KI]]
+* [[RGESN]]
+
+[[fr:Accessibilité_Numérique]]
+[[en:Digital_accessibility]]

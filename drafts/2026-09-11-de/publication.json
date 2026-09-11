@@ -1,0 +1,30 @@
+[
+  {
+    "language": "de",
+    "title": "Digitale Barrierefreiheit",
+    "file": "de/Digitale Barrierefreiheit.wiki",
+    "base_revision": 63,
+    "sha256": "34feb8fa7a7c0ae6571dce1317f13969f0fc0d2482abd3187a7c049865a8037b"
+  },
+  {
+    "language": "de",
+    "title": "Rechenzentrum",
+    "file": "de/Rechenzentrum.wiki",
+    "base_revision": 34,
+    "sha256": "e53225f1bcc71ad5b552dd02f82c940d1113b02a3a4d7f3c1d90a204b6f44a9f"
+  },
+  {
+    "language": "de",
+    "title": "Green IT",
+    "file": "de/Green IT.wiki",
+    "base_revision": 74,
+    "sha256": "44ffbe15b22cf87596a574a423a8b893c4dba1332c656ee71865422afb888730"
+  },
+  {
+    "language": "de",
+    "title": "Digitale Suffizienz",
+    "file": "de/Digitale Suffizienz.wiki",
+    "base_revision": 53,
+    "sha256": "dbd0c353c9214cdffd38377b2354c5a2e3cbd7f6ba4feba7d2cb81dc81f5f377"
+  }
+]

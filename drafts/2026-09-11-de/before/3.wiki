@@ -1,0 +1,27 @@
+'''Digitale Suffizienz''' bedeutet, das Volumen an Nutzung und Ausstattung zu verringern, nicht nur deren Wirkungsgrad. Sie unterscheidet sich von Effizienz, die das Verhältnis von erbrachter Leistung zu eingesetzten Ressourcen verbessert, ohne die Menge der Leistung infrage zu stellen.
+
+Die Unterscheidung ist wesentlich, weil der Rebound-Effekt Effizienzgewinne regelmäßig aufzehrt.
+
+== Konkrete Formen ==
+
+; Bei Geräten
+: Nutzungsdauer verlängern, wiederaufbereitet kaufen, die Zahl der Endgeräte pro Person senken. Da die Herstellung den größten Teil der Wirkung bündelt, entscheidet sich hier das Wesentliche.
+; Bei Daten
+: Aufbewahrungsfristen festlegen, Kopien begrenzen, Nicht-mehr-Benötigtes löschen. Der Grundsatz der Datenminimierung der DSGVO läuft in dieselbe Richtung.
+; Bei Diensten
+: den Nutzen einer Funktion prüfen, bevor sie optimiert wird; zu Spitzenzeiten eine reduzierte Leistung akzeptieren, statt für den Spitzenwert zu dimensionieren.
+
+== Ein häufiger Einwand ==
+
+Suffizienz wird vorgeworfen, Innovation zu bremsen. Die Antwort ist empirisch: ein erheblicher Teil der ausgelieferten Funktionen wird kaum genutzt, ein Teil der gespeicherten Daten nie abgerufen. Sie zu streichen verschlechtert nichts.
+
+Offen bleibt die Verteilung des Aufwands zwischen Organisationen, Herstellern und einzelnen Nutzenden. Suffizienz ist keine individuelle Verantwortung: Architektur- und Beschaffungsentscheidungen wiegen schwerer als persönliche Gesten.
+
+== Siehe auch ==
+
+* [[Verantwortungsvolle Digitalisierung]] · [[Digitale Souveränität]] · [[RGESN]]
+
+[[fr:Sobriété_Numérique]]
+[[en:Digital_sobriety]]
+[[es:Sobriedad_Digital]]
+[[nl:Digitale soberheid]]

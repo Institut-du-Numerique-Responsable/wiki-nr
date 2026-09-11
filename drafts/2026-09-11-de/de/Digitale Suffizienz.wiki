@@ -1,0 +1,26 @@
+'''Digitale Suffizienz''' bedeutet, Umfang und Art digitaler Ausstattung und Nutzung an einem begründeten Bedarf auszurichten. Während Effizienz den Ressourceneinsatz je Leistung verbessert, fragt Suffizienz auch, welche Leistung benötigt wird. Beide Ansätze ergänzen sich in der [[Verantwortungsvolle Digitalisierung|verantwortungsvollen Digitalisierung]].
+
+== Bedarf vor Ausstattung klären ==
+Vor der Beschaffung eines weiteren Geräts sollte eine Organisation die Aufgabe, vorhandene Ausstattung und mögliche gemeinsame Nutzung prüfen. Ein Gerät weniger ist nur dann eine geeignete Lösung, wenn Beschäftigte ihre Aufgaben weiterhin erledigen können. [[Digitale Barrierefreiheit|Barrierefreiheit]], Ergonomie und notwendige Spezialausstattung gehören in diese Prüfung.
+
+Bei digitalen Diensten kann das Team Auflösung, Aktualisierungsfrequenz oder Speicherumfang am tatsächlichen Zweck ausrichten. Ein täglicher Bericht braucht möglicherweise keine sekundengenaue Aktualisierung. Ob eine reduzierte Frequenz ausreicht, entscheiden Fachbereich und IT anhand der Anforderungen.
+
+== Daten und Dienste verantwortungsvoll begrenzen ==
+Aufbewahrungsfristen helfen, Bestände zu ordnen. Vor dem Löschen sind gesetzliche Pflichten, fachliche Nutzung, Sicherungskopien und Wiederherstellung zu prüfen. [[Cybersicherheit]] und Datenminimierung müssen gemeinsam berücksichtigt werden; selten abgerufene Daten sind nicht automatisch entbehrlich.
+
+Für eine kaum genutzte Anwendung sind auch Schnittstellen und Sonderfälle relevant. Erst wenn Zuständigkeiten und Alternativen geklärt sind, lässt sich ihre Stilllegung vorbereiten. Das [[Ökodesign]] und der [[RGESN]] unterstützen die Prüfung von Bedarf und Gestaltung.
+
+== Einsparungen überprüfen ==
+Das [https://www.umweltbundesamt.de/en/publikationen/rebound-effekte-durch-digitale-leistungen-produkte Umweltbundesamt untersucht Rebound-Effekte digitaler Leistungen und Produkte]. Zusätzliche Nutzung kann Effizienzgewinne teilweise oder vollständig aufheben; das Ausmaß ist vom jeweiligen Fall abhängig. Ein [[Rebound-Effekt]] ist deshalb zu untersuchen, nicht pauschal zu unterstellen.
+
+Wer eine Änderung bewertet, sollte neben dem Verbrauch je Aufgabe auch die Gesamtzahl der Aufgaben und den absoluten Ressourcenbedarf erfassen. Eine verkleinerte Datei spart im Gesamtsystem nicht zwingend Ressourcen, wenn dafür wesentlich mehr Dateien übertragen werden.
+
+== Beispiel für die IT-Steuerung ==
+Eine Organisation vereinbart für interne Schulungsvideos eine bedarfsgerechte Auflösung, Untertitel und eine zugängliche Textfassung. Sie prüft Nutzbarkeit und Datenvolumen mit unterschiedlichen Endgeräten. Die Entscheidung berücksichtigt damit Umweltziele und Teilhabe, statt Einsparungen auf Kosten einzelner Nutzergruppen vorzunehmen.
+
+Für Hardware ergänzen [[Kreislaufwirtschaft]] und längere Nutzung die Suffizienzstrategie. Das [https://www.umweltbundesamt.de/themen/digitalisierung/gruene-informationstechnik-green-it/software-umwelt Umweltbundesamt beschreibt zudem, wie Software den Hardware- und Ressourcenbedarf beeinflusst].
+
+[[fr:Sobriété_Numérique]]
+[[en:Digital_sobriety]]
+[[es:Sobriedad_Digital]]
+[[nl:Digitale soberheid]]

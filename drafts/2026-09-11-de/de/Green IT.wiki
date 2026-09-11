@@ -1,0 +1,27 @@
+'''Green IT''' umfasst Maßnahmen zur Verringerung der Umweltwirkungen von Endgeräten, Software, Netzen und [[Rechenzentrum|Rechenzentren]]. Zur Bewertung gehören Rohstoffgewinnung und [[Herstellung]], Betrieb sowie das [[Lebensende]] der Ausstattung. Welche Phase überwiegt, hängt vom Gerät, seiner Nutzung und dem betrachteten Umweltindikator ab.
+
+== Vom Inventar zur Entscheidung ==
+Eine IT-Abteilung sollte zunächst Geräte, Dienste und Zuständigkeiten erfassen. Nutzungsdauer, Reparaturen, Strombedarf und tatsächlich benötigte Funktionen helfen bei der Priorisierung. Der [[CO₂-Fußabdruck]] ist ein Teil der Bewertung; Rohstoffe und Wasser verdienen ebenfalls Aufmerksamkeit. Eine [[Ökobilanz]] macht die Systemgrenzen und Annahmen sichtbar.
+
+Für einen noch geeigneten Laptop kann eine Reparatur sinnvoller sein als ein Austausch. Zu prüfen sind Sicherheitsupdates, Ersatzteile, Leistung und Nutzbarkeit. Eine längere Verwendung setzt voraus, dass das Gerät den benötigten Dienst weiterhin zuverlässig erbringt. Diese Abwägung verbindet [[Kreislaufwirtschaft]] und [[Cybersicherheit]].
+
+== Software und Beschaffung ==
+Software beeinflusst, welche Hardware benötigt wird und wie viele Ressourcen sie im Betrieb beansprucht. Das [https://www.umweltbundesamt.de/themen/digitalisierung/gruene-informationstechnik-green-it/software-umwelt Umweltbundesamt erläutert den Zusammenhang zwischen Software und Umwelt] und verweist auf Kriterien des Blauen Engels für ressourcen- und energieeffiziente Softwareprodukte.
+
+Bei einer Ausschreibung kann das Team unterstützte Geräte, Update-Zeiträume und den Ressourcenbedarf typischer Aufgaben abfragen. Messungen sollten mit vergleichbarer Funktion und Datenmenge erfolgen. Der [[RGESN]] bietet ergänzend einen Rahmen für das [[Ökodesign]] digitaler Dienste.
+
+== Beispiel: einen internen Dienst vereinfachen ==
+Ein Team stellt fest, dass zwei Anwendungen dieselben Berichte erzeugen. Vor einer Zusammenlegung prüft es Nutzergruppen, Schnittstellen, Aufbewahrungspflichten und Zugriffsrechte. Nach der Umstellung vergleicht es Betrieb und Ressourcenbedarf. Geringere Serverkosten allein belegen noch keine bestimmte Emissionsminderung.
+
+Auch die Gesamtmenge der Nutzung zählt. Mehr oder größere Dienste können einen Effizienzgewinn aufzehren; deshalb gehören [[Digitale Suffizienz]] und die Prüfung von [[Rebound-Effekt|Rebound-Effekten]] zur Planung.
+
+== Einordnung in die verantwortungsvolle Digitalisierung ==
+Green IT richtet den Blick auf die Umweltwirkungen der IT selbst. Die [[Verantwortungsvolle Digitalisierung|verantwortungsvolle Digitalisierung]] umfasst darüber hinaus soziale und organisatorische Fragen, etwa [[Digitale Barrierefreiheit]], Arbeitsbedingungen und Governance. Eine ressourcensparende Anwendung muss auch für ihre vorgesehenen Nutzerinnen und Nutzer zugänglich sein.
+
+== Weiterführende Quelle ==
+* [https://www.umweltbundesamt.de/publikationen/energie-ressourceneffizienz-digitaler Energie- und Ressourceneffizienz digitaler Infrastrukturen, Umweltbundesamt]
+
+[[en:Green IT]]
+[[es:Green IT]]
+[[fr:Green IT]]
+[[nl:Green IT]]
