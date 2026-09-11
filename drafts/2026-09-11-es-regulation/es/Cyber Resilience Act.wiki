@@ -1,0 +1,26 @@
+El '''Cyber Resilience Act''' (CRA), Reglamento (UE) 2024/2847, establece requisitos de ciberseguridad para productos con elementos digitales. Abarca determinados equipos y programas comercializados, con exclusiones y regímenes específicos. La organización debe examinar el producto y su papel como fabricante, importador, distribuidor o usuario en el [https://eur-lex.europa.eu/eli/reg/2024/2847/oj texto oficial].
+
+== Por qué afecta a los equipos de TI ==
+Un proveedor de software debe examinar sus responsabilidades como fabricante. Un departamento comprador puede incorporar la gestión de vulnerabilidades y la duración del soporte a sus criterios de selección. Desarrollar una aplicación, distribuir un componente y prestar un servicio cloud no implican necesariamente la misma clasificación jurídica.
+
+Los requisitos abarcan la seguridad durante el ciclo de vida del producto, la gestión de vulnerabilidades y la información para los usuarios. La [https://digital-strategy.ec.europa.eu/en/policies/cra-summary síntesis de la Comisión Europea, en inglés,] explica el ámbito de aplicación y las disposiciones transitorias.
+
+== Fechas de aplicación ==
+Las obligaciones de notificación del artículo 14 para los fabricantes se aplican desde el '''11 de septiembre de 2026'''. Afectan a vulnerabilidades explotadas activamente e incidentes graves que repercuten en la seguridad del producto, según las condiciones del reglamento. La aplicación general comienza el 11 de diciembre de 2027. La Comisión describe el [https://digital-strategy.ec.europa.eu/en/policies/cra-reporting sistema de notificación, en inglés]. Las distintas obligaciones tienen calendarios propios.
+
+== Compras y vida útil ==
+Al adquirir un dispositivo conectado, solicitar el período de soporte anunciado, el procedimiento de actualización y el canal de comunicación de vulnerabilidades. Comprobar si las actualizaciones siguen siendo compatibles con el equipo instalado y prever qué hacer al finalizar el soporte.
+
+Esta planificación contribuye a las [[TI Responsable|TI responsables]]: un mantenimiento adecuado puede permitir usar durante más tiempo equipos que siguen siendo útiles. El cumplimiento del CRA no acredita una huella ambiental baja. La reparabilidad, el consumo y los impactos del ciclo de vida requieren una evaluación propia.
+
+== Ejemplo práctico ==
+Antes de comprar pasarelas industriales, reunir a explotación, seguridad y compras. Definir quién recibe las alertas, prueba los parches y registra las versiones instaladas. Tener en cuenta los equipos difíciles de detener y probar la recuperación del servicio. Estas responsabilidades continúan después de la entrega. Fuentes consultadas el 11 de septiembre de 2026.
+
+== Véase también ==
+* [[Ciberseguridad]]
+* [[NIS2]]
+* [[Economía Circular]]
+
+[[Category:Normativa]]
+[[fr:Cyber Resilience Act]]
+[[en:Cyber Resilience Act]]

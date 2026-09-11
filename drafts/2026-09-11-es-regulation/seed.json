@@ -1,0 +1,56 @@
+[
+  {
+    "language": "es",
+    "title": "Cyber Resilience Act",
+    "file": "es/Cyber Resilience Act.wiki",
+    "base_revision": 0
+  },
+  {
+    "language": "fr",
+    "title": "Cyber Resilience Act",
+    "file": "fr/Cyber Resilience Act.wiki",
+    "base_revision": 889
+  },
+  {
+    "language": "en",
+    "title": "Cyber Resilience Act",
+    "file": "en/Cyber Resilience Act.wiki",
+    "base_revision": 161
+  },
+  {
+    "language": "es",
+    "title": "NIS2",
+    "file": "es/NIS2.wiki",
+    "base_revision": 0
+  },
+  {
+    "language": "fr",
+    "title": "NIS2",
+    "file": "fr/NIS2.wiki",
+    "base_revision": 890
+  },
+  {
+    "language": "en",
+    "title": "NIS2",
+    "file": "en/NIS2.wiki",
+    "base_revision": 162
+  },
+  {
+    "language": "es",
+    "title": "Data Act",
+    "file": "es/Data Act.wiki",
+    "base_revision": 0
+  },
+  {
+    "language": "fr",
+    "title": "Data Act",
+    "file": "fr/Data Act.wiki",
+    "base_revision": 891
+  },
+  {
+    "language": "en",
+    "title": "Data Act",
+    "file": "en/Data Act.wiki",
+    "base_revision": 163
+  }
+]

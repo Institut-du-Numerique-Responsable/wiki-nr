@@ -1,0 +1,25 @@
+'''NIS2''' is Directive (EU) 2022/2555 on the security of network and information systems. It establishes an EU framework for risk management and incident notification by covered entities. Applicability depends on sector, size, exceptions and national transposition. Consult the [https://eur-lex.europa.eu/eli/dir/2022/2555/oj official text].
+
+== Establish the scope ==
+Having an IT department does not itself bring an organisation within scope. Legal and security staff should examine activities and applicable criteria. Suppliers may also face contractual requirements from covered customers without automatically acquiring the same regulatory status.
+
+The [https://digital-strategy.ec.europa.eu/en/policies/nis2-directive Commission's overview] describes the European framework and sectors. The transposition deadline was 17 October 2024; that date alone does not establish the current national rules in every country.
+
+== Operational work ==
+Article 21 covers areas including incident handling, continuity, supply-chain security, development and maintenance, access control and assessment of measures. Article 20 assigns management bodies responsibilities for approval and oversight.
+
+An IT team can map critical services and suppliers, assign owners, test backups and establish escalation channels. For a hosted application, record the provider's commitments, evidence of restoration and contacts available during an incident.
+
+== Sustainable IT implications ==
+Asset knowledge and maintenance support both [[Cybersecurity|cybersecurity]] and resource management. Retiring an abandoned service can reduce exposure and release resources. Backup copies and separation of environments, however, meet needs that a storage reduction must not override.
+
+Compare consolidation options at equivalent levels of continuity and protection. Documenting residual risk and resource requirements helps service owners understand the decision. NIS2 does not certify environmental performance. Sources checked on 11 September 2026.
+
+== See also ==
+* [[Cyber Resilience Act]]
+* [[Digital resilience]]
+* [[Sustainable IT]]
+
+[[Category:Regulation]]
+[[fr:NIS2]]
+[[es:NIS2]]

@@ -1,0 +1,25 @@
+The '''Data Act''', Regulation (EU) 2023/2854, addresses access to connected-product data and switching between data processing services, among other matters. General application began on 12 September 2025, with specific transitional arrangements. Consult the [https://eur-lex.europa.eu/eli/reg/2023/2854/oj official legislation].
+
+== Two issues for IT teams ==
+Users of connected products have rights to access data covered by the regulation and, under its conditions, request sharing. This can matter when arranging maintenance of industrial equipment. It is not an unrestricted right to every dataset: check the scope and applicable safeguards.
+
+For covered cloud and other data processing services, the regulation also addresses switching barriers. The [https://digital-strategy.ec.europa.eu/en/factpages/data-act-explained Commission's explanation] describes contractual requirements, interfaces and export arrangements. It identifies 12 January 2027 as the date for removing switching charges, following a transitional period.
+
+== Prepare an exit ==
+An IT department can inventory exportable data, metadata, formats and application dependencies. Distinguish transferable assets from components that require rebuilding or adaptation. Personal-data and trade-secret protections still need attention.
+
+Before leaving a SaaS provider, test an export and its use in the target environment. Check attachments, identifiers, permissions and required history. An export button does not establish that the service can resume elsewhere. Plan deletion of residual copies in accordance with applicable commitments and duties.
+
+== Sustainable IT implications ==
+Switching capability can reduce dependence on a supplier and support continuity. Access to operational data may help maintain equipment, but environmental benefits need assessment. Migration itself creates transfers and sometimes a period of duplicate operation.
+
+Document the exit scenario, costs and resources to compare options. The Data Act replaces neither data protection law nor a [[Life cycle assessment|life cycle assessment]]. Sources checked on 11 September 2026.
+
+== See also ==
+* [[Digital resilience]]
+* [[Sustainable IT]]
+* [[AI Act]]
+
+[[Category:Regulation]]
+[[fr:Data Act]]
+[[es:Data Act]]

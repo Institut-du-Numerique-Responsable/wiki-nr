@@ -1,0 +1,25 @@
+'''NIS2''' est la directive (UE) 2022/2555 sur la sécurité des réseaux et des systèmes d’information. Elle fixe un cadre européen de gestion des risques et de notification des incidents pour les entités concernées. Son application à une organisation dépend notamment du secteur, de la taille, des exceptions et de la transposition nationale. Voir le [https://eur-lex.europa.eu/eli/dir/2022/2555/oj texte officiel].
+
+== Déterminer le périmètre ==
+La présence d’une DSI ne suffit pas à rendre une entreprise assujettie. Examiner les activités et les critères applicables avec les responsables juridiques et sécurité. Une organisation peut aussi recevoir des exigences contractuelles de clients concernés, sans que cela lui confère automatiquement le même statut.
+
+La [https://digital-strategy.ec.europa.eu/en/policies/nis2-directive présentation de la Commission] couvre les secteurs et le dispositif européen. La directive devait être transposée au plus tard le 17 octobre 2024 ; cette échéance ne prouve pas, à elle seule, l’état actuel du droit dans chaque pays.
+
+== Travail opérationnel ==
+L’article 21 traite notamment de gestion des incidents, continuité, sécurité de la chaîne d’approvisionnement, développement et maintenance, contrôle des accès et évaluation des mesures. Les organes de direction ont des responsabilités dans l’approbation et la supervision des mesures prévues par l’article 20.
+
+Une équipe IT peut établir une cartographie des services critiques et de leurs fournisseurs, attribuer des responsables, tester les sauvegardes et prévoir les circuits d’escalade. Pour une application hébergée, préciser les engagements du prestataire, les preuves de restauration et les contacts mobilisables pendant un incident.
+
+== Articulation avec un numérique durable ==
+La connaissance du parc et la maintenance rejoignent les objectifs de [[Cybersécurité|cybersécurité]] et de sobriété. Retirer un service abandonné peut réduire une exposition et libérer des ressources. À l’inverse, les copies de sécurité et le cloisonnement répondent à des besoins qu’une réduction du stockage ne doit pas effacer.
+
+Les choix de mutualisation se comparent à niveau de continuité et de protection équivalent. Documenter le risque résiduel et les ressources mobilisées rend l’arbitrage compréhensible pour les métiers. NIS2 ne constitue pas une certification environnementale. Sources vérifiées le 11 septembre 2026.
+
+== Voir aussi ==
+* [[Cyber Resilience Act]]
+* [[Résilience]]
+* [[Numérique Responsable]]
+
+[[Catégorie:Réglementation]]
+[[en:NIS2]]
+[[es:NIS2]]

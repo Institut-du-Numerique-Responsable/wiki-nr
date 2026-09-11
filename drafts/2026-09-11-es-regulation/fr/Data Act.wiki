@@ -1,0 +1,25 @@
+Le '''Data Act''', règlement (UE) 2023/2854, encadre notamment l’accès aux données des produits connectés et le changement de fournisseur de services de traitement de données. Son application générale a commencé le 12 septembre 2025, avec des transitions propres à certaines dispositions. Voir le [https://eur-lex.europa.eu/eli/reg/2023/2854/oj texte officiel].
+
+== Deux sujets pour les équipes IT ==
+Les utilisateurs de produits connectés disposent de droits d’accès aux données couvertes par le règlement et peuvent, sous conditions, en demander le partage. Cela peut concerner la maintenance d’un équipement industriel. Il ne s’agit pas d’un accès illimité à toute donnée : vérifier le périmètre et les protections applicables.
+
+Pour les services cloud et autres services de traitement de données concernés, le règlement vise aussi les obstacles au changement de fournisseur. La [https://digital-strategy.ec.europa.eu/en/factpages/data-act-explained présentation de la Commission] explique les exigences contractuelles, les interfaces et les modalités d’export. Elle indique la suppression des frais de changement de fournisseur à compter du 12 janvier 2027, avec un régime transitoire auparavant.
+
+== Organiser la réversibilité ==
+Une DSI peut dresser l’inventaire des données exportables, des métadonnées, des formats et des dépendances applicatives. Elle distingue ce qu’elle peut transférer de ce qui exige une reconstruction ou une adaptation. La protection des données personnelles et des secrets d’affaires reste à prendre en compte.
+
+Pour préparer la sortie d’un SaaS, tester un export et sa réutilisation dans un environnement cible. Vérifier les pièces jointes, les identifiants, les droits et les historiques nécessaires. Un bouton d’export ne démontre pas que le service pourra reprendre ailleurs. Prévoir aussi la suppression des copies résiduelles selon les engagements et obligations applicables.
+
+== Lien avec le numérique responsable ==
+La réversibilité peut limiter la dépendance à un fournisseur et faciliter la continuité. Le partage de données d’usage peut aider à entretenir un équipement, mais le bénéfice environnemental doit être évalué. Une migration entraîne aussi des transferts et parfois une période de double exploitation.
+
+Documenter le scénario de sortie, ses coûts et ses ressources permet de comparer les options. Le Data Act ne remplace ni le RGPD ni une [[Analyse du Cycle de Vie|analyse du cycle de vie]]. Sources vérifiées le 11 septembre 2026.
+
+== Voir aussi ==
+* [[Résilience]]
+* [[Numérique Responsable]]
+* [[AI Act]]
+
+[[Catégorie:Réglementation]]
+[[en:Data Act]]
+[[es:Data Act]]

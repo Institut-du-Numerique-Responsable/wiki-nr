@@ -1,0 +1,65 @@
+[
+  {
+    "language": "es",
+    "title": "Cyber Resilience Act",
+    "file": "es/Cyber Resilience Act.wiki",
+    "base_revision": 0,
+    "sha256": "8d9df43c56ea010d1788aa6e9f32eb1ab3c3ddc407f787150c7ffbfef5ec0440"
+  },
+  {
+    "language": "fr",
+    "title": "Cyber Resilience Act",
+    "file": "fr/Cyber Resilience Act.wiki",
+    "base_revision": 889,
+    "sha256": "df0bb3054f53393826062d1d9c683a20606916ead59edc03b49621ece7971087"
+  },
+  {
+    "language": "en",
+    "title": "Cyber Resilience Act",
+    "file": "en/Cyber Resilience Act.wiki",
+    "base_revision": 161,
+    "sha256": "1ca127c5e3ba6ff622d5bd1a8265bff8452038ae28e91b6a70ba121722284b5b"
+  },
+  {
+    "language": "es",
+    "title": "NIS2",
+    "file": "es/NIS2.wiki",
+    "base_revision": 0,
+    "sha256": "8f6602133901623a22b52672723e63e3cf562689ee87893c978c054f5e00b195"
+  },
+  {
+    "language": "fr",
+    "title": "NIS2",
+    "file": "fr/NIS2.wiki",
+    "base_revision": 890,
+    "sha256": "953481e92e1c4db8087b7b956f9dac5ac33c43fbc13b9e792a5fcd51588fa025"
+  },
+  {
+    "language": "en",
+    "title": "NIS2",
+    "file": "en/NIS2.wiki",
+    "base_revision": 162,
+    "sha256": "dd437119862aec171989269a73988a50ab3995344f811c8b8ec4a61d728ec079"
+  },
+  {
+    "language": "es",
+    "title": "Data Act",
+    "file": "es/Data Act.wiki",
+    "base_revision": 0,
+    "sha256": "83a8add0e51ebdb8e512cdbbef76305f2bf95ae03ec2e8e2e26bbefa844b8c58"
+  },
+  {
+    "language": "fr",
+    "title": "Data Act",
+    "file": "fr/Data Act.wiki",
+    "base_revision": 891,
+    "sha256": "0233ef94bc5adc28006ca970b0c2fc45c8b3b6fc3eb748833d12bb07d876e629"
+  },
+  {
+    "language": "en",
+    "title": "Data Act",
+    "file": "en/Data Act.wiki",
+    "base_revision": 163,
+    "sha256": "a4e1081fb9fe1cb19a00a6ae9e166f30317c4a9f1afe5158a57169bea0945197"
+  }
+]

@@ -1,0 +1,25 @@
+Le '''Cyber Resilience Act''' (CRA), règlement (UE) 2024/2847, définit des exigences de cybersécurité pour les produits comportant des éléments numériques. Il concerne notamment du matériel et des logiciels mis sur le marché, avec des exclusions et régimes particuliers. Le périmètre doit être vérifié pour le produit et le rôle considérés : fabricant, importateur, distributeur ou utilisateur. Voir le [https://eur-lex.europa.eu/eli/reg/2024/2847/oj texte officiel].
+
+== Pourquoi la DSI est concernée ==
+Un éditeur doit examiner ses obligations de fabricant. Une DSI acheteuse peut intégrer la gestion des vulnérabilités et la durée de support à sa sélection. Développer une application, distribuer un composant ou exploiter un service cloud ne conduit pas automatiquement au même classement juridique.
+
+Les règles visent la sécurité sur le cycle de vie du produit, avec la gestion des vulnérabilités et des informations destinées aux utilisateurs. La [https://digital-strategy.ec.europa.eu/en/policies/cra-summary synthèse de la Commission] explique le périmètre, les rôles et les transitions.
+
+== Échéances ==
+Les obligations de signalement de l’article 14 s’appliquent depuis le '''11 septembre 2026'''. Elles concernent les vulnérabilités activement exploitées et les incidents graves affectant la sécurité des produits, selon les conditions du texte. L’application générale intervient le 11 décembre 2027. La Commission décrit le [https://digital-strategy.ec.europa.eu/en/policies/cra-reporting dispositif de signalement]. Ces dates ne signifient pas que toutes les obligations commencent en même temps.
+
+== Achats, maintenance et durée de vie ==
+Pour un équipement connecté, l’acheteur peut demander la période de support annoncée, la procédure de mise à jour et le canal de notification des vulnérabilités. Il vérifie aussi si les mises à jour restent compatibles avec le matériel utilisé et comment l’organisation réagira à la fin du support.
+
+Ce travail rejoint le [[Numérique Responsable|numérique responsable]] : une maintenance assurée peut permettre de conserver du matériel utile. Le CRA ne certifie toutefois pas une faible empreinte environnementale. Il faut évaluer séparément réparabilité, consommation et cycle de vie.
+
+== Exemple IT ==
+Avant un achat de passerelles industrielles, associer exploitation, sécurité et achats. Définir qui reçoit les alertes, teste les correctifs et suit les versions installées. Prévoir les équipements difficiles à interrompre et tester la procédure de reprise. Cette organisation doit rester opérationnelle après la réception du matériel. Sources vérifiées le 11 septembre 2026.
+
+== Voir aussi ==
+* [[Cybersécurité]]
+* [[NIS2]]
+
+[[Catégorie:Réglementation]]
+[[en:Cyber Resilience Act]]
+[[es:Cyber Resilience Act]]
