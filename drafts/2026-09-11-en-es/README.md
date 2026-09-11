@@ -10,7 +10,7 @@ Statut : brouillons, non publiés. Ces fichiers ne font pas partie de l’instan
 
 Traductions adaptées depuis les révisions françaises conservées dans `content/manifest.json`. Références vérifiées le 11 septembre 2026 : Software Engineering Institute, Commission européenne et Mission interministérielle Numérique écoresponsable.
 
-Précisions éditoriales : la dette technique n’augmente pas systématiquement la consommation ; le TCO est un indicateur financier et ne prouve pas une division proportionnelle des émissions. Ces nuances devront aussi faire l’objet d’une correction des sources françaises.
+Précisions éditoriales : la dette technique n’augmente pas systématiquement la consommation ; le TCO est un indicateur financier et ne prouve pas une division proportionnelle des émissions. Des corrections des sources françaises sont incluses dans ce lot.
 
 `python3 check.py` vérifie l’absence des titres proposés et leur rendu via l’API publique. Ce script ne publie rien. Après publication, ajouter les liens réciproques aux fiches françaises et refaire l’export GitHub. Les textes proposés relèvent de la même licence CC0 que les contributions éditoriales du wiki.
 
@@ -20,3 +20,17 @@ Précisions éditoriales : la dette technique n’augmente pas systématiquement
 - [Coût total de possession](fr/Co%C3%BBt%20total%20de%20possession.wiki) : retirer la baisse automatique des coûts et émissions, expliciter le périmètre et les hypothèses.
 
 Ces propositions françaises ne sont pas publiées ; comparer leur source avec la dernière révision en ligne avant intégration.
+
+## Lot préparé pour publication
+
+Neuf changements : six créations EN/ES, deux corrections de fond FR et les liens de langues de la fiche française « Service numérique ». `publication.json` contient les révisions vérifiées et les empreintes ; `before/` conserve les originaux.
+
+Commande sur le serveur :
+
+```sh
+sudo python3 /home/ggallon/wiki-drafts/2026-09-11-en-es/publish.py
+```
+
+La commande vérifie toutes les révisions avant de commencer. Chaque écriture utilise `PageUpdater::hasEditConflict` puis `saveRevision`, dont le mécanisme compare-and-swap refuse une modification concurrente. Chaque contenu enregistré est relu via l’API publique. Une erreur interrompt le lot ; les pages déjà publiées sont conservées et reconnues lors d’une relance. Le lot n’est pas une transaction globale.
+
+Validation avant publication : neuf prévisualisations, comparaison des sources FR et syntaxe PHP vérifiées ; revue de code effectuée. L’exécution réelle du nouvel outil d’écriture reste à vérifier lors de la publication avec sudo.

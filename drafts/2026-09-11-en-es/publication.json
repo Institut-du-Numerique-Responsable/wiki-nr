@@ -1,0 +1,65 @@
+[
+  {
+    "language": "fr",
+    "title": "Dette technique",
+    "file": "fr/Dette technique.wiki",
+    "base_revision": 698,
+    "sha256": "8849ca68fee5b6bb9da1dd690b6162b74f33a3a1228701a64548720f4d71db25"
+  },
+  {
+    "language": "en",
+    "title": "Technical debt",
+    "file": "en/Technical debt.wiki",
+    "base_revision": 0,
+    "sha256": "9e19561023aacf7aa884b491e2f9fa6837d27ced4537aa88de844085940bf2e1"
+  },
+  {
+    "language": "es",
+    "title": "Deuda técnica",
+    "file": "es/Deuda técnica.wiki",
+    "base_revision": 0,
+    "sha256": "97d0924c9ab6f34d605091d52d555037e36708a30a70ba259e7f5e658d056807"
+  },
+  {
+    "language": "fr",
+    "title": "Coût total de possession",
+    "file": "fr/Coût total de possession.wiki",
+    "base_revision": 694,
+    "sha256": "fa8a874c409d3c72a2d86baa5cb010a70d3ef1ddd7dcd9661cd34cb9cd07f9ca"
+  },
+  {
+    "language": "en",
+    "title": "Total cost of ownership",
+    "file": "en/Total cost of ownership.wiki",
+    "base_revision": 0,
+    "sha256": "294ea907a7138f54dca5541debd4565eabb159d862ae415725d1e2d5d020712b"
+  },
+  {
+    "language": "es",
+    "title": "Coste total de propiedad",
+    "file": "es/Coste total de propiedad.wiki",
+    "base_revision": 0,
+    "sha256": "44a02fb4f5454373372f609669fe39b7403fdbe6a21721c4dafa0590913b3487"
+  },
+  {
+    "language": "fr",
+    "title": "Service numérique",
+    "file": "fr/Service numérique.wiki",
+    "base_revision": 204,
+    "sha256": "c4b424eba1721ebcda5ebf0cfa9f11b2b5c419fb4bab31d6fbb8d3f2205f88e1"
+  },
+  {
+    "language": "en",
+    "title": "Digital service",
+    "file": "en/Digital service.wiki",
+    "base_revision": 0,
+    "sha256": "a0615371a1eb1b58780d826c7fd1cea9a64f3449fc6594cfddf5747f7916b81c"
+  },
+  {
+    "language": "es",
+    "title": "Servicio digital",
+    "file": "es/Servicio digital.wiki",
+    "base_revision": 0,
+    "sha256": "7941ff101274f2781230746a7d05aa0c3885f8a7546718cff22e491072a62fce"
+  }
+]

@@ -25,3 +25,6 @@ La [https://green-forum.ec.europa.eu/green-business/green-public-procurement/lif
 * [[Guide_des_Achats_Numériques_Responsables|Guide des Achats Numériques Responsables]] · [[Fin_de_Vie|Fin de Vie]] · [[Réemploi]] · [[Indice_de_réparabilité|Indice de réparabilité]] · [[Comptabilité_environnementale|Comptabilité environnementale]] · [[TCO_Certified|TCO Certified]]
 
 [[Catégorie:Concepts]]
+
+[[en:Total cost of ownership]]
+[[es:Coste total de propiedad]]

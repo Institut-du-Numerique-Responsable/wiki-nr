@@ -1,0 +1,56 @@
+[
+  {
+    "language": "fr",
+    "title": "Dette technique",
+    "file": "fr/Dette technique.wiki",
+    "base_revision": 698
+  },
+  {
+    "language": "en",
+    "title": "Technical debt",
+    "file": "en/Technical debt.wiki",
+    "base_revision": 0
+  },
+  {
+    "language": "es",
+    "title": "Deuda técnica",
+    "file": "es/Deuda técnica.wiki",
+    "base_revision": 0
+  },
+  {
+    "language": "fr",
+    "title": "Coût total de possession",
+    "file": "fr/Coût total de possession.wiki",
+    "base_revision": 694
+  },
+  {
+    "language": "en",
+    "title": "Total cost of ownership",
+    "file": "en/Total cost of ownership.wiki",
+    "base_revision": 0
+  },
+  {
+    "language": "es",
+    "title": "Coste total de propiedad",
+    "file": "es/Coste total de propiedad.wiki",
+    "base_revision": 0
+  },
+  {
+    "language": "fr",
+    "title": "Service numérique",
+    "file": "fr/Service numérique.wiki",
+    "base_revision": 204
+  },
+  {
+    "language": "en",
+    "title": "Digital service",
+    "file": "en/Digital service.wiki",
+    "base_revision": 0
+  },
+  {
+    "language": "es",
+    "title": "Servicio digital",
+    "file": "es/Servicio digital.wiki",
+    "base_revision": 0
+  }
+]

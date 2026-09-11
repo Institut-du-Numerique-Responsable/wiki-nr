@@ -21,3 +21,6 @@ Consigner chaque élément de dette, ses conséquences, la correction proposée 
 * [[Ecoconception]] · [[Obésiciel]] · [[Dark_Data|Dark Data]] · [[Cycle_de_vie_de_l'IA|Cycle de vie de l'IA]] · [[Sobriété_Numérique|Sobriété Numérique]]
 
 [[Catégorie:Concepts]]
+
+[[en:Technical debt]]
+[[es:Deuda técnica]]

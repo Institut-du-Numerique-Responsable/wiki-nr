@@ -1,0 +1,17 @@
+== Définition ==
+Un service est un ensemble d’actions permettant de satisfaire un '''besoin exprimé''' par un citoyen/consommateur/client.
+
+Un service numérique est donc l’ensemble des actions réalisées en utilisant les '''outils''' '''informatiques''' et de '''télécommunications''' et qui, couplées à des interventions humaines lorsque cela est nécessaire, permettent de satisfaire un besoin.
+
+"Un service numérique est constitué de l’ensemble des matériels, logiciels et infrastructures qui permettent de réaliser une action numérique : par exemple Partager un fichier avec mes collègues."<ref>[https://ecoresponsable.numerique.gouv.fr/publications/ecoconception-securite/definitions/ Mission Interministérielle Numérique écoresponsable]</ref>. 
+
+== Dans le cadre du numérique responsable ==
+La conception de service numérique doit regrouper les différents aspects environnementaux, sociaux et économiques dès la phase de conception afin de répondre aux besoins exprimés de façon durable – règle des [[People Planet Profit|3P]].
+
+== Voir aussi ==
+
+=== Référence ===
+<references />
+
+[[en:Digital service]]
+[[es:Servicio digital]]
