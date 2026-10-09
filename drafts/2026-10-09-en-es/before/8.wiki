@@ -1,0 +1,56 @@
+== Définition ==
+Une Low Tech ou Low technologie peut se définir comme un système simple et accessible en terme de cout et de savoir faire qui permet de répondre à un besoin de base, mais c'est également une philosophie qui consiste à faire mieux avec moins
+
+Ces technologies doivent avoir les caractéristiques de technologies 
+
+* à la fois utiles, 
+* durables : robuste, réparable 
+* accessibles : notamment en terme de coût et de complexité.
+
+== Aller plus loin ==
+Il est important d'interroger la notion de "low-tech" car elle peut trop rapidement être confondue avec le savoir indigène (ou savoir autochtone) et reposer sur une binarité avec le "high-tech". Les chercheurs Nicolas Nova et Gauthier Roussilhe (2020) préfèrent donc utiliser le terme de "numériques situés". 
+
+== Low tech et résilience numérique des organisations ==
+
+En février 2026, le Cigref et l’[[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]], avec un appui prospectif de Futuribles, ont publié une étude intitulée ''L’approche low-tech au service de la résilience numérique des organisations : stratégies d’adaptation face aux fluctuations''.
+
+La [https://institutnr.org/low-tech-et-resilience-numerique présentation de l’INR, en français], donne accès au rapport et expose ses pistes pour les DSI : maintenance, réparation, simplification des architectures et continuité avec des processus alternatifs. Cigref propose également la [https://www.cigref.fr/the-low-tech-approach-serving-the-digital-resilience-of-organisations-adaptation-strategies-in-times-of-fluctuations version anglaise du rapport]. Ces ressources permettent de travailler avec les équipes métiers sur les services essentiels à préserver en cas de perturbation.
+
+=== Trois principes fondateurs ===
+
+* '''Accessibilité''' : des outils simples et abordables, utilisables largement
+* '''Utilité''' : une concentration sur les besoins essentiels des utilisateurs et du métier
+* '''Durabilité''' : des solutions robustes et réparables, moins consommatrices de ressources
+
+=== Trois scénarios de rupture à l’horizon 2035-2040 ===
+
+L’étude examine trois scénarios prospectifs, qui ne constituent pas des prédictions datées :
+
+# un conflit mondial perturbant les chaînes d’approvisionnement en semi-conducteurs ;
+# une croissance explosive de l’[[Intelligence_Artificielle|intelligence artificielle]] conduisant à un rationnement énergétique par quotas d’usage ;
+# une intensification des événements climatiques endommageant les infrastructures numériques.
+
+=== Recommandations ===
+
+* maintenir les systèmes existants en s’appuyant sur les compétences internes plutôt que de renouveler par défaut ;
+* interroger le besoin dès la phase de conception ;
+* adopter les pratiques d’[[Ecoconception|écoconception]] logicielle.
+
+L’étude invite à « passer d’une logique de performance par la puissance technologique à une logique de performance par la robustesse et la [[Résilience|résilience]] ».
+
+== Voir aussi ==
+
+=== Références ===
+* Infogreen Factory - [https://infogreenfactory.green/publications/livre-blanc-robustesse/ ''Voyage vers la robustesse''] (2025), qui consacre une annexe à la low-tech
+
+
+* ADEME - [https://librairie.ademe.fr/dechets-economie-circulaire/5421-demarches-low-tech.html Démarches "Low Tech"]
+* Socilater - [https://www.socialter.fr/produit/hors-serie-n-6 L'avenir sera Low-tech]  
+* Low tech lab - [https://lowtechlab.org/fr/la-low-tech C'est quoi une low tech]  
+* Futura tech - [https://www.futura-sciences.com/tech/definitions/low-tech-low-tech-18829/ Low tech - qu'est ce que c'est]  
+* Nicolas Nova et Gauthier Roussilhe - [https://hal.archives-ouvertes.fr/hal-02867603/document#:~:text=Gauthier%20Roussilhe,-Designer&text=Nous%20en%20tirons%20la%20notion,crise%20environnementale%2C%20design%20de%20transition. Du low-tech numérique aux numériques situés] (2020)  
+
+=== Lien externe ===
+
+* Wikipédia - [https://fr.wikipedia.org/wiki/Low-tech Low Tech]
+* Cigref, INR et Futuribles - [https://www.cigref.fr/lapproche-low-tech-au-service-de-la-resilience-numerique-des-organisations-strategies-dadaptation-face-aux-fluctuations L'approche low-tech au service de la résilience numérique des organisations] (2026)
