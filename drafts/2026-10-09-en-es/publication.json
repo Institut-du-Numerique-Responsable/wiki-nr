@@ -1,0 +1,86 @@
+[
+  {
+    "language": "en",
+    "title": "Agentic AI",
+    "file": "en/Agentic AI.wiki",
+    "base_revision": 0,
+    "sha256": "5074303fdf127619b43e999f0c492a292caf3a2f7fb7b881849f934531be1b5d"
+  },
+  {
+    "language": "es",
+    "title": "IA agéntica",
+    "file": "es/IA agéntica.wiki",
+    "base_revision": 0,
+    "sha256": "84c289bdc48ef085e527fc1d1d7acb5b50d26ce8f1ba8112e44194d4aa90534d"
+  },
+  {
+    "language": "es",
+    "title": "GHG Protocol",
+    "file": "es/GHG Protocol.wiki",
+    "base_revision": 0,
+    "sha256": "63c4442bc8620c961cc8e34d876905272b4c368b204106060bd8589a1d4e2a67"
+  },
+  {
+    "language": "es",
+    "title": "Shadow AI",
+    "file": "es/Shadow AI.wiki",
+    "base_revision": 0,
+    "sha256": "5dd95f735e4fd439c234228ffcc922c3919f3442236ef587928e2ca3c196d0d9"
+  },
+  {
+    "language": "es",
+    "title": "Low tech",
+    "file": "es/Low tech.wiki",
+    "base_revision": 0,
+    "sha256": "b794f46cdf2f5a97432cd9af5d0c232f50b1805ef0e899f914ecf42f33e03f04"
+  },
+  {
+    "language": "fr",
+    "title": "IA agentique",
+    "file": "fr/IA agentique.wiki",
+    "base_revision": 778,
+    "sha256": "27cffb176a0bf9f0ab768f0a71a2d4c43a2983b44cab1334117b2cd17942c7f1"
+  },
+  {
+    "language": "fr",
+    "title": "GHG Protocol",
+    "file": "fr/GHG Protocol.wiki",
+    "base_revision": 910,
+    "sha256": "55ceae411e091db164d64c3a4bc527509b22bee0a62c974075ddc84fa8c6934b"
+  },
+  {
+    "language": "fr",
+    "title": "Shadow AI",
+    "file": "fr/Shadow AI.wiki",
+    "base_revision": 747,
+    "sha256": "574a4dcf97db2fba7fbb91fc66c6eb008dab83434836c2eea4d6f319830d8511"
+  },
+  {
+    "language": "fr",
+    "title": "Low Tech",
+    "file": "fr/Low Tech.wiki",
+    "base_revision": 883,
+    "sha256": "500d4b2af445a3de4e1dfcb3d97c8eedc8dd529397e80307aa024556cf9166a2"
+  },
+  {
+    "language": "en",
+    "title": "GHG Protocol",
+    "file": "en/GHG Protocol.wiki",
+    "base_revision": 172,
+    "sha256": "8a19e2bd8e6959be995250f00b9b6a19cf36de4129593d3b36faeff7e48a309d"
+  },
+  {
+    "language": "en",
+    "title": "Shadow AI",
+    "file": "en/Shadow AI.wiki",
+    "base_revision": 31,
+    "sha256": "3250b6bf7a7fe8ddfee716af1a5558b63735b3bd5e5259a8cee959ec8aa54760"
+  },
+  {
+    "language": "en",
+    "title": "Low tech",
+    "file": "en/Low tech.wiki",
+    "base_revision": 156,
+    "sha256": "8a0fbc77773b59cec61553e2eee55683bb21624994eecfb461254dc3f1a81743"
+  }
+]

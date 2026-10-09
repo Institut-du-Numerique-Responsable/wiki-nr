@@ -1,0 +1,54 @@
+El '''Shadow AI''' (IA en la sombra) designa el uso de herramientas de inteligencia artificial dentro de una organización sin la validación ni el conocimiento de la dirección de sistemas de información.
+
+Prolonga la noción de ''shadow IT'', con una diferencia de naturaleza: el shadow IT se refiere a herramientas que almacenan o tratan datos; el Shadow AI añade la transmisión de esos datos a un tercero que puede utilizarlos para entrenar sus modelos.
+
+== Por qué se instala ==
+
+El Shadow AI rara vez responde a una intención de eludir las normas. Las causas habituales son:
+
+* no se ofrece ninguna herramienta oficial, aunque la necesidad existe;
+* el procedimiento de validación es más lento que el ritmo de trabajo;
+* la herramienta es accesible desde un navegador, sin instalación ni derechos de administración;
+* la gratuidad aparente evita pasar por el departamento de compras.
+
+La prohibición pura y simple suele producir el efecto contrario al buscado: el uso se traslada a los dispositivos personales, donde se vuelve invisible.
+
+== Riesgos ==
+
+=== Fuga de datos ===
+
+Es el riesgo principal. El código fuente, los datos de clientes, los documentos contractuales o los datos personales introducidos en un servicio destinado al gran público salen del perímetro controlado. Según las condiciones de uso, pueden conservarse, consultarse con fines de moderación o utilizarse para el entrenamiento.
+
+=== Cumplimiento ===
+
+Un tratamiento de datos personales realizado con una herramienta no inventariada no figura en ningún registro. La organización no puede documentar la base jurídica, garantizar los plazos de conservación ni responder a una solicitud de ejercicio de derechos, como exige el Reglamento General de Protección de Datos (RGPD).
+
+El [[AI Act]] impone además obligaciones según el nivel de riesgo del uso. Un sistema no inventariado no puede clasificarse y, por tanto, tampoco ponerse en conformidad.
+
+=== Calidad y responsabilidad ===
+
+Un resultado no verificado puede alimentar una decisión, un documento contractual o un código entregado. La responsabilidad sigue siendo de la organización, incluso cuando la herramienta no estaba autorizada.
+
+=== Huella ambiental no medida ===
+
+Los usos no inventariados no entran en ningún cálculo de [[Huella de Carbono|huella de carbono]] ni en ninguna iniciativa de [[Sobriedad Digital|sobriedad]]. A ello se suma la redundancia: varios servicios equivalentes utilizados en paralelo, cada uno con su coste de inferencia, sin que se haya arbitrado la utilidad real del caso de uso.
+
+== Tratamiento ==
+
+Inventariar antes de regular:
+
+# '''Medir''' el uso real: registros del proxy o del cortafuegos, gastos con tarjetas bancarias profesionales, entrevistas con los equipos;
+# '''Comprender''' las necesidades a las que responden estas herramientas, en lugar de calificarlas de entrada como incumplimientos;
+# '''Proponer''' una alternativa validada que cubra esas necesidades, con un nivel de servicio comparable;
+# '''Regular''' mediante una carta explícita: qué se puede introducir, qué no debe introducirse nunca, quién valida una nueva herramienta y en qué plazo;
+# '''Formar''' sobre los límites de los modelos, la confidencialidad y la verificación de los resultados.
+
+La [[Carta de IA Responsable]] del [[Instituto de TI Responsable]] ofrece un marco para este proceso, en particular sobre la formación de los equipos y la verificación de la utilidad de los casos de uso.
+
+== Véase también ==
+
+* [[IA Responsable]] · [[AI Act]] · [[IA agéntica]] · [[Sobriedad Digital]] · [[Ciberseguridad]]
+
+[[Categoría:Inteligencia artificial]]
+[[fr:Shadow AI]]
+[[en:Shadow AI]]

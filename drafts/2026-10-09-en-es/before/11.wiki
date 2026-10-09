@@ -1,0 +1,20 @@
+'''Low tech''' designates simple, accessible and durable technical solutions, and more broadly an approach that seeks to do better with less.
+
+== Three principles ==
+
+* '''accessibility''': simple, affordable tools that can be widely used ;
+* '''usefulness''': focus on essential needs ;
+* '''durability''': robust, repairable solutions that consume fewer resources.
+
+== Link with digital resilience ==
+Cigref and the Institut du Numérique Responsable (INR) published a report in 2026 on using low-tech approaches to strengthen organisational resilience, with foresight support from Futuribles. The [https://www.cigref.fr/the-low-tech-approach-serving-the-digital-resilience-of-organisations-adaptation-strategies-in-times-of-fluctuations English presentation and report] discuss maintaining existing systems, examining needs before design and reducing unnecessary software loads.
+
+For an IT department, this means identifying essential services, the skills needed to maintain them and alternatives when normal operation becomes impossible. The [https://institutnr.org/low-tech-et-resilience-numerique INR presentation in French] describes options including repair, simpler architectures and continuity plans combining digital and manual processes.
+
+The report explores disruption scenarios for 2035–2040 involving supply chains, energy and water constraints, and climate damage. These are foresight scenarios, not dated predictions. A continuity exercise can test which activities the organisation could still perform if a supplier or network became unavailable. Any fallback process also needs to protect data and remain usable by the people involved.
+
+== See also ==
+
+* [[Digital sobriety]] · [[Sustainable IT]] · [[Ecodesign]] · [[End of life]]
+
+[[Category:Concepts]]

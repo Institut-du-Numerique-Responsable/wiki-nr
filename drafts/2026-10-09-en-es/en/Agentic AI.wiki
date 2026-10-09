@@ -1,0 +1,25 @@
+'''Agentic AI''', or an '''AI agent''', is an artificial intelligence system that can not only analyse or generate content but also '''act''': plan tasks, call tools, send messages and chain steps together without intermediate approval.
+
+== What changes compared with a generative model ==
+
+[[Generative AI]] produces content that a person reads before doing anything with it. An agent executes. The consequence concerns the nature of the risk: a wrong answer becomes a wrong action, sometimes an irreversible one.
+
+The design therefore has to change:
+
+* '''human oversight''' must be placed before the action, not after it;
+* the '''permissions granted''' to the agent define how much damage is possible: an agent with write access can destroy what it was meant to organise;
+* '''traceability''' of every action becomes essential to reconstruct a sequence of events afterwards.
+
+The [[AI Act]] classifies these uses according to their level of risk; those involving decisions about people generally fall into the high-risk category.
+
+== Environmental issue ==
+
+An agent multiplies calls to the model: every reasoning step, every tool invoked and every failed attempt consumes an [[Inference|inference]]. The energy cost of an agentic task is far greater than that of a single request.
+
+== See also ==
+
+* [[Generative AI]] · [[Inference]] · [[AI governance]] · [[Responsible AI]] · [[AI Act]] · [[Shadow AI]]
+
+[[Category:Artificial intelligence]]
+[[fr:IA agentique]]
+[[es:IA agéntica]]

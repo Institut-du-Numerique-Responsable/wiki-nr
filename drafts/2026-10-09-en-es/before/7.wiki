@@ -1,0 +1,59 @@
+Le '''Shadow AI''' désigne l’usage d’outils d’[[Intelligence_Artificielle|intelligence artificielle]] au sein d’une organisation sans validation ni connaissance de la direction des systèmes d’information.
+
+Il prolonge la notion de ''shadow IT'', avec une différence de nature : le shadow IT concerne des outils qui stockent ou traitent des données ; le Shadow AI y ajoute la transmission de ces données à un tiers qui peut s’en servir pour entraîner ses modèles.
+
+== Pourquoi il s’installe ==
+
+Le Shadow AI résulte rarement d’une intention de contournement. Les causes habituelles :
+
+* aucun outil officiel n’est proposé, alors que le besoin existe ;
+* la procédure de validation est plus lente que le rythme de travail ;
+* l’outil est accessible depuis un navigateur, sans installation ni droits d’administration ;
+* la gratuité apparente supprime le passage par les achats.
+
+L’interdiction pure et simple produit généralement l’effet inverse de celui recherché : l’usage se déplace vers les terminaux personnels, où il devient invisible.
+
+== Risques ==
+
+=== Fuite de données ===
+
+C’est le risque principal. Du code source, des données clients, des documents contractuels ou des [[Donnée_personnelle|données personnelles]] saisis dans un service grand public sortent du périmètre maîtrisé. Selon les conditions d’utilisation, ils peuvent être conservés, consultés à des fins de modération ou utilisés pour l’entraînement.
+
+=== Conformité ===
+
+Un traitement de données personnelles par un outil non recensé n’apparaît dans aucun registre. L’organisation ne peut ni documenter la base légale, ni garantir les durées de conservation, ni répondre à une demande d’exercice de droits. Voir [[Règlement_Général_sur_la_Protection_des_Données|RGPD]] et [[Commission_Nationale_de_l'Informatique_et_des_Libertés|CNIL]].
+
+L’[[AI_Act|AI Act]] impose par ailleurs des obligations selon le niveau de risque de l’usage. Un système non recensé ne peut pas être classé, donc pas mis en conformité.
+
+=== Qualité et responsabilité ===
+
+Une production non vérifiée peut alimenter une décision, un document contractuel ou un code livré. La responsabilité reste celle de l’organisation, y compris lorsque l’outil n’était pas autorisé.
+
+=== Empreinte environnementale non mesurée ===
+
+Les usages non recensés n’entrent dans aucun [[Bilan_Carbone|Bilan Carbone]] ni dans aucune démarche de [[Sobriété_Numérique|sobriété]]. S’y ajoute la redondance : plusieurs services équivalents utilisés en parallèle, chacun avec son coût d’inférence, sans qu’aucun arbitrage n’ait été fait sur l’utilité réelle du cas d’usage.
+
+== Traitement ==
+
+Recenser avant d’encadrer :
+
+# '''Mesurer''' l’usage réel : journaux du proxy ou du pare-feu, dépenses sur cartes bancaires professionnelles, entretiens avec les équipes ;
+# '''Comprendre''' les besoins auxquels ces outils répondent, plutôt que de les qualifier d’emblée comme des manquements ;
+# '''Proposer''' une alternative validée qui couvre ces besoins, avec un niveau de service comparable ;
+# '''Encadrer''' par une charte explicite : ce qui peut être saisi, ce qui ne le doit jamais, qui valide un nouvel outil et sous quel délai ;
+# '''Former''' aux limites des modèles, à la confidentialité et à la vérification des productions.
+
+La [[IA_Responsable|Charte IA]] de l’[[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]] fournit un cadre pour cette démarche, en particulier sur la formation des équipes et la vérification de l’utilité des cas d’usage.
+
+== Voir aussi ==
+
+* [[Intelligence_Artificielle|Intelligence Artificielle]]
+* [[IA_Responsable|IA Responsable]]
+* [[AI_Act|AI Act]]
+* [[Donnée_personnelle|Donnée personnelle]]
+* [[Règlement_Général_sur_la_Protection_des_Données|Règlement Général sur la Protection des Données]]
+* [[Dark_Data|Dark Data]]
+* [[Sobriété_Numérique|Sobriété Numérique]]
+* [[Bring_Your_Own_Device|Bring Your Own Device]]
+
+[[Catégorie:Intelligence artificielle]]

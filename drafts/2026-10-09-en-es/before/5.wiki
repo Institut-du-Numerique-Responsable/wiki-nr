@@ -1,0 +1,28 @@
+Une '''IA agentique''', ou '''agent intelligent''', est un système d’[[Intelligence_Artificielle|intelligence artificielle]] capable non seulement d’analyser ou de générer, mais aussi d’'''agir''' : planifier des tâches, appeler des outils, envoyer des messages, enchaîner des étapes sans validation intermédiaire.
+
+== Ce qui change par rapport à un modèle génératif ==
+
+Une [[IA_générative|IA générative]] produit un contenu qu’un humain relit avant d’en faire quelque chose. Un agent exécute. La conséquence porte sur la nature du risque : une réponse erronée devient une action erronée, parfois irréversible.
+
+La conception doit alors changer :
+
+* la '''supervision humaine''' doit être placée avant l’action, pas après ;
+* les '''droits accordés''' à l’agent définissent l’étendue des dégâts possibles : un agent disposant d’un accès en écriture peut détruire ce qu’il était censé organiser ;
+* la '''traçabilité''' de chaque action devient indispensable pour reconstituer un enchaînement après coup.
+
+L’[[AI_Act|AI Act]] classe ces usages selon leur niveau de risque ; ceux qui touchent à des décisions concernant des personnes relèvent généralement du risque élevé.
+
+== Enjeu environnemental ==
+
+Un agent multiplie les appels au modèle : chaque étape de raisonnement, chaque outil sollicité, chaque tentative infructueuse consomme une [[Inférence|inférence]]. Le coût énergétique d’une tâche agentique est sans commune mesure avec celui d’une requête unique.
+
+== Voir aussi ==
+
+* [[IA_générative|IA générative]]
+* [[Inférence]]
+* [[Gouvernance_de_l'IA|Gouvernance de l'IA]]
+* [[IA_Responsable|IA Responsable]]
+* [[AI_Act|AI Act]]
+* [[Shadow_AI|Shadow AI]]
+
+[[Catégorie:Intelligence artificielle]]
