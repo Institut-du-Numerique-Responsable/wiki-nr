@@ -37,3 +37,4 @@ Pour un éditeur de logiciel ou un service en ligne, la catégorie « utilisatio
 
 [[Catégorie:Référentiels et méthodes]]
 [[en:GHG Protocol]]
+[[es:GHG Protocol]]

@@ -1,0 +1,57 @@
+Una '''low tech''', o tecnología de baja complejidad, es un sistema sencillo y accesible en coste y en conocimientos que permite responder a una necesidad básica. Es también una filosofía que consiste en hacer mejor con menos.
+
+== Definición ==
+
+Estas tecnologías deben ser a la vez:
+
+* '''útiles''';
+* '''duraderas''': robustas y reparables;
+* '''accesibles''': en particular en términos de coste y de complejidad.
+
+== Para profundizar ==
+
+Conviene cuestionar la noción de «low tech», porque puede confundirse con demasiada rapidez con el saber indígena y apoyarse en una oposición binaria con la «high tech». Por ello, los investigadores Nicolas Nova y Gauthier Roussilhe (2020) prefieren hablar de «tecnologías digitales situadas» (''numériques situés'').
+
+== Low tech y resiliencia digital de las organizaciones ==
+
+En febrero de 2026, el Cigref y el [[Instituto de TI Responsable]] (INR), con el apoyo prospectivo de Futuribles, publicaron un estudio titulado ''L’approche low-tech au service de la résilience numérique des organisations : stratégies d’adaptation face aux fluctuations''.
+
+La [https://institutnr.org/low-tech-et-resilience-numerique presentación del INR, en francés,] da acceso al informe y expone sus propuestas para las direcciones de sistemas de información: mantenimiento, reparación, simplificación de las arquitecturas y continuidad con procesos alternativos. El Cigref ofrece también la [https://www.cigref.fr/the-low-tech-approach-serving-the-digital-resilience-of-organisations-adaptation-strategies-in-times-of-fluctuations versión inglesa del informe]. Estos recursos permiten trabajar con los equipos de negocio sobre los servicios esenciales que deben preservarse en caso de perturbación.
+
+=== Tres principios fundamentales ===
+
+* '''Accesibilidad''': herramientas sencillas y asequibles, utilizables de forma amplia
+* '''Utilidad''': concentración en las necesidades esenciales de los usuarios y del negocio
+* '''Durabilidad''': soluciones robustas y reparables, que consumen menos recursos
+
+=== Tres escenarios de ruptura en el horizonte 2035-2040 ===
+
+El estudio examina tres escenarios prospectivos, que no constituyen predicciones fechadas:
+
+# un conflicto mundial que perturba las cadenas de suministro de semiconductores;
+# un crecimiento explosivo de la inteligencia artificial que conduce a un racionamiento energético mediante cuotas de uso;
+# una intensificación de los fenómenos climáticos que daña las infraestructuras digitales.
+
+=== Recomendaciones ===
+
+* mantener los sistemas existentes apoyándose en las competencias internas en lugar de renovar por defecto;
+* cuestionar la necesidad desde la fase de diseño;
+* adoptar las prácticas de [[Ecodiseño|ecodiseño]] de software.
+
+El estudio invita a «pasar de una lógica de rendimiento basada en la potencia tecnológica a una lógica de rendimiento basada en la robustez y la resiliencia».
+
+== Véase también ==
+
+* [[Sobriedad Digital]] · [[TI Responsable]] · [[Ecodiseño]] · [[Fin de Vida]] · [[Reutilización]]
+
+=== Referencias ===
+
+* Infogreen Factory - [https://infogreenfactory.green/publications/livre-blanc-robustesse/ ''Voyage vers la robustesse''] (2025), que dedica un anexo a la low tech (en francés)
+* ADEME - [https://librairie.ademe.fr/dechets-economie-circulaire/5421-demarches-low-tech.html Démarches "Low Tech"] (en francés)
+* Low-tech Lab - [https://lowtechlab.org/fr/la-low-tech C'est quoi une low tech] (en francés)
+* Nicolas Nova y Gauthier Roussilhe - [https://hal.archives-ouvertes.fr/hal-02867603/document Du low-tech numérique aux numériques situés] (2020, en francés)
+* Cigref, INR y Futuribles - [https://www.cigref.fr/lapproche-low-tech-au-service-de-la-resilience-numerique-des-organisations-strategies-dadaptation-face-aux-fluctuations L'approche low-tech au service de la résilience numérique des organisations] (2026, en francés)
+
+[[Categoría:Conceptos]]
+[[fr:Low Tech]]
+[[en:Low tech]]
