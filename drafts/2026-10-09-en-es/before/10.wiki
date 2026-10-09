@@ -1,0 +1,26 @@
+'''Shadow AI''' is the use of [[Responsible AI|artificial intelligence]] tools within an organisation without the knowledge or approval of the IT department.
+
+It extends the notion of shadow IT, with one difference in kind: shadow IT concerns tools that store or process data, whereas shadow AI adds the transmission of that data to a third party which may use it to train its models.
+
+== Why it takes hold ==
+
+Shadow AI rarely reflects an intent to circumvent rules. The usual causes are that no approved tool is offered although the need exists, that the approval process is slower than the pace of work, and that the tool is reachable from a browser without installation or budget.
+
+An outright ban generally produces the opposite of the intended effect: use moves to personal devices, where it becomes invisible.
+
+== Risks ==
+
+* '''data leakage''': source code, client data or personal data leave the controlled perimeter ;
+* '''compliance''': processing that appears in no register cannot be documented or defended ;
+* '''quality''': unverified output may feed a decision, and responsibility remains with the organisation ;
+* '''unmeasured footprint''': unrecorded uses appear in no carbon assessment.
+
+== Handling it ==
+
+Measure actual use before setting rules; understand the needs these tools meet; offer an approved alternative with comparable service; write a short and readable policy; train people in the limits of the models.
+
+== See also ==
+
+* [[Responsible AI]] · [[AI Act]] · [[Sustainable IT]]
+
+[[Category:Artificial intelligence]]
