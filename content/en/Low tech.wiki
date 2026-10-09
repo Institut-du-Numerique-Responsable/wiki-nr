@@ -18,3 +18,6 @@ The report explores disruption scenarios for 2035–2040 involving supply chains
 * [[Digital sobriety]] · [[Sustainable IT]] · [[Ecodesign]] · [[End of life]]
 
 [[Category:Concepts]]
+
+[[fr:Low Tech]]
+[[es:Low tech]]

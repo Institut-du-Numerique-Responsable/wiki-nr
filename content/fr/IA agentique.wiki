@@ -26,3 +26,6 @@ Un agent multiplie les appels au modèle : chaque étape de raisonnement, chaque
 * [[Shadow_AI|Shadow AI]]
 
 [[Catégorie:Intelligence artificielle]]
+
+[[en:Agentic AI]]
+[[es:IA agéntica]]

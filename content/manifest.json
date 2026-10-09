@@ -1775,10 +1775,10 @@
     "title": "GHG Protocol",
     "pageid": 198,
     "namespace": 0,
-    "revision": 910,
-    "timestamp": "2026-09-11T18:48:51Z",
+    "revision": 912,
+    "timestamp": "2026-10-09T03:37:20Z",
     "file": "fr/GHG Protocol.wiki",
-    "sha256": "85820d962027f882ab5fbc0856ccf8429540da3330d79d3a5399bf4990df79fa",
+    "sha256": "f5ffcb2045bf8420e3a67a9b6b21275e1c86d2264487d6aadb1d4615de10c596",
     "url": "https://fr.wiki.isit-europe.org/nr/GHG_Protocol"
   },
   {
@@ -1929,10 +1929,10 @@
     "title": "IA agentique",
     "pageid": 205,
     "namespace": 0,
-    "revision": 778,
-    "timestamp": "2026-08-06T06:08:23Z",
+    "revision": 911,
+    "timestamp": "2026-10-09T03:37:19Z",
     "file": "fr/IA agentique.wiki",
-    "sha256": "a4da123a1a8286faae266cdd91d104350cc36de02558a76fca5dfb77c43bb450",
+    "sha256": "48b8a7dc413ce57417cafb20ad4e732d895e158df27b06515debb9bfe97c6a7a",
     "url": "https://fr.wiki.isit-europe.org/nr/IA_agentique"
   },
   {
@@ -2237,10 +2237,10 @@
     "title": "Low Tech",
     "pageid": 77,
     "namespace": 0,
-    "revision": 883,
-    "timestamp": "2026-09-10T18:08:02Z",
+    "revision": 914,
+    "timestamp": "2026-10-09T03:37:20Z",
     "file": "fr/Low Tech.wiki",
-    "sha256": "c40709f18b8ab2226541c85fed3d467b5149516077dd7cc1be8e419085825477",
+    "sha256": "16f3bcc277daf2e19e1601ec72a38f59277d6d5e4cbd7d678595b01de7ad32af",
     "url": "https://fr.wiki.isit-europe.org/nr/Low_Tech"
   },
   {
@@ -2886,10 +2886,10 @@
     "title": "Shadow AI",
     "pageid": 202,
     "namespace": 0,
-    "revision": 747,
-    "timestamp": "2026-08-05T22:34:19Z",
+    "revision": 913,
+    "timestamp": "2026-10-09T03:37:20Z",
     "file": "fr/Shadow AI.wiki",
-    "sha256": "278ab85c8639c0b12466063a1bf478e3c16ca17f787979a800510dd5bc36be70",
+    "sha256": "57e7cb810bd7482ca504a26f29d8e27ec103a06bd8267717ab48fe733bd0df28",
     "url": "https://fr.wiki.isit-europe.org/nr/Shadow_AI"
   },
   {
@@ -3433,6 +3433,17 @@
   },
   {
     "language": "en",
+    "title": "Agentic AI",
+    "pageid": 82,
+    "namespace": 0,
+    "revision": 173,
+    "timestamp": "2026-10-09T03:37:18Z",
+    "file": "en/Agentic AI.wiki",
+    "sha256": "1e94d13f7b6e490fba2944df78d47510e09d70893282113972dee5a3e17f6fe3",
+    "url": "https://en.wiki.isit-europe.org/nr/Agentic_AI"
+  },
+  {
+    "language": "en",
     "title": "Algorithm",
     "pageid": 65,
     "namespace": 0,
@@ -3711,10 +3722,10 @@
     "title": "GHG Protocol",
     "pageid": 27,
     "namespace": 0,
-    "revision": 172,
-    "timestamp": "2026-09-11T18:48:51Z",
+    "revision": 174,
+    "timestamp": "2026-10-09T03:37:21Z",
     "file": "en/GHG Protocol.wiki",
-    "sha256": "05328dc75f711afaed79c2de6b45bb29519e8f7e65c60176c76ce4f3ee26ed47",
+    "sha256": "e6ccdf09d25db0190cd9fc24d59a78a6caff75533090f54578c81f80938371c6",
     "url": "https://en.wiki.isit-europe.org/nr/GHG_Protocol"
   },
   {
@@ -3887,10 +3898,10 @@
     "title": "Low tech",
     "pageid": 22,
     "namespace": 0,
-    "revision": 156,
-    "timestamp": "2026-09-10T18:08:02Z",
+    "revision": 176,
+    "timestamp": "2026-10-09T03:37:21Z",
     "file": "en/Low tech.wiki",
-    "sha256": "cbe3fecaa181e92936813fed68a5b2ef311427928ebe18209c9dee348fbd78f8",
+    "sha256": "039c0e29ecf7122b8fe04e65d596aca430b7b184c9df79a1106de8535d4ddefa",
     "url": "https://en.wiki.isit-europe.org/nr/Low_tech"
   },
   {
@@ -4074,10 +4085,10 @@
     "title": "Shadow AI",
     "pageid": 26,
     "namespace": 0,
-    "revision": 31,
-    "timestamp": "2026-08-06T05:19:32Z",
+    "revision": 175,
+    "timestamp": "2026-10-09T03:37:21Z",
     "file": "en/Shadow AI.wiki",
-    "sha256": "b219e806d42622283193a76fb6d3abc3e7d36a258b0ed02d9cbc36f27a96158b",
+    "sha256": "be3e8afc403b7c935e0cd698c8b0ba7ac6431df8ff45c1d18d08cdb01279c5b6",
     "url": "https://en.wiki.isit-europe.org/nr/Shadow_AI"
   },
   {
@@ -4511,6 +4522,17 @@
   },
   {
     "language": "es",
+    "title": "GHG Protocol",
+    "pageid": 58,
+    "namespace": 0,
+    "revision": 94,
+    "timestamp": "2026-10-09T03:37:18Z",
+    "file": "es/GHG Protocol.wiki",
+    "sha256": "ee7d7e3abee436d0af8e7f3a0316ee7bd379adfd6315f276e0bbf5046f37849b",
+    "url": "https://es.wiki.isit-europe.org/nr/GHG_Protocol"
+  },
+  {
+    "language": "es",
     "title": "Green IT",
     "pageid": 33,
     "namespace": 0,
@@ -4555,6 +4577,17 @@
   },
   {
     "language": "es",
+    "title": "IA agéntica",
+    "pageid": 57,
+    "namespace": 0,
+    "revision": 93,
+    "timestamp": "2026-10-09T03:37:18Z",
+    "file": "es/IA agéntica.wiki",
+    "sha256": "052102f7d48a6c366d680e1ef2c8d610a03fec90ca057e0ecebe0e33a67677a3",
+    "url": "https://es.wiki.isit-europe.org/nr/IA_ag%C3%A9ntica"
+  },
+  {
+    "language": "es",
     "title": "ISO/IEC TS 20125",
     "pageid": 30,
     "namespace": 0,
@@ -4585,6 +4618,17 @@
     "file": "es/Instituto de TI Responsable.wiki",
     "sha256": "6f09264ed56de52326a9552d0d3efcea88949948f249d2a0a4451cce3092753c",
     "url": "https://es.wiki.isit-europe.org/nr/Instituto_de_TI_Responsable"
+  },
+  {
+    "language": "es",
+    "title": "Low tech",
+    "pageid": 60,
+    "namespace": 0,
+    "revision": 96,
+    "timestamp": "2026-10-09T03:37:19Z",
+    "file": "es/Low tech.wiki",
+    "sha256": "9248715ad68a991ce6cca2f274b97ff769490810955ac5e266003ccd7e40d33d",
+    "url": "https://es.wiki.isit-europe.org/nr/Low_tech"
   },
   {
     "language": "es",
@@ -4717,6 +4761,17 @@
     "file": "es/Servicio digital.wiki",
     "sha256": "c39b03c6c8122d4609167e9bf955697913d31d29ada5ac54dc60134217707c8a",
     "url": "https://es.wiki.isit-europe.org/nr/Servicio_digital"
+  },
+  {
+    "language": "es",
+    "title": "Shadow AI",
+    "pageid": 59,
+    "namespace": 0,
+    "revision": 95,
+    "timestamp": "2026-10-09T03:37:19Z",
+    "file": "es/Shadow AI.wiki",
+    "sha256": "1d069bdc5004cccca066aa79072ea17aa6dd95ec37edf5017d28d1091b5a971d",
+    "url": "https://es.wiki.isit-europe.org/nr/Shadow_AI"
   },
   {
     "language": "es",

@@ -57,3 +57,6 @@ La [[IA_Responsable|Charte IA]] de l’[[Institut_du_Numérique_Responsable|Inst
 * [[Bring_Your_Own_Device|Bring Your Own Device]]
 
 [[Catégorie:Intelligence artificielle]]
+
+[[en:Shadow AI]]
+[[es:Shadow AI]]

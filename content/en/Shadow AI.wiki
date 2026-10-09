@@ -24,3 +24,6 @@ Measure actual use before setting rules; understand the needs these tools meet; 
 * [[Responsible AI]] · [[AI Act]] · [[Sustainable IT]]
 
 [[Category:Artificial intelligence]]
+
+[[fr:Shadow AI]]
+[[es:Shadow AI]]

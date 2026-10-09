@@ -2,6 +2,7 @@
 
 Articles et catégories du wiki. Chaque entrée donne accès au fichier et à la page publiée.
 
+- [Agentic AI](Agentic%20AI.wiki) · [wiki](https://en.wiki.isit-europe.org/nr/Agentic_AI)
 - [AI Act](AI%20Act.wiki) · [wiki](https://en.wiki.isit-europe.org/nr/AI_Act)
 - [AI codes of conduct and practice](AI%20codes%20of%20conduct%20and%20practice.wiki) · [wiki](https://en.wiki.isit-europe.org/nr/AI_codes_of_conduct_and_practice)
 - [AI governance](AI%20governance.wiki) · [wiki](https://en.wiki.isit-europe.org/nr/AI_governance)

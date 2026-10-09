@@ -54,3 +54,6 @@ L’étude invite à « passer d’une logique de performance par la puissance t
 
 * Wikipédia - [https://fr.wikipedia.org/wiki/Low-tech Low Tech]
 * Cigref, INR et Futuribles - [https://www.cigref.fr/lapproche-low-tech-au-service-de-la-resilience-numerique-des-organisations-strategies-dadaptation-face-aux-fluctuations L'approche low-tech au service de la résilience numérique des organisations] (2026)
+
+[[en:Low tech]]
+[[es:Low tech]]

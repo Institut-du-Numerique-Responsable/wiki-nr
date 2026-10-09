@@ -1,0 +1,25 @@
+Una '''IA agéntica''', o '''agente de IA''', es un sistema de inteligencia artificial capaz no solo de analizar o generar contenido, sino también de '''actuar''': planificar tareas, llamar a herramientas, enviar mensajes y encadenar etapas sin validación intermedia.
+
+== Qué cambia respecto a un modelo generativo ==
+
+Una IA generativa produce un contenido que una persona revisa antes de utilizarlo. Un agente ejecuta. La consecuencia afecta a la naturaleza del riesgo: una respuesta errónea se convierte en una acción errónea, a veces irreversible.
+
+El diseño debe cambiar en consecuencia:
+
+* la '''supervisión humana''' debe situarse antes de la acción, no después;
+* los '''permisos concedidos''' al agente determinan el alcance de los daños posibles: un agente con acceso de escritura puede destruir lo que debía organizar;
+* la '''trazabilidad''' de cada acción resulta indispensable para reconstruir después una secuencia de hechos.
+
+El [[AI Act]] clasifica estos usos según su nivel de riesgo; los que afectan a decisiones sobre personas corresponden generalmente al riesgo alto.
+
+== Impacto ambiental ==
+
+Un agente multiplica las llamadas al modelo: cada etapa de razonamiento, cada herramienta utilizada y cada intento fallido consume una inferencia. El coste energético de una tarea agéntica es muy superior al de una consulta única.
+
+== Véase también ==
+
+* [[IA Responsable]] · [[AI Act]] · [[Shadow AI]] · [[Modelo de inteligencia artificial]] · [[Sobriedad Digital]]
+
+[[Categoría:Inteligencia artificial]]
+[[fr:IA agentique]]
+[[en:Agentic AI]]
