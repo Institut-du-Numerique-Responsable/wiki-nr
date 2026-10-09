@@ -1,6 +1,6 @@
 # Traductions anglaises et espagnoles — lot du 9 octobre 2026
 
-Statut : préparé et prévisualisé le 9 octobre 2026, non publié.
+Statut : publié et vérifié le 9 octobre 2026. Les douze révisions figurent dans `published.json` ; l’instantané `content/` est synchronisé.
 
 Cinq nouvelles fiches, traduites depuis les fiches françaises lues le jour même : Agentic AI (EN), IA agéntica, GHG Protocol, Shadow AI et Low tech (ES). Les liens internes ne pointent que vers des fiches existantes ou vers des fiches de ce lot. Les notions sans fiche dans la langue cible (IA générative, inférence, RGPD, Bilan Carbone, ISO 14064, CSRD en espagnol) restent en texte simple.
 

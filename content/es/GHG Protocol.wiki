@@ -1,0 +1,36 @@
+El '''GHG Protocol''' (''Greenhouse Gas Protocol'', Protocolo de Gases de Efecto Invernadero) es el marco internacional de referencia para contabilizar las emisiones de gases de efecto invernadero de las organizaciones.
+
+== Definición ==
+
+Elaborado conjuntamente por el '''World Resources Institute''' (WRI) y el '''World Business Council for Sustainable Development''' (WBCSD), el GHG Protocol es el estándar más utilizado del mundo. La mayoría de los demás marcos, como el Bilan Carbone, la norma ISO 14064 o los informes de la CSRD, se remiten a él o se articulan con él.
+
+Es el que introdujo la división en '''alcances''' (''scopes''), hoy universal.
+
+== Los estándares ==
+
+; Corporate Standard
+: la base, publicada en 2001 y revisada en 2004; define la contabilización de los alcances 1 y 2 a escala de una organización
+; Corporate Value Chain (Scope 3) Standard
+: publicado en 2011; detalla las quince categorías del alcance 3, repartidas entre actividades aguas arriba y aguas abajo
+; Product Life Cycle Standard
+: huella de un producto a lo largo de todo su ciclo de vida
+; Project Protocol
+: cuantificación de las reducciones derivadas de proyectos específicos
+
+== Las quince categorías del alcance 3 ==
+
+El alcance 3 se divide en ocho categorías aguas arriba (compras, bienes de capital, transporte aguas arriba, residuos, viajes de negocios, desplazamientos al trabajo, activos arrendados…) y siete categorías aguas abajo (transporte aguas abajo, transformación, '''uso de los productos vendidos''', [[Fin de Vida|fin de vida]], franquicias, inversiones…).
+
+Para un editor de software o un servicio en línea, la categoría «uso de los productos vendidos» suele ser la más importante: incluye la energía consumida por los dispositivos de los usuarios.
+
+== Véase también ==
+
+* [[Huella de Carbono]] · [[Análisis del Ciclo de Vida]] · [[Fin de Vida]] · [[TI Responsable]]
+
+=== Referencias externas ===
+
+* [https://ghgprotocol.org/ Greenhouse Gas Protocol]
+
+[[Categoría:Referenciales]]
+[[fr:GHG Protocol]]
+[[en:GHG Protocol]]
