@@ -1,5 +1,14 @@
 # Wiki du numérique responsable
 
+[![Wiki en ligne](https://img.shields.io/badge/wiki-en%20ligne-0b6e4f?logo=wikipedia&logoColor=white)](https://fr.wiki.isit-europe.org/nr/Accueil)
+[![Version](https://img.shields.io/github/v/release/Institut-du-Numerique-Responsable/wiki-nr?sort=semver&label=instantan%C3%A9)](https://github.com/Institut-du-Numerique-Responsable/wiki-nr/releases/latest)
+[![Licence](https://img.shields.io/badge/licence-CC0%201.0-lightgrey?logo=creativecommons)](LICENSE)
+[![Langues](https://img.shields.io/badge/langues-FR%20%C2%B7%20EN%20%C2%B7%20ES%20%C2%B7%20DE%20%C2%B7%20NL-1d4ed8)](#consulter-les-contenus)
+[![Articles](https://img.shields.io/badge/articles-383-1b7a4a)](content/manifest.json)
+[![Dernier commit](https://img.shields.io/github/last-commit/Institut-du-Numerique-Responsable/wiki-nr?label=mise%20%C3%A0%20jour)](https://github.com/Institut-du-Numerique-Responsable/wiki-nr/commits/main)
+[![Contributions bienvenues](https://img.shields.io/badge/contributions-bienvenues-8b5cf6)](docs/contribuer-via-github.md)
+[![INR](https://img.shields.io/badge/INR-Institut%20du%20Num%C3%A9rique%20Responsable-4CAF50)](https://institutnr.org/)
+
 **[Consulter le Wiki du numérique responsable](https://fr.wiki.isit-europe.org/nr/Accueil)**
 
 Sources publiques du wiki de l’Institut du Numérique Responsable, en français, anglais, espagnol, allemand et néerlandais.
