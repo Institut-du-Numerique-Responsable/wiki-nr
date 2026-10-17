@@ -27,3 +27,5 @@ A charter without application produces the same result as no charter. An approva
 * [[Responsible AI]] · [[AI Act]] · [[Shadow AI]] · [[Algorithmic bias]] · [[Cybersecurity]]
 
 [[Category:Artificial intelligence]]
+
+[[fr:Gouvernance de l'IA]]

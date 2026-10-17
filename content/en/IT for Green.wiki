@@ -26,3 +26,5 @@ Environmental monitoring and climate research can support decisions without prod
 <references />
 
 [[Category:Concepts]]
+
+[[fr:IT for Green]]

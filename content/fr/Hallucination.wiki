@@ -19,3 +19,5 @@ Aucune de ces mesures ne supprime le phénomène.
 * [[IA_générative|IA générative]] · [[RAG]] · [[LLM]] · [[Garbage_in,_garbage_out|Garbage in, garbage out]] · [[Explicabilité]] · [[IA_Responsable|IA Responsable]]
 
 [[Catégorie:Intelligence artificielle]]
+
+[[en:Hallucination]]

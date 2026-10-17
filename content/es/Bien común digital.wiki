@@ -55,3 +55,7 @@ Los bienes comunes digitales ocupan un lugar central en las reflexiones sobre el
 [[Categoría:Digital responsable]]
 [[Categoría:Bienes comunes]]
 [[Categoría:Definiciones]]
+
+[[de:Digitale Gemeingüter]]
+[[en:Digital commons]]
+[[fr:Commun numérique]]

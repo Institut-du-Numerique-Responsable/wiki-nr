@@ -15,3 +15,5 @@ Organisations must publish an accessibility statement, a multi-year accessibilit
 * [[Digital accessibility]] · [[WCAG]] · [[Human for IT]]
 
 [[Category:Accessibility]]
+
+[[fr:RGAA]]

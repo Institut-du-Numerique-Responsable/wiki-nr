@@ -55,3 +55,7 @@ Digital commons play a central role in thinking about [[responsible digital|resp
 [[Category:Responsible digital]]
 [[Category:Commons]]
 [[Category:Definitions]]
+
+[[de:Digitale Gemeingüter]]
+[[es:Bien común digital]]
+[[fr:Commun numérique]]

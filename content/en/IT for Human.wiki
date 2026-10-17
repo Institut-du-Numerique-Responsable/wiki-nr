@@ -13,3 +13,5 @@ A service designed for inclusion can produce exclusion if it assumes equipment, 
 * [[Human for IT]] · [[Sustainable IT]] · [[Digital accessibility]]
 
 [[Category:Concepts]]
+
+[[fr:IT for Human]]

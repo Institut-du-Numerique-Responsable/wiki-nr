@@ -15,3 +15,5 @@ Version 9 structures the approach in seven steps and introduces several changes:
 * [[GHG Protocol]] · [[ISO 14064]] · [[Carbon footprint]] · [[Life cycle assessment]]
 
 [[Category:Frameworks and methods]]
+
+[[fr:Bilan Carbone]]

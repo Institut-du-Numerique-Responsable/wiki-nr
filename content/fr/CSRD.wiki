@@ -42,3 +42,5 @@ Les résultats d’un [[Bilan Carbone]], de [[WeNR]] ou d’une [[Analyse du Cyc
 
 [[Catégorie:Réglementation]]
 [[Catégorie:Référentiels et méthodes]]
+
+[[en:CSRD]]

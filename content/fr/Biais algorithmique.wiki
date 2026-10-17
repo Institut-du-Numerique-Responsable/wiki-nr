@@ -25,3 +25,5 @@ La Charte IA de l’[[Institut_du_Numérique_Responsable|Institut du Numérique 
 * [[Accessibilité_Numérique|Accessibilité Numérique]]
 
 [[Catégorie:Intelligence artificielle]]
+
+[[en:Algorithmic bias]]

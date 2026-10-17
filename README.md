@@ -40,7 +40,7 @@ Choisir un nouveau répertoire pour chaque export. Comparer les manifestes et le
 
 ## Publication et exploitation
 
-Voir [la procédure](docs/operations.md). Les lots publiés sont archivés dans `operations/publication/` avec leurs outils de lecture ; leur mode d’écriture est désactivé dans cette copie. Les lots en attente de publication sont dans `drafts/`. Aucun outil de publication n’est exécuté par GitHub Actions.
+Voir [la procédure](docs/operations.md). Les lots publiés sont archivés dans `operations/publication/` avec leurs outils de lecture ; leur mode d’écriture est désactivé dans cette copie. Les lots en attente de publication sont préparés dans `drafts/`. Aucun outil de publication n’est exécuté par GitHub Actions.
 
 Les contenus conservent les références et le régime de réutilisation indiqués par le wiki et les sources citées. Ce dépôt ne concède pas de droits supplémentaires sur les rapports externes, marques ou illustrations.
 

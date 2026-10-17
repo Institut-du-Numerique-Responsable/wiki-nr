@@ -15,3 +15,5 @@ The size of the model is therefore the main lever. A smaller, specialised model 
 * [[Responsible AI]] · [[Shadow AI]] · [[AI Act]] · [[Sustainable IT]]
 
 [[Category:Artificial intelligence]]
+
+[[fr:LLM]]
