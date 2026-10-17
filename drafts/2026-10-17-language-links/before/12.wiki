@@ -1,0 +1,22 @@
+'''Digital divide''' refers to inequality in access to and use of digital technology.
+
+== Three levels ==
+
+; Access
+: availability of equipment and connectivity, which remains unequal by geography and income
+; Skills
+: the ability to use digital tools, independent of access
+; Usage
+: the ability to derive real benefit, which depends on the design of services themselves
+
+The third level is the one organisations control. A service can be technically accessible and remain unusable for people it was meant to serve.
+
+== The digitisation trap ==
+
+Moving a public service online improves access for the majority and removes it for a minority, frequently the most vulnerable. Where no alternative channel remains, digitisation produces exclusion while appearing to improve service.
+
+== See also ==
+
+* [[Digital accessibility]] · [[Human for IT]] · [[IT for Human]] · [[Sustainable IT]]
+
+[[Category:Concepts]]

@@ -1,0 +1,50 @@
+Les '''WCAG''' (''Web Content Accessibility Guidelines'') sont les recommandations internationales d’[[Accessibilité_Numérique|accessibilité]] des contenus web, publiées par le W3C dans le cadre de son initiative WAI.
+
+== Définition ==
+
+Les WCAG constituent la référence mondiale en matière d’accessibilité numérique. La plupart des réglementations nationales s’y adossent, dont le [[RGAA]] français et la norme européenne EN 301 549.
+
+== Les quatre principes ==
+
+Les recommandations s’organisent autour de quatre principes, retenus sous l’acronyme '''POUR''' :
+
+; Perceptible (''Perceivable'')
+: l’information doit pouvoir être perçue par au moins un des sens, quelles que soient les capacités de la personne
+; Utilisable (''Operable'')
+: l’interface doit pouvoir être manipulée, y compris sans souris
+; Compréhensible (''Understandable'')
+: le contenu et le fonctionnement doivent être intelligibles
+; Robuste (''Robust'')
+: le contenu doit rester interprétable par les technologies d’assistance, aujourd’hui comme demain
+
+Ces principes se déclinent en règles, elles-mêmes détaillées en critères de succès.
+
+== Niveaux de conformité ==
+
+; A
+: niveau minimal ; son non-respect rend le contenu inaccessible à certains publics
+; AA
+: niveau de référence, retenu par la quasi-totalité des réglementations
+; AAA
+: niveau le plus exigeant, rarement atteignable sur l’ensemble d’un site
+
+== Versions ==
+
+* '''WCAG 2.0''' : 2008, également norme ISO/IEC 40500
+* '''WCAG 2.1''' : 2018, ajout de critères sur la mobilité, la basse vision et les troubles cognitifs
+* '''WCAG 2.2''' : octobre 2023, version courante
+* '''WCAG 3.0''' : en cours d’élaboration, avec un modèle d’évaluation repensé
+
+== Voir aussi ==
+
+* [[Accessibilité_Numérique|Accessibilité Numérique]]
+* [[RGAA]]
+* [[A11Y]]
+* [[Inclusion]]
+
+=== Références externes ===
+
+* [https://www.w3.org/WAI/standards-guidelines/wcag/ Web Content Accessibility Guidelines : W3C WAI]
+
+[[Catégorie:Accessibilité]]
+[[Catégorie:Référentiels et méthodes]]

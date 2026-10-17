@@ -1,0 +1,46 @@
+== Définition ==
+La paradoxe de Jevons nous vient d'un économiste britannique de la fin du XIXème siècle : William Stanley Jevons<ref name=":0">https://www.pourleco.com/les-bases/la-galerie-des-economistes/stanley-jevons</ref><ref name=":1">https://fr.wikipedia.org/wiki/William_Stanley_Jevons</ref>.  Il formalise la loi de la demande en s'appuyant sur la valeur utilité et décrit le comportement d'un consommateur qui achète une unité supplémentaire d'un bien tant que l'utilité associée est supérieure au prix de ce bien. Il démontre également que, malgré l'augmentation de l'efficacité avec laquelle une ressource est employée grâce aux améliorations technologiques, la consommation totale de cette ressource peut, elle, augmenter au lieu de diminuer. En particulier, ce paradoxe implique que l'introduction de technologies plus efficaces en matière d'énergie peut, dans l'agrégat, augmenter la consommation totale de l'énergie : c'est le [[Paradoxe de Jevons]] qu'on nomme également couramment l'[[Effet Rebond]].<blockquote>Effet rebond peut se définir comme « l’augmentation de consommation liée à la réduction des limites à l’utilisation d’une technologie, ces limites pouvant être monétaires, temporelles, sociales, physiques, liées à l’effort, au danger, à l’organisation… »</blockquote>Il en découle le corollaire suivant : les économies d’énergie ou de ressources initialement prévues par l’utilisation d’une nouvelle technologie sont partiellement ou complètement compensées à la suite d'une adaptation du comportement de la société.
+
+== Catégorisation des différents types d'effet rebond ==
+Il existe trois type d'effets rebonds:
+
+* Effets rebond directs qui apparaissent lorsqu’une baisse du coût d’une ressource induit des réductions de prix qui, à leur tour, déclenchent une augmentation de la demande pour le bien coûtant le moins cher. La miniaturisation dans le numérique (microprocesseurs, différents composants...) a permis de réaliser des gains sur les matières premières. Ces économies ont été investies en R&D et ont permis d’améliorer les performances des matériels. Cette amélioration a de facto rendu obsolètes des équipements en parfait état de marche. Un autre exemple d'effet rebond direct serait celui de la virtualisation des centres de données.  En effet avec la diminution des coûts de stockage, la demande en stockage s'est accrue et par la même les besoins en traitement des données.
+* Effets rebond indirects où les économies réalisées lorsqu'une ressource est produite de manière plus efficace, et donc moins chère, sont investies en consommant d’autres produits polluants. Bien que nous assistions à une explosion de l' e-learing, du télétravail, des achats en ligne, on ne constate pas une réelle diminution des émissions de CO2.  En effet, la combinaison d'un éloignement plus important de son lieu de travail, et, la possibilité de se déplacer plus sur le plan personnel, a conduit à éliminer tous les bénéfices d'une généralisation des pratiques liées au technologies numériques. Il est également intéressant de considérer l'effet rebond lié au gain de temps apporté par ces mêmes technologies. L'information est immédiatement accessible, toutefois, la prolifération de celle ci, rend plus complexe et donc plus longue, l'identification de l'information appropriée.
+* Effets rebond structurels impactent l’ensemble de l’économie. Ils peuvent apparaître par exemple, lors d'une baisse des prix de l’énergie qui réduirait les prix des biens intermédiaires et finaux et par la même provoquerait des changements structurels dans les modes de production et les habitudes de consommation.
+
+== Dans le cadre du numérique responsable ==
+Une démarche [[Numérique Responsable|numérique responsable]] combine optimisation des systèmes d’information, [[Eco Conception|écoconception]] et limitation du taux de remplacement du matériel, donc des matières premières. Elle réduit l’empreinte environnementale en abaissant les émissions de GES, et par voie de conséquence les coûts d’investissement, par exemple en appliquant la règle des [[5R]].  Les potentiels [[Effet Rebond|effets rebond]] dépendront du réinvestissement de ces économies.  En effet, si celles-ci permettent d’accroître les capacités de production ou permettent de développer de nouveaux produits, il est fort probable que les bénéfices environnementaux initiaux soient réduits à néant, voir négatifs.  Si au contraire, ces économies sont investies afin de réduire d’autres sources de pollution ou bien d’améliorer le cycle de vie de produits existants, alors un cercle vertueux pourra être initié. 
+
+Afin de ne pas alimenter le paradoxe de Jevons, une prise de conscience des écueils à éviter est indispensable.  Il est donc nécessaire de garder en mémoire les différents types d’[[Effet Rebond|effets rebond]] et de définir des stratégies responsables<ref name=":2">https://institutnr.org/sauver-le-numerique-responsable</ref> en conséquence.
+
+Au niveau législatif<ref name=":3">https://la-rem.eu/2021/01/la-sobriete-numerique-en-perspective/#por3</ref>:
+
+* taxe carbone à l'importation de terminaux en Europe pour stimuler l'achat d'équipements [[Reconditionnement|reconditionnés]];
+* sanctions et mesures contre l'[[Obsolescence Programmée|obsolescence programmée]] des équipements et celle des logiciels;
+* fiscalité attractive pour les centres de données implantés en France;
+* inclusion dans le rapport [[Responsabilité Sociétale des Entreprises|RSE]] des entreprises du [[Numérique Responsable|numérique responsable]]...
+
+Au niveau des entreprises<ref name=":2" />:
+
+* sensibilisation, formation et accompagnement des donneurs d’ordre, product owner, chef de produit, coach agile, UX designer, architecte…
+* expression de besoins responsables (calibrés, sobres, indispensables…)
+* développer la [[Low Tech|Low-tech]] 
+* redéfinir des nouvelles valeurs comme la régénération pour inciter les entreprises à de nouveaux modèles d’affaires pas uniquement basés sur la croissance
+* promouvoir l’[[Economie Circulaire|économie circulaire]] (usage, fonctionnalité, partage)
+* ...
+
+== A voir aussi ==
+
+=== Références ===
+
+* <ref name=":1" />Lien - Wikipédia, [https://fr.wikipedia.org/wiki/Paradoxe_de_Jevons Paradoxe de Jevons]
+* <ref name=":2" />Qu’est-ce que ce paradoxe de Jevons - Philippe Derouette, [https://institutnr.org/sauver-le-numerique-responsable Sauver le Numérique Responsable (par une stratégie responsable)], 24 mars 2021
+* <ref name=":3" />Neutraliser l'effet rebond - [https://la-rem.eu/2021/01/la-sobriete-numerique-en-perspective/#por3 La sobriété numérique en perspective - Françoise Laugée N°54bis-55 Automne 2020]
+
+=== Articles connexes ===
+
+* <ref name=":0" />CNRS, Ecoinfo, [https://ecoinfo.cnrs.fr/thematiques/consequences-du-numerique/effets-rebond-du-numerique/ Effets rebond du numérique]
+
+=== Liens externes ===
+
+*

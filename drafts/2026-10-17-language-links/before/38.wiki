@@ -1,0 +1,22 @@
+'''Prompt injection''' is an attack technique that manipulates a generative AI system by supplying malicious instructions, in order to bypass its rules, steer its answers or extract information it should not disclose.
+
+== Two forms ==
+
+; Direct injection
+: the attacker formulates the diverted request themselves
+; Indirect injection
+: the instructions are hidden in content the system will read: a web page, a document, an email, a ticket. The legitimate user triggers the attack without knowing.
+
+The second form is the more concerning as soon as a system consults external sources or processes incoming documents.
+
+== Why it is hard to prevent ==
+
+A language model does not structurally distinguish instructions from data: everything reaches it as text. There is no equivalent of prepared statements, which solved SQL injection.
+
+Countermeasures are architectural rather than filter-based: limit the system's permissions to what is strictly necessary, require human validation before any irreversible action, separate sources by trust level, and log actions for later analysis.
+
+== See also ==
+
+* [[Generative AI]] · [[Cybersecurity]] · [[Shadow AI]] · [[AI governance]]
+
+[[Category:Artificial intelligence]]

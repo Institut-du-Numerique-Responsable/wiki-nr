@@ -1,0 +1,17 @@
+Le '''Human for IT''', parfois appelé '''Social IT''', désigne la démarche visant à rendre le numérique accessible et utilisable par le plus grand nombre.
+
+Il traite le volet social du [[Numérique_Responsable|numérique responsable]] du côté du numérique lui-même : à qui profite-t-il, qui en est exclu, dans quelles conditions est-il produit.
+
+== Champs ==
+
+* l’'''[[Accessibilité_Numérique|accessibilité numérique]]''' : usage possible en situation de handicap ;
+* l’'''[[Inclusion|inclusion]]''' et la lutte contre l’[[Illectronisme|illectronisme]] et la [[Fracture_Numérique|fracture numérique]] ;
+* les '''conditions de production''' : extraction minière, assemblage, annotation des [[Données_d'entraînement|données d’entraînement]] ;
+* la '''[[Qualité_de_Vie_au_Travail|qualité de vie au travail]]''' des personnes qui utilisent les outils au quotidien ;
+* l’'''éthique''' des interfaces, contre les [[Dark_pattern|procédés trompeurs]].
+
+== Voir aussi ==
+
+* [[IT_for_Human|IT for Human]] · [[Green_IT|Green IT]] · [[Numérique_Responsable|Numérique Responsable]] · [[Accessibilité_Numérique|Accessibilité Numérique]] · [[Inclusion]] · [[RGAA]]
+
+[[Catégorie:Concepts]]

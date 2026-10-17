@@ -1,0 +1,50 @@
+Le '''GR491''' est le ''Guide de Référence de Conception Responsable de Services Numériques'' publié par l’[[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]] (INR). Il rassemble les recommandations permettant de concevoir un [[Service_numérique|service numérique]] plus sobre, plus accessible et plus respectueux des personnes comme de l’environnement.
+
+== Définition ==
+
+Le GR491 est un outil libre et collaboratif. Il ne se limite pas à l’[[Ecoconception|écoconception]] environnementale : il intègre également les dimensions sociales et éthiques du [[Numérique_Responsable|numérique responsable]], notamment l’[[Accessibilité_Numérique|accessibilité]], la protection des [[Donnée_personnelle|données personnelles]] et la lutte contre les [[Dark_pattern|interfaces trompeuses]].
+
+Son nom vient du nombre de recommandations que comptait sa première version.
+
+== Structure ==
+
+Le guide est organisé en '''8 familles''' qui suivent le cycle de vie d’un service numérique :
+
+# Stratégie
+# Spécifications
+# UX/UI
+# Contenus
+# Architecture
+# Frontend
+# Backend
+# Hébergement
+
+Il propose '''61 recommandations''', déclinées en '''516 critères''' concrets. Chaque critère précise ce qu’il faut vérifier et comment le mettre en œuvre.
+
+== Licence et accès ==
+
+Le GR491 est diffusé sous '''Licence Ouverte v2.0''' (Etalab), ce qui autorise sa réutilisation, sa diffusion et son adaptation. Il est consultable en ligne et enrichi de manière collaborative.
+
+== Différence avec le RGESN ==
+
+Le [[RGESN]] est un référentiel public issu de la loi REEN, resserré autour de 78 critères d’écoconception. Le GR491 est un guide associatif, plus vaste, qui couvre un périmètre dépassant l’environnement pour englober l’ensemble des enjeux du numérique responsable.
+
+Le [[RGESN]] sert de grille d’évaluation réglementaire ; le GR491 fournit le détail opérationnel des actions à mener.
+
+== Voir aussi ==
+
+* [[RGESN]]
+* [[Ecoconception]]
+* [[ISO/IEC TS 20125]]
+* [[AFNOR SPEC 2201]]
+* [[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]]
+* [[Numérique_Responsable|Numérique Responsable]]
+* [[Label_NR|Label NR]]
+* [[Accessibilité_Numérique|Accessibilité Numérique]]
+
+=== Références externes ===
+
+* [https://gr491.isit-europe.org/ GR491 : Guide de Référence de Conception Responsable de Services Numériques]
+* [https://institutnr.org/ Institut du Numérique Responsable]
+
+[[Catégorie:Référentiels et méthodes]]

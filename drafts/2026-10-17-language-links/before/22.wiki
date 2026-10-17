@@ -1,0 +1,21 @@
+A '''hallucination''' is output from a generative model that is false while being presented with the same confidence as accurate output.
+
+== Not a malfunction ==
+
+It follows from how the system works. The model produces the most probable continuation given what it learned, with no notion of truth and no source to check against. A plausible formulation is exactly what it optimises for.
+
+Typical cases: invented bibliographic references, misattributed quotations, credible but incorrect figures, functions that do not exist in code.
+
+== Reducing it ==
+
+* '''retrieval-augmented generation''', which grounds the answer in identified, citable documents ;
+* '''systematic verification''' of any factual element before reuse ;
+* '''training users''': knowing that the mechanism produces well-formed errors matters more than any technical safeguard.
+
+None of these eliminates the phenomenon.
+
+== See also ==
+
+* [[Generative AI]] · [[LLM]] · [[Responsible AI]] · [[AI governance]]
+
+[[Category:Artificial intelligence]]

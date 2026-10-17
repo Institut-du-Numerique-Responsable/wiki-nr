@@ -1,0 +1,314 @@
+[
+  {
+    "language": "en",
+    "title": "AI governance",
+    "file": "en/AI governance.wiki",
+    "base_revision": 64
+  },
+  {
+    "language": "fr",
+    "title": "Gouvernance de l'IA",
+    "file": "fr/Gouvernance de l'IA.wiki",
+    "base_revision": 713
+  },
+  {
+    "language": "en",
+    "title": "Algorithmic bias",
+    "file": "en/Algorithmic bias.wiki",
+    "base_revision": 63
+  },
+  {
+    "language": "fr",
+    "title": "Biais algorithmique",
+    "file": "fr/Biais algorithmique.wiki",
+    "base_revision": 680
+  },
+  {
+    "language": "en",
+    "title": "Bilan Carbone",
+    "file": "en/Bilan Carbone.wiki",
+    "base_revision": 35
+  },
+  {
+    "language": "fr",
+    "title": "Bilan Carbone",
+    "file": "fr/Bilan Carbone.wiki",
+    "base_revision": 681
+  },
+  {
+    "language": "en",
+    "title": "CSRD",
+    "file": "en/CSRD.wiki",
+    "base_revision": 157
+  },
+  {
+    "language": "fr",
+    "title": "CSRD",
+    "file": "fr/CSRD.wiki",
+    "base_revision": 885
+  },
+  {
+    "language": "en",
+    "title": "Digital commons",
+    "file": "en/Digital commons.wiki",
+    "base_revision": 111
+  },
+  {
+    "language": "fr",
+    "title": "Commun numérique",
+    "file": "fr/Commun numérique.wiki",
+    "base_revision": 876
+  },
+  {
+    "language": "es",
+    "title": "Bien común digital",
+    "file": "es/Bien común digital.wiki",
+    "base_revision": 67
+  },
+  {
+    "language": "de",
+    "title": "Digitale Gemeingüter",
+    "file": "de/Digitale Gemeingüter.wiki",
+    "base_revision": 77
+  },
+  {
+    "language": "en",
+    "title": "Digital divide",
+    "file": "en/Digital divide.wiki",
+    "base_revision": 58
+  },
+  {
+    "language": "fr",
+    "title": "Fracture Numérique",
+    "file": "fr/Fracture Numérique.wiki",
+    "base_revision": 120
+  },
+  {
+    "language": "en",
+    "title": "Digital resilience",
+    "file": "en/Digital resilience.wiki",
+    "base_revision": 158
+  },
+  {
+    "language": "fr",
+    "title": "Résilience numérique",
+    "file": "fr/Résilience numérique.wiki",
+    "base_revision": 814
+  },
+  {
+    "language": "en",
+    "title": "GR491",
+    "file": "en/GR491.wiki",
+    "base_revision": 105
+  },
+  {
+    "language": "fr",
+    "title": "GR491",
+    "file": "fr/GR491.wiki",
+    "base_revision": 868
+  },
+  {
+    "language": "en",
+    "title": "Generative AI",
+    "file": "en/Generative AI.wiki",
+    "base_revision": 60
+  },
+  {
+    "language": "fr",
+    "title": "IA générative",
+    "file": "fr/IA générative.wiki",
+    "base_revision": 719
+  },
+  {
+    "language": "en",
+    "title": "Greenwashing",
+    "file": "en/Greenwashing.wiki",
+    "base_revision": 39
+  },
+  {
+    "language": "fr",
+    "title": "Green Washing",
+    "file": "fr/Green Washing.wiki",
+    "base_revision": 134
+  },
+  {
+    "language": "en",
+    "title": "Hallucination",
+    "file": "en/Hallucination.wiki",
+    "base_revision": 62
+  },
+  {
+    "language": "fr",
+    "title": "Hallucination",
+    "file": "fr/Hallucination.wiki",
+    "base_revision": 715
+  },
+  {
+    "language": "en",
+    "title": "Human for IT",
+    "file": "en/Human for IT.wiki",
+    "base_revision": 24
+  },
+  {
+    "language": "fr",
+    "title": "Human for IT",
+    "file": "fr/Human for IT.wiki",
+    "base_revision": 716
+  },
+  {
+    "language": "en",
+    "title": "ISO 14064",
+    "file": "en/ISO 14064.wiki",
+    "base_revision": 34
+  },
+  {
+    "language": "fr",
+    "title": "ISO 14064",
+    "file": "fr/ISO 14064.wiki",
+    "base_revision": 720
+  },
+  {
+    "language": "en",
+    "title": "IT for Green",
+    "file": "en/IT for Green.wiki",
+    "base_revision": 151
+  },
+  {
+    "language": "fr",
+    "title": "IT for Green",
+    "file": "fr/IT for Green.wiki",
+    "base_revision": 721
+  },
+  {
+    "language": "en",
+    "title": "IT for Human",
+    "file": "en/IT for Human.wiki",
+    "base_revision": 25
+  },
+  {
+    "language": "fr",
+    "title": "IT for Human",
+    "file": "fr/IT for Human.wiki",
+    "base_revision": 722
+  },
+  {
+    "language": "en",
+    "title": "Inference",
+    "file": "en/Inference.wiki",
+    "base_revision": 148
+  },
+  {
+    "language": "fr",
+    "title": "Inférence",
+    "file": "fr/Inférence.wiki",
+    "base_revision": 725
+  },
+  {
+    "language": "en",
+    "title": "Jevons paradox",
+    "file": "en/Jevons paradox.wiki",
+    "base_revision": 38
+  },
+  {
+    "language": "fr",
+    "title": "Paradoxe de Jevons",
+    "file": "fr/Paradoxe de Jevons.wiki",
+    "base_revision": 806
+  },
+  {
+    "language": "en",
+    "title": "LLM",
+    "file": "en/LLM.wiki",
+    "base_revision": 56
+  },
+  {
+    "language": "fr",
+    "title": "LLM",
+    "file": "fr/LLM.wiki",
+    "base_revision": 728
+  },
+  {
+    "language": "en",
+    "title": "Prompt injection",
+    "file": "en/Prompt injection.wiki",
+    "base_revision": 65
+  },
+  {
+    "language": "fr",
+    "title": "Prompt injection",
+    "file": "fr/Prompt injection.wiki",
+    "base_revision": 735
+  },
+  {
+    "language": "en",
+    "title": "RGAA",
+    "file": "en/RGAA.wiki",
+    "base_revision": 42
+  },
+  {
+    "language": "fr",
+    "title": "RGAA",
+    "file": "fr/RGAA.wiki",
+    "base_revision": 738
+  },
+  {
+    "language": "en",
+    "title": "Reversibility",
+    "file": "en/Reversibility.wiki",
+    "base_revision": 53
+  },
+  {
+    "language": "fr",
+    "title": "Réversibilité",
+    "file": "fr/Réversibilité.wiki",
+    "base_revision": 745
+  },
+  {
+    "language": "en",
+    "title": "Robustness",
+    "file": "en/Robustness.wiki",
+    "base_revision": 51
+  },
+  {
+    "language": "fr",
+    "title": "Robustesse numérique",
+    "file": "fr/Robustesse numérique.wiki",
+    "base_revision": 786
+  },
+  {
+    "language": "en",
+    "title": "Vendor lock-in",
+    "file": "en/Vendor lock-in.wiki",
+    "base_revision": 54
+  },
+  {
+    "language": "fr",
+    "title": "Vendor lock-in",
+    "file": "fr/Vendor lock-in.wiki",
+    "base_revision": 754
+  },
+  {
+    "language": "en",
+    "title": "WCAG",
+    "file": "en/WCAG.wiki",
+    "base_revision": 29
+  },
+  {
+    "language": "fr",
+    "title": "WCAG",
+    "file": "fr/WCAG.wiki",
+    "base_revision": 755
+  },
+  {
+    "language": "es",
+    "title": "Instituto de TI Responsable",
+    "file": "es/Instituto de TI Responsable.wiki",
+    "base_revision": 9
+  },
+  {
+    "language": "fr",
+    "title": "Institut du Numérique Responsable",
+    "file": "fr/Institut du Numérique Responsable.wiki",
+    "base_revision": 819
+  }
+]

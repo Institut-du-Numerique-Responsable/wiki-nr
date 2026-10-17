@@ -1,0 +1,91 @@
+== Présentation ==
+Association loi 1901 dont l’objectif est d’être le lieu de réflexion, formation, recherche et innovation dans le domaine du numérique responsable.
+
+L'INR est un Think and Do tank, issu des travaux et collaborations du Club Green IT (2014 - 2018) et a été constitué sous sa forme actuelle en 2018. L'institut regroupe des entreprises et des organisations qui y partagent et promeuvent des expériences pour un numérique respectueux de l'environnement, inclusif, solidaire, éthique et régénératif.
+
+== Missions ==
+
+* Promouvoir les meilleures pratiques du Numérique Responsable (NR).
+* Aider les acteurs à comprendre et s’approprier les valeurs du NR.
+* Développer les moyens scientifiques, technologiques, logistiques, méthodologiques et sociaux existants ou à venir.
+* Favoriser les échanges.
+* Recenser et communiquer sur les expériences et expertises de ceux qui contribuent.
+* Être facilitateur pour fédérer autour des projets ou initiatives NR.
+
+== Valeurs ==
+L’INR développe, dans l’intérêt de toutes et tous, une coopération interdisciplinaire étroite entre acteurs de la vie civile, de l’économie sociale et solidaire, enseignants, chercheurs, acteurs publics, privés et associatifs pour l’anticipation et l’appropriation des enjeux et des valeurs d’un numérique responsable.
+
+Son action est toujours guidée par les [[People Planet Profit|3P]] : People, Planet, (Profit) Prosperity. Cette Triple bottom Line rappelle que les organisations doivent se penser et se construire de façon à être viable économiquement mais aussi en fonction des enjeux sociaux et de l’urgence climatique.
+
+Un numérique responsable est selon l'INR un numérique capable de proposer des solutions/innovations soutenables pour la planète, éthiques et inclusives, c’est-à-dire qui respectent et incluent le plus grand nombre.
+
+== Les engagements ==
+
+* Être des acteurs de la transition écologique et sociétale du numérique.
+* Définir les valeurs éthiques et inclusives d’un numérique responsable et engager le plus grand nombre d’acteurs pour les appliquer.
+* Former les professionnels du numérique aux bonnes pratiques du numérique responsable.
+* Permettre la montée en compétences de la Communauté de l’INR sur des valeurs durables et innovantes dans une volonté de collaboration.
+* Être transparents sur le fonctionnement de l’INR et développer un modèle basé sur un collectif c’est-à-dire une communauté de personnes au service d’un intérêt général.
+* Être transparent sur les résultats des recherches et les études réalisées et les diffuser au plus grand nombre.
+
+== Les outils proposés par l'INR ==
+
+=== Charte Numérique Responsable ===
+Une [https://institutnr.org/charte-numerique-responsable charte numérique responsable] est un texte qui résume les engagements en termes de numérique pris par le signataire qu’il soit une entreprise, une association, une TPE/PME ou un acteur public. La charte numérique responsable pousse l’organisation à s’évaluer et essayer de s’améliorer en permanence. Avoir une charte numérique responsable permet à l’organisation de communiquer sur sa démarche qualité. Elle peut ainsi toucher ses clients mais aussi ses fournisseurs et collaborateurs.
+
+=== Recommandations ===
+
+==== [https://institutnr.org/referentiel-general-ecoconception-de-services-numeriques Référentiel Général d’Écoconception de Services Numériques] ====
+Ce référentiel est mené dans le cadre de la mission interministérielle « Green Tech » et co-pilotée par la Direction interministérielle du numérique ([https://www.numerique.gouv.fr/dinum/ DINUM]), le Ministère de la Transition Écologique, mais également l’ADEME et l’Institut du Numérique Responsable. Les objectifs sont de réduire la consommation de ressources informatiques et énergétiques et la contribution à l’obsolescence des équipements, qu’il s’agisse des équipements utilisateurs ou des équipements réseau ou serveur. Ce référentiel est issu d’un travail de tamisage du Guide de [https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/ Référence de Conception Responsable de Services Numériques] ([https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/ RGESN]) piloté par l’INR. Les recommandations conservées et transformées en critères sont celles qui sont prioritaires et les plus génériques possibles. Ce référentiel contient des critères qui sont tous vérifiables, génériques et intemporels. Le but étant de pouvoir réaliser un audit de conformité du service numérique (auto-audit ou audit externe indépendant). 
+
+==== [https://institutnr.org/guide-bonnes-pratiques-nr Guide des Bonnes Pratiques Numérique Responsable] ====
+Le guide des bonnes pratiques numérique responsable est édité par le Direction interministérielle du numérique, en collaboration avec l’[[Institut du Numérique Responsable]]. Il s’appuie sur un travail effectué par le Club Green IT en 2021. Ce guide, répond à un besoin des organisations d’avoir un outil pour les accompagner dans la mise en œuvre de leur démarche et de leur plan d’action pour un numérique plus responsable. Il s’adresse à des organisations de toute taille et de tout type. L’objectif est, d’une part, de sensibiliser les différents acteurs aux impacts de certaines pratiques rencontrées au sein des organisations, et d’autre part, de partager des exemples de bonnes pratiques numérique responsable qui peuvent participer à la réduction de l’empreinte environnementale du numérique.
+
+==== [https://institutnr.org/guide-de-reference-de-conception-responsable Guide de Référence de Conception Responsable de Services Numériques] ====
+Ce guide, proposé par l’INR, donne un cadre à toutes les organisations qui souhaitent s’engager sur le sujet et agir pour un numérique plus responsable, basé sur le triptyque [[People Planet Profit|3P]]:
+
+* '''People''' : Réduire la fracture sociale et améliorer les conditions de vie grâce au numérique
+* '''Planet''' : Réduire l’empreinte environnementale du numérique
+* '''Prosperity''' : Le numérique en tant que levier de croissance, doit être une opportunité pour toutes et tous
+
+Le guide est composé de 57 recommandations et 498 réparties dans 8 « familles » projets. Il est aussi nommé "GR491" pour faire référence au nombre total de recommandations qui le composent. Cet outil répond aux enjeux du numérique et doit permettre à chaque acteur d’un projet d’entrer dans une démarche d’amélioration continue, de s’évaluer et de mettre en œuvre des recommandations concrètes tout au long des phases de conception d’un service numérique.
+
+==== [https://institutnr.org/guide-pratique-achats-numerique-responsabl Guide pratique pour des  Achats Numérique Responsable] ====
+La fabrication des équipements concentre les principales sources d’impacts environnementaux et sociaux. Il est donc essentiel de s’emparer du sujet de l’achat numérique pour le rendre plus responsable.
+
+L’[[Institut du Numérique Responsable]] est à l’origine du [https://institutnr.org/guide-pratique-achats-numerique-responsabl Guide pratique pour des Achats Numériques Responsables (GANR)] et le co-signe. Ce guide est le premier livrable de la mission interministérielle Green Tech (programme Tech.Gouv), pilotée par la DINUM et le Ministère de la Transition Écologique. Il est inscrit dans la feuille de route gouvernementale « Numérique et Environnement ».
+
+Ce guide consigne des fiches pratiques d’achats responsables, permettant de s’approprier des ressources pour être acteur du changement. Il s’adresse en priorité aux acheteurs de biens et de services numériques de l’État, mais également à tout agent public, acheteur du secteur privé ou citoyen.
+
+=== Mesures ===
+
+==== [https://sustainableit-tools.isit-europe.org La boite à outils de l'INR] ====
+La boîte à outil recense une liste d'outils NR qu'ils soient à destination des utilisateurs ou bien à l'usages des créateur de services et de produit numériques
+
+==== [https://wenr.isit-europe.org/fr/wenr-mesure-empreinte-si/ WeNR] - Outil de mesure de l'empreinte du SI. ====
+WeNR permet aux organisations de calculer l’empreinte environnementale de leur Système d’Information (SI) à partir d’une base ouverte de facteurs d’impacts dont les principales sources sont :  
+
+* le centre de ressources sur les bilans GES de l’[[Agence de la Transition Écologique|ADEME]];
+* le programme ENERGY STAR pour les données concernant la phase d’utilisation ;
+* des données fournies par les fabricants concernant les émissions GES de leurs équipements, notamment pour la partie liée à leur fabrication.
+
+=== MOOC et Formations proposées par l'INR ===
+
+==== MOOC de sensibilisation ====
+Le [https://www.academie-nr.org/sensibilisation/#/ MOOC Sensibilisation Numérique Responsable] est un programme court de formation permettant une première approche du Numérique Responsable, à destination de toutes et tous.
+
+==== MOOC NR Complet ====
+Le [https://www.academie-nr.org/#mooc-nr MOOC NR complet] est composé de 4h30 de contenus vidéos, de textes et de contenus interactifs. Il offre des connaissances théoriques pour maîtriser les fondamentaux de l’approche Numérique Responsable. Malgré tout ce qu’il apporte, le numérique ne remplace pas les échanges humains et les mises en situation concrètes que couvre la formation en présentiel, permettant d’acquérir également des compétences pratiques.
+
+== Voir aussi ==
+
+=== Liens externes ===
+* Wikipédia - [https://fr.wikipedia.org/wiki/Institut_du_num%C3%A9rique_responsable Institut du Numérique Responsable]
+* [https://institutnr-ch.org Institut Numériques Responsable (CH)]
+* [https://institutnr.org Institut Numériques Responsable (FR)]
+* [https://isit-be.org/fr/bienvenue-a-linstitut-du-numerique-belge Institut Numériques Responsable (BE)]
+* [https://www.academie-nr.org/sensibilisation/#/ MOOC Sensibilisation au NR]
+* [https://www.academie-nr.org/#mooc-nr MOOC NR Complet]
+* [https://institutnr.org/charte-numerique-responsable Charte Numérique Responsable]
+* [https://wenr.isit-europe.org WeNR - Outil de mesure de l'empreinte du SI]
+* [https://institutnr.org/guide-bonnes-pratiques-nr Guide des bonnes pratiques numérique responsable]

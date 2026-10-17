@@ -1,0 +1,33 @@
+'''Digital resilience''' is an organisation's ability to keep its essential activities running despite a disruption affecting its information system: outage, cyberattack, supply chain break, supplier failure or energy constraint.
+
+== What it covers ==
+
+* '''anticipation''': identifying critical activities and the dependencies that carry them ;
+* '''resistance''': limiting the probability and extent of interruption ;
+* '''recovery''': restoring service within a timeframe compatible with the activity ;
+* '''adaptation''': using the incident to reduce the next vulnerability.
+
+== Resilience and robustness ==
+
+A 2025 white paper published by Infogreen Factory with ADEME, Inria and CNRS proposes a distinction that clarifies the debate: '''resilience''' qualifies digital systems, '''[[Robustness|robustness]]''' qualifies the organisation.
+
+The reasoning: digital technology depends on resources and infrastructure it does not control, which are themselves fragile. It can be designed to absorb shocks and recover, but not to be insensitive to fluctuation. Robustness therefore belongs to the organisation, which must be able to continue operating when digital systems fail.
+
+== Relationship with sobriety ==
+
+The two converge more often than they conflict. A simpler system has fewer points of failure, can be understood and repaired. Internal skills allow intervention without depending on a third party.
+
+They diverge on redundancy: duplicating consumes resources. The trade-off is made activity by activity, according to actual criticality.
+
+== Assessing IT dependencies ==
+The [https://gitlab.com/digitalresilienceinitiative/adri-irn aDRI Digital Resilience Index (IRN) repository] provides a framework for examining digital dependencies. Its eight pillars include operational continuity, suppliers, cybersecurity and environmental resilience. The repository offers a French assessment grid and questionnaire; its README identifies version 0.4. This is an aDRI assessment initiative, not a regulatory requirement. Consult the repository's reuse conditions.
+
+For an IT team, the assessment can prompt a practical exercise: identify a critical service, map its providers and internal skills, then test the fallback arrangements with the people responsible for the activity. Record what the exercise demonstrated and what remains untested.
+
+Cigref and INR's [https://www.cigref.fr/the-low-tech-approach-serving-the-digital-resilience-of-organisations-adaptation-strategies-in-times-of-fluctuations English report on low-tech and digital resilience] offers complementary approaches to maintenance and service continuity.
+
+== See also ==
+
+* [[Robustness]] · [[Digital sovereignty]] · [[Low tech]] · [[Sustainable IT]] · [[Cybersecurity]]
+
+[[Category:Concepts]]

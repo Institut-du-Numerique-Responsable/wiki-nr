@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Consulter le wiki en ligne
+    url: https://fr.wiki.isit-europe.org/nr/Accueil
+    about: Le wiki en ligne reste la référence éditoriale.
+  - name: Guide de contribution via GitHub
+    url: https://github.com/Institut-du-Numerique-Responsable/wiki-nr/blob/main/docs/contribuer-via-github.md
+    about: Étapes pour signaler, corriger ou traduire une fiche.

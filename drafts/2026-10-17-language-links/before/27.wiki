@@ -1,0 +1,40 @@
+La série '''ISO 14064''' regroupe les normes internationales de quantification, de déclaration et de vérification des émissions de [[Gaz_à_Effet_de_Serre|gaz à effet de serre]].
+
+== Définition ==
+
+Là où le [[GHG_Protocol|GHG Protocol]] fournit une méthode de comptabilisation et le [[Bilan_Carbone|Bilan Carbone]] une démarche opérationnelle, l’ISO 14064 apporte un cadre '''normatif et auditable'''. C’est la norme sur laquelle s’appuient les organismes de vérification tierce partie.
+
+== Les trois parties ==
+
+; ISO 14064-1
+: quantification et déclaration au niveau d’une '''organisation'''
+; ISO 14064-2
+: quantification, suivi et déclaration au niveau d’un '''projet''' de réduction
+; ISO 14064-3
+: '''validation et vérification''' des déclarations, à l’usage des auditeurs
+
+== Normes associées ==
+
+; ISO 14067
+: empreinte carbone d’un '''produit''', fondée sur les principes de l’[[Analyse_du_Cycle_de_Vie|analyse du cycle de vie]]
+; ISO 14069
+: guide d’application de l’ISO 14064-1, utile pour le traitement des émissions indirectes
+; ISO 14040 et ISO 14044
+: principes et exigences de l’[[Analyse_du_Cycle_de_Vie|analyse du cycle de vie]], socle méthodologique de toute évaluation multicritère
+; ISO 14001
+: [[Système_de_Management_Environnemental|système de management environnemental]], cadre organisationnel plus large
+
+== Articulation ==
+
+Les cadres ne s’opposent pas, ils se superposent : le [[GHG_Protocol|GHG Protocol]] pose la méthode, l’ISO 14064 la rend vérifiable, le [[Bilan_Carbone|Bilan Carbone]] l’outille pour le contexte français, et le [[Bilan_des_Émissions_des_Gaz_à_Effet_de_Serre|BEGES]] en fait une obligation légale pour certaines organisations.
+
+== Voir aussi ==
+
+* [[GHG_Protocol|GHG Protocol]]
+* [[Bilan_Carbone|Bilan Carbone]]
+* [[Analyse_du_Cycle_de_Vie|Analyse du Cycle de Vie]]
+* [[Système_de_Management_Environnemental|Système de Management Environnemental]]
+* [[Bilan_des_Émissions_des_Gaz_à_Effet_de_Serre|Bilan des Émissions des Gaz à Effet de Serre]]
+
+[[Catégorie:Référentiels et méthodes]]
+[[Catégorie:Réglementation]]
