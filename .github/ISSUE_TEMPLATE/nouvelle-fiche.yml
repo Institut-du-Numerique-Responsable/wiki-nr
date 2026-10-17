@@ -1,0 +1,34 @@
+name: Nouvelle fiche
+description: Proposer un nouveau sujet pour le wiki.
+labels: ["nouvelle fiche", "statut : à relire"]
+body:
+  - type: input
+    id: titre
+    attributes:
+      label: Titre proposé
+    validations:
+      required: true
+  - type: dropdown
+    id: langue
+    attributes:
+      label: Langue
+      options: [Français, English, Español, Deutsch, Nederlands]
+    validations:
+      required: true
+  - type: textarea
+    id: lien-nr
+    attributes:
+      label: Lien avec le numérique responsable
+      description: Impacts environnementaux, accessibilité, inclusion, sécurité, résilience ou gouvernance.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources principales
+    validations:
+      required: true
+  - type: textarea
+    id: fiches-liees
+    attributes:
+      label: Fiches existantes à relier

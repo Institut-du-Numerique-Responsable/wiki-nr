@@ -4,6 +4,8 @@ Les corrections, traductions et propositions de fiches sont les bienvenues. Le [
 
 ## Proposer une modification
 
+Le [guide de contribution via GitHub](docs/contribuer-via-github.md) détaille chaque étape, depuis le navigateur ou avec Git.
+
 1. Chercher la fiche dans l’index de sa langue, accessible depuis le README.
 2. Ouvrir une issue pour signaler une erreur ou discuter d’un nouveau sujet. Indiquer le titre, la langue, le lien de la fiche et les sources utiles.
 3. Pour proposer un texte, modifier le fichier `.wiki` dans une branche ou un fork, puis ouvrir une pull request. Décrire le changement et sa raison, avec les références utilisées.
