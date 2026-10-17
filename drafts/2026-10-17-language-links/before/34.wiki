@@ -1,0 +1,19 @@
+The '''Jevons paradox''' is the observation, first made by economist William Stanley Jevons in 1865, that improving the efficiency with which a resource is used tends to increase rather than decrease its total consumption.
+
+Jevons observed that more efficient steam engines did not reduce British coal consumption: by making coal more economical to use, they multiplied its applications.
+
+== Application to digital technology ==
+
+The pattern is systematic. Each generation of hardware is more efficient per operation, and each generation performs far more operations. Storage becomes cheaper, so nothing is deleted. Networks become faster, so content becomes heavier.
+
+The [[Rebound effect|rebound effect]] is the modern formulation of the same mechanism.
+
+== Consequence ==
+
+Efficiency is necessary but not sufficient. Without a limit set deliberately, gains are absorbed by additional use. That limit is the purpose of [[Digital sobriety|digital sobriety]].
+
+== See also ==
+
+* [[Rebound effect]] · [[Digital sobriety]] · [[IT for Green]]
+
+[[Category:Concepts]]

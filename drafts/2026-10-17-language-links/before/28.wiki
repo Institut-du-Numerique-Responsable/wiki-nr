@@ -1,0 +1,28 @@
+'''IT for Green''' describes the use of digital technology to support environmental objectives, such as controlling building energy use, planning transport or monitoring ecosystems. Assessing such a project requires considering both the intended benefit and the environmental impacts of the digital equipment and services involved.
+
+== Assessing a claimed reduction ==
+For a project that claims avoided greenhouse gas emissions, the comparison needs a credible baseline: what would happen without the proposed solution, over the same period and for an equivalent service. The European Green Digital Coalition provides a methodology for assessing the net carbon impact of ICT solutions, including their enabling effects and their own footprint.<ref>European Green Digital Coalition, [https://www.greendigitalcoalition.eu/net-carbon-impact-assessment-methodology-for-ict-solutions/ Net Carbon Impact Assessment Methodology for ICT Solutions], 2024.</ref>
+
+For example, a building operator evaluating digital heating controls could compare weather-adjusted energy consumption while accounting for occupancy and indoor comfort. The assessment should include the sensors, controllers, network services and computing required to operate the system. If the operator also improves insulation, attributing the whole reduction to the digital controls would overstate their contribution.
+
+The European Commission's overview of the coalition's work explains its approach and links to sector guidance and case studies.<ref>European Commission, [https://digital-strategy.ec.europa.eu/en/news/measuring-impact-digital-solutions-climate Measuring the impact of digital solutions on the climate], 19 April 2024.</ref>
+
+== Uncertainty and changes in use ==
+Project teams should record the source of their baseline, the lifetime of the equipment and assumptions about adoption. They can test alternative scenarios when the outcome depends on uncertain behaviour. A projected saving based on full uptake should remain distinct from a reduction observed after deployment.
+
+A [[Rebound effect|rebound effect]] can reduce the expected benefit. Cheaper or more convenient transport, for instance, may encourage additional journeys. Monitoring after deployment helps identify such changes and update the assessment. Teams should also consider water, materials and other environmental effects when those are relevant to the project.
+
+== Monitoring and research ==
+Environmental monitoring and climate research can support decisions without producing a direct, measurable emissions reduction of their own. A biodiversity sensor network might provide better evidence about habitat change. Its evaluation should describe that purpose, the quality and use of the data, and its operating footprint, without inventing a quantity of avoided carbon.
+
+== See also ==
+* [[Green IT]]
+* [[Sustainable IT]]
+* [[Carbon footprint]]
+* [[Rebound effect]]
+* [[Greenwashing]]
+
+== References ==
+<references />
+
+[[Category:Concepts]]

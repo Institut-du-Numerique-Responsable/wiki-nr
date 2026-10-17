@@ -1,0 +1,58 @@
+'''Commun numérique''' (ou « bien commun numérique ») désigne une ressource numérique (logiciel, contenu, donnée, infrastructure ou savoir) gérée collectivement par une communauté, selon des règles partagées, et dont l'accès et l'usage restent ouverts à tous plutôt que réservés à un propriétaire exclusif.
+
+== Définition ==
+
+Un commun numérique repose sur trois éléments :
+* une '''ressource''' partagée (code, contenu, jeu de données, protocole...) ;
+* une '''communauté''' qui la produit, l'entretient et la fait évoluer ;
+* des '''règles de gouvernance''' définissant les droits d'accès, d'usage et de contribution.
+
+Cette définition transpose au numérique la notion de « communs » (''commons'') théorisée pour les ressources naturelles partagées, notamment par l'économiste [[Elinor Ostrom]], prix « Nobel » d'économie 2009, qui a montré que des ressources partagées peuvent être gérées durablement sans relever ni de la propriété privée exclusive, ni du seul contrôle étatique.
+
+== Origines ==
+
+La notion de communs numériques émerge dans les années 1990-2000 avec l'essor :
+* du '''logiciel libre''' (licences GNU GPL, mouvement porté par la Free Software Foundation) ;
+* des '''licences Creative Commons''' (2001), qui outillent juridiquement le partage de contenus ;
+* des '''encyclopédies collaboratives''' comme Wikipédia (2001), gérée par sa communauté de contributeurs.
+
+== Caractéristiques ==
+
+Un commun numérique se distingue généralement par :
+* une '''licence ouverte''' garantissant la réutilisation (libre, Creative Commons, open source) ;
+* une '''gouvernance partagée''', souvent horizontale, entre les contributeurs ;
+* un '''accès non-exclusif''', sans barrière financière ou technique excessive ;
+* une '''reproductibilité''' quasi nulle du coût de copie, propre au numérique (contrairement aux communs physiques, un commun numérique n'est pas soumis à la rivalité d'usage).
+
+== Exemples ==
+
+* '''Logiciels libres''' : Linux, LibreOffice, Firefox
+* '''Contenus collaboratifs''' : Wikipédia, OpenStreetMap
+* '''Données ouvertes''' : data.gouv.fr, OpenFoodFacts
+* '''Infrastructures partagées''' : protocoles internet (TCP/IP, DNS), standards du Web (W3C)
+* '''Savoirs académiques''' : archives ouvertes (HAL, arXiv)
+
+== Enjeux et numérique responsable ==
+
+Les communs numériques occupent une place centrale dans les réflexions sur le [[numérique responsable]] :
+* ils favorisent la '''sobriété''' en évitant la duplication de ressources (mutualisation plutôt que multiplication d'outils propriétaires équivalents) ;
+* ils renforcent l''''autonomie numérique''' des organisations et des territoires (moindre dépendance à des fournisseurs uniques) ;
+* ils posent la question de leur '''durabilité économique''' : qui finance la maintenance d'une ressource accessible gratuitement à tous ? (modèles de financement mutualisé, fondations, subventions publiques, contributions d'entreprises)
+* ils interrogent la '''gouvernance''' : comment associer équitablement contributeurs bénévoles et acteurs institutionnels ou commerciaux ?
+
+== Voir aussi ==
+
+* [[Logiciel libre]]
+* [[Numérique responsable]]
+* [[Open source]]
+* [[Données ouvertes]]
+
+== Références ==
+
+* Elinor Ostrom, ''Governing the Commons'', Cambridge University Press, 1990.
+* Mission Coriolis / Conseil national du numérique, ''Communs numériques'', rapports publics.
+* Framasoft, ''Les communs numériques'', ressources associatives.
+
+[[Catégorie:Numérique responsable]]
+[[Catégorie:Communs]]
+[[Catégorie:Définitions]]

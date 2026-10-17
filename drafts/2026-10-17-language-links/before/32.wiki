@@ -1,0 +1,26 @@
+'''Inference''' is the stage at which a trained model is used: the moment it applies what it learned to a new request.
+
+== Why it matters ==
+
+Training and inference have different cost profiles. Development may involve several training and tuning runs. Inference runs whenever the service handles a request, so its accumulated consumption depends on usage. Whether it exceeds training consumption depends on the model and workload.
+
+Its cost depends on three factors: the '''size of the model''' invoked, the '''length''' of the request and response, and the '''number of calls''', which multiplies rapidly in agent-style uses where each reasoning step and each tool call consumes an inference.
+
+== The main lever ==
+
+Compare models on the actual task and at an acceptable quality level. A smaller model may reduce resource use, but extra retries, longer outputs or more human correction can change the result.
+
+== Measuring a serving workload ==
+
+Compare systems with the same requests and an agreed quality threshold. Record input and output lengths, batch size, response time and the hardware used. Include idle capacity if it belongs to the service being assessed, and state whether the measurement covers the accelerator, the server or a wider infrastructure boundary.
+
+MIT Lincoln Laboratory's [https://www.ll.mit.edu/r-d/projects/green-instrumentation-and-experimentation Green Instrumentation and Experimentation] project examines power tracking and reduction strategies.<ref>MIT Lincoln Laboratory, [https://www.ll.mit.edu/r-d/projects/green-instrumentation-and-experimentation Green Instrumentation and Experimentation].</ref> MIT's [https://news.mit.edu/2026/faster-way-to-estimate-ai-power-consumption-0427 EnergAIzer research] addresses predictions of power use for AI workloads and hardware configurations.<ref>MIT News (27 April 2026), [https://news.mit.edu/2026/faster-way-to-estimate-ai-power-consumption-0427 A faster way to estimate AI power consumption].</ref> Such predictions can help compare candidate configurations, but they are not measurements of a deployed service's [[Carbon footprint|carbon footprint]].
+
+== See also ==
+
+* [[LLM]] · [[Generative AI]] · [[Responsible AI]] · [[Digital sobriety]] · [[Data centre]]
+
+== References ==
+<references />
+
+[[Category:Artificial intelligence]]

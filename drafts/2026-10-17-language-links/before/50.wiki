@@ -1,0 +1,30 @@
+El '''Instituto de TI Responsable''' (INR, ''Institut du Numérique Responsable'') es una asociación creada en Francia que reúne a organizaciones públicas y privadas, investigadores y actores de la economía social en torno a las prácticas digitales sostenibles.
+
+== Su función ==
+
+El INR produce referenciales y herramientas de uso libre, y anima una comunidad de profesionales. Su trabajo se apoya en la cooperación interdisciplinaria antes que en la certificación comercial: los contenidos se publican bajo licencia abierta.
+
+== Producciones principales ==
+
+; [[GR491]]
+: guía de más de 500 recomendaciones para el diseño responsable de servicios digitales, más amplia que el solo eje ambiental.
+; [[Etiqueta NR|Etiqueta TI Responsable]]
+: dispositivo de evaluación de la madurez de una organización, con puntuación sobre 1000.
+; [[WeNR]]
+: campaña anual de medición de la huella del sistema de información, que permite situarse frente a organizaciones comparables.
+; [[Carta de TI Responsable]]
+: compromiso público en varios idiomas, punto de entrada para las organizaciones que empiezan.
+; [[Academia NR]]
+: cursos en línea gratuitos, sin requisitos previos.
+
+El INR coescribió también la Guía práctica de compras digitales responsables (GANR), primer entregable de la misión interministerial francesa Green Tech.
+
+== Este wiki ==
+
+El wiki que está leyendo es una producción del INR. Existe en [https://fr.wiki.isit-europe.org/ francés], [https://en.wiki.isit-europe.org/ inglés], [https://de.wiki.isit-europe.org/ alemán], [https://nl.wiki.isit-europe.org/ neerlandés] y español. Está abierto a la contribución de los miembros de la asociación.
+
+== Véase también ==
+
+* [[TI Responsable]] · [[GR491]] · [[RGESN]] · [[Etiqueta NR]] · [[WeNR]]
+
+[[Categoría:Organizaciones]]

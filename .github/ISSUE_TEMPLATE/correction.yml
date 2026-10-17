@@ -1,0 +1,35 @@
+name: Correction d’une fiche
+description: Signaler une erreur, une source datée ou un lien cassé dans une fiche existante.
+labels: ["correction", "statut : à relire"]
+body:
+  - type: dropdown
+    id: langue
+    attributes:
+      label: Langue
+      options: [Français, English, Español, Deutsch, Nederlands]
+    validations:
+      required: true
+  - type: input
+    id: fiche
+    attributes:
+      label: Fiche concernée
+      description: Titre ou lien de la fiche sur le wiki.
+      placeholder: https://fr.wiki.isit-europe.org/nr/NIS2
+    validations:
+      required: true
+  - type: textarea
+    id: probleme
+    attributes:
+      label: Problème constaté
+      description: Citez le passage et dites ce qui est inexact ou manquant.
+    validations:
+      required: true
+  - type: textarea
+    id: proposition
+    attributes:
+      label: Correction proposée
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: Texte officiel, publication scientifique ou source originale, avec sa date.

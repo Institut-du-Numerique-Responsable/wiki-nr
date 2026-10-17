@@ -1,0 +1,35 @@
+name: Traduction
+description: Proposer ou demander la traduction d’une fiche dans une autre langue.
+labels: ["traduction", "statut : à relire"]
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Fiche source
+      description: Lien de la fiche à traduire.
+      placeholder: https://fr.wiki.isit-europe.org/nr/Low_Tech
+    validations:
+      required: true
+  - type: dropdown
+    id: cible
+    attributes:
+      label: Langue cible
+      options: [Français, English, Español, Deutsch, Nederlands]
+    validations:
+      required: true
+  - type: input
+    id: titre
+    attributes:
+      label: Titre proposé dans la langue cible
+  - type: dropdown
+    id: native
+    attributes:
+      label: Êtes-vous locutrice ou locuteur natif de la langue cible ?
+      options: ["Oui", "Non : une relecture native sera nécessaire"]
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Remarques
+      description: Termes difficiles, sources disponibles dans la langue cible, écarts avec la fiche source.

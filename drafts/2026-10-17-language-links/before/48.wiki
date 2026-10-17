@@ -1,0 +1,28 @@
+The '''WCAG''' (Web Content Accessibility Guidelines) are the international recommendations for the [[Digital accessibility|accessibility]] of web content, published by the W3C through its Web Accessibility Initiative.
+
+They are the global reference. Most national regulations are based on them, including the French [[RGAA]] and the European standard EN 301 549.
+
+== Four principles ==
+
+; Perceivable
+: information must be perceivable through at least one available sense
+; Operable
+: the interface must be usable, including without a mouse
+; Understandable
+: content and operation must be intelligible
+; Robust
+: content must remain interpretable by assistive technologies, now and in future
+
+== Conformance levels ==
+
+Level '''A''' is the minimum; level '''AA''' is the reference adopted by nearly all regulations; level '''AAA''' is rarely achievable across an entire site.
+
+== Versions ==
+
+WCAG 2.0 (2008), also published as ISO/IEC 40500; WCAG 2.1 (2018); WCAG 2.2 (October 2023), the current version. WCAG 3.0 is under development.
+
+== See also ==
+
+* [[Digital accessibility]] · [[RGAA]] · [[Human for IT]]
+
+[[Category:Accessibility]]

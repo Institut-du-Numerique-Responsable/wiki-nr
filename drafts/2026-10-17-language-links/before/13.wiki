@@ -1,0 +1,21 @@
+== Définition ==
+La fracture numérique décrit les inégalités dans l’accès aux [[Technologie de l'Information et des Communications|technologies de l’information et de la communication]] ([[TIC]]), leur utilisation et leur impact.
+
+Ces inégalités ont plusieurs formes, causes et conséquences. L’inégalité d’accès aux [[TIC]] peut avoir premièrement une cause financière. Le manque de moyens financiers peut limiter l’accès aux appareils électroniques. La fracture survient aussi lorsque les [[Service numérique|services numériques]] ne sont pas conçus pour des appareils d’anciennes générations.
+
+L’inégalité d’utilisation peut avoir pour cause l’inégalité d’accès à Internet. Ici, la fracture se crée face aux [[Service numérique|services numériques]] qui demandent une bonne connexion Internet pour être chargés. La réduction de la connexion crée une réduction d’accès à ces services.
+
+L’[[illectronisme]] est aussi une cause majeure de la fracture numérique. Une partie de la population mondiale ne se sent pas à l’aise avec les outils numériques ou ne sait pas s’en servir.
+
+Les personnes connaissant certains handicaps moteurs ou mentaux naviguent sur le web grâce à des outils tels qu’un lecteur d’écran ou une plage braille. Lorsqu’un site n’est pas conçu en prenant compte de ces différences d’utilisation, les personnes en situation de handicap ne peuvent naviguer dessus. Ces aspects d'[[Accessibilité Numérique|accessibilité]] rentrent dans la fracture numérique.
+
+== Voir aussi ==
+
+=== Articles connexes ===
+
+* [[Fragilité Numérique]]
+* [[Illectronisme]]
+* [[Inclusion]]
+
+=== Liens externes ===
+*[https://fr.wikipedia.org/wiki/Fracture_num%C3%A9rique Sources Wikipédia]

@@ -1,0 +1,366 @@
+[
+  {
+    "language": "en",
+    "title": "AI governance",
+    "file": "en/AI governance.wiki",
+    "base_revision": 64,
+    "sha256": "654791d86a3dd80e426091f41b641a92d4ea3ace8c84abe58b0e796e7b785c65"
+  },
+  {
+    "language": "fr",
+    "title": "Gouvernance de l'IA",
+    "file": "fr/Gouvernance de l'IA.wiki",
+    "base_revision": 713,
+    "sha256": "125641b03daea0ba99dd8b8f66a36fae9a87864c72e995d45363b60e0eddd938"
+  },
+  {
+    "language": "en",
+    "title": "Algorithmic bias",
+    "file": "en/Algorithmic bias.wiki",
+    "base_revision": 63,
+    "sha256": "2db797c1a982842e7acdd5bbca4c78919da07e48593e807bea9881a043944820"
+  },
+  {
+    "language": "fr",
+    "title": "Biais algorithmique",
+    "file": "fr/Biais algorithmique.wiki",
+    "base_revision": 680,
+    "sha256": "dac5ce911f01918663865639c6b82bdc1c737811b51cdbf822601b0f9072c732"
+  },
+  {
+    "language": "en",
+    "title": "Bilan Carbone",
+    "file": "en/Bilan Carbone.wiki",
+    "base_revision": 35,
+    "sha256": "864c98313a413589f201f574eaed6e9a14eeea11251050158023eb74bee1f5f0"
+  },
+  {
+    "language": "fr",
+    "title": "Bilan Carbone",
+    "file": "fr/Bilan Carbone.wiki",
+    "base_revision": 681,
+    "sha256": "a9bb67ca1849ca9a11f55ee0979a4319ba7fcbcc3b2bf3dfc788b49e69e6de17"
+  },
+  {
+    "language": "en",
+    "title": "CSRD",
+    "file": "en/CSRD.wiki",
+    "base_revision": 157,
+    "sha256": "ab455464cde85f3a106e5674e590137b791c0d354e800d0eadcd4f6f072ea793"
+  },
+  {
+    "language": "fr",
+    "title": "CSRD",
+    "file": "fr/CSRD.wiki",
+    "base_revision": 885,
+    "sha256": "ec3bae0f4ae3b55ebe1bd10f250c61dbe4f1f137eb820e38a48e107d544c8482"
+  },
+  {
+    "language": "en",
+    "title": "Digital commons",
+    "file": "en/Digital commons.wiki",
+    "base_revision": 111,
+    "sha256": "9185e9ddef39913bae53080628339930cd2b56583a2f1f2997e78350cab02ff6"
+  },
+  {
+    "language": "fr",
+    "title": "Commun numérique",
+    "file": "fr/Commun numérique.wiki",
+    "base_revision": 876,
+    "sha256": "2a7baa0af99ebb90b4f9ab9300c8c99c403c3bd2c9fa038a3b20f584e84f00e2"
+  },
+  {
+    "language": "es",
+    "title": "Bien común digital",
+    "file": "es/Bien común digital.wiki",
+    "base_revision": 67,
+    "sha256": "52cf298c0ad9c61068e3361efbb12a078399584cc0d73ac54894ed7051f10009"
+  },
+  {
+    "language": "de",
+    "title": "Digitale Gemeingüter",
+    "file": "de/Digitale Gemeingüter.wiki",
+    "base_revision": 77,
+    "sha256": "70916892c1b171c5bc4e71efe9ca8a0b4534d25bc2f61c9a682c4bedb6cbc3a5"
+  },
+  {
+    "language": "en",
+    "title": "Digital divide",
+    "file": "en/Digital divide.wiki",
+    "base_revision": 58,
+    "sha256": "c9732f4227ea6b0cacc1a49f0861f21084ed7f7fc8d44deebc90004c176b28f1"
+  },
+  {
+    "language": "fr",
+    "title": "Fracture Numérique",
+    "file": "fr/Fracture Numérique.wiki",
+    "base_revision": 120,
+    "sha256": "fdc7140bb8a42bb5e922021812c50f2e6f35773b9b242cbb59f43464d8fda5d1"
+  },
+  {
+    "language": "en",
+    "title": "Digital resilience",
+    "file": "en/Digital resilience.wiki",
+    "base_revision": 158,
+    "sha256": "71e13a103fa7f012270af5c045433dcee571180325cd7c49fc71db8edb394e4d"
+  },
+  {
+    "language": "fr",
+    "title": "Résilience numérique",
+    "file": "fr/Résilience numérique.wiki",
+    "base_revision": 814,
+    "sha256": "d71367b19eb4184600cc72e8572a35824f7047ed6e5f9115d01df2e778b7e0dc"
+  },
+  {
+    "language": "en",
+    "title": "GR491",
+    "file": "en/GR491.wiki",
+    "base_revision": 105,
+    "sha256": "85ae5c3971e4bce4106a658815b0019e698422b5ff403c16c73205e880e3ce30"
+  },
+  {
+    "language": "fr",
+    "title": "GR491",
+    "file": "fr/GR491.wiki",
+    "base_revision": 868,
+    "sha256": "75355fc73db297df790b08a20ddab687c031ff94fa47af0cbbc6f12e5559f4ce"
+  },
+  {
+    "language": "en",
+    "title": "Generative AI",
+    "file": "en/Generative AI.wiki",
+    "base_revision": 60,
+    "sha256": "73daa97d8f32485ea856adf01ba081a61984a6313f8e895b839b46a6d9e1712c"
+  },
+  {
+    "language": "fr",
+    "title": "IA générative",
+    "file": "fr/IA générative.wiki",
+    "base_revision": 719,
+    "sha256": "19c382c70c5807277f6d3e1609c8413fbba325f81d17924554c2478478741d03"
+  },
+  {
+    "language": "en",
+    "title": "Greenwashing",
+    "file": "en/Greenwashing.wiki",
+    "base_revision": 39,
+    "sha256": "3f66021e623846d130142d8491288d7e5b98ab44006648878052cde216b7a973"
+  },
+  {
+    "language": "fr",
+    "title": "Green Washing",
+    "file": "fr/Green Washing.wiki",
+    "base_revision": 134,
+    "sha256": "0b1f84c375d4ecab585711c54db25968608dc2f14067b96b358a6dec9cf25fb3"
+  },
+  {
+    "language": "en",
+    "title": "Hallucination",
+    "file": "en/Hallucination.wiki",
+    "base_revision": 62,
+    "sha256": "5caad944c6357f5b5c75350c639988eba7f804ff6cb66b68608fc76eb639a3b6"
+  },
+  {
+    "language": "fr",
+    "title": "Hallucination",
+    "file": "fr/Hallucination.wiki",
+    "base_revision": 715,
+    "sha256": "5c6a7a09e1157c07f265b93064ea2fdb96811df67efa806a64a3de76a0888a19"
+  },
+  {
+    "language": "en",
+    "title": "Human for IT",
+    "file": "en/Human for IT.wiki",
+    "base_revision": 24,
+    "sha256": "4dd76dec3c53b17bd40ef7c7a13d2132611dd6375833f08ae94f0bce12d2ec66"
+  },
+  {
+    "language": "fr",
+    "title": "Human for IT",
+    "file": "fr/Human for IT.wiki",
+    "base_revision": 716,
+    "sha256": "086d7b6081c363a850e616f6887fac750b53a72d2b9397ec9355dfd00a829a57"
+  },
+  {
+    "language": "en",
+    "title": "ISO 14064",
+    "file": "en/ISO 14064.wiki",
+    "base_revision": 34,
+    "sha256": "b2a26a26690d5acd38c274add47196813ec6d19780b6f22bea66bde082c52240"
+  },
+  {
+    "language": "fr",
+    "title": "ISO 14064",
+    "file": "fr/ISO 14064.wiki",
+    "base_revision": 720,
+    "sha256": "39a0e25cef0df8b6200b2854c2f467a85e84b147308a86e3095a780c9111d520"
+  },
+  {
+    "language": "en",
+    "title": "IT for Green",
+    "file": "en/IT for Green.wiki",
+    "base_revision": 151,
+    "sha256": "9461ac6a13e6f8c4c5396ae35e1b9471894c7e6b8be1e59c208519b12c00ed7a"
+  },
+  {
+    "language": "fr",
+    "title": "IT for Green",
+    "file": "fr/IT for Green.wiki",
+    "base_revision": 721,
+    "sha256": "df4c3ab01478f973cb5f252b5e90b5647ff712ab877bb077fc0c140a3ef85639"
+  },
+  {
+    "language": "en",
+    "title": "IT for Human",
+    "file": "en/IT for Human.wiki",
+    "base_revision": 25,
+    "sha256": "03e894de4fec476a94574518190b4e97fed4d76ea5dbea1746451e6b30a930ff"
+  },
+  {
+    "language": "fr",
+    "title": "IT for Human",
+    "file": "fr/IT for Human.wiki",
+    "base_revision": 722,
+    "sha256": "d0a6b1130a0903769258e667cf2fe13fe5298ad833ec6cf1354806363c4d641d"
+  },
+  {
+    "language": "en",
+    "title": "Inference",
+    "file": "en/Inference.wiki",
+    "base_revision": 148,
+    "sha256": "801476547c8a6cc0dd7f5ea2fe18b06cae1da0fffa22f2ee7b92ed3499543f78"
+  },
+  {
+    "language": "fr",
+    "title": "Inférence",
+    "file": "fr/Inférence.wiki",
+    "base_revision": 725,
+    "sha256": "865743b1f9ad7f7d9cc0dadaac4c3ad15283abf4b577a317ae7f8fc0ff703e01"
+  },
+  {
+    "language": "en",
+    "title": "Jevons paradox",
+    "file": "en/Jevons paradox.wiki",
+    "base_revision": 38,
+    "sha256": "009e19f33ef06d862a2f533d535f71eb998514c9895c38705f316b9b1ccbf46d"
+  },
+  {
+    "language": "fr",
+    "title": "Paradoxe de Jevons",
+    "file": "fr/Paradoxe de Jevons.wiki",
+    "base_revision": 806,
+    "sha256": "ee08aa632091e13ac9acf59af3eb6e0faef4442ad7b5a10cbe2e88a50c9e1e8e"
+  },
+  {
+    "language": "en",
+    "title": "LLM",
+    "file": "en/LLM.wiki",
+    "base_revision": 56,
+    "sha256": "8001e6a84e60bcf6c2ae2b72fb0930d5565e37c0e41e842b8c00b6a41f42baae"
+  },
+  {
+    "language": "fr",
+    "title": "LLM",
+    "file": "fr/LLM.wiki",
+    "base_revision": 728,
+    "sha256": "3efe6c3da643bbb04920dd67d33a9c770dfbd7f1463b4339a9210ee28d07d8ee"
+  },
+  {
+    "language": "en",
+    "title": "Prompt injection",
+    "file": "en/Prompt injection.wiki",
+    "base_revision": 65,
+    "sha256": "dc199b9972db63c8b572abbbdaa86b99f97b4872472ca7c4c32c04a17af5eec0"
+  },
+  {
+    "language": "fr",
+    "title": "Prompt injection",
+    "file": "fr/Prompt injection.wiki",
+    "base_revision": 735,
+    "sha256": "b89df45195d4712b66d78c73edc698fae1553ee7064639dae7a649bbef657eb9"
+  },
+  {
+    "language": "en",
+    "title": "RGAA",
+    "file": "en/RGAA.wiki",
+    "base_revision": 42,
+    "sha256": "10502ab392a7bc87e86b2536c426b44c9a560a4912cdb230825c380148ff2d8d"
+  },
+  {
+    "language": "fr",
+    "title": "RGAA",
+    "file": "fr/RGAA.wiki",
+    "base_revision": 738,
+    "sha256": "cd5b6873c727e00217b56f38a00fab7bdfb15c063baec680c24f5389ce4324c9"
+  },
+  {
+    "language": "en",
+    "title": "Reversibility",
+    "file": "en/Reversibility.wiki",
+    "base_revision": 53,
+    "sha256": "46bc6a85875e05506afa475f0bd38de54fb61e96776c51905bb77fba80b8d568"
+  },
+  {
+    "language": "fr",
+    "title": "Réversibilité",
+    "file": "fr/Réversibilité.wiki",
+    "base_revision": 745,
+    "sha256": "7e50b645594d78519bfb0ea993780a6883120dc9386346c49dab3fdcf9719f41"
+  },
+  {
+    "language": "en",
+    "title": "Robustness",
+    "file": "en/Robustness.wiki",
+    "base_revision": 51,
+    "sha256": "271e82fb9413f8de17bacc05c1e7aa4b596b149b9db92bb5fa94427e0018001f"
+  },
+  {
+    "language": "fr",
+    "title": "Robustesse numérique",
+    "file": "fr/Robustesse numérique.wiki",
+    "base_revision": 786,
+    "sha256": "d55aaa5b562ee268545bd88a59d0f26597787e2f3fcb531608b4acbb8bb7d8b7"
+  },
+  {
+    "language": "en",
+    "title": "Vendor lock-in",
+    "file": "en/Vendor lock-in.wiki",
+    "base_revision": 54,
+    "sha256": "2cb2a4fc347dd98f0a84df7d0eceef133dea27e2c04b4a58ad35a5fc55ab2c79"
+  },
+  {
+    "language": "fr",
+    "title": "Vendor lock-in",
+    "file": "fr/Vendor lock-in.wiki",
+    "base_revision": 754,
+    "sha256": "4c8eb1986838040522dce08fa4918d66853c924118f14067666e2fbebca32f7b"
+  },
+  {
+    "language": "en",
+    "title": "WCAG",
+    "file": "en/WCAG.wiki",
+    "base_revision": 29,
+    "sha256": "3aee5c4c31e02e49cdcecd772d7a7ef69f30c55fa042426d9a33d9d50a51893e"
+  },
+  {
+    "language": "fr",
+    "title": "WCAG",
+    "file": "fr/WCAG.wiki",
+    "base_revision": 755,
+    "sha256": "365ec863626fd5a9d9c63ac354da29764ae97e484c8293b873caa812eff02e2a"
+  },
+  {
+    "language": "es",
+    "title": "Instituto de TI Responsable",
+    "file": "es/Instituto de TI Responsable.wiki",
+    "base_revision": 9,
+    "sha256": "14f4e04134f269bbe75623f6efaa12ffd9d3dc9896ad0d966f7fe9d38cf6d1c6"
+  },
+  {
+    "language": "fr",
+    "title": "Institut du Numérique Responsable",
+    "file": "fr/Institut du Numérique Responsable.wiki",
+    "base_revision": 819,
+    "sha256": "5ee7ccd4e3b06b0145a724afd268e67aaff19b0e9dbb9788858e4115073307ee"
+  }
+]
