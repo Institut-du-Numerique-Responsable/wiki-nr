@@ -48,3 +48,5 @@ Le [[RGESN]] sert de grille d’évaluation réglementaire ; le GR491 fournit le
 * [https://institutnr.org/ Institut du Numérique Responsable]
 
 [[Catégorie:Référentiels et méthodes]]
+
+[[en:GR491]]

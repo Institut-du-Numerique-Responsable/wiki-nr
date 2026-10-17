@@ -28,3 +28,5 @@ El wiki que está leyendo es una producción del INR. Existe en [https://fr.wiki
 * [[TI Responsable]] · [[GR491]] · [[RGESN]] · [[Etiqueta NR]] · [[WeNR]]
 
 [[Categoría:Organizaciones]]
+
+[[fr:Institut du Numérique Responsable]]

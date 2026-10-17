@@ -88,3 +88,5 @@ La conformité fixe un plancher. Au-delà, la Charte IA de l’[[Institut_du_Num
 * [[RSSI]]
 
 [[Catégorie:Intelligence artificielle]]
+
+[[en:AI governance]]

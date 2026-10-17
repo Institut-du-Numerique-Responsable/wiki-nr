@@ -123,3 +123,5 @@ La souveraineté pose une question de pouvoir, qui décide, qui peut contraindre
 * Cigref, INR et Futuribles : [https://www.cigref.fr/lapproche-low-tech-au-service-de-la-resilience-numerique-des-organisations-strategies-dadaptation-face-aux-fluctuations L’approche low-tech au service de la résilience numérique des organisations] (2026)
 
 [[Catégorie:Concepts]]
+
+[[en:Robustness]]

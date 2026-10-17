@@ -15,3 +15,5 @@ L’[[AI_for_Good|AI for Good]] est la déclinaison de cette démarche à l’[[
 * [[Human_for_IT|Human for IT]] · [[AI_for_Good|AI for Good]] · [[Numérique_Responsable|Numérique Responsable]] · [[Fracture_Numérique|Fracture Numérique]] · [[Inclusion]] · [[Illectronisme]]
 
 [[Catégorie:Concepts]]
+
+[[en:IT for Human]]

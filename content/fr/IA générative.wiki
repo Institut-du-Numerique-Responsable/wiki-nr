@@ -25,3 +25,5 @@ Le modèle ne consulte pas une base de connaissances : il produit la suite la pl
 * [[IA_Responsable|IA Responsable]]
 
 [[Catégorie:Intelligence artificielle]]
+
+[[en:Generative AI]]

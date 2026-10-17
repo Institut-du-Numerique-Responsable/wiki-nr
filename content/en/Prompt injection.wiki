@@ -20,3 +20,5 @@ Countermeasures are architectural rather than filter-based: limit the system's p
 * [[Generative AI]] · [[Cybersecurity]] · [[Shadow AI]] · [[AI governance]]
 
 [[Category:Artificial intelligence]]
+
+[[fr:Prompt injection]]

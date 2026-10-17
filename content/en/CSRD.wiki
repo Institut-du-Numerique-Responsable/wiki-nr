@@ -29,3 +29,5 @@ A [[Carbon footprint|carbon inventory]] or [[Life cycle assessment|life cycle as
 
 [[Category:Regulation]]
 [[Category:Frameworks and methods]]
+
+[[fr:CSRD]]

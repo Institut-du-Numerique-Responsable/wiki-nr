@@ -21,3 +21,5 @@ It must be built before signing. Afterwards it is generally too late.
 * [[Vendor lock-in]] · [[Digital sovereignty]] · [[Digital resilience]] · [[Robustness]]
 
 [[Category:Concepts]]
+
+[[fr:Réversibilité]]

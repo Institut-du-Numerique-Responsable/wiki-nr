@@ -24,3 +24,5 @@ MIT Lincoln Laboratory's [https://www.ll.mit.edu/r-d/projects/green-instrumentat
 <references />
 
 [[Category:Artificial intelligence]]
+
+[[fr:Inférence]]

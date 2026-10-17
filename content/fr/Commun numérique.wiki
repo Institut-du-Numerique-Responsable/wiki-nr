@@ -56,3 +56,7 @@ Les communs numériques occupent une place centrale dans les réflexions sur le 
 [[Catégorie:Numérique responsable]]
 [[Catégorie:Communs]]
 [[Catégorie:Définitions]]
+
+[[de:Digitale Gemeingüter]]
+[[en:Digital commons]]
+[[es:Bien común digital]]

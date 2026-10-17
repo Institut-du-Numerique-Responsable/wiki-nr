@@ -17,3 +17,5 @@ Efficiency is necessary but not sufficient. Without a limit set deliberately, ga
 * [[Rebound effect]] · [[Digital sobriety]] · [[IT for Green]]
 
 [[Category:Concepts]]
+
+[[fr:Paradoxe de Jevons]]
