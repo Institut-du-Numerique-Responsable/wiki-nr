@@ -26,6 +26,7 @@ def command(item,dry=False):
     return args+[item['title']]
 
 if __name__=='__main__':
+    raise SystemExit('Archived batch: publishing is disabled in this copy')
     if os.geteuid()!=0: raise SystemExit('Run this reviewed batch with sudo on the wiki server')
     manifest=json.loads((ROOT/'publication.json').read_text())
     pending=[]
