@@ -1,0 +1,23 @@
+The '''GR491''' is the reference guide for the responsible design of digital services, published by the Institute for Sustainable IT (INR).
+
+== Scope ==
+
+Unlike the [[RGESN]], the GR491 is not limited to environmental [[Ecodesign|ecodesign]]. It also covers the social and ethical dimensions of [[Sustainable IT|sustainable IT]]: [[Digital accessibility|accessibility]], protection of personal data, and avoidance of deceptive interfaces.
+
+Its name comes from the number of recommendations in its first version.
+
+== Structure ==
+
+Eight families follow the life cycle of a digital service: strategy, specifications, UX/UI, content, architecture, frontend, backend and hosting.
+
+It contains '''61 recommendations''' broken down into '''516 criteria'''.
+
+== Licence ==
+
+The GR491 is published under the Etalab Open Licence v2.0, which permits reuse, distribution and adaptation. It is available online and maintained collaboratively.
+
+== See also ==
+
+* [[ISO/IEC TS 20125]] · [[RGESN]] · [[Ecodesign]] · [[Sustainable IT]] · [[Digital accessibility]]
+
+[[Category:Frameworks and methods]]

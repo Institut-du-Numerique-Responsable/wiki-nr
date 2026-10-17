@@ -1,0 +1,32 @@
+La '''prompt injection''' est une technique d’attaque consistant à manipuler une [[IA_générative|IA générative]] en lui transmettant des instructions malveillantes, afin de contourner ses règles, d’orienter ses réponses ou d’obtenir des informations qu’elle ne devait pas divulguer.
+
+== Deux formes ==
+
+; Injection directe
+: l’attaquant formule lui-même la requête détournée
+; Injection indirecte
+: les instructions sont dissimulées dans un contenu que le système va lire : page web, document, courriel, ticket. L’utilisateur légitime déclenche l’attaque sans le savoir.
+
+La seconde forme est la plus préoccupante dès lors qu’un système consulte des sources externes ou traite des documents entrants.
+
+== Pourquoi la parade est difficile ==
+
+Un modèle de langage ne distingue pas structurellement les instructions des données : tout lui parvient comme du texte. Il n’existe donc pas d’équivalent des requêtes préparées qui ont réglé le problème des injections SQL.
+
+Les mesures relèvent de l’architecture plutôt que du filtrage :
+
+* '''limiter les droits''' du système aux actions strictement nécessaires ;
+* '''exiger une validation humaine''' avant toute action irréversible, en particulier pour une [[IA_agentique|IA agentique]] ;
+* '''cloisonner''' les sources selon leur niveau de confiance ;
+* '''journaliser''' les actions pour permettre l’analyse a posteriori.
+
+== Voir aussi ==
+
+* [[IA_générative|IA générative]]
+* [[IA_agentique|IA agentique]]
+* [[Cybersécurité]]
+* [[Shadow_AI|Shadow AI]]
+* [[RSSI]]
+
+[[Catégorie:Intelligence artificielle]]
+[[Catégorie:Sécurité]]

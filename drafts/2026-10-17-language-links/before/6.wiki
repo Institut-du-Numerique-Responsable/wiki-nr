@@ -1,0 +1,31 @@
+The '''CSRD''' (Corporate Sustainability Reporting Directive) is EU Directive 2022/2464 governing the publication of sustainability information by companies.
+
+Adopted in December 2022, it replaced the earlier NFRD framework with standardised sustainability reporting in the management report and independent assurance. Subsequent legislation has changed its scope and timing.
+
+== Double materiality ==
+
+The CSRD rests on double materiality, which distinguishes two perspectives:
+
+* '''impact materiality''': the effects of the company on the environment and society ;
+* '''financial materiality''': the effects of sustainability issues on the company's performance.
+
+Information must be published as soon as it is material under '''either''' perspective. This is what distinguishes the CSRD from purely financial frameworks.
+
+== Changes to scope and timing ==
+The 2025 stop-the-clock directive delayed certain reporting dates. [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026L0470 Directive (EU) 2026/470 of 24 February 2026] subsequently narrowed the scope, setting thresholds above 1,000 employees and EUR 450 million net turnover for the EU undertakings concerned. Groups and third-country undertakings have specific provisions.
+
+The original three-wave timetable is therefore insufficient to determine an organisation's obligations. Check its reporting boundary, financial year and national transposition provisions. The [https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en European Commission's reporting page] records legislative and ESRS developments.
+
+== Responsibilities of an IT department ==
+Cigref and DFCG's [https://www.cigref.fr/implementation-of-the-corporate-sustainability-reporting-directive-csrd-challenges-and-prospects-for-digital-departments Implementation of the CSRD: Challenges and prospects for digital departments] is available in English, published on 19 February 2026. It addresses collaboration between finance, sustainability and IT teams, data ownership and traceability from source systems to reporting outputs. The publication also links to shared specifications for reporting tools.
+
+The IT department contributes relevant information about its own activities and supports the organisation's reporting infrastructure. Teams should identify data owners, retain evidence of transformations and distinguish measured data from estimates. These recommendations concern implementation; consult legislation for current reporting obligations.
+
+A [[Carbon footprint|carbon inventory]] or [[Life cycle assessment|life cycle assessment]] can supply inputs when its boundaries, methods and period match the reporting need. It does not replace the materiality assessment. Supplier data can improve estimates, but their absence does not imply that reporting is impossible: teams must assess applicable estimation methods and document limitations.
+
+== See also ==
+
+* [[Carbon footprint]] · [[GHG Protocol]] · [[Sustainable IT]] · [[Green IT]]
+
+[[Category:Regulation]]
+[[Category:Frameworks and methods]]

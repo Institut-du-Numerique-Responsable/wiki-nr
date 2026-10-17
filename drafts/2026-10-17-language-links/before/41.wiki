@@ -1,0 +1,41 @@
+Le '''RGAA''' (''Référentiel général d’amélioration de l’accessibilité'') est le référentiel français qui définit la méthode de vérification de l’[[Accessibilité_Numérique|accessibilité numérique]] des sites et applications.
+
+== Définition ==
+
+Le RGAA ne crée pas de règles d’accessibilité propres : il traduit en méthode de test opérationnelle les critères internationaux du [[WCAG]]. À chaque critère correspondent des tests précis, ce qui permet de constater objectivement la conformité plutôt que de l’apprécier.
+
+La version en vigueur, '''4.1.2''', a été publiée le 16 septembre 2021. Elle comporte '''106 critères''' de conformité, associés à environ 2,5 tests par critère.
+
+Une évolution importante de la version 4.1 : la distinction entre les niveaux A et AA disparaît, toutes les exigences retenues devenant obligatoires.
+
+== Obligation légale ==
+
+L’obligation découle de l’'''article 47 de la loi n° 2005-102 du 11 février 2005''' pour l’égalité des droits et des chances, modifié par l’ordonnance n° 2014-1329. Il impose l’accessibilité des services de communication au public en ligne de l’État, des collectivités territoriales, des établissements publics et des organismes délégataires d’une mission de service public.
+
+Le périmètre s’étend au secteur privé : les entreprises de plus de 10 salariés réalisant un chiffre d’affaires supérieur à 2 millions d’euros sont également concernées.
+
+== Obligations concrètes ==
+
+Une organisation soumise au RGAA doit publier :
+
+* une '''déclaration d’accessibilité''' indiquant le taux de conformité et les contenus non accessibles ;
+* un '''schéma pluriannuel''' de mise en accessibilité, décliné en plans d’action annuels ;
+* une mention du niveau de conformité sur la page d’accueil.
+
+Le non-respect de ces obligations est passible de sanctions financières.
+
+== Voir aussi ==
+
+* [[Accessibilité_Numérique|Accessibilité Numérique]]
+* [[WCAG]]
+* [[A11Y]]
+* [[Inclusion]]
+* [[Fracture_Numérique|Fracture Numérique]]
+
+=== Références externes ===
+
+* [https://accessibilite.numerique.gouv.fr/ RGAA : accessibilite.numerique.gouv.fr]
+* [https://design.numerique.gouv.fr/accessibilite-numerique/rgaa/ Le RGAA : DesignGouv]
+
+[[Catégorie:Accessibilité]]
+[[Catégorie:Référentiels et méthodes]]

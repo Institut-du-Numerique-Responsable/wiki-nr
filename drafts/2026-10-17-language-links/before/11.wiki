@@ -1,0 +1,57 @@
+'''Digitale Gemeingüter''' (oder „digitale Gemeinschaftsgüter") bezeichnen eine digitale Ressource (Software, Inhalt, Daten, Infrastruktur oder Wissen), die von einer Gemeinschaft nach gemeinsamen Regeln kollektiv verwaltet wird und deren Zugang und Nutzung allen offenstehen, statt einem einzelnen Eigentümer vorbehalten zu sein.
+
+== Definition ==
+
+Ein digitales Gemeingut beruht auf drei Elementen:
+* einer gemeinsam genutzten '''Ressource''' (Code, Inhalt, Datensatz, Protokoll...);
+* einer '''Gemeinschaft''', die sie erstellt, pflegt und weiterentwickelt;
+* '''Governance-Regeln''', die Zugangs-, Nutzungs- und Beitragsrechte festlegen.
+
+Diese Definition überträgt den Begriff der „Commons" (Gemeingüter), der für gemeinsam genutzte natürliche Ressourcen theoretisiert wurde, auf den digitalen Bereich – insbesondere durch die Ökonomin [[Elinor Ostrom]], Trägerin des „Nobelpreises" für Wirtschaftswissenschaften 2009, die zeigte, dass gemeinsam genutzte Ressourcen nachhaltig verwaltet werden können, ohne unter ausschließliches Privateigentum oder alleinige staatliche Kontrolle zu fallen.
+
+== Ursprünge ==
+
+Der Begriff der digitalen Gemeingüter entstand in den 1990er- und 2000er-Jahren mit dem Aufkommen von:
+* '''freier und quelloffener Software''' (GNU-GPL-Lizenzen, Bewegung der Free Software Foundation);
+* '''Creative-Commons-Lizenzen''' (2001), die rechtliche Werkzeuge für die gemeinsame Nutzung von Inhalten bereitstellen;
+* '''kollaborativen Enzyklopädien''' wie Wikipedia (2001), verwaltet von ihrer Beitragenden-Gemeinschaft.
+
+== Merkmale ==
+
+Ein digitales Gemeingut zeichnet sich in der Regel aus durch:
+* eine '''offene Lizenz''', die Weiterverwendung garantiert (freie Software, Creative Commons, Open Source);
+* eine '''geteilte, oft horizontale Governance''' zwischen den Beitragenden;
+* einen '''nicht-exklusiven Zugang''' ohne übermäßige finanzielle oder technische Hürden;
+* nahezu keine '''Grenzkosten der Vervielfältigung''', typisch für digitale Güter (im Gegensatz zu physischen Gemeingütern unterliegt ein digitales Gemeingut keiner Nutzungsrivalität).
+
+== Beispiele ==
+
+* '''Freie/quelloffene Software''': Linux, LibreOffice, Firefox
+* '''Kollaborative Inhalte''': Wikipedia, OpenStreetMap
+* '''Offene Daten''': data.gouv.fr, OpenFoodFacts
+* '''Geteilte Infrastruktur''': Internetprotokolle (TCP/IP, DNS), Webstandards (W3C)
+* '''Akademisches Wissen''': offene Archive (HAL, arXiv)
+
+== Herausforderungen und digitale Verantwortung ==
+
+Digitale Gemeingüter spielen eine zentrale Rolle in der Diskussion um [[digitale Verantwortung]]:
+* sie fördern '''Suffizienz''', indem sie die Duplizierung von Ressourcen vermeiden (Bündelung statt Vervielfachung gleichwertiger proprietärer Werkzeuge);
+* sie stärken die '''digitale Autonomie''' von Organisationen und Gebietskörperschaften (geringere Abhängigkeit von einem einzelnen Anbieter);
+* sie werfen die Frage der '''wirtschaftlichen Nachhaltigkeit''' auf: Wer finanziert die Pflege einer für alle frei zugänglichen Ressource? (gemeinschaftliche Finanzierungsmodelle, Stiftungen, öffentliche Zuschüsse, Beiträge von Unternehmen);
+* sie stellen Fragen der '''Governance''': Wie lassen sich ehrenamtliche Beitragende und institutionelle oder kommerzielle Akteure gerecht einbinden?
+
+== Siehe auch ==
+
+* [[Freie und quelloffene Software]]
+* [[Digitale Verantwortung]]
+* [[Open Source]]
+* [[Offene Daten]]
+
+== Quellen ==
+
+* Elinor Ostrom, ''Governing the Commons'', Cambridge University Press, 1990.
+* Framasoft, Ressourcen zu digitalen Gemeingütern.
+
+[[Kategorie:Digitale Verantwortung]]
+[[Kategorie:Gemeingüter]]
+[[Kategorie:Definitionen]]

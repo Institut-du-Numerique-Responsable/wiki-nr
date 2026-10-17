@@ -1,0 +1,17 @@
+The '''RGAA''' (''Référentiel général d'amélioration de l'accessibilité'') is the French framework defining how to verify the [[Digital accessibility|accessibility]] of websites and applications.
+
+It does not create its own accessibility rules: it translates the international [[WCAG]] criteria into an operational testing method. Each criterion maps to specific tests, which makes conformance a matter of observation rather than judgement.
+
+The current version, '''4.1.2''', published in September 2021, contains '''106 criteria''' with an average of 2.5 tests each. Version 4.1 removed the distinction between levels A and AA: all retained requirements are mandatory.
+
+== Legal basis ==
+
+The obligation stems from Article 47 of the French Act of 11 February 2005. It applies to public bodies and to private companies above defined size and turnover thresholds.
+
+Organisations must publish an accessibility statement, a multi-year accessibility plan, and a conformance level on their home page.
+
+== See also ==
+
+* [[Digital accessibility]] · [[WCAG]] · [[Human for IT]]
+
+[[Category:Accessibility]]

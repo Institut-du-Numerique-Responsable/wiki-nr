@@ -1,0 +1,57 @@
+'''Bien común digital''' (o «procomún digital») designa un recurso digital (software, contenido, datos, infraestructura o conocimiento) gestionado colectivamente por una comunidad, según reglas compartidas, y cuyo acceso y uso permanecen abiertos a todos en lugar de reservarse a un propietario exclusivo.
+
+== Definición ==
+
+Un bien común digital se apoya en tres elementos:
+* un '''recurso''' compartido (código, contenido, conjunto de datos, protocolo...);
+* una '''comunidad''' que lo produce, lo mantiene y lo hace evolucionar;
+* '''reglas de gobernanza''' que definen los derechos de acceso, uso y contribución.
+
+Esta definición traslada al ámbito digital la noción de «comunes» (''commons'') teorizada para los recursos naturales compartidos, en particular por la economista [[Elinor Ostrom]], premio «Nobel» de Economía en 2009, quien demostró que los recursos compartidos pueden gestionarse de forma sostenible sin depender ni de la propiedad privada exclusiva ni del control exclusivamente estatal.
+
+== Orígenes ==
+
+La noción de bienes comunes digitales surge en las décadas de 1990 y 2000 con el auge de:
+* el '''software libre''' (licencias GNU GPL, movimiento impulsado por la Free Software Foundation);
+* las '''licencias Creative Commons''' (2001), que aportan herramientas jurídicas para compartir contenidos;
+* las '''enciclopedias colaborativas''' como Wikipedia (2001), gestionada por su comunidad de colaboradores.
+
+== Características ==
+
+Un bien común digital se distingue generalmente por:
+* una '''licencia abierta''' que garantiza la reutilización (software libre, Creative Commons, código abierto);
+* una '''gobernanza compartida''', a menudo horizontal, entre los contribuyentes;
+* un '''acceso no exclusivo''', sin barreras financieras o técnicas excesivas;
+* un '''coste marginal de copia''' casi nulo, propio de lo digital (a diferencia de los bienes comunes físicos, un bien común digital no está sujeto a rivalidad de uso).
+
+== Ejemplos ==
+
+* '''Software libre''': Linux, LibreOffice, Firefox
+* '''Contenidos colaborativos''': Wikipedia, OpenStreetMap
+* '''Datos abiertos''': data.gouv.fr, OpenFoodFacts
+* '''Infraestructuras compartidas''': protocolos de internet (TCP/IP, DNS), estándares de la Web (W3C)
+* '''Conocimiento académico''': archivos abiertos (HAL, arXiv)
+
+== Retos y digital responsable ==
+
+Los bienes comunes digitales ocupan un lugar central en las reflexiones sobre el [[digital responsable]]:
+* favorecen la '''sobriedad''' al evitar la duplicación de recursos (mutualización en lugar de multiplicar herramientas propietarias equivalentes);
+* refuerzan la '''autonomía digital''' de las organizaciones y los territorios (menor dependencia de un proveedor único);
+* plantean la cuestión de su '''sostenibilidad económica''': ¿quién financia el mantenimiento de un recurso accesible gratuitamente para todos? (modelos de financiación mutualizada, fundaciones, subvenciones públicas, contribuciones de empresas);
+* interrogan la '''gobernanza''': ¿cómo asociar de forma equitativa a los contribuyentes voluntarios y a los actores institucionales o comerciales?
+
+== Véase también ==
+
+* [[Software libre]]
+* [[Digital responsable]]
+* [[Código abierto]]
+* [[Datos abiertos]]
+
+== Referencias ==
+
+* Elinor Ostrom, ''Governing the Commons'', Cambridge University Press, 1990.
+* Framasoft, recursos sobre los bienes comunes digitales.
+
+[[Categoría:Digital responsable]]
+[[Categoría:Bienes comunes]]
+[[Categoría:Definiciones]]

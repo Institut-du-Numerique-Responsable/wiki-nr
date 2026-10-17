@@ -1,0 +1,17 @@
+L’'''IT for Human''', parfois appelé '''IT for Social''', désigne l’usage du numérique pour réduire l’impact social d’autres activités ou pour répondre à un besoin social.
+
+Exemples : télémédecine en zone sous-dotée, outils d’apprentissage adaptés, dispositifs de maintien de l’autonomie, plateformes de solidarité.
+
+C’est le pendant social de l’[[IT_for_Green|IT for Green]], et la même exigence s’applique : la solution numérique doit être évaluée sur son bénéfice réel, pas sur son intention.
+
+== Point de vigilance ==
+
+Un dispositif conçu pour l’inclusion peut produire l’exclusion s’il présuppose un équipement, une connexion ou une aisance numérique que son public n’a pas. La dématérialisation d’un service public en est l’illustration courante : elle facilite l’accès pour la majorité et le supprime pour une minorité, souvent la plus fragile.
+
+L’[[AI_for_Good|AI for Good]] est la déclinaison de cette démarche à l’[[Intelligence_Artificielle|intelligence artificielle]].
+
+== Voir aussi ==
+
+* [[Human_for_IT|Human for IT]] · [[AI_for_Good|AI for Good]] · [[Numérique_Responsable|Numérique Responsable]] · [[Fracture_Numérique|Fracture Numérique]] · [[Inclusion]] · [[Illectronisme]]
+
+[[Catégorie:Concepts]]

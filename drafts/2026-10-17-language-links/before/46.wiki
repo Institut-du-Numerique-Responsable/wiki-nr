@@ -1,0 +1,23 @@
+'''Vendor lock-in''' is a situation in which changing supplier becomes so costly or complex that an organisation gives up on it, regardless of how satisfied it is.
+
+== Mechanisms ==
+
+* '''proprietary formats''' that make exports unusable ;
+* '''supplier-specific services''' embedded in the core of applications ;
+* '''exit fees''', often asymmetric with entry ;
+* '''team skills''' concentrated on a single environment ;
+* '''accumulated volume''', which makes migration materially heavy.
+
+== Consequences ==
+
+Loss of negotiating power, exposure to pricing and functional decisions made elsewhere, and vulnerability if the supplier fails or changes strategy.
+
+== Prevention ==
+
+Open formats, tested [[Reversibility|reversibility]], and an architecture that limits adhesion. These are decided before commitment, not after.
+
+== See also ==
+
+* [[Reversibility]] · [[Digital sovereignty]] · [[Digital resilience]]
+
+[[Category:Concepts]]
