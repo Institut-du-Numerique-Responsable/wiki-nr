@@ -16,3 +16,5 @@ L’[[AI_for_Green|AI for Green]] est la déclinaison de cette démarche à l’
 * [[Green_IT|Green IT]] · [[AI_for_Green|AI for Green]] · [[Numérique_Responsable|Numérique Responsable]] · [[Effet_Rebond|Effet Rebond]] · [[Paradoxe_de_Jevons|Paradoxe de Jevons]] · [[Green_Washing|Green Washing]]
 
 [[Catégorie:Concepts]]
+
+[[en:IT for Green]]

@@ -19,3 +19,5 @@ La parade se construit avant l’engagement : formats ouverts, [[Réversibilité
 * [[Réversibilité]] · [[Autonomie_stratégique|Autonomie stratégique]] · [[Cloud_computing|Cloud computing]] · [[On-premise]] · [[Open_Data|Open Data]] · [[Résilience]]
 
 [[Catégorie:Concepts]]
+
+[[en:Vendor lock-in]]

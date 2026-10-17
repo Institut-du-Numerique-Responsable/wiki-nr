@@ -38,3 +38,5 @@ Les cadres ne s’opposent pas, ils se superposent : le [[GHG_Protocol|GHG Proto
 
 [[Catégorie:Référentiels et méthodes]]
 [[Catégorie:Réglementation]]
+
+[[en:ISO 14064]]

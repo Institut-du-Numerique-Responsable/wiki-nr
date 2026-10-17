@@ -30,3 +30,5 @@ L’étude fournit deux outils pour structurer la démarche : une '''matrice de 
 * [[Robustesse_numérique|Robustesse numérique]] · [[Souveraineté_numérique|Souveraineté numérique]] · [[Low_Tech|Low Tech]] · [[Cybersécurité]] · [[Autonomie_stratégique|Autonomie stratégique]] · [[Réversibilité]] · [[Résilience]]
 
 [[Catégorie:Concepts]]
+
+[[en:Digital resilience]]

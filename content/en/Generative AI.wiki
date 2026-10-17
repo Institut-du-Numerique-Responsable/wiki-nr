@@ -20,3 +20,5 @@ The model does not consult a knowledge base. It produces the most probable conti
 * [[LLM]] · [[Inference]] · [[Hallucination]] · [[Responsible AI]] · [[Shadow AI]] · [[Prompt injection]]
 
 [[Category:Artificial intelligence]]
+
+[[fr:IA générative]]

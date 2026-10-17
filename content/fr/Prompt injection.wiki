@@ -30,3 +30,5 @@ Les mesures relèvent de l’architecture plutôt que du filtrage :
 
 [[Catégorie:Intelligence artificielle]]
 [[Catégorie:Sécurité]]
+
+[[en:Prompt injection]]

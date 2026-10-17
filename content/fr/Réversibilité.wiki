@@ -19,3 +19,5 @@ La réversibilité conditionne l’[[Autonomie_stratégique|autonomie stratégiq
 * [[Vendor_lock-in|Vendor lock-in]] · [[Autonomie_stratégique|Autonomie stratégique]] · [[Cloud_computing|Cloud computing]] · [[Open_Data|Open Data]] · [[Résilience]]
 
 [[Catégorie:Concepts]]
+
+[[en:Reversibility]]

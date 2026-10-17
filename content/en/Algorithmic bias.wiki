@@ -20,3 +20,5 @@ An awkward result from research: several reasonable definitions of fairness are 
 * [[Responsible AI]] · [[AI Act]] · [[AI governance]] · [[Digital accessibility]]
 
 [[Category:Artificial intelligence]]
+
+[[fr:Biais algorithmique]]

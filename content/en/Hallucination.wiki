@@ -19,3 +19,5 @@ None of these eliminates the phenomenon.
 * [[Generative AI]] · [[LLM]] · [[Responsible AI]] · [[AI governance]]
 
 [[Category:Artificial intelligence]]
+
+[[fr:Hallucination]]

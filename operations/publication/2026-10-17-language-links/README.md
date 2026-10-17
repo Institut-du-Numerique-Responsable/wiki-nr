@@ -1,6 +1,6 @@
 # Liens de langue manquants : lot du 17 octobre 2026
 
-Statut : préparé et prévisualisé le 17 octobre 2026, **non publié**.
+Statut : publié et vérifié le 17 octobre 2026. Les 52 révisions figurent dans `published.json` ; l’instantané `content/` est synchronisé.
 
 L’audit du 17 octobre 2026 a relevé 26 articles EN, ES ou DE sans aucun lien de langue alors que leur équivalent existe en français. Les pages françaises correspondantes n’avaient pas non plus de lien vers ces traductions. Ce lot ajoute les liens réciproques sur 52 pages réparties en 25 groupes ; il ne modifie pas le texte des fiches.
 
@@ -15,10 +15,10 @@ Groupes à vérifier en relecture, car les titres diffèrent : Digital divide et
 
 `prepare.py` a relevé les révisions de départ et vérifié la prévisualisation de chaque page : aucune erreur de parsing, aucun nouveau lien rouge. Les révisions et empreintes sont dans `publication.json`, les originaux dans `before/`.
 
-Publication sur le serveur, après relecture et fusion de la pull request (la résolution DNS du serveur doit fonctionner, le script relit l’API publique) :
+Publication effectuée sur le serveur avec :
 
 ```sh
 sudo python3 /home/ggallon/wiki-drafts/2026-10-17-language-links/publish.py
 ```
 
-Le script refuse de publier si une page a changé depuis la préparation. Après publication, refaire un export public, vérifier ses empreintes, déplacer ce lot dans `operations/publication/` et désactiver son mode `publish`.
+Le mode `publish` de cette copie archivée est désactivé.

@@ -24,3 +24,5 @@ Choisir le plus petit modèle qui répond au besoin est le levier le plus direct
 * [[IA_Responsable|IA Responsable]]
 
 [[Catégorie:Intelligence artificielle]]
+
+[[en:Inference]]

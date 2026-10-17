@@ -31,3 +31,5 @@ Cigref and INR's [https://www.cigref.fr/the-low-tech-approach-serving-the-digita
 * [[Robustness]] · [[Digital sovereignty]] · [[Low tech]] · [[Sustainable IT]] · [[Cybersecurity]]
 
 [[Category:Concepts]]
+
+[[fr:Résilience numérique]]

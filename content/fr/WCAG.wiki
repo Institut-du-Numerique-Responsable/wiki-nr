@@ -48,3 +48,5 @@ Ces principes se déclinent en règles, elles-mêmes détaillées en critères d
 
 [[Catégorie:Accessibilité]]
 [[Catégorie:Référentiels et méthodes]]
+
+[[en:WCAG]]

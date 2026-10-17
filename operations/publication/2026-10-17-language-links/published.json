@@ -1,0 +1,262 @@
+[
+  {
+    "language": "en",
+    "title": "AI governance",
+    "revision": 177
+  },
+  {
+    "language": "fr",
+    "title": "Gouvernance de l'IA",
+    "revision": 915
+  },
+  {
+    "language": "en",
+    "title": "Algorithmic bias",
+    "revision": 178
+  },
+  {
+    "language": "fr",
+    "title": "Biais algorithmique",
+    "revision": 916
+  },
+  {
+    "language": "en",
+    "title": "Bilan Carbone",
+    "revision": 179
+  },
+  {
+    "language": "fr",
+    "title": "Bilan Carbone",
+    "revision": 917
+  },
+  {
+    "language": "en",
+    "title": "CSRD",
+    "revision": 180
+  },
+  {
+    "language": "fr",
+    "title": "CSRD",
+    "revision": 918
+  },
+  {
+    "language": "en",
+    "title": "Digital commons",
+    "revision": 181
+  },
+  {
+    "language": "fr",
+    "title": "Commun numérique",
+    "revision": 919
+  },
+  {
+    "language": "es",
+    "title": "Bien común digital",
+    "revision": 97
+  },
+  {
+    "language": "de",
+    "title": "Digitale Gemeingüter",
+    "revision": 104
+  },
+  {
+    "language": "en",
+    "title": "Digital divide",
+    "revision": 182
+  },
+  {
+    "language": "fr",
+    "title": "Fracture Numérique",
+    "revision": 920
+  },
+  {
+    "language": "en",
+    "title": "Digital resilience",
+    "revision": 183
+  },
+  {
+    "language": "fr",
+    "title": "Résilience numérique",
+    "revision": 921
+  },
+  {
+    "language": "en",
+    "title": "GR491",
+    "revision": 184
+  },
+  {
+    "language": "fr",
+    "title": "GR491",
+    "revision": 922
+  },
+  {
+    "language": "en",
+    "title": "Generative AI",
+    "revision": 185
+  },
+  {
+    "language": "fr",
+    "title": "IA générative",
+    "revision": 923
+  },
+  {
+    "language": "en",
+    "title": "Greenwashing",
+    "revision": 186
+  },
+  {
+    "language": "fr",
+    "title": "Green Washing",
+    "revision": 924
+  },
+  {
+    "language": "en",
+    "title": "Hallucination",
+    "revision": 187
+  },
+  {
+    "language": "fr",
+    "title": "Hallucination",
+    "revision": 925
+  },
+  {
+    "language": "en",
+    "title": "Human for IT",
+    "revision": 188
+  },
+  {
+    "language": "fr",
+    "title": "Human for IT",
+    "revision": 926
+  },
+  {
+    "language": "en",
+    "title": "ISO 14064",
+    "revision": 189
+  },
+  {
+    "language": "fr",
+    "title": "ISO 14064",
+    "revision": 927
+  },
+  {
+    "language": "en",
+    "title": "IT for Green",
+    "revision": 190
+  },
+  {
+    "language": "fr",
+    "title": "IT for Green",
+    "revision": 928
+  },
+  {
+    "language": "en",
+    "title": "IT for Human",
+    "revision": 191
+  },
+  {
+    "language": "fr",
+    "title": "IT for Human",
+    "revision": 929
+  },
+  {
+    "language": "en",
+    "title": "Inference",
+    "revision": 192
+  },
+  {
+    "language": "fr",
+    "title": "Inférence",
+    "revision": 930
+  },
+  {
+    "language": "en",
+    "title": "Jevons paradox",
+    "revision": 193
+  },
+  {
+    "language": "fr",
+    "title": "Paradoxe de Jevons",
+    "revision": 931
+  },
+  {
+    "language": "en",
+    "title": "LLM",
+    "revision": 194
+  },
+  {
+    "language": "fr",
+    "title": "LLM",
+    "revision": 932
+  },
+  {
+    "language": "en",
+    "title": "Prompt injection",
+    "revision": 195
+  },
+  {
+    "language": "fr",
+    "title": "Prompt injection",
+    "revision": 933
+  },
+  {
+    "language": "en",
+    "title": "RGAA",
+    "revision": 196
+  },
+  {
+    "language": "fr",
+    "title": "RGAA",
+    "revision": 934
+  },
+  {
+    "language": "en",
+    "title": "Reversibility",
+    "revision": 197
+  },
+  {
+    "language": "fr",
+    "title": "Réversibilité",
+    "revision": 935
+  },
+  {
+    "language": "en",
+    "title": "Robustness",
+    "revision": 198
+  },
+  {
+    "language": "fr",
+    "title": "Robustesse numérique",
+    "revision": 936
+  },
+  {
+    "language": "en",
+    "title": "Vendor lock-in",
+    "revision": 199
+  },
+  {
+    "language": "fr",
+    "title": "Vendor lock-in",
+    "revision": 937
+  },
+  {
+    "language": "en",
+    "title": "WCAG",
+    "revision": 200
+  },
+  {
+    "language": "fr",
+    "title": "WCAG",
+    "revision": 938
+  },
+  {
+    "language": "es",
+    "title": "Instituto de TI Responsable",
+    "revision": 98
+  },
+  {
+    "language": "fr",
+    "title": "Institut du Numérique Responsable",
+    "revision": 939
+  }
+]

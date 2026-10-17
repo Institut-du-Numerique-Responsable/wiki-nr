@@ -14,7 +14,7 @@ L’instantané `content/` correspond au wiki en ligne au 17 octobre 2026 : un n
 | Deutsch | 38 | 5 | 43 |
 | Nederlands | 15 | 2 | 17 |
 
-Audit des liens de langue du 17 octobre 2026 : aucun lien vers une page absente et aucun lien non réciproque. 26 articles EN, ES ou DE n’ont aucun lien de langue alors que leur équivalent existe dans une autre langue ; le lot `drafts/2026-10-17-language-links` les relie (voir plus bas).
+Audit des liens de langue du 17 octobre 2026 : aucun lien vers une page absente et aucun lien non réciproque. Le lot `2026-10-17-language-links`, publié le même jour, a relié 26 articles EN, ES et DE qui n’avaient aucun lien de langue à leur équivalent français. Après publication, tous les articles EN, ES, DE et NL ont au moins un lien de langue.
 
 ## Lots de publication
 
@@ -29,12 +29,9 @@ Les lots publiés sont archivés dans `operations/publication/`. Leur mode `publ
 | `2026-09-11-es-regulation` | Cadre réglementaire européen en espagnol | publié |
 | `2026-09-11-language-links` | 19 corrections de liens multilingues | publié |
 | `2026-10-09-en-es` | Agentic AI, IA agéntica, GHG Protocol, Shadow AI, Low tech | publié |
+| `2026-10-17-language-links` | Liens de langue réciproques sur 52 pages (25 groupes FR/EN/ES/DE) | publié |
 
-Les lots en attente de publication restent dans `drafts/` :
-
-| Lot | Contenu | Statut |
-|---|---|---|
-| `2026-10-17-language-links` | Ajout de liens de langue sur 52 pages (25 groupes FR/EN/ES/DE) | préparé, prévisualisations réussies, à publier |
+Les lots en attente de publication sont préparés dans `drafts/`. Aucun lot n’est en attente au 17 octobre 2026.
 
 Les archives `2026-09-11-eu-*` proposent `verify` (prévisualisation) et `verify-live` (comparaison aux pages publiées). Les autres lots contiennent `check.py`, `prepare.py`, `publication.json` et `published.json`. Toute nouvelle modification doit partir d’une lecture récente du wiki ; un lot archivé ne sert pas à restaurer une ancienne version.
 
