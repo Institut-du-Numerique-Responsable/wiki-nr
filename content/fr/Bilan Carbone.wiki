@@ -47,3 +47,5 @@ Le Bilan Carbone est compatible avec le [[GHG_Protocol|GHG Protocol]] internatio
 * [https://abc-transitionbascarbone.fr/evolution-de-la-methode-bilan-carbone/ Évolution de la méthode : ABC]
 
 [[Catégorie:Référentiels et méthodes]]
+
+[[en:Bilan Carbone]]

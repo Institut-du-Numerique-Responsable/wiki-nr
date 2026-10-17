@@ -15,3 +15,5 @@ It addresses the social dimension of [[Sustainable IT|sustainable IT]] from the 
 * [[IT for Human]] · [[Green IT]] · [[Sustainable IT]] · [[Digital accessibility]]
 
 [[Category:Concepts]]
+
+[[fr:Human for IT]]

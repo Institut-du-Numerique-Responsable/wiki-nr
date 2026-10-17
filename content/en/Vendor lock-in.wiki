@@ -21,3 +21,5 @@ Open formats, tested [[Reversibility|reversibility]], and an architecture that l
 * [[Reversibility]] · [[Digital sovereignty]] · [[Digital resilience]]
 
 [[Category:Concepts]]
+
+[[fr:Vendor lock-in]]

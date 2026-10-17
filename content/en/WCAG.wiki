@@ -26,3 +26,5 @@ WCAG 2.0 (2008), also published as ISO/IEC 40500; WCAG 2.1 (2018); WCAG 2.2 (Oct
 * [[Digital accessibility]] · [[RGAA]] · [[Human for IT]]
 
 [[Category:Accessibility]]
+
+[[fr:WCAG]]

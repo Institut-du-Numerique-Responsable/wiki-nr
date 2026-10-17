@@ -15,3 +15,5 @@ L’entraînement mobilise des ressources considérables, mais l’[[Inférence|
 * [[SLM]] · [[IA_générative|IA générative]] · [[Inférence]] · [[Hallucination]] · [[RAG]] · [[Prompt]] · [[Chaîne_de_valeur_de_l'IA|Chaîne de valeur de l'IA]]
 
 [[Catégorie:Intelligence artificielle]]
+
+[[en:LLM]]

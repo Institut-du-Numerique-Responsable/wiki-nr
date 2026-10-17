@@ -30,3 +30,5 @@ Both principles oppose the techno-solutionist reflex of answering each problem w
 * [[Digital resilience]] · [[Digital sovereignty]] · [[Low tech]] · [[Digital sobriety]]
 
 [[Category:Concepts]]
+
+[[fr:Robustesse numérique]]

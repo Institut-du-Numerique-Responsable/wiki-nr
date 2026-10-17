@@ -20,3 +20,5 @@ Moving a public service online improves access for the majority and removes it f
 * [[Digital accessibility]] · [[Human for IT]] · [[IT for Human]] · [[Sustainable IT]]
 
 [[Category:Concepts]]
+
+[[fr:Fracture Numérique]]

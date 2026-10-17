@@ -21,3 +21,5 @@ The GR491 is published under the Etalab Open Licence v2.0, which permits reuse, 
 * [[ISO/IEC TS 20125]] · [[RGESN]] · [[Ecodesign]] · [[Sustainable IT]] · [[Digital accessibility]]
 
 [[Category:Frameworks and methods]]
+
+[[fr:GR491]]

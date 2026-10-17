@@ -89,3 +89,5 @@ Le [https://www.academie-nr.org/#mooc-nr MOOC NR complet] est composé de 4h30 d
 * [https://institutnr.org/charte-numerique-responsable Charte Numérique Responsable]
 * [https://wenr.isit-europe.org WeNR - Outil de mesure de l'empreinte du SI]
 * [https://institutnr.org/guide-bonnes-pratiques-nr Guide des bonnes pratiques numérique responsable]
+
+[[es:Instituto de TI Responsable]]

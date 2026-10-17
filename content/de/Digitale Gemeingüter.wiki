@@ -55,3 +55,7 @@ Digitale Gemeingüter spielen eine zentrale Rolle in der Diskussion um [[digital
 [[Kategorie:Digitale Verantwortung]]
 [[Kategorie:Gemeingüter]]
 [[Kategorie:Definitionen]]
+
+[[en:Digital commons]]
+[[es:Bien común digital]]
+[[fr:Commun numérique]]

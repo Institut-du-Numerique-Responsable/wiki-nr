@@ -18,3 +18,5 @@ ISO 14067 covers the carbon footprint of a '''product''', based on [[Life cycle 
 * [[GHG Protocol]] · [[Carbon footprint]] · [[Life cycle assessment]] · [[Bilan Carbone]]
 
 [[Category:Frameworks and methods]]
+
+[[fr:ISO 14064]]

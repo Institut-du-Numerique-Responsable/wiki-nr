@@ -17,3 +17,5 @@ Three questions are usually enough: what is measured, over what perimeter, and c
 * [[Carbon footprint]] · [[Life cycle assessment]] · [[IT for Green]] · [[Sustainable IT]]
 
 [[Category:Concepts]]
+
+[[fr:Green Washing]]

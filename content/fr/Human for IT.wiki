@@ -15,3 +15,5 @@ Il traite le volet social du [[Numérique_Responsable|numérique responsable]] d
 * [[IT_for_Human|IT for Human]] · [[Green_IT|Green IT]] · [[Numérique_Responsable|Numérique Responsable]] · [[Accessibilité_Numérique|Accessibilité Numérique]] · [[Inclusion]] · [[RGAA]]
 
 [[Catégorie:Concepts]]
+
+[[en:Human for IT]]

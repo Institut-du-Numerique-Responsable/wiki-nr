@@ -532,10 +532,10 @@
     "title": "Biais algorithmique",
     "pageid": 210,
     "namespace": 0,
-    "revision": 680,
-    "timestamp": "2026-08-05T22:33:39Z",
+    "revision": 916,
+    "timestamp": "2026-10-17T20:52:42Z",
     "file": "fr/Biais algorithmique.wiki",
-    "sha256": "110bff3b1702232368689cb0a2342d071c6507b18708d0dc5016e2c5572ee529",
+    "sha256": "eac3f736dacedf9ef121f0112a3351f08b26c1b77d9104e7675abd4d31a67fda",
     "url": "https://fr.wiki.isit-europe.org/nr/Biais_algorithmique"
   },
   {
@@ -543,10 +543,10 @@
     "title": "Bilan Carbone",
     "pageid": 196,
     "namespace": 0,
-    "revision": 681,
-    "timestamp": "2026-08-05T22:33:39Z",
+    "revision": 917,
+    "timestamp": "2026-10-17T20:52:43Z",
     "file": "fr/Bilan Carbone.wiki",
-    "sha256": "c399be0cd868bf2ed0f3d675fa2156a8e919036f35c2f1e26edc7f1e8662d14f",
+    "sha256": "1b8be9ec530abdf14705ef0605fc24e4e730868b412bb33b71bafbc4b112ef63",
     "url": "https://fr.wiki.isit-europe.org/nr/Bilan_Carbone"
   },
   {
@@ -631,10 +631,10 @@
     "title": "CSRD",
     "pageid": 200,
     "namespace": 0,
-    "revision": 885,
-    "timestamp": "2026-09-10T18:08:03Z",
+    "revision": 918,
+    "timestamp": "2026-10-17T20:52:43Z",
     "file": "fr/CSRD.wiki",
-    "sha256": "fac748b6f63a2fedd8ce2775d4a4333be0ae948630a3acbe41d7340003e59b28",
+    "sha256": "60ad76a1d9156ae6aa0b7c101c37a13da6bfe76059bf7c5382681beaadbf5de4",
     "url": "https://fr.wiki.isit-europe.org/nr/CSRD"
   },
   {
@@ -851,10 +851,10 @@
     "title": "Commun numérique",
     "pageid": 314,
     "namespace": 0,
-    "revision": 876,
-    "timestamp": "2026-08-18T10:23:59Z",
+    "revision": 919,
+    "timestamp": "2026-10-17T20:52:44Z",
     "file": "fr/Commun numérique.wiki",
-    "sha256": "a695aa62a2f955a2f496f967ed5a5a40b5a3502a995440efde51eeedc49f8032",
+    "sha256": "75b690849875557bcd2d959a9f450f16eede18b042dae0fdc650cbb487a15b55",
     "url": "https://fr.wiki.isit-europe.org/nr/Commun_num%C3%A9rique"
   },
   {
@@ -1687,10 +1687,10 @@
     "title": "Fracture Numérique",
     "pageid": 59,
     "namespace": 0,
-    "revision": 120,
-    "timestamp": "2022-09-06T15:17:59Z",
+    "revision": 920,
+    "timestamp": "2026-10-17T20:52:45Z",
     "file": "fr/Fracture Numérique.wiki",
-    "sha256": "cf256322141ea7a6df90f3b9f7f39185f1b88a698f492779a11a6ffd4ebe2a3d",
+    "sha256": "f4d0bba4937fef5428d1162bfe1f661128e5106500c29b45ab69b2df867c8da1",
     "url": "https://fr.wiki.isit-europe.org/nr/Fracture_Num%C3%A9rique"
   },
   {
@@ -1786,10 +1786,10 @@
     "title": "GR491",
     "pageid": 181,
     "namespace": 0,
-    "revision": 868,
-    "timestamp": "2026-08-08T09:37:17Z",
+    "revision": 922,
+    "timestamp": "2026-10-17T20:52:46Z",
     "file": "fr/GR491.wiki",
-    "sha256": "d33f9575ccbc66f124983525e8d96f88eaa1fe1ecd87f3a109371ca0cb7117e8",
+    "sha256": "8725af499a497c155eb1ccb8a95fbefec7948e7b931a361d111aa6838910eb86",
     "url": "https://fr.wiki.isit-europe.org/nr/GR491"
   },
   {
@@ -1830,10 +1830,10 @@
     "title": "Gouvernance de l'IA",
     "pageid": 216,
     "namespace": 0,
-    "revision": 713,
-    "timestamp": "2026-08-05T22:34:00Z",
+    "revision": 915,
+    "timestamp": "2026-10-17T20:52:41Z",
     "file": "fr/Gouvernance de l'IA.wiki",
-    "sha256": "4f69c9eb19d949a59746c0ab25ff35ac8c1dc7f5adffefbeffe3cb5a8ab0ebd4",
+    "sha256": "de4df89a96b9989282099675385df87fa1a79d2d11e01f081a405643f0bbb613",
     "url": "https://fr.wiki.isit-europe.org/nr/Gouvernance_de_l%27IA"
   },
   {
@@ -1863,10 +1863,10 @@
     "title": "Green Washing",
     "pageid": 66,
     "namespace": 0,
-    "revision": 134,
-    "timestamp": "2022-09-06T15:17:59Z",
+    "revision": 924,
+    "timestamp": "2026-10-17T20:52:47Z",
     "file": "fr/Green Washing.wiki",
-    "sha256": "d1fcc7d6222cd595f5b7b0d159d0df8058a357738ab2e584927c34a59e1735e2",
+    "sha256": "95e1ad0b16f4fc79581d94616dad371c225935a1f1a893d0a31448b24c0c46f1",
     "url": "https://fr.wiki.isit-europe.org/nr/Green_Washing"
   },
   {
@@ -1885,10 +1885,10 @@
     "title": "Hallucination",
     "pageid": 244,
     "namespace": 0,
-    "revision": 715,
-    "timestamp": "2026-08-05T22:34:01Z",
+    "revision": 925,
+    "timestamp": "2026-10-17T20:52:48Z",
     "file": "fr/Hallucination.wiki",
-    "sha256": "66f9131f0845ef3a1b3249a2d056a590e1a41a9675cf772a8fa9e53839fea9d9",
+    "sha256": "cc739764ebe79febcaae9cf062e68a4fe51a24f8a1508e64b29ed3e5219c4b1b",
     "url": "https://fr.wiki.isit-europe.org/nr/Hallucination"
   },
   {
@@ -1896,10 +1896,10 @@
     "title": "Human for IT",
     "pageid": 290,
     "namespace": 0,
-    "revision": 716,
-    "timestamp": "2026-08-05T22:34:01Z",
+    "revision": 926,
+    "timestamp": "2026-10-17T20:52:48Z",
     "file": "fr/Human for IT.wiki",
-    "sha256": "df1256ea418ea31a2b5bd5b2822eb89eeb2bff2a80a978c4802ece663051fab9",
+    "sha256": "3d7865e1812804ceb88bff4b4b00b1ec01f5decd2147c8041bb31e63ad1c772b",
     "url": "https://fr.wiki.isit-europe.org/nr/Human_for_IT"
   },
   {
@@ -1940,10 +1940,10 @@
     "title": "IA générative",
     "pageid": 217,
     "namespace": 0,
-    "revision": 719,
-    "timestamp": "2026-08-05T22:34:03Z",
+    "revision": 923,
+    "timestamp": "2026-10-17T20:52:47Z",
     "file": "fr/IA générative.wiki",
-    "sha256": "ad01c6eeb0426ffc06d7ac3507474d218dc335d26fd39de05a8a3364f099594b",
+    "sha256": "478013c4d3b6a7f01ef9611df88030e27ede30a98db1a5dafee7666ace42e405",
     "url": "https://fr.wiki.isit-europe.org/nr/IA_g%C3%A9n%C3%A9rative"
   },
   {
@@ -1973,10 +1973,10 @@
     "title": "ISO 14064",
     "pageid": 199,
     "namespace": 0,
-    "revision": 720,
-    "timestamp": "2026-08-05T22:34:03Z",
+    "revision": 927,
+    "timestamp": "2026-10-17T20:52:49Z",
     "file": "fr/ISO 14064.wiki",
-    "sha256": "756084c0f3af52d4848c84f6a01ed84307cca131940aad908c6a62f18beed083",
+    "sha256": "deb6f207c9137137676d670de2a1ff97fb878caa58a80bc12a6f02d416bfe3e1",
     "url": "https://fr.wiki.isit-europe.org/nr/ISO_14064"
   },
   {
@@ -1995,10 +1995,10 @@
     "title": "IT for Green",
     "pageid": 289,
     "namespace": 0,
-    "revision": 721,
-    "timestamp": "2026-08-05T22:34:03Z",
+    "revision": 928,
+    "timestamp": "2026-10-17T20:52:50Z",
     "file": "fr/IT for Green.wiki",
-    "sha256": "023245a5df685ff197661e3fe2e2f0e3f39f837e98a4c4aa0d10c84499a44a38",
+    "sha256": "0870d0fe26d2922b9c120de3c17ad37d98ea73167ac83d69a55efa509638a514",
     "url": "https://fr.wiki.isit-europe.org/nr/IT_for_Green"
   },
   {
@@ -2006,10 +2006,10 @@
     "title": "IT for Human",
     "pageid": 291,
     "namespace": 0,
-    "revision": 722,
-    "timestamp": "2026-08-05T22:34:04Z",
+    "revision": 929,
+    "timestamp": "2026-10-17T20:52:50Z",
     "file": "fr/IT for Human.wiki",
-    "sha256": "a965870d1a65f2bb662b72956dbb1e582904c9d95425e6c623ee7439c8a2a50c",
+    "sha256": "62f73eb518a883fa6fe37dd2439589193c25a8556527799159c0359d4aad3493",
     "url": "https://fr.wiki.isit-europe.org/nr/IT_for_Human"
   },
   {
@@ -2094,10 +2094,10 @@
     "title": "Inférence",
     "pageid": 218,
     "namespace": 0,
-    "revision": 725,
-    "timestamp": "2026-08-05T22:34:06Z",
+    "revision": 930,
+    "timestamp": "2026-10-17T20:52:51Z",
     "file": "fr/Inférence.wiki",
-    "sha256": "c3e8f9e5fa8b99ec1c5150fb97313031b783f97484b1ef4151a627fd2febf24e",
+    "sha256": "abd3b16ea9267b6adbe5107afbe5fe988aff3f1e3c08031d25c1f7bcf6086a84",
     "url": "https://fr.wiki.isit-europe.org/nr/Inf%C3%A9rence"
   },
   {
@@ -2105,10 +2105,10 @@
     "title": "Institut du Numérique Responsable",
     "pageid": 68,
     "namespace": 0,
-    "revision": 819,
-    "timestamp": "2026-08-06T06:36:01Z",
+    "revision": 939,
+    "timestamp": "2026-10-17T20:52:56Z",
     "file": "fr/Institut du Numérique Responsable.wiki",
-    "sha256": "075cab97f9bc0f098c45dc18179f3714f09778a5c7a5fa27af6040197e751066",
+    "sha256": "44d79b579b3c2bd1c84c4e872b907a490adbef2813daf875511bc04d600da043",
     "url": "https://fr.wiki.isit-europe.org/nr/Institut_du_Num%C3%A9rique_Responsable"
   },
   {
@@ -2182,10 +2182,10 @@
     "title": "LLM",
     "pageid": 249,
     "namespace": 0,
-    "revision": 728,
-    "timestamp": "2026-08-05T22:34:07Z",
+    "revision": 932,
+    "timestamp": "2026-10-17T20:52:52Z",
     "file": "fr/LLM.wiki",
-    "sha256": "018d48ffd353652c6b790519a9c24945c0884db17419bdb9726bd840cc582439",
+    "sha256": "baf2f1e4f482509fb471461147b46d418d5efa347a3b03ef46164b1c4e5000bc",
     "url": "https://fr.wiki.isit-europe.org/nr/LLM"
   },
   {
@@ -2457,10 +2457,10 @@
     "title": "Paradoxe de Jevons",
     "pageid": 87,
     "namespace": 0,
-    "revision": 806,
-    "timestamp": "2026-08-06T06:35:58Z",
+    "revision": 931,
+    "timestamp": "2026-10-17T20:52:51Z",
     "file": "fr/Paradoxe de Jevons.wiki",
-    "sha256": "935239b173f5cdaed2ce4dcbcd4779230a055c047c357ab4a5c13630d3baf619",
+    "sha256": "383ca4c19bba6ec11879cf250c48bda5f865172a5031957aa63427b833af5e79",
     "url": "https://fr.wiki.isit-europe.org/nr/Paradoxe_de_Jevons"
   },
   {
@@ -2501,10 +2501,10 @@
     "title": "Prompt injection",
     "pageid": 220,
     "namespace": 0,
-    "revision": 735,
-    "timestamp": "2026-08-05T22:34:12Z",
+    "revision": 933,
+    "timestamp": "2026-10-17T20:52:52Z",
     "file": "fr/Prompt injection.wiki",
-    "sha256": "087ee5b18827c009d7d726afd75c64374172c77f7fe519a408116e35d343d61e",
+    "sha256": "aecd1637b080efd391645a30cc513445ea7466d4ad2133e64649b79acaa71793",
     "url": "https://fr.wiki.isit-europe.org/nr/Prompt_injection"
   },
   {
@@ -2578,10 +2578,10 @@
     "title": "RGAA",
     "pageid": 191,
     "namespace": 0,
-    "revision": 738,
-    "timestamp": "2026-08-05T22:34:14Z",
+    "revision": 934,
+    "timestamp": "2026-10-17T20:52:53Z",
     "file": "fr/RGAA.wiki",
-    "sha256": "932e71a3ce2c0457d493411a1ea01cb5229109b96f38833895a40c884c6c837b",
+    "sha256": "29e597bbc29b87a32e6fe056c8a7597ae6f5982bb3a2615905a6b6cb22d07762",
     "url": "https://fr.wiki.isit-europe.org/nr/RGAA"
   },
   {
@@ -2743,10 +2743,10 @@
     "title": "Robustesse numérique",
     "pageid": 293,
     "namespace": 0,
-    "revision": 786,
-    "timestamp": "2026-08-06T06:08:25Z",
+    "revision": 936,
+    "timestamp": "2026-10-17T20:52:54Z",
     "file": "fr/Robustesse numérique.wiki",
-    "sha256": "4f70582ad3a7b0b7adad0e4c6429d2bd703d3a89afb64fe6a796dc38cdcc85b3",
+    "sha256": "610d033cea9093b396e797c293501f4298e61fae8d912472097a60fd9c28fcee",
     "url": "https://fr.wiki.isit-europe.org/nr/Robustesse_num%C3%A9rique"
   },
   {
@@ -2820,10 +2820,10 @@
     "title": "Résilience numérique",
     "pageid": 292,
     "namespace": 0,
-    "revision": 814,
-    "timestamp": "2026-08-06T06:36:00Z",
+    "revision": 921,
+    "timestamp": "2026-10-17T20:52:46Z",
     "file": "fr/Résilience numérique.wiki",
-    "sha256": "8d711bfd1e1630c1dcc9cfc7d62db7572fdc194c7c80143a2428381bb53ac879",
+    "sha256": "225d5602169463ab4f880fea725aee26c8bf477f2799f4eeaf41dd021dbc9158",
     "url": "https://fr.wiki.isit-europe.org/nr/R%C3%A9silience_num%C3%A9rique"
   },
   {
@@ -2831,10 +2831,10 @@
     "title": "Réversibilité",
     "pageid": 255,
     "namespace": 0,
-    "revision": 745,
-    "timestamp": "2026-08-05T22:34:18Z",
+    "revision": 935,
+    "timestamp": "2026-10-17T20:52:54Z",
     "file": "fr/Réversibilité.wiki",
-    "sha256": "b2049a6f6b44acf5ce3f6243a05569fcce079e2505147e492f461327b7ddd765",
+    "sha256": "99fde7d6fb09b52a18c90c62c4b58cc14ff0533269324bbba964d62d49df8e25",
     "url": "https://fr.wiki.isit-europe.org/nr/R%C3%A9versibilit%C3%A9"
   },
   {
@@ -3205,10 +3205,10 @@
     "title": "Vendor lock-in",
     "pageid": 260,
     "namespace": 0,
-    "revision": 754,
-    "timestamp": "2026-08-05T22:34:24Z",
+    "revision": 937,
+    "timestamp": "2026-10-17T20:52:55Z",
     "file": "fr/Vendor lock-in.wiki",
-    "sha256": "1905b811f57cfbfeb858c055179f88b603fa1882d424e9d691f34a710bd5b1d0",
+    "sha256": "290be65a4f1a2bbfe53d9d4690b3b7b889d2e1ad27968f9279ba9e59bcc86268",
     "url": "https://fr.wiki.isit-europe.org/nr/Vendor_lock-in"
   },
   {
@@ -3216,10 +3216,10 @@
     "title": "WCAG",
     "pageid": 192,
     "namespace": 0,
-    "revision": 755,
-    "timestamp": "2026-08-05T22:34:24Z",
+    "revision": 938,
+    "timestamp": "2026-10-17T20:52:55Z",
     "file": "fr/WCAG.wiki",
-    "sha256": "bbd645f2c7d9ba49d3ccbe61ec5de575e90e78c06c4fe67256c4d3ca2cd6d477",
+    "sha256": "7cbfee64ce252f1a6eb0d932d706b47c003416439839beaedde1bb882d9b4bb2",
     "url": "https://fr.wiki.isit-europe.org/nr/WCAG"
   },
   {
@@ -3425,10 +3425,10 @@
     "title": "AI governance",
     "pageid": 51,
     "namespace": 0,
-    "revision": 64,
-    "timestamp": "2026-08-06T05:37:13Z",
+    "revision": 177,
+    "timestamp": "2026-10-17T20:52:41Z",
     "file": "en/AI governance.wiki",
-    "sha256": "67805ee7310e701409ae877c3444446bff2a67fbf23366c7898dd3b5628fbe2e",
+    "sha256": "50aa2a8e6ca90f145f5d22306d23ae27edbf80322ff8cf87ba9669bb3743b98d",
     "url": "https://en.wiki.isit-europe.org/nr/AI_governance"
   },
   {
@@ -3458,10 +3458,10 @@
     "title": "Algorithmic bias",
     "pageid": 50,
     "namespace": 0,
-    "revision": 63,
-    "timestamp": "2026-08-06T05:37:13Z",
+    "revision": 178,
+    "timestamp": "2026-10-17T20:52:42Z",
     "file": "en/Algorithmic bias.wiki",
-    "sha256": "f18ba26ec996ddd921a4aad936a4c3c77fb16837a5e9fc14e6963885274a18d5",
+    "sha256": "379de18187a7808013a30a6d7c23490954d68d36efe541eba3b9778f4bf62d30",
     "url": "https://en.wiki.isit-europe.org/nr/Algorithmic_bias"
   },
   {
@@ -3480,10 +3480,10 @@
     "title": "Bilan Carbone",
     "pageid": 29,
     "namespace": 0,
-    "revision": 35,
-    "timestamp": "2026-08-06T05:21:45Z",
+    "revision": 179,
+    "timestamp": "2026-10-17T20:52:42Z",
     "file": "en/Bilan Carbone.wiki",
-    "sha256": "0f5beed4b816a1cd91ef5590c34f32402a494e401d32fd2967d710f006d73b25",
+    "sha256": "2abe9ee040b565411664d1b953af031c1c753d3b9b8f56b9567a43c5579745ad",
     "url": "https://en.wiki.isit-europe.org/nr/Bilan_Carbone"
   },
   {
@@ -3502,10 +3502,10 @@
     "title": "CSRD",
     "pageid": 53,
     "namespace": 0,
-    "revision": 157,
-    "timestamp": "2026-09-10T18:08:03Z",
+    "revision": 180,
+    "timestamp": "2026-10-17T20:52:43Z",
     "file": "en/CSRD.wiki",
-    "sha256": "098beb9ee6fa90ff4858c9d9723cab2f79a117976e693a1d7a6975c5fcf5321a",
+    "sha256": "72dce8b36c46d92ba5f3e114794c36b88016e741597a73a48f17643584f972db",
     "url": "https://en.wiki.isit-europe.org/nr/CSRD"
   },
   {
@@ -3623,10 +3623,10 @@
     "title": "Digital commons",
     "pageid": 61,
     "namespace": 0,
-    "revision": 111,
-    "timestamp": "2026-08-18T10:27:54Z",
+    "revision": 181,
+    "timestamp": "2026-10-17T20:52:43Z",
     "file": "en/Digital commons.wiki",
-    "sha256": "148929342cacba3f5a5b61c72c98dbffcf8be3374ca48cac0a42cebe15eef0f4",
+    "sha256": "db91c4e101d8f5438db1b30fbe275feb8fd1162dae7f01e3e358c85478ee5927",
     "url": "https://en.wiki.isit-europe.org/nr/Digital_commons"
   },
   {
@@ -3634,10 +3634,10 @@
     "title": "Digital divide",
     "pageid": 46,
     "namespace": 0,
-    "revision": 58,
-    "timestamp": "2026-08-06T05:35:01Z",
+    "revision": 182,
+    "timestamp": "2026-10-17T20:52:45Z",
     "file": "en/Digital divide.wiki",
-    "sha256": "e066452c7a34d5529e70df59aea25f1b0b77e1846997e29a34d90800a1f14490",
+    "sha256": "01439ef65cc109f14bd7698d6c85efb67bbe13abb63dae4a75472c3241828a39",
     "url": "https://en.wiki.isit-europe.org/nr/Digital_divide"
   },
   {
@@ -3645,10 +3645,10 @@
     "title": "Digital resilience",
     "pageid": 38,
     "namespace": 0,
-    "revision": 158,
-    "timestamp": "2026-09-10T18:08:04Z",
+    "revision": 183,
+    "timestamp": "2026-10-17T20:52:45Z",
     "file": "en/Digital resilience.wiki",
-    "sha256": "87102b1d4b0b46f0ee4c6032415451b75cb9306a88f5a685903bf3d2a3cd12f7",
+    "sha256": "f8f3023c72020b239ab8af2a881662302878b316690e0ea51b7f9eb7a911c7bc",
     "url": "https://en.wiki.isit-europe.org/nr/Digital_resilience"
   },
   {
@@ -3733,10 +3733,10 @@
     "title": "GR491",
     "pageid": 16,
     "namespace": 0,
-    "revision": 105,
-    "timestamp": "2026-08-08T09:37:18Z",
+    "revision": 184,
+    "timestamp": "2026-10-17T20:52:46Z",
     "file": "en/GR491.wiki",
-    "sha256": "d6e54647a59911b92b25db37554d621c93d723c73c0e8700dbd8a8f53b0a9ab0",
+    "sha256": "ef80986bd8017c140fcaa7857fafa144b37f0454a90970244a3faeb60e461e8a",
     "url": "https://en.wiki.isit-europe.org/nr/GR491"
   },
   {
@@ -3744,10 +3744,10 @@
     "title": "Generative AI",
     "pageid": 47,
     "namespace": 0,
-    "revision": 60,
-    "timestamp": "2026-08-06T05:37:12Z",
+    "revision": 185,
+    "timestamp": "2026-10-17T20:52:46Z",
     "file": "en/Generative AI.wiki",
-    "sha256": "25f5d8dce763c4a4524e7d2a7da39e4632f0bf74c89659ec5e54b73014930bad",
+    "sha256": "5536b6c6233f4f2a7a7dea00c87d398ede7e1bebdb47e3288dca4ee9de08a733",
     "url": "https://en.wiki.isit-europe.org/nr/Generative_AI"
   },
   {
@@ -3766,10 +3766,10 @@
     "title": "Greenwashing",
     "pageid": 33,
     "namespace": 0,
-    "revision": 39,
-    "timestamp": "2026-08-06T05:21:46Z",
+    "revision": 186,
+    "timestamp": "2026-10-17T20:52:47Z",
     "file": "en/Greenwashing.wiki",
-    "sha256": "efb553f9138ba92317ece1048e94aa95a97aaeb39164e9a9f00ca7f74ebaca5c",
+    "sha256": "06f45e1c85c359df6b9562a58326944c4d9b6810303a137508fd9e26edc042a9",
     "url": "https://en.wiki.isit-europe.org/nr/Greenwashing"
   },
   {
@@ -3777,10 +3777,10 @@
     "title": "Hallucination",
     "pageid": 49,
     "namespace": 0,
-    "revision": 62,
-    "timestamp": "2026-08-06T05:37:13Z",
+    "revision": 187,
+    "timestamp": "2026-10-17T20:52:47Z",
     "file": "en/Hallucination.wiki",
-    "sha256": "272117cbc99b26a1c08986fd656060f031be1e216238a2d7b73fb3aab26be4b3",
+    "sha256": "df35cd4842fd056102e2008042f455aa066362cd542587054353e80cca60a72d",
     "url": "https://en.wiki.isit-europe.org/nr/Hallucination"
   },
   {
@@ -3788,10 +3788,10 @@
     "title": "Human for IT",
     "pageid": 19,
     "namespace": 0,
-    "revision": 24,
-    "timestamp": "2026-08-06T05:19:30Z",
+    "revision": 188,
+    "timestamp": "2026-10-17T20:52:48Z",
     "file": "en/Human for IT.wiki",
-    "sha256": "266abd675a54bd92a6915761816495d422ad6a665a73191a053f688da06b95b2",
+    "sha256": "e3a2c15a60bdd105772ee261ad85c11e9c93f6d2ddad785193837802573c4090",
     "url": "https://en.wiki.isit-europe.org/nr/Human_for_IT"
   },
   {
@@ -3810,10 +3810,10 @@
     "title": "ISO 14064",
     "pageid": 28,
     "namespace": 0,
-    "revision": 34,
-    "timestamp": "2026-08-06T05:21:44Z",
+    "revision": 189,
+    "timestamp": "2026-10-17T20:52:49Z",
     "file": "en/ISO 14064.wiki",
-    "sha256": "338f1b392813f666443d4f3f3a7aec5fa74c421fa88bbc44fa41974848c42ccb",
+    "sha256": "8df2a933662bc42ffa22633d1d187e152e470df7741167f60e09b4d14e3d96a7",
     "url": "https://en.wiki.isit-europe.org/nr/ISO_14064"
   },
   {
@@ -3832,10 +3832,10 @@
     "title": "IT for Green",
     "pageid": 18,
     "namespace": 0,
-    "revision": 151,
-    "timestamp": "2026-09-10T17:48:00Z",
+    "revision": 190,
+    "timestamp": "2026-10-17T20:52:49Z",
     "file": "en/IT for Green.wiki",
-    "sha256": "d7cceb532b7b26b234583df254036d30c422e033013c7c7a8d16410158f76bc6",
+    "sha256": "261bd01c89ad638d0e21399461439b03f5bcbb7750ed844d434f5607b0a28b4f",
     "url": "https://en.wiki.isit-europe.org/nr/IT_for_Green"
   },
   {
@@ -3843,10 +3843,10 @@
     "title": "IT for Human",
     "pageid": 20,
     "namespace": 0,
-    "revision": 25,
-    "timestamp": "2026-08-06T05:19:31Z",
+    "revision": 191,
+    "timestamp": "2026-10-17T20:52:50Z",
     "file": "en/IT for Human.wiki",
-    "sha256": "d49655b3d225a0e0a44cd2c6a48b3efee4d5439c4e9408a4ad7464ca03c3f863",
+    "sha256": "cdd9ae46b67d795d9f4029be99729c81cb82de91cdf16d2a6373dd543b78a84a",
     "url": "https://en.wiki.isit-europe.org/nr/IT_for_Human"
   },
   {
@@ -3854,10 +3854,10 @@
     "title": "Inference",
     "pageid": 48,
     "namespace": 0,
-    "revision": 148,
-    "timestamp": "2026-09-10T17:38:33Z",
+    "revision": 192,
+    "timestamp": "2026-10-17T20:52:50Z",
     "file": "en/Inference.wiki",
-    "sha256": "3b8714e683c48df25a3b05b1c4f0ffde643079d3e66bff2df47ade34cf59d6ca",
+    "sha256": "7073a22415e7d640be15334c79e7121af8770559f173eb83c92c8b70aa61eecc",
     "url": "https://en.wiki.isit-europe.org/nr/Inference"
   },
   {
@@ -3865,10 +3865,10 @@
     "title": "Jevons paradox",
     "pageid": 32,
     "namespace": 0,
-    "revision": 38,
-    "timestamp": "2026-08-06T05:21:45Z",
+    "revision": 193,
+    "timestamp": "2026-10-17T20:52:51Z",
     "file": "en/Jevons paradox.wiki",
-    "sha256": "7b1c7b1baecfff7934ded36d25adf8de5e2875e390ba4b4e07d33259f9647bea",
+    "sha256": "16e7d5e4b0cf49a0351dc2c76cad53b83c7a261aa21244c1d8cd41f2d6633daf",
     "url": "https://en.wiki.isit-europe.org/nr/Jevons_paradox"
   },
   {
@@ -3876,10 +3876,10 @@
     "title": "LLM",
     "pageid": 44,
     "namespace": 0,
-    "revision": 56,
-    "timestamp": "2026-08-06T05:35:01Z",
+    "revision": 194,
+    "timestamp": "2026-10-17T20:52:52Z",
     "file": "en/LLM.wiki",
-    "sha256": "2cd209c5a7142e4595e1e092fc5b976b239e4730cb2df1b73074e0c24154207d",
+    "sha256": "c197167f9a2527921d654a8d0f8f94a46a20589c783d677d8bf6776e86b1c194",
     "url": "https://en.wiki.isit-europe.org/nr/LLM"
   },
   {
@@ -3964,10 +3964,10 @@
     "title": "Prompt injection",
     "pageid": 52,
     "namespace": 0,
-    "revision": 65,
-    "timestamp": "2026-08-06T05:37:13Z",
+    "revision": 195,
+    "timestamp": "2026-10-17T20:52:52Z",
     "file": "en/Prompt injection.wiki",
-    "sha256": "d276b343b1e3f11ce379b6a2099a4537794c3724a99f2c9c1c91c31c2c177520",
+    "sha256": "4f984a6e00061f81fe04be74efa13475cb28f2cf6667f79d3a02e71017a1c7b0",
     "url": "https://en.wiki.isit-europe.org/nr/Prompt_injection"
   },
   {
@@ -3986,10 +3986,10 @@
     "title": "RGAA",
     "pageid": 36,
     "namespace": 0,
-    "revision": 42,
-    "timestamp": "2026-08-06T05:21:46Z",
+    "revision": 196,
+    "timestamp": "2026-10-17T20:52:53Z",
     "file": "en/RGAA.wiki",
-    "sha256": "d0657c1f35579314a3c698ea0c2180b4e9fb312e3a6fa874d7ba08f2e33c4908",
+    "sha256": "4f0870c96ab132e2392895c802746cc437a3f1a89b082ecbda6593d1355486f5",
     "url": "https://en.wiki.isit-europe.org/nr/RGAA"
   },
   {
@@ -4052,10 +4052,10 @@
     "title": "Reversibility",
     "pageid": 41,
     "namespace": 0,
-    "revision": 53,
-    "timestamp": "2026-08-06T05:35:00Z",
+    "revision": 197,
+    "timestamp": "2026-10-17T20:52:53Z",
     "file": "en/Reversibility.wiki",
-    "sha256": "a83612b338b4904595e719b81850b266193aec2b470729777e28602e79e85e3a",
+    "sha256": "7a47f5d1a4fd3feef5eef4c2342b9eabc65922b5b95305fe5cc60eebe8fb393e",
     "url": "https://en.wiki.isit-europe.org/nr/Reversibility"
   },
   {
@@ -4063,10 +4063,10 @@
     "title": "Robustness",
     "pageid": 39,
     "namespace": 0,
-    "revision": 51,
-    "timestamp": "2026-08-06T05:34:59Z",
+    "revision": 198,
+    "timestamp": "2026-10-17T20:52:54Z",
     "file": "en/Robustness.wiki",
-    "sha256": "f18604de42a34101c538ebabf0faf81e8c591394fb0440c95fcc96a71f49c8bb",
+    "sha256": "8e93fc13f2d2d89051373d1583b8c6b26ebb6259331d3a2a257c664954c60fb3",
     "url": "https://en.wiki.isit-europe.org/nr/Robustness"
   },
   {
@@ -4151,10 +4151,10 @@
     "title": "Vendor lock-in",
     "pageid": 42,
     "namespace": 0,
-    "revision": 54,
-    "timestamp": "2026-08-06T05:35:00Z",
+    "revision": 199,
+    "timestamp": "2026-10-17T20:52:54Z",
     "file": "en/Vendor lock-in.wiki",
-    "sha256": "ef6d46ce1222f877e633ff63d460d70eb71fdee0f04701e69891d1b7ad3bc100",
+    "sha256": "bd09d0d53a89d2ab7421fd9649b9aba7da8a5a541749d315258f13cf1236f8fe",
     "url": "https://en.wiki.isit-europe.org/nr/Vendor_lock-in"
   },
   {
@@ -4162,10 +4162,10 @@
     "title": "WCAG",
     "pageid": 24,
     "namespace": 0,
-    "revision": 29,
-    "timestamp": "2026-08-06T05:19:32Z",
+    "revision": 200,
+    "timestamp": "2026-10-17T20:52:55Z",
     "file": "en/WCAG.wiki",
-    "sha256": "7ab75648cab18590fe1b69766b398daba76f00980df82e988896f34cee41b5ec",
+    "sha256": "ff51266ccbca53d311faf87c4b45f613470539ec46f138b262ff07f544fd3d9a",
     "url": "https://en.wiki.isit-europe.org/nr/WCAG"
   },
   {
@@ -4316,10 +4316,10 @@
     "title": "Bien común digital",
     "pageid": 34,
     "namespace": 0,
-    "revision": 67,
-    "timestamp": "2026-08-18T10:39:03Z",
+    "revision": 97,
+    "timestamp": "2026-10-17T20:52:44Z",
     "file": "es/Bien común digital.wiki",
-    "sha256": "a1f67dd723a875e8eb21b434f80aa414079bf20e3bb74dbd2f5316abafa92127",
+    "sha256": "31feb338466530db9ee09d1adeeb18a85f883ebe0ae18e12096d7524931b24b5",
     "url": "https://es.wiki.isit-europe.org/nr/Bien_com%C3%BAn_digital"
   },
   {
@@ -4613,10 +4613,10 @@
     "title": "Instituto de TI Responsable",
     "pageid": 9,
     "namespace": 0,
-    "revision": 9,
-    "timestamp": "2026-08-06T12:47:53Z",
+    "revision": 98,
+    "timestamp": "2026-10-17T20:52:56Z",
     "file": "es/Instituto de TI Responsable.wiki",
-    "sha256": "6f09264ed56de52326a9552d0d3efcea88949948f249d2a0a4451cce3092753c",
+    "sha256": "dde2763d3adec85b6c983d07d765ccb574497ca748438cb5082d15db93b30b40",
     "url": "https://es.wiki.isit-europe.org/nr/Instituto_de_TI_Responsable"
   },
   {
@@ -4987,10 +4987,10 @@
     "title": "Digitale Gemeingüter",
     "pageid": 33,
     "namespace": 0,
-    "revision": 77,
-    "timestamp": "2026-08-18T10:28:01Z",
+    "revision": 104,
+    "timestamp": "2026-10-17T20:52:44Z",
     "file": "de/Digitale Gemeingüter.wiki",
-    "sha256": "db0028275c157850d26ac487bd459224c6e2e9056d155fd0fce30f035033602a",
+    "sha256": "e72330fb4c2fd91dea58240837eb86ea3ba7dedd2a2ec5bd18c4697bb00fd3c9",
     "url": "https://de.wiki.isit-europe.org/nr/Digitale_Gemeing%C3%BCter"
   },
   {
