@@ -1,0 +1,44 @@
+La '''CSRD''' (''Corporate Sustainability Reporting Directive'') est la directive européenne '''(UE) 2022/2464''' qui encadre la publication d’informations de durabilité par les entreprises.
+
+== Définition ==
+
+Adoptée en décembre 2022, la CSRD remplace la directive NFRD. Elle organise un reporting normalisé dans le rapport de gestion, avec une assurance indépendante. Son périmètre et ses échéances ont été modifiés depuis son adoption.
+
+Les informations à publier sont définies par les normes '''ESRS''' (''European Sustainability Reporting Standards''), élaborées par l’EFRAG.
+
+== Double matérialité ==
+
+La CSRD repose sur le principe de '''double matérialité''', qui distingue deux perspectives :
+
+* la '''matérialité d’impact''' : les effets de l’entreprise sur l’environnement et la société ;
+* la '''matérialité financière''' : les effets des enjeux de durabilité sur la performance de l’entreprise.
+
+Une information doit être publiée dès qu’elle est significative selon l’une '''ou''' l’autre de ces perspectives. C’est ce qui distingue la CSRD des cadres purement financiers.
+
+== Évolution du périmètre et du calendrier ==
+La directive « stop the clock » de 2025 a reporté certaines échéances. La [https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026L0470 directive (UE) 2026/470 du 24 février 2026] a ensuite modifié le périmètre : elle prévoit, pour les entreprises de l’Union concernées, des seuils de plus de 1 000 salariés et de plus de 450 millions d’euros de chiffre d’affaires net. Des dispositions spécifiques concernent les groupes et les entreprises de pays tiers.
+
+L’ancien tableau des trois vagues ne suffit donc plus à déterminer les obligations d’une organisation. Il faut vérifier son périmètre, l’exercice concerné et les dispositions nationales de transposition. La [https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_fr Commission européenne] tient une chronologie des évolutions et des normes ESRS.
+
+== Rôle de la direction numérique ==
+Le rapport Cigref et DFCG [https://www.cigref.fr/mise-en-oeuvre-de-la-corporate-sustainability-reporting-directive-csrd-enjeux-et-perspectives-pour-les-directions-numeriques Mise en œuvre de la CSRD : enjeux et perspectives pour les directions numériques], publié le 29 janvier 2026, décrit deux contributions de la DSI : fournir les données pertinentes sur le système d’information et organiser les flux nécessaires au reporting de l’entreprise.
+
+Les recommandations portent sur la collaboration finance–RSE–DSI, la désignation des responsables de données et la traçabilité depuis les systèmes sources jusqu’au rapport. La publication propose aussi un cahier des charges commun pour l’outillage. Elle constitue un retour d’expérience organisationnel ; le périmètre juridique doit être vérifié dans les textes en vigueur.
+
+Les résultats d’un [[Bilan Carbone]], de [[WeNR]] ou d’une [[Analyse du Cycle de Vie|analyse du cycle de vie]] peuvent contribuer au reporting, à condition de vérifier leurs périmètres, méthodes et périodes. Ils ne remplacent pas l’analyse de matérialité ni les exigences de publication applicables. Pour les PME hors champ, la [[VSME]] propose un cadre volontaire.
+
+== Voir aussi ==
+
+* [[VSME]]
+* [[Responsabilité_Sociétale_des_Entreprises|Responsabilité Sociétale des Entreprises]]
+* [[Bilan_Carbone|Bilan Carbone]]
+* [[Bilan_des_Émissions_des_Gaz_à_Effet_de_Serre|Bilan des Émissions des Gaz à Effet de Serre]]
+* [[Comptabilité_environnementale|Comptabilité environnementale]]
+* [[GHG_Protocol|GHG Protocol]]
+
+=== Références externes ===
+
+* [https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_fr Rapport de durabilité des entreprises : Commission européenne]
+
+[[Catégorie:Réglementation]]
+[[Catégorie:Référentiels et méthodes]]

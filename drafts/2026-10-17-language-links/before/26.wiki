@@ -1,0 +1,20 @@
+The '''ISO 14064''' series sets out the international standards for quantifying, reporting and verifying greenhouse gas emissions.
+
+Where the [[GHG Protocol]] provides an accounting method and [[Bilan Carbone]] an operational approach, ISO 14064 provides an '''auditable''' framework. It is the standard third-party verification bodies rely on.
+
+; ISO 14064-1
+: quantification and reporting at '''organisation''' level
+; ISO 14064-2
+: quantification and reporting at '''project''' level
+; ISO 14064-3
+: '''validation and verification''' of declarations
+
+== Related standards ==
+
+ISO 14067 covers the carbon footprint of a '''product''', based on [[Life cycle assessment|life cycle assessment]] principles. ISO 14040 and ISO 14044 define LCA itself. ISO 14001 covers environmental management systems.
+
+== See also ==
+
+* [[GHG Protocol]] · [[Carbon footprint]] · [[Life cycle assessment]] · [[Bilan Carbone]]
+
+[[Category:Frameworks and methods]]

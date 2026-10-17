@@ -1,0 +1,19 @@
+'''Greenwashing''' is the practice of presenting an organisation, a product or a service as more environmentally responsible than it actually is.
+
+== Common patterns ==
+
+* highlighting a marginal improvement while the main impact is unchanged ;
+* communicating on intentions rather than measured results ;
+* using vague terms with no shared definition, such as "green", "clean" or "carbon neutral", without stating the method ;
+* offsetting emissions rather than reducing them (see [[Rebound effect]] for a related dynamic) ;
+* selecting a favourable perimeter, for instance reporting only the use phase and omitting [[Manufacturing|manufacturing]].
+
+== How to tell the difference ==
+
+Three questions are usually enough: what is measured, over what perimeter, and compared with what baseline. A claim that cannot answer these is a communication exercise.
+
+== See also ==
+
+* [[Carbon footprint]] · [[Life cycle assessment]] · [[IT for Green]] · [[Sustainable IT]]
+
+[[Category:Concepts]]

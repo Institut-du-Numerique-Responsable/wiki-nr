@@ -1,0 +1,21 @@
+Le '''vendor lock-in''', ou verrouillage fournisseur, désigne la situation dans laquelle changer de prestataire devient si coûteux ou si complexe que l’organisation y renonce, indépendamment de sa satisfaction.
+
+== Mécanismes ==
+
+* '''formats propriétaires''' rendant l’export inexploitable ;
+* '''services spécifiques''' du fournisseur intégrés au cœur des applications ;
+* '''frais de sortie''' : transfert de données facturé, souvent asymétrique par rapport à l’entrée ;
+* '''compétences''' de l’équipe centrées sur un environnement unique ;
+* '''volume accumulé''', qui rend la migration matériellement lourde.
+
+== Conséquences ==
+
+Perte de pouvoir de négociation, dépendance aux évolutions tarifaires et fonctionnelles décidées ailleurs, et vulnérabilité en cas de défaillance ou de changement de stratégie du fournisseur.
+
+La parade se construit avant l’engagement : formats ouverts, [[Réversibilité|réversibilité]] testée, architecture limitant l’adhérence. Après signature, il est généralement trop tard.
+
+== Voir aussi ==
+
+* [[Réversibilité]] · [[Autonomie_stratégique|Autonomie stratégique]] · [[Cloud_computing|Cloud computing]] · [[On-premise]] · [[Open_Data|Open Data]] · [[Résilience]]
+
+[[Catégorie:Concepts]]

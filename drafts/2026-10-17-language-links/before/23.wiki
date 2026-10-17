@@ -1,0 +1,21 @@
+Une '''hallucination''' est une production d’un modèle d’[[IA_générative|IA générative]] qui est fausse tout en étant présentée avec la même assurance qu’une réponse exacte.
+
+== Origine ==
+
+Ce n’est pas un dysfonctionnement mais une conséquence du fonctionnement : le modèle produit la suite la plus probable au regard de ce qu’il a appris, sans disposer d’une notion de vérité ni d’une source à consulter. Une formulation plausible est exactement ce qu’il optimise.
+
+Les cas typiques : références bibliographiques inventées, citations attribuées à tort, chiffres crédibles mais faux, fonctions inexistantes dans du code.
+
+== Réduction ==
+
+* le '''[[RAG]]''', qui ancre la réponse dans des documents identifiés et citables ;
+* la '''vérification systématique''' de tout élément factuel avant réutilisation ;
+* la '''formation''' des utilisateurs : savoir que le mécanisme produit des erreurs bien formulées compte plus que n’importe quel garde-fou technique.
+
+Aucune de ces mesures ne supprime le phénomène.
+
+== Voir aussi ==
+
+* [[IA_générative|IA générative]] · [[RAG]] · [[LLM]] · [[Garbage_in,_garbage_out|Garbage in, garbage out]] · [[Explicabilité]] · [[IA_Responsable|IA Responsable]]
+
+[[Catégorie:Intelligence artificielle]]

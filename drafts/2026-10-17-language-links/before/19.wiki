@@ -1,0 +1,27 @@
+Une '''IA générative''' est un système d’[[Intelligence_Artificielle|intelligence artificielle]] capable de produire de nouveaux contenus, textes, images, sons, vidéos, code, à partir des régularités apprises sur un large ensemble d’exemples.
+
+== Fonctionnement et limites ==
+
+Le modèle ne consulte pas une base de connaissances : il produit la suite la plus probable au regard de ce qu’il a appris. Deux conséquences suivent directement de ce mécanisme.
+
+'''La plausibilité n’est pas l’exactitude.''' Une production fausse peut être parfaitement bien formulée. La vérification reste à la charge de l’utilisateur.
+
+'''Il n’y a pas de source.''' Le modèle ne peut pas, par construction, indiquer d’où vient une affirmation, sauf dispositif complémentaire de recherche documentaire.
+
+== Enjeux ==
+
+* '''Confidentialité''' : ce qui est saisi peut être conservé ou réutilisé par le fournisseur (voir [[Shadow_AI|Shadow AI]]) ;
+* '''Droits''' : sur les [[Données_d'entraînement|données d’entraînement]] comme sur les contenus produits ;
+* '''Transparence''' : l’[[AI_Act|AI Act]] impose d’informer qu’un contenu a été généré ;
+* '''Ressources''' : chaque génération est une [[Inférence|inférence]], dont le coût varie fortement selon la taille du modèle sollicité.
+
+== Voir aussi ==
+
+* [[IA_agentique|IA agentique]]
+* [[Inférence]]
+* [[Données_d'entraînement|Données d'entraînement]]
+* [[Deepfake_interne|Deepfake interne]]
+* [[Prompt_injection|Prompt injection]]
+* [[IA_Responsable|IA Responsable]]
+
+[[Catégorie:Intelligence artificielle]]

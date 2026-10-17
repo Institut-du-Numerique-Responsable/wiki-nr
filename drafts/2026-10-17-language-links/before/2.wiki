@@ -1,0 +1,22 @@
+An '''algorithmic bias''' is a distortion produced by an AI system when it reproduces or amplifies biases present in its training data.
+
+Such biases may be cultural, social, gendered, racial, geographic or generational.
+
+== Origins ==
+
+* '''unrepresentative data''': a population under-represented in training is served less well ;
+* '''reproduction of past discrimination''': a model trained on historical decisions learns their prejudices ;
+* '''design choices''': the variable optimised, the thresholds retained, the very definition of success encode values ;
+* '''amplification''': models tend to accentuate the regularities they detect, including the objectionable ones.
+
+== Handling it ==
+
+Bias is not corrected at model level alone. It requires examining how datasets were assembled, testing outcomes by sub-population, documenting the gaps found, and providing a route of appeal for the people affected.
+
+An awkward result from research: several reasonable definitions of fairness are mathematically incompatible. Equalising error rates across groups and equalising predictive value cannot both be achieved except in special cases. Debiasing therefore requires choosing explicitly which fairness is sought, which is a political decision that technique does not settle.
+
+== See also ==
+
+* [[Responsible AI]] · [[AI Act]] · [[AI governance]] · [[Digital accessibility]]
+
+[[Category:Artificial intelligence]]

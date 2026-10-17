@@ -1,0 +1,32 @@
+'''Robustness''' is the ability to keep a system stable despite fluctuations, in the short and the long term. Biologist Olivier Hamant defines it as creating the conditions in which one does not fall.
+
+Applied to digital technology, the notion requires a distinction that changes its meaning entirely: '''digital technology itself cannot be robust'''.
+
+== Why ==
+
+This is the position argued in the 2025 white paper ''Voyage vers la robustesse'', published by Infogreen Factory with ADEME, Inria and CNRS.
+
+Digital technology rests on resources and infrastructure it does not control: component supply, metal availability, grid stability, global logistics. Those foundations are fragile. A system built on them can be strengthened; it cannot be made insensitive to fluctuation.
+
+The white paper therefore adopts an explicit convention: '''[[Digital resilience|resilience]]''' qualifies digital systems, '''robustness''' qualifies the organisation.
+
+== Robustness against performance ==
+
+Hamant's thesis runs against the pursuit of performance. An optimised system is tuned to given conditions and becomes fragile as soon as those conditions change. Robustness assumes margins, redundancy and a degree of deliberate inefficiency, which is what living systems have always practised.
+
+Transposed to organisations, this is uncomfortable: it means giving up efficiency gains in order to retain the capacity to absorb shocks.
+
+== Two principles ==
+
+; Non-regression
+: technology must '''augment''' existing capabilities, not '''replace''' them. The test: if the tool disappeared tomorrow, the organisation should be able to return at least to the situation preceding its adoption.
+; Constrained resilience
+: where substitution is unavoidable, resilience must be organised deliberately through redundancy, diversification, controlled degradation and supervision.
+
+Both principles oppose the techno-solutionist reflex of answering each problem with an additional technological layer, which adds complexity and therefore dependence.
+
+== See also ==
+
+* [[Digital resilience]] · [[Digital sovereignty]] · [[Low tech]] · [[Digital sobriety]]
+
+[[Category:Concepts]]

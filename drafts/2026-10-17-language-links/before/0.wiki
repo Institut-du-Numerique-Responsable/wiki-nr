@@ -1,0 +1,29 @@
+'''AI governance''' is the set of rules, roles, procedures and bodies that frame the development and use of artificial intelligence within an organisation.
+
+It answers one question: who decides what, on what criteria, and who answers for the consequences.
+
+== What it must settle ==
+
+* who authorises a use case, on what criteria of usefulness, and within what timeframe ;
+* who answers for erroneous output, a contested decision or a data leak ;
+* which uses are prohibited, which require approval, which are free ;
+* what systems are in service, since without an inventory neither the [[AI Act]] nor data protection law can be applied ;
+* what may be submitted to a third-party service, and what may never be ;
+* how the footprint of these uses is measured ;
+* how a person contests a decision that concerns them.
+
+== Roles ==
+
+AI governance sits across existing functions, which is why it frequently has no owner: IT for integration and security, the data protection officer for personal data, the security officer for unrecorded uses, business management for actual usefulness, sustainability for footprint, legal for compliance.
+
+A small committee with a designated arbiter works better than a charter nobody applies.
+
+== Pitfalls ==
+
+A charter without application produces the same result as no charter. An approval process slower than the need is circumvented, and circumvention escapes measurement. A purely defensive framework never asks whether the use is worth its cost.
+
+== See also ==
+
+* [[Responsible AI]] · [[AI Act]] · [[Shadow AI]] · [[Algorithmic bias]] · [[Cybersecurity]]
+
+[[Category:Artificial intelligence]]

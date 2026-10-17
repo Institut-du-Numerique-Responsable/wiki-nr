@@ -1,0 +1,17 @@
+An '''LLM''' (large language model) is a model trained on very large volumes of text, able to process and produce natural language. It underlies mainstream generative AI services.
+
+== What it does, and does not do ==
+
+An LLM predicts the continuation of a sequence of text. It does not consult a knowledge base, verifies nothing, and has no notion of accuracy. Plausibility is precisely what it optimises, which is why fluent output can be entirely wrong.
+
+== Cost ==
+
+Training consumes considerable resources, concentrated in time. '''Inference''', the use of the trained model, is far cheaper per request but is repeated at every use. For a service in production, inference eventually exceeds the cost of training.
+
+The size of the model is therefore the main lever. A smaller, specialised model frequently meets the need at a fraction of the cost, both financial and environmental.
+
+== See also ==
+
+* [[Responsible AI]] · [[Shadow AI]] · [[AI Act]] · [[Sustainable IT]]
+
+[[Category:Artificial intelligence]]

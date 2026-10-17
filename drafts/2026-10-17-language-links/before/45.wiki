@@ -1,0 +1,125 @@
+La '''robustesse''' désigne la capacité à maintenir un système stable malgré les fluctuations, à court comme à long terme. Le biologiste Olivier Hamant la définit comme le fait de « créer les conditions grâce auxquelles on ne tombe pas ».
+
+Appliquée au numérique, la notion demande une précision qui change tout : '''le numérique lui-même ne peut pas être robuste'''.
+
+== Pourquoi le numérique ne peut pas être robuste ==
+
+C’est la thèse défendue par le livre blanc ''Voyage vers la robustesse'', publié en 2025 par Infogreen Factory avec l’[[Agence_de_la_Transition_Écologique|ADEME]], l’Inria et le CNRS.
+
+Le numérique repose sur des ressources et des infrastructures qu’il ne maîtrise pas : approvisionnement en composants, disponibilité des métaux, stabilité du réseau électrique, chaînes logistiques mondiales. Ces fondations sont fragiles et instables. Un système bâti dessus peut être renforcé, il ne peut pas être rendu insensible aux fluctuations.
+
+Le livre blanc retient donc une convention explicite :
+
+* la '''résilience''' qualifie le numérique : sa capacité à encaisser un incident et à retrouver son fonctionnement ;
+* la '''robustesse''' qualifie l’'''organisation''' : sa capacité à continuer d’assurer ses missions, y compris lorsque le numérique fait défaut.
+
+Cette distinction déplace la question. Elle ne porte plus sur la technique à ajouter, mais sur la dépendance à réduire.
+
+== Six mécanismes de fragilisation ==
+
+L’étude identifie six familles de vulnérabilités, illustrées par des cas réels :
+
+# '''Fragilités géopolitiques''' : embargo sur des composants, fermeture d’un service sans préavis ;
+# '''Fragilités climatiques''' : canicule contraignant l’arrêt de [[DataCenter|centres de données]] ;
+# '''Fragilités techniques et complexité systémique''' : la panne CrowdStrike de juillet 2024 a paralysé 8,5 millions de machines ;
+# '''Contagion et interdépendances''' : la défaillance d’un fournisseur unique se propage en cascade ;
+# '''Verrouillages socio-techniques''' : enfermement dans un écosystème dont la sortie devient prohibitive (voir [[Vendor_lock-in|Vendor lock-in]]) ;
+# '''Impacts sociétaux''' : obsolescence rapide des compétences sous l’effet de l’[[Intelligence_Artificielle|IA]].
+
+== Deux principes pour arbitrer ==
+
+; Non-régression
+: la technologie doit '''augmenter''' les capacités existantes, non les '''remplacer'''. Le test est simple : si l’outil disparaissait demain, l’organisation devrait pouvoir revenir au moins à la situation antérieure à son adoption, jamais à une situation dégradée.
+; Résilience contrainte
+: lorsque la substitution est inévitable : paiement électronique, processus industriels automatisés, il faut organiser la résilience par la redondance, la diversification, la capacité de dégradation contrôlée et la supervision.
+
+Ces deux principes s’opposent au réflexe techno-solutionniste, qui répond à chaque problème par une couche technologique supplémentaire, laquelle ajoute de la complexité, donc de la dépendance.
+
+== La matrice de criticité ==
+
+L’étude propose de croiser deux dimensions pour prioriser :
+
+* '''le niveau de nécessité du numérique''' pour l’activité : confort, important, essentiel ;
+* '''le niveau de criticité de la fonction métier''' pour la pérennité de l’organisation : confort, important, vital.
+
+Le croisement dessine trois zones :
+
+; Rouge
+: processus vitaux fortement dépendants du numérique : redondance éprouvée, plans de continuité testés, surveillance permanente
+; Orange
+: mesures proportionnées, utilité des fonctions réévaluée
+; Verte
+: mesures standard, alternatives [[Low_Tech|low tech]], voire renoncement
+
+La criticité s’évalue par les '''flux métier''', pas seulement par la fonction propre d’un composant : si celui-ci tombe, combien de processus s’arrêtent.
+
+== La spirale progressive ==
+
+La démarche se déroule en quatre tours successifs, du plus prudent au plus ambitieux :
+
+# '''Sécuriser''' la zone rouge : consolider l’existant ;
+# '''Optimiser''' la zone orange : passer de « comment mieux protéger ce système » à « ai-je besoin de ce système sous cette forme » ;
+# '''Expérimenter''' dans la zone verte : tester des approches radicales là où l’enjeu est faible ;
+# '''Approfondir''' : rejouer les trois zones avec les acquis.
+
+== Points de vue et controverses ==
+
+=== Robustesse contre performance ===
+
+La notion de robustesse défendue par le biologiste '''Olivier Hamant''' s’oppose frontalement à la recherche de performance. Un système optimisé est ajusté à des conditions données ; il devient fragile dès que ces conditions changent. La robustesse suppose au contraire des marges, des redondances et une certaine « inefficacité » assumée, ce que le vivant pratique depuis toujours.
+
+Transposée aux organisations, cette thèse dérange : elle invite à renoncer volontairement à des gains d’efficacité pour préserver une capacité à encaisser.
+
+=== Le numérique peut-il être robuste ? ===
+
+Le livre blanc ''Voyage vers la robustesse'' tranche par la négative, et l’assume comme une prise de position :
+
+: « Notre conviction est que le numérique ne peut pas être robuste, au sens de la définition d’Olivier Hamant. »
+
+L’argument : le numérique repose sur des ressources et des infrastructures qu’il ne maîtrise pas et qui sont, elles, fragiles et instables. Il peut être rendu résilient, non insensible aux fluctuations.
+
+Cette position n’est pas universellement partagée. D’autres approches, notamment celles issues de la continuité d’activité, considèrent qu’un système suffisamment redondé et diversifié atteint une forme de robustesse pratique, indépendamment de la fragilité de ses fondations. Le désaccord porte moins sur les mesures à prendre que sur ce que l’on peut raisonnablement espérer en obtenir.
+
+=== La critique du techno-solutionnisme ===
+
+Le livre blanc s’appuie sur '''Evgeny Morozov''', qui a théorisé le techno-solutionnisme : le postulat selon lequel chaque problème appellerait une solution technologique optimale.
+
+Le document ne nie pas les bénéfices des avancées techniques : il cite la réduction de consommation obtenue par l’IA dans les centres de données de Google, ou l’accélération de la recherche pharmaceutique par la prédiction de structures protéiques.
+
+L’objection est cumulative : chaque couche technologique ajoutée résout un problème et crée de la complexité, donc de la dépendance et de nouvelles vulnérabilités. C’est ce que '''David Graeber''' appelait l’« utopie bureaucratique » de la technologie, une promesse de simplification qui engendre une complexification sans fin.
+
+=== Résilience : capacité ou état ===
+
+Le document reprend l’approche par les capacités d’'''Amartya Sen''' pour soutenir que la résilience n’est pas un état à atteindre mais une capacité à cultiver :
+
+: « La résilience n’est pas un état à atteindre, c’est une capacité à cultiver. Vous n’êtes jamais “à la fin”, mais toujours en progression. »
+
+Cette lecture a une conséquence pratique : elle disqualifie les démarches de mise en conformité ponctuelles au profit d’un processus continu.
+
+=== Une préface qui prend ses distances avec le genre ===
+
+Vincent Courboulay ouvre l’ouvrage en assumant une réserve sur les livres blancs en général, qu’il décrit comme empilant trop souvent des concepts rassurants sans se risquer à l’épreuve du concret. Il retient de celui-ci qu’il relie la théorie à la pratique, et y voit un déplacement du numérique responsable hors d’une logique purement défensive : être robuste ne se réduit pas à réduire son impact.
+
+== Lien avec la souveraineté ==
+
+Dans la préface de l’ouvrage, Vincent Courboulay, administrateur de l’[[Institut_du_Numérique_Responsable|Institut du Numérique Responsable]], relève que la robustesse élargit la notion de [[Souveraineté_numérique|souveraineté]] vers l’[[Autonomie_stratégique|autonomie stratégique]] : ne pas dépendre aveuglément de systèmes opaques ou hors-sol.
+
+La souveraineté pose une question de pouvoir, qui décide, qui peut contraindre. La robustesse y ajoute une question de capacité, que reste-t-il de possible quand le système est indisponible. Les deux se rejoignent sur les mêmes moyens : compétences internes, [[Réversibilité|réversibilité]], systèmes compréhensibles et réparables.
+
+== Voir aussi ==
+
+* [[Résilience_numérique|Résilience numérique]]
+* [[Souveraineté_numérique|Souveraineté numérique]]
+* [[Autonomie_stratégique|Autonomie stratégique]]
+* [[Low_Tech|Low Tech]]
+* [[Vendor_lock-in|Vendor lock-in]]
+* [[Réversibilité]]
+* [[Dette_technique|Dette technique]]
+* [[Sobriété_Numérique|Sobriété Numérique]]
+
+=== Références ===
+
+* Infogreen Factory : [https://infogreenfactory.green/publications/livre-blanc-robustesse/ ''Voyage vers la robustesse''] (2025), rédigé par Stéphan Peccini, co-porté par l’ADEME, l’Inria et le CNRS, préface de Vincent Courboulay, licence CC BY-NC-ND 4.0
+* Cigref, INR et Futuribles : [https://www.cigref.fr/lapproche-low-tech-au-service-de-la-resilience-numerique-des-organisations-strategies-dadaptation-face-aux-fluctuations L’approche low-tech au service de la résilience numérique des organisations] (2026)
+
+[[Catégorie:Concepts]]

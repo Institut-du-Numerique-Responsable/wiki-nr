@@ -1,0 +1,49 @@
+Le '''Bilan Carbone®''' est une méthode française de comptabilité carbone permettant à une organisation d’évaluer ses émissions de [[Gaz_à_Effet_de_Serre|gaz à effet de serre]] et de bâtir une trajectoire de réduction.
+
+== Définition ==
+
+Créée en 2004 par l’[[Agence_de_la_Transition_Écologique|ADEME]], la méthode est aujourd’hui portée par l’[[Association_pour_la_transition_Bas_Carbone|ABC]]. Elle a connu huit évolutions successives ; la '''version 9''' est en vigueur depuis le 1er janvier 2025.
+
+Le Bilan Carbone ne se limite pas à un exercice de mesure. Sa finalité est l’action : le calcul des émissions n’est qu’une étape vers la construction d’un plan de transition.
+
+== Périmètre : les trois scopes ==
+
+; Scope 1 : émissions directes
+: combustion sur site, véhicules détenus, fuites de fluides frigorigènes
+; Scope 2 : émissions indirectes liées à l’énergie
+: électricité, chaleur et froid achetés
+; Scope 3 : autres émissions indirectes
+: achats de biens et services, fret, déplacements, usage et [[Fin_de_Vie|fin de vie]] des produits vendus, immobilisations
+
+Pour une organisation du secteur numérique, le scope 3 représente très généralement la part dominante, la [[Fabrication]] des équipements pèse davantage que leur consommation électrique en usage.
+
+== La version 9 ==
+
+La version 9 structure la démarche en '''7 étapes''' et introduit plusieurs changements :
+
+* la mesure des '''trois scopes devient exhaustive et obligatoire''' ;
+* un '''plan de transition''' est exigé, et non plus seulement recommandé ;
+* la mobilisation des parties prenantes est formalisée ;
+* une évaluation externe indépendante est proposée à titre volontaire ;
+* la méthode se décline en '''trois niveaux de maturité''' : initial, standard et avancé, pour s’adapter aux capacités de chaque organisation.
+
+== Articulation avec les autres cadres ==
+
+Le Bilan Carbone est compatible avec le [[GHG_Protocol|GHG Protocol]] international et avec la norme [[ISO_14064|ISO 14064]]. Il permet de répondre à l’obligation réglementaire du [[Bilan_des_Émissions_des_Gaz_à_Effet_de_Serre|BEGES]], dont il partage la logique tout en allant au-delà.
+
+== Voir aussi ==
+
+* [[Bilan_des_Émissions_des_Gaz_à_Effet_de_Serre|Bilan des Émissions des Gaz à Effet de Serre]]
+* [[Association_pour_la_transition_Bas_Carbone|Association pour la transition Bas Carbone]]
+* [[GHG_Protocol|GHG Protocol]]
+* [[ISO_14064|ISO 14064]]
+* [[Empreinte_Carbone|Empreinte Carbone]]
+* [[Equivalent_carbone|Equivalent carbone]]
+* [[Analyse_du_Cycle_de_Vie|Analyse du Cycle de Vie]]
+
+=== Références externes ===
+
+* [https://www.bilancarbone-methode.com/ Méthode Bilan Carbone®]
+* [https://abc-transitionbascarbone.fr/evolution-de-la-methode-bilan-carbone/ Évolution de la méthode : ABC]
+
+[[Catégorie:Référentiels et méthodes]]
