@@ -33,11 +33,24 @@ Pour une correction éditoriale, ne pas modifier à la main les numéros de rév
 - Éviter le discours commercial, les affirmations générales sans preuve et les liens ajoutés uniquement pour promouvoir un site.
 - Respecter le format MediaWiki, vérifier les liens internes et conserver les références pertinentes.
 
-## Traductions
+## Traductions — contribuer dans une langue étrangère
 
-Vérifier d’abord si une fiche existe dans la langue cible. Traduire le sens, les exemples et les nuances ; relire les termes techniques et juridiques. Privilégier une source dans la langue cible lorsqu’une version officielle existe, sinon indiquer la langue de la source. Conserver les liens entre versions et signaler les écarts qui nécessitent une mise à jour des autres langues.
+Le wiki existe en français, anglais, espagnol, allemand et néerlandais. Contribuer dans une langue autre que le français suit le même cheminement qu’une correction (issue, édition navigateur ou Git), avec une exigence supplémentaire : la **relecture native**.
 
-L’usage d’un outil d’IA ne remplace pas la relecture : la personne qui propose le texte vérifie chaque référence, les chiffres et la cohérence du contenu.
+1. **Vérifier l’existant.** Cherchez la fiche dans l’index de la langue cible (liens « Consulter les contenus » dans le [README](README.md)). Si elle n’existe pas, la traduction part de la fiche française de référence.
+2. **Ouvrir une issue** avec le formulaire *Traduction* : indiquez la langue cible, la fiche source et si vous êtes locuteur natif de cette langue. L’issue reçoit les étiquettes `langue : xx` et `traduction`.
+3. **Proposer la traduction** dans `content/<langue>/<Titre>.wiki` (méthodes dans le [guide GitHub](docs/contribuer-via-github.md)), en conservant la syntaxe MediaWiki. Ne modifiez pas `content/manifest.json`.
+4. **Relier les versions.** Ajoutez en fin de fiche traduite le lien interlangue vers la source (ex. `[[fr:Titre]]` sur la version anglaise) ; depuis la fiche source, complétez les liens vers les langues déjà disponibles.
+5. **Relecture native.** La traduction reçoit l’étiquette `statut : relecture native` jusqu’à sa relecture par une personne dont c’est la langue maternelle ou principale. Cette relecture porte sur le sens, les nuances et les termes techniques ou juridiques — pas seulement sur la grammaire.
+
+### Règles de traduction
+
+- Traduire le **sens, les exemples et les nuances**, pas mot à mot ; adapter les exemples au contexte de la langue cible.
+- Pour les termes techniques et juridiques, s’appuyer de préférence sur une **source officielle dans la langue cible** (texte traduit, vocabulaire officiel) ; sinon indiquer la langue de la source utilisée.
+- Conserver les références telles quelles, avec leur formulation d’origine ; ne pas traduire un titre d’ouvrage cité sans conserver l’original.
+- Signaler les écarts entre source et traduction qui impliqueraient une mise à jour des autres langues (issue ou commentaire de pull request).
+
+L’usage d’un outil d’IA est possible comme brouillon, mais ne remplace pas la relecture humaine : la personne qui propose le texte vérifie chaque référence, chaque chiffre et la cohérence d’ensemble.
 
 ## Droits et échanges
 

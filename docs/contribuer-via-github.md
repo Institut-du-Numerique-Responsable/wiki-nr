@@ -10,7 +10,7 @@ Le wiki en ligne reste la référence. Une contribution acceptée sur GitHub est
 |---|---|---|
 | Signaler une erreur, un lien cassé, une source datée | [Ouvrir une issue](#1-signaler-un-problème-avec-une-issue) | Aucune connaissance technique |
 | Corriger ou compléter une fiche existante | [Modifier dans le navigateur](#2-modifier-une-fiche-dans-le-navigateur) | Savoir lire du wikitexte simple |
-| Traduire une fiche ou en proposer une nouvelle | [Modifier dans le navigateur](#2-modifier-une-fiche-dans-le-navigateur) ou [avec Git](#3-contribuer-avec-git) | Wikitexte |
+| Traduire une fiche ou en proposer une nouvelle | [Modifier dans le navigateur](#2-modifier-une-fiche-dans-le-navigateur) ou [avec Git](#3-contribuer-avec-git) — règles détaillées dans [Traductions](../CONTRIBUTING.md#traductions--contribuer-dans-une-langue-étrangère) | Wikitexte |
 | Modifier les scripts d’export ou de contrôle | [Contribuer avec Git](#3-contribuer-avec-git) | Python |
 
 ## 1. Signaler un problème avec une issue
