@@ -27,6 +27,27 @@ Instantané synchronisé avec le wiki en ligne le 17 octobre 2026.
 
 **Contribuer :** signalez une erreur, corrigez une fiche ou proposez une traduction depuis votre navigateur, sans installation. Suivez le [guide de contribution via GitHub](docs/contribuer-via-github.md).
 
+## Structure du dépôt
+
+```
+wiki-nr/
+├── content/            ← instantané des fiches `.wiki` par langue + manifest.json (empreintes SHA-256)
+├── docs/               ← guides : contribution via GitHub, opérations, licence
+├── operations/         ← lots de publication archivés (publication/) et contrôles SEO (seo/)
+├── scripts/            ← export public et vérification de l'instantané (Python 3, sans dépendance)
+├── CONTRIBUTING.md     ← règles de contribution
+└── .github/            ← formulaires d'issues et modèle de pull request
+```
+
+## Documentation
+
+| Document | Contenu |
+|---|---|
+| [CONTRIBUTING.md](CONTRIBUTING.md) | Règles de contribution : qualité des fiches, traductions, droits, conduite |
+| [docs/contribuer-via-github.md](docs/contribuer-via-github.md) | Guide pas à pas : issue, édition dans le navigateur, Git, étiquettes |
+| [docs/operations.md](docs/operations.md) | État de l'instantané, lots de publication, SEO, données exclues |
+| [docs/licensing.md](docs/licensing.md) | Licence CC0 1.0 et périmètre de réutilisation |
+
 ## Consulter les contenus
 
 Les fichiers `content/<langue>/<titre>.wiki` contiennent le wikitexte original. `content/manifest.json` associe chaque fichier au titre, à l’URL publique, au numéro de révision, à la date de modification et à une empreinte SHA-256. Les noms reprennent les titres. Les caractères incompatibles avec les chemins sont remplacés ; un identifiant départage les éventuelles collisions. Les identifiants MediaWiki restent dans le manifeste.

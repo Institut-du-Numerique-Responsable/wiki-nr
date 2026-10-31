@@ -2,6 +2,17 @@
 
 Les corrections, traductions et propositions de fiches sont les bienvenues. Le [wiki en ligne](https://fr.wiki.isit-europe.org/nr/Accueil) reste la référence éditoriale ; une modification acceptée sur GitHub n’y est pas publiée automatiquement.
 
+## Par où commencer ?
+
+1. **Cherchez d’abord** si le sujet existe déjà : index de la langue concernée dans le [README](README.md), puis barre de recherche des [issues](https://github.com/Institut-du-Numerique-Responsable/wiki-nr/issues).
+2. Choisissez la méthode adaptée grâce au [tableau des méthodes](docs/contribuer-via-github.md#choisir-la-bonne-méthode) : issue, édition dans le navigateur (sans installation) ou Git.
+3. Ouvrez une issue via les [formulaires dédiés](https://github.com/Institut-du-Numerique-Responsable/wiki-nr/issues/new/choose) (*Correction d’une fiche*, *Traduction*, *Nouvelle fiche*), ou proposez directement une pull request depuis le navigateur.
+4. Suivez l’avancement avec les [étiquettes](https://github.com/Institut-du-Numerique-Responsable/wiki-nr/labels) (langue, type, statut). Les issues [`good first issue`](https://github.com/Institut-du-Numerique-Responsable/wiki-nr/labels/good%20first%20issue) sont idéales pour débuter.
+
+## Signaler un contenu problématique
+
+Une fiche contient une donnée personnelle, un contenu illicite ou une atteinte à des droits ? Ouvrez une issue en décrivant le problème **sans recopier la donnée ou le passage concerné**. Ne publiez jamais de donnée personnelle, d’information confidentielle, de clé ou de mot de passe — y compris dans une issue ou une pull request.
+
 ## Proposer une modification
 
 Le [guide de contribution via GitHub](docs/contribuer-via-github.md) détaille chaque étape, depuis le navigateur ou avec Git.
