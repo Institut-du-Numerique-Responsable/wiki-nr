@@ -67,4 +67,21 @@ Après vérification du commit GitHub et des 116 fichiers wikitexte archivés, l
 
 L’archive d’installation MediaWiki 1.43.9 et le cache de paquets APT ont également été supprimés. Les données applicatives, configurations, sauvegardes SQL et journaux binaires MySQL sont conservés. La carte `.Codex` reste sur le serveur.
 
-La rotation nginx échouait parce que le compte `www-data` ne pouvait pas créer les archives dans `/var/log/nginx`, propriété de `root:adm`. La règle de rotation de ce seul répertoire utilise désormais `su root adm`, avec sauvegarde de l’ancienne configuration dans `/root/maintenance-backups-20260911/`. Le service logrotate s’est terminé avec succès. Les règles des autres sites n’ont pas été modifiées.
+La rotation nginx échouait parce que le compte `www-data` ne pouvait pas créer les archives dans `/var/log/nginx`, propriété de `root:adm`. La règle de rotation de ce seul répertoire utilise désormais `su root adm`, avec sauvegarde de l’ancienne configuration dans `/root/maintenance-backups-20260911/` (supprimée le 2 novembre 2026). Le service logrotate s’est terminé avec succès. Les règles des autres sites n’ont pas été modifiées.
+
+## Courriel, depuis le 2 novembre 2026
+
+Avant cette date, le wiki n'envoyait aucun e-mail : `$wgEnableEmail = false`, et l'expéditeur était resté celui par défaut (`apache@…invalid`). Exim, le serveur de messagerie local, ne distribuait d'ailleurs qu'en local.
+
+Réglages de `LocalSettings.php`, qui reste hors du dépôt :
+
+- `$wgEnableEmail = true;`
+- `$wgEmergencyContact = "contact@institutnr.org";`
+- `$wgPasswordSender = "contact@institutnr.org";`
+- `$wgEnableUserEmail` et `$wgEmailAuthentication` restent à `true`.
+
+Ces réglages valent pour tous les wikis (`wiki.institutnr.org` et `wiki.isit-eu*.org`), qui partagent le même `LocalSettings.php`.
+
+MediaWiki envoie par la fonction `mail()` de PHP, donc par exim. Exim est en mode `satellite` et relaie tout vers Mailjet (`in-v3.mailjet.com:587`, STARTTLS avec authentification). `/etc/email-addresses` fait écrire le pool PHP-FPM du wiki (`www-data2`) en `contact@institutnr.org`, une adresse du domaine validé dans Mailjet (SPF et DKIM). Pour envoyer depuis une adresse `isit-europe.org`, il faudrait d'abord valider ce domaine dans Mailjet.
+
+Pour contrôler un envoi : `sudo tail /var/log/exim4/mainlog`. La ligne `=> … R=smarthost … C="250 OK queued as …"` indique que Mailjet a accepté le message.
